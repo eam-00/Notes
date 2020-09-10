@@ -15,8 +15,9 @@ Mouse
 Pilas
 
 Persianas
+Ventanas
 Placards
-Desenchufar cosas
+Desenchufar cosas (TV, Roku, Lampara)
 
 Ventana cerrada
 Check canillas cerradas
