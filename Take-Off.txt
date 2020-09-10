@@ -12,3 +12,6 @@ USBs
 Mouse
 Pilas
 
+Persianas
+Placards
+Desenchufar cosas
