@@ -9,7 +9,8 @@ $
 Ropa
 Cargador Dell XPS
 Cargador Celular
-USBs
+USBs (Adapt. p/ SDCard)
+Headphones
 Mouse
 Pilas
 
@@ -17,12 +18,12 @@ Persianas
 Placards
 Desenchufar cosas
 
-Ventana
+Ventana cerrada
 Check canillas cerradas
 
-Gas
-Heladera
-Ventana
+Gas cerrado
+Heladera cerrada
+Ventana cerrada
 Comida fuera de la heladera
 Anti-Cucas
 Basura
