@@ -8,6 +8,7 @@ Remedios
 $
 Ropa
 Cargador Dell XPS
+Cargador Celular
 USBs
 Mouse
 Pilas
