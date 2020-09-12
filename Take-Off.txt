@@ -18,6 +18,7 @@ Persianas
 Ventanas
 Placards
 Desenchufar cosas (TV, Roku, Lampara)
+Sacar pilas de controles remotos
 
 Ventana cerrada
 Check canillas cerradas
