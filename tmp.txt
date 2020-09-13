@@ -5,3 +5,6 @@ Lunes:
 Fernando:
   Permiso
   Cobro cheque
+  Email Telefonica
+  M. Belen out of Telefonica
+  
