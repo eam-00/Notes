@@ -1,12 +1,9 @@
-Martes:
-
-Check Bcos
-Cbio. Sabanas
-Lavanderia
-Compras Carrefour
 
 Miercoles:
+Check Bcos
+Lavanderia
 T430 p/ Cognizant - Sync Dropbox Optiplex > T430
+Compras Carrefour
 
 rais-dev-01:
 Monit: agregar servicios - test pem nuevo, syntax en el monitrc
