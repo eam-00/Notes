@@ -1,2 +1,2 @@
 # Notes
-A place for some miscellaneous note taking &amp; keeping.
+A place for some miscellaneous &amp; stupid note taking &amp; keeping.
