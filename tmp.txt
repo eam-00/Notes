@@ -7,7 +7,6 @@ Lavanderia
 Compras Carrefour
 
 rais-dev-01:
-Llego mail de Logwatch?
 Monit: agregar servicios - test pem nuevo, syntax en el monitrc
 
 Llevar Nati:
