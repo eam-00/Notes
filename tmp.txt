@@ -1,10 +1,12 @@
 Martes:
 
-Colgar cosas al sol
 Check Bcos
 Cbio. Sabanas
 Lavanderia
 Compras Carrefour
+
+Miercoles:
+T430 p/ Cognizant - Sync Dropbox Optiplex > T430
 
 rais-dev-01:
 Monit: agregar servicios - test pem nuevo, syntax en el monitrc
