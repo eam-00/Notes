@@ -8,7 +8,7 @@ Compras Carrefour
 
 rais-dev-01:
 Llego mail de Logwatch?
-Check Rsnapshot
+Setup autoupdates
 Monit: agregar servicios - test pem nuevo, syntax en el monitrc
 
 Llevar Nati:
