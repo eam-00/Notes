@@ -7,7 +7,7 @@ T430 p/ Cognizant - Sync Dropbox Optiplex > T430
 Compras Carrefour
 
 rais-dev-01:
-Monit: agregar servicios - test pem nuevo, syntax en el monitrc
+Monit: agregar servicios
 
 Llevar Nati:
 Leche
