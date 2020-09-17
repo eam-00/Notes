@@ -4,6 +4,7 @@ Mamma:
 - Llevar rollos papel
 
 Check Bcos
+Apagar rails-dev-01 
 Armar bolsito p/ Nati
 
 Llevar Nati:
