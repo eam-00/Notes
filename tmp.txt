@@ -1,8 +1,5 @@
 Viernes:
 
-medir ventana cocina p/ cortina
-
-Sync Dropbox Acer -> Sync Dell
 Check Kernels @Dell, @Acer & @T410
 Aceitar Blue Thunder
 
