@@ -20,6 +20,7 @@ Alforjas bici
 
 Lunes:
 Llamar dentista + Besasso + Oftalmologo
+VPN-00: Add Monit - Servidores de SELA
 Pagar Gas de Nati
 Github: Sync to T60p
 Botanica & Antiguedad: Agregar posts a futuro
