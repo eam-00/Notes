@@ -1,11 +1,12 @@
 Sabado:
-Check Kernels @Dell, @Acer & @T410
+Check Kernels @Acer & @T410
+Test themes @T43
 
 Llevar Nati:
 Leche
 Headphones grandes
 Naranjas
-Test themes @T43
+
 
 Domingo:
 boleta internet
@@ -14,9 +15,10 @@ Alforjas bici
 Dar vuelta: naranjas | crema de afeitar
 
 Lunes:
+Lavar: jean, M65, toallin, repasador
 Llamar dentista + Besasso + Oftalmologo
 VPN-00: Add Monit - Servidores de SELA
-Snapshot creation para rails-prod-00
+Schedule snapshots para rails-prod-00
 Add Dropbox Docs Merlin Rackspace: rails-prod-00 > NOTES.txt
 Pagar Gas | Edenor de Nati
 Tommy: 50 gr nuez moscada | nueces |
