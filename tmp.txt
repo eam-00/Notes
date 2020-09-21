@@ -17,9 +17,10 @@ Dar vuelta: naranjas | crema de afeitar
 Lunes:
 Lavar: jean, M65, toallin, repasador
 Llamar dentista + Besasso + Oftalmologo
-VPN-00: Add Monit - Servidores de SELA
+VPN-00: Add to Monit - Servidores de SELA
 Schedule snapshots para rails-prod-00
 Add Dropbox Docs Merlin Rackspace: rails-prod-00 > NOTES.txt
+ATM: SRio + Galicia
 Pagar Gas | Edenor de Nati
 Tommy: 50 gr nuez moscada | nueces |
 Starbucks: ver Hotmail x ofertas | Comprarle la taza a Nati p/ Navidad
