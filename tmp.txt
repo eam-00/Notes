@@ -24,6 +24,8 @@ Dejar boletas pagas
 GH:
 Monit:
 - Add link to template on README
+A simple configuration file template for Monit.
+It contains all of the services (at least, the ones I've been monitoring so far) on the template file so you only need to trim the services you don't need out of it.
 
 
 https://zapier.com/apps/cisco-webex-meetings/integrations/mailchimp
