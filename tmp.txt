@@ -10,7 +10,6 @@ Naranjas
 Lunes:
 Llamar dentista + Besasso + Oftalmologo
 VPN-00: Add to Monit - Servidores de SELA
-Add Dropbox Docs Merlin Rackspace: rails-prod-00 > NOTES.txt
 Github: Sync to T60p
 Botanica & Antiguedad: Agregar posts a futuro
 
