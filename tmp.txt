@@ -15,11 +15,12 @@ Github: Sync to T60p
 Botanica & Antiguedad: Agregar posts a futuro
 
 Miercoles:
-Reboot analytics.lamac.org
 Limpiar casita
 Sacar saldo Pension Mamma
 Lavanderia
-Comprar pan Tomasso p/ Mamma
+Tomasso: Comprar pan p/ Mamma | Ver precios empanadas
+Dejar boletas pagas
+
 
 https://zapier.com/apps/cisco-webex-meetings/integrations/mailchimp
 https://zoom.us/pricing
