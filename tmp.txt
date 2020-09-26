@@ -15,18 +15,5 @@ Github: Sync to T60p
 MUG: Arreglar para pickup de RAM
 Cognizant: Buscar info restante
 
-Jueves:
-The Challenger Disaster > screencap > Twitter
-
-Spotify:
-mv from SOundtracks to Oldies
-
-GH:
-Monit:
-- Add link to template on README
-A simple configuration file template for Monit.
-It contains all of the services (at least, the ones I've been monitoring so far) on the template file so you only need to trim the services you don't need out of it.
-
-
 https://zapier.com/apps/cisco-webex-meetings/integrations/mailchimp
 https://zoom.us/pricing
