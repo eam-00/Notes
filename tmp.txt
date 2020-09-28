@@ -11,10 +11,17 @@ Naranjas
 Lunes:
 MUG: Arreglar para pickup de RAM
 Cognizant: Buscar info restante
-Llamar dentista + Besasso + Oftalmologo
 Toro: Check probs envio de emails
 Github: Sync to T60p
 x220i: delete kernel crud
+
+Martes:
+Cambio sabanas
+Lavar ropa de cama
+Compras mamma:
+Cerveza (Pack)
+Pilas AA & AAA
+Llamar dentista + Besasso + Oftalmologo
 
 https://zapier.com/apps/cisco-webex-meetings/integrations/mailchimp
 https://zoom.us/pricing
