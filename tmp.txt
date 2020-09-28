@@ -15,6 +15,7 @@ Fernando: 2 trabajos
 Llamar dentista + Besasso + Oftalmologo
 Toro: Check probs envio de emails
 Github: Sync to T60p
+x220i: delete kernel crud
 
 
 https://zapier.com/apps/cisco-webex-meetings/integrations/mailchimp
