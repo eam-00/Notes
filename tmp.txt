@@ -12,13 +12,10 @@ Lunes:
 Cognizant: Buscar info restante
 Toro: Check probs envio de emails
 Github: Sync to T60p
-x220i: delete kernel crud
 
 Martes:
 WhatsApp > MUG: Arreglar para pickup de RAM
 ML: Decidir compra X201 Tablet
-Cambio sabanas
-Lavar ropa de cama
 Test xscreensaver config @dell inspiron 1000
 Tommy: 1/2 kg mani c/ choco
 Compras mamma:
