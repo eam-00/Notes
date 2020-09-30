@@ -20,6 +20,7 @@ Vinoteca
 Toro: Check probs envio de emails
 Github: Sync to T60p
 Llamar dentista + Besasso + Oftalmologo
+Cargar: N10 + N7
 
 https://it.umn.edu/services-technologies/how-tos/zoom-pre-webinar-checklist-hosts
 https://support.zoom.us/hc/en-us/articles/360000252726-Roles-in-a-Webinar
