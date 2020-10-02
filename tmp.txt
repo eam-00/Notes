@@ -14,6 +14,8 @@ Llamar dentista + Besasso + Oftalmologo
 
 Lunes:
 Monit @rails-prod: Poner en las alarmas a la gente de desarrollo | idem para Monit @vpn check si les llegan a ellos la de los nuevos servidores.
+@X60:
+Add RAM | Test VGA
 
 https://it.umn.edu/services-technologies/how-tos/zoom-pre-webinar-checklist-hosts
 https://support.zoom.us/hc/en-us/articles/360000252726-Roles-in-a-Webinar
