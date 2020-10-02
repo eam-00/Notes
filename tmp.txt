@@ -12,6 +12,7 @@ Github: Add login image to Dot-Files-Pub | Sync to T60p
 Llamar dentista + Besasso + Oftalmologo
 
 Dom:
+op2: Delete Kernel crud
 GH: Pic login window
 
 Lunes:
