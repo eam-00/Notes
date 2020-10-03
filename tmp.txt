@@ -1,12 +1,6 @@
 Llevar N:
 Leche
 
-Viernes:
-Toro: Check probs envio de emails
-SELA: check zoom approval vanity URL
-Github: Add login image to Dot-Files-Pub | Sync to T60p
-Llamar dentista + Besasso + Oftalmologo
-
 Sab:
 Foto mandarinas
 
@@ -19,6 +13,11 @@ Reddit: SSD
 Monit @rails-prod: Poner en las alarmas a la gente de desarrollo | idem para Monit @vpn check si les llegan a ellos la de los nuevos servidores.
 @X60:
 Add RAM | Test VGA
+Toro: Check probs envio de emails
+SELA: check zoom approval vanity URL
+Github: Add login image to Dot-Files-Pub | Sync to T60p
+Llamar dentista + Besasso + Oftalmologo
+
 
 https://it.umn.edu/services-technologies/how-tos/zoom-pre-webinar-checklist-hosts
 https://support.zoom.us/hc/en-us/articles/360000252726-Roles-in-a-Webinar
