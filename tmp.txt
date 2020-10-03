@@ -1,7 +1,3 @@
-Sabado:
-Check Kernels @Acer & @T410
-Test themes @T43 - Matrix
-
 Llevar N:
 Leche
 
@@ -10,9 +6,6 @@ Toro: Check probs envio de emails
 SELA: check zoom approval vanity URL
 Github: Add login image to Dot-Files-Pub | Sync to T60p
 Llamar dentista + Besasso + Oftalmologo
-Backup T410
-Cargar celular
-N: planilla sueldo
 
 Sab:
 Foto mandarinas
