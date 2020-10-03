@@ -14,6 +14,10 @@ Backup T410
 Cargar celular
 N: planilla sueldo
 
+Sab:
+Foto mandarinas
+Acortar jean
+
 Dom:
 op2: Delete Kernel crud
 GH: Pic login window
