@@ -9,7 +9,6 @@ Llamar dentista + Besasso + Oftalmologo
 
 Sab:
 Foto mandarinas
-Acortar jean
 
 Dom:
 op2: Delete Kernel crud
