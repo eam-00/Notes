@@ -1,9 +1,10 @@
 Llevar N:
 Leche
+Chocolinas
+
 
 Dom:
 Foto mandarinas
-Guardar tetras @parrilla
 op2: Delete Kernel crud | Get login window
 GH: Pic login window
 
