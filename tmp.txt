@@ -2,11 +2,9 @@ Llevar N:
 Leche
 Chocolinas
 
-
 Sab:
 Foto mandarinas
 Get imanes
-
 
 Lunes:
 Reddit: SSD
@@ -16,8 +14,6 @@ Add RAM | Test VGA
 Toro: Check probs envio de emails
 Github: Add login image to Dot-Files-Pub | Sync to T60p
 Llamar dentista + Besasso + Oftalmologo
-op2: Delete Kernel crud
-
 
 https://it.umn.edu/services-technologies/how-tos/zoom-pre-webinar-checklist-hosts
 https://support.zoom.us/hc/en-us/articles/360000252726-Roles-in-a-Webinar
