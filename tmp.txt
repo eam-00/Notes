@@ -14,7 +14,6 @@ Monit @rails-prod: Poner en las alarmas a la gente de desarrollo | idem para Mon
 @X60:
 Add RAM | Test VGA
 Toro: Check probs envio de emails
-SELA: check zoom approval vanity URL
 Github: Add login image to Dot-Files-Pub | Sync to T60p
 Llamar dentista + Besasso + Oftalmologo
 op2: Delete Kernel crud
