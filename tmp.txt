@@ -18,6 +18,7 @@ Test VGA
 Toro: Check probs envio de emails
 Github: Sync to T60p
 Llamar dentista + Besasso + Oftalmologo
+Lavar mantita bordeaux
 M: Llevar Tuppers, Boletas pagas, dejar HDD
 Limpiar arriba cocina
 Lavanderia
