@@ -2,6 +2,7 @@ Llevar N:
 Cartones
 Servilletas
 Galles Havanna
+Tierra
 
 Lun:
 Get Pizza
