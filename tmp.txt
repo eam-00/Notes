@@ -13,15 +13,16 @@ TRRT: Dload | The Looming Tower
 MIE:
 ML: BDU desert | Chromebook cb3431
 Conctactar Rocio x llaves | $ de SCDT
-Reddit: SSD
 @X60:
 Test VGA
 Toro: Check probs envio de emails
-Github: Sync to T60p
+Github: Dload
 Llamar dentista + Besasso + Oftalmologo
-Lavar mantita bordeaux
+Lavar:
+- mantita bordeaux
+- bolsas de compras
 Limpiar todo lo de la bolsa de comida
-Limpiar arriba cocina
+M: Limpiar arriba cocina
 Arreglar pedal BT
 Cargar Nikon
 
