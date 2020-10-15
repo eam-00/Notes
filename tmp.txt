@@ -3,7 +3,8 @@ Cartones
 Servilletas
 Galles Havanna
 Tierra
-Hamburguesas (?)
+Hamburguesas (Freezadas | Hechas)
+Rumbas
 J. tocador
 
 Lun:
@@ -24,6 +25,7 @@ M: Limpiar arriba cocina
 VIE:
 Chk Bcos
 Chk CUC
+Mail Pamela
 
 Semana:
 Cortar pelo
