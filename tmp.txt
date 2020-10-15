@@ -21,13 +21,16 @@ Llamar dentista + Besasso + Oftalmologo
 Limpiar todo lo de la bolsa de comida
 M: Limpiar arriba cocina
 
+VIE:
+Chk Bcos
+Chk CUC
+
 Semana:
 Cortar pelo
 N:
 Chocotorta
-Empananadas (?)
 DIU
-Hablar c/ chica de SCDT
+
 
 https://it.umn.edu/services-technologies/how-tos/zoom-pre-webinar-checklist-hosts
 https://support.zoom.us/hc/en-us/articles/360000252726-Roles-in-a-Webinar
