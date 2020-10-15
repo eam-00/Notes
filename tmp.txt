@@ -23,8 +23,9 @@ Llamar dentista + Besasso + Oftalmologo
 Limpiar todo lo de la bolsa de comida
 Limpiar cocina
 Sync to other Dropbox: W530 | T420
-Get Trrts out 
+Get Trrts out of Dell XPS Studio
 Reboot Dell XPS Studio
+cp TRRTs TB HDDs
 
 
 
