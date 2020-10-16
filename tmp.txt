@@ -34,8 +34,9 @@ Chk CUC
 Mail Pamela
 
 Dom:
+Llevar regalo
 M: Limpiar arriba cocina
-Plantar arbol - 147
+M: Plantar arbol - 147
 
 Semana:
 Cortar pelo
