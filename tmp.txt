@@ -14,10 +14,6 @@ Toro: Check probs envio de emails
 Github: Dload
 Llamar dentista + Besasso + Oftalmologo
 
-
-Marcelo A: Hrs | Trab Cogni
-
-
 VIE:
 Mail Pamela
 
@@ -30,7 +26,6 @@ Kernel Crud - W530 | Dell XPS Studio
 Semana:
 Cortar pelo
 N:
-Chocotorta
 DIU
 
 https://it.umn.edu/services-technologies/how-tos/zoom-pre-webinar-checklist-hosts
