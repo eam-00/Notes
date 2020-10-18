@@ -20,6 +20,8 @@ Llevar regalo
 M: Limpiar arriba cocina
 M: Plantar arbol - 147
 Kernel Crud - W530 | Dell XPS Studio
+Updates @wrnr
+Monit @oryx
 
 LUN:
 ML: BDU desert | Chromebook cb3431
