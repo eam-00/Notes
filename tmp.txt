@@ -19,8 +19,9 @@ Kernel Crud - W530 | Dell XPS Studio
 
 LUN:
 ML: BDU desert | Chromebook cb3431
-SCDT: 
-Conctactar Rocio x llaves | $ de SCDT
+SCDT:
+Conctactar Rocio x llaves & $
+Contactar Urias x llaves & $
 @X60: Test VGA | Limpiarla a fondo
 Toro: Check probs envio de emails
 Github: Dload all repositories
