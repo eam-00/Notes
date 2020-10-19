@@ -12,6 +12,8 @@ SCDT:
 Conctactar Rocio x llaves & $
 Contactar Urias x llaves & $
 
+Batts: X140e + X220 (Small)
+
 @X60: Test VGA | Limpiarla a fondo
 Toro: Check probs envio de emails
 Github: Dload all repositories
