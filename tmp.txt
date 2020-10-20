@@ -5,13 +5,11 @@ https://www.reddit.com/r/Mercadoreddit/comments/j87gjc/vendo_pesas_de_cemento/
 
 Kernel Crud - W530 | Dell XPS Studio
 
-LUN:
+MAR:
 ML: BDU desert | Chromebook cb3431
 SCDT:
 Conctactar Rocio x llaves & $
 Contactar Urias x llaves & $
-
-Batts: X140e + X220 (Small)
 
 @X60: Test VGA | Limpiarla a fondo | swap HDD, test Win10
 @T60: Canibalizar partes p/ T60p
@@ -19,8 +17,9 @@ Toro: Check probs envio de emails
 Github: Dload all repositories
 Llamar dentista + Besasso + Oftalmologo
 
-M: Limpiar arriba cocina
 M: Tarj. Comp.
+M: Limpiar arriba cocina
+
 Tommy: Bolsitas de bastoncitos de salvado
 JP: BDU Woodland (?)
 
