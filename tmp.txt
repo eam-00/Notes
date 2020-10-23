@@ -18,7 +18,8 @@ T420
 Pinto: buscar boleta
 Cogni: Ver contrato | Foto DNI
 M: Limpiar arriba cocina
-M: Tuppers 
+M: Tuppers
+M: ver enchufes
 
 Cortar pelo
 17 hrs - Rocio - Llaves | 1.200 Pesos
