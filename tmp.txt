@@ -22,16 +22,13 @@ T420
 Pinto: buscar boleta
 Cogni: Ver contrato | Foto DNI
 M: Limpiar arriba cocina
-M: Tuppers
-M: ver enchufes
 
-Cortar pelo
-17 hrs - Rocio - Llaves | 1.200 Pesos
+17 hrs - Rocio - 
 
 Cargar: N7 | N10 
 
 SCDT:
-Conctactar Rocio x llaves & $
+Conctactar Rocio | Llaves | 1.200 Pesos
 Contactar Urias x llaves & $
 
 @X60: Test VGA | Limpiarla a fondo | swap HDD, test Win10
