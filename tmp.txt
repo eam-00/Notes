@@ -28,9 +28,7 @@ Github: Dload all repositories
 JP: BDU Woodland (?)
 
 Semana:
-Cortar pelo
-N:
-DIU
+N: DIU
 
 https://it.umn.edu/services-technologies/how-tos/zoom-pre-webinar-checklist-hosts
 https://support.zoom.us/hc/en-us/articles/360000252726-Roles-in-a-Webinar
