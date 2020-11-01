@@ -14,7 +14,7 @@ Llenar botella agua
 Updates War
 
 LUN:
-N: Recordatorio turno medico
+N: Recordatorio turno medico | Bicicleta | Viaje Emi
 SCDT: Contactar Urias x llaves & $
 Spotify: Sid Vicious - Something Else
 https://www.youtube.com/watch?v=zpaVf_fSXoQ
