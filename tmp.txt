@@ -14,6 +14,8 @@ Updates War
 
 LUN:
 N: Recordatorio turno medico | Bicicleta | Viaje Emi
+cargar
+Test Blue tooth keyboard c/ cogni.00
 Lavar cosas (toallin, repasador, ropa)
 Ferreteria: topetin para silla
 SCDT: Contactar Urias x llaves & $
