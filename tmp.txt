@@ -13,8 +13,6 @@ MIE:
 cogni.00: edit hosts | research LDAP |  Solaris patching
 N: Recordatorio turno medico | Bicicleta | Viaje Emi
 Test Blue tooth keyboard c/ cogni.00
-Lavar bolsas de compras
-Lavar BDU Desert nueva
 Lavanderia
 Ferreteria: topetin para silla
 SCDT: Contactar Urias x llaves & $
