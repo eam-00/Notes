@@ -15,9 +15,9 @@ Cogni: Time Sheets | research LDAP |  Solaris patching
 N: Recordatorio turno medico | Bicicleta 
 Test Blue tooth keyboard c/ cogni.00
 
-Ferreteria: topetin para silla
-M: Post blog
-Compras: Queso cremoso | 
+
+
+
 Pan Tomasso
 SCDT: Contactar Urias x llaves & $
 
