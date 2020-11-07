@@ -15,6 +15,7 @@ LUN:
 Cogni: Time Sheets | research LDAP |  Solaris patching | NFS | OSDE
 N: Recordatorio turno medico | Bicicleta 
 Test Blue tooth keyboard c/ cogni.00
+Cargar Kindles | Paperwhite cp "Future Noir"
 
 Compras: Pan Tomasso 
 SCDT: Contactar Urias x llaves & $
