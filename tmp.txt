@@ -11,7 +11,7 @@ Mail MRLN
 Check Bcos
 Set CBU
 2FA
-Cogni: Alta primaria AFIP | desc. impuesto lo hacen ellos| research LDAP | Solaris patching | NFS
+Cogni: Alta primaria AFIP ??? | desc. impuesto lo hacen ellos??? | research LDAP | Solaris patching | NFS
 Test Blue tooth keyboard c/ cogni.00
 N: Recordatorio turno medico | Hablar c/ Carolina SCDT | Ver devolucion $ coutas auto | Bici
 Llamar dentista + Besasso + Oftalmologo
