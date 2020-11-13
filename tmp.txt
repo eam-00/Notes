@@ -9,8 +9,6 @@ https://www.reddit.com/r/Mercadoreddit/comments/j87gjc/vendo_pesas_de_cemento/
 VIE:
 Mail MRLN
 
-
-
 Cogni: Alta primaria AFIP ??? | desc. impuesto lo hacen ellos??? | research LDAP | Solaris patching | NFS
 Test Blue tooth keyboard c/ cogni.00
 
@@ -41,9 +39,6 @@ Peña 2302 (entre Larrea y Azcuenaga)
 @T60: Canibalizar partes p/ T60p
 Toro: Check probs envio de emails
 Github: Dload all repositories
-
-Semana:
-N: DIU
 
 https://it.umn.edu/services-technologies/how-tos/zoom-pre-webinar-checklist-hosts
 https://support.zoom.us/hc/en-us/articles/360000252726-Roles-in-a-Webinar
