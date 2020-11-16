@@ -12,6 +12,10 @@ MRLN: emial tareas | Warning es real?
 SCDT: Contactar Urias x llaves & $ | Sabado a las 17 hrs
 get TRRT from pb
 
+MAR:
+Comprar zapas
+Deposito Bco. Nacion - Juliana
+
 Cogni: Alta primaria AFIP ??? | desc. impuesto lo hacen ellos??? | research LDAP | Solaris patching | NFS
 Test Blue tooth keyboard c/ cogni.00
 
