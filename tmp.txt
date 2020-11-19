@@ -13,6 +13,7 @@ MRLN: Email tareas
 Cogni: Completar docs PDFs | Alta primaria AFIP ??? | desc. impuesto lo hacen ellos??? | research LDAP | Solaris patching | NFS
 SCDT: Contactar Urias x llaves & $ | Sabado a las 17 hrs
 Test Blue tooth keyboard c/ cogni.00
+CobroExpress: pagar cosa Mamma
 
 N: Recordatorio turno medico | Hablar c/ Carolina SCDT | Ver devolucion $ coutas auto | Bici
 Llamar dentista + Besasso + Oftalmologo
