@@ -2,6 +2,7 @@ Llevar N:
 Botella de agua
 Cereales
 Destornilladores chicos
+Zanahorias
 
 https://www.reddit.com/r/Mercadoreddit/comments/j87gjc/vendo_pesas_de_cemento/
 
@@ -9,12 +10,15 @@ https://www.reddit.com/r/Mercadoreddit/comments/j87gjc/vendo_pesas_de_cemento/
 JUE:
 Lavar BDU Woodland
 MRLN: Email tareas 
-Cogni: Completar docs PDFs
+Cogni:
+Completar docs PDFs
 Alta primaria AFIP ???
 desc. impuesto lo hacen ellos???
-research LDAP
+LDAP
 Solaris patching
 NFS
+Ansible
+Satellite
 
 SCDT: Contactar Urias x llaves & $ | Sabado a las 17 hrs
 Test Blue tooth keyboard c/ cogni.00
