@@ -22,8 +22,6 @@ Ansible
 Satellite
 
 SCDT: Contactar Urias x llaves & $ | Sabado a las 17 hrs
-
-CobroExpress: pagar cosa Mamma
 Tommy: 1 kg mani c/ choco + 1 kg mani s/ sal
 
 cp movies to other USB
@@ -58,4 +56,4 @@ https://support.zoom.us/hc/en-us/articles/360000252726-Roles-in-a-Webinar
 https://www.vidyard.com/blog/zoom-webinar-guide/
 
 https://zapier.com/apps/cisco-webex-meetings/integrations/mailchimp
-https://zoom.us/pricing
+
