@@ -34,7 +34,8 @@ Cargar N10
 
 SAB:
 Reventar kernel crud Dell
-
+Backup T410
+cp pelis Godzilla Ext HDD
 
 Spotify:
 Sid Vicious - Something Else
