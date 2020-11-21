@@ -24,8 +24,6 @@ Ansible
 Satellite
 
 
-
-
 N: Recordatorio turno medico | Hablar c/ Carolina SCDT | Ver devolucion $ coutas auto | Bici
 Llamar dentista + Besasso + Oftalmologo
 ML:  Chromebook cb3431 | Chromebook Pixelbook | jungle boots ML
@@ -35,6 +33,7 @@ Tommy: 1 kg mani c/ choco + 1 kg mani s/ sal + cereales
 Reventar kernel crud Dell
 Backup T410
 cp pelis Godzilla Ext HDD
+Mail pencilmation.com
 
 Spotify:
 Sid Vicious - Something Else
