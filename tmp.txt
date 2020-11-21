@@ -23,7 +23,7 @@ NFS
 Ansible
 Satellite
 
-Tommy: 1 kg mani c/ choco + 1 kg mani s/ sal
+
 
 
 N: Recordatorio turno medico | Hablar c/ Carolina SCDT | Ver devolucion $ coutas auto | Bici
@@ -33,6 +33,7 @@ Usar W530 -> Sync Other Dropbox
 Cargar N10
 
 SAB:
+Tommy: 1 kg mani c/ choco + 1 kg mani s/ sal + cereales
 Reventar kernel crud Dell
 Backup T410
 cp pelis Godzilla Ext HDD
