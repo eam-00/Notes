@@ -1,11 +1,9 @@
 Llevar N:
 
-
-
 https://www.reddit.com/r/Mercadoreddit/comments/j87gjc/vendo_pesas_de_cemento/
 
 
-LUN:
+MAR:
 MRLN: Email tareas
 
 Cogni: Test Blue tooth keyboard c/ cogni.00
@@ -17,11 +15,9 @@ Solaris patching
 NFS
 Ansible
 Satellite
-
-
 N: Recordatorio turno medico | Hablar c/ Carolina SCDT | Ver devolucion $ coutas auto | Bici
 Llamar dentista + Besasso + Oftalmologo
-ML:  Chromebook cb3431 | Chromebook Pixelbook | jungle boots ML
+ML:  Chromebook cb3431 | Chromebook Pixelbook | jungle boots ML | X201t
 
 SAB:
 Reventar kernel crud Dell
