@@ -19,7 +19,7 @@ NFS
 Ansible
 Satellite
 Lavanderia
-M: ver ringtones 
+M: ver ringtones | Ropa invierno
 N: Recordatorio turno medico | Hablar c/ Carolina SCDT | Ver devolucion $ coutas auto | Bici
 Llamar dentista + Besasso + Oftalmologo
 ML:  Chromebook cb3431 | Chromebook Pixelbook | jungle boots ML | X201t
