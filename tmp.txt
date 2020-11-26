@@ -18,7 +18,7 @@ Solaris patching
 NFS
 Ansible
 Satellite
-CobroExpress: MetroGas Mamma
+
 
 N: Recordatorio turno medico | Hablar c/ Carolina SCDT | Ver devolucion $ coutas auto | Bici
 Llamar dentista + Besasso + Oftalmologo
