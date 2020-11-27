@@ -12,7 +12,7 @@ VIE:
 MRLN: Email tareas
 Cogni: 
 TimeS
-Completar docs PDFs
+
 Alta primaria AFIP ???
 desc. impuesto lo hacen ellos???
 LDAP
