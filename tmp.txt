@@ -11,8 +11,6 @@ VIE:
 ---
 MRLN: Email tareas
 Cogni: 
-TimeS
-
 Alta primaria AFIP ???
 desc. impuesto lo hacen ellos???
 LDAP
