@@ -12,7 +12,6 @@ VIE:
 MRLN: Email tareas
 Cogni: 
 Alta primaria AFIP ???
-desc. impuesto lo hacen ellos???
 LDAP
 Solaris patching
 NFS
