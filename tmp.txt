@@ -20,7 +20,7 @@ NFS
 Ansible
 Satellite
 
-N: Recordatorio turno medico | Hablar c/ Carolina SCDT | Ver devolucion $ coutas auto | Bici
+N: Recordatorio turno medico | Ver devolucion $ coutas auto 
 Llamar dentista + Besasso + Oftalmologo
 ML:  Chromebook cb3431 | Chromebook Pixelbook | jungle boots ML | X201t
 Borrar Godzilla TB HDDs
