@@ -10,7 +10,6 @@ Arreglar tapabocas
 LUN:
 ---
 Test cta SRio -> Online & tarjeta
-Arrancar c/ TRRTs
 Ver tema de internet / celular
 MRLN: Email tareas
 Cogni: 
