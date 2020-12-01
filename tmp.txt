@@ -20,7 +20,7 @@ NFS
 Ansible
 Satellite
 
-N: Recordatorio turno medico | Ver devolucion $ coutas auto | Ver clase Lunes 7 Dic
+N: Recordatorio turno medico | Ver devolucion $ coutas auto 
 Llamar dentista + Besasso + Oftalmologo
 ML:  Chromebook cb3431 | Chromebook Pixelbook | jungle boots ML | X201t - 549 11 6849 2035 (15 6849 2035)
 Borrar Godzilla TB HDDs
