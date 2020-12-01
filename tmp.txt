@@ -7,7 +7,7 @@ DOM:
 Arreglar tapabocas
 
 
-LUN:
+MAR:
 ---
 Test cta SRio -> Online & tarjeta
 Ver tema de internet / celular
