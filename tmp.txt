@@ -28,7 +28,6 @@ Satellite
 
 N: Recordatorio turno medico | Ver devolucion $ coutas auto 
 Llamar dentista + Besasso + Oftalmologo
-cp The Formula > TB HDDs
 cp Dreamscape > TB HDDs
 cp Streetwise > TB HDDs
 
