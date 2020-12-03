@@ -28,7 +28,6 @@ Satellite
 
 N: Recordatorio turno medico | Ver devolucion $ coutas auto 
 Llamar dentista + Besasso + Oftalmologo
-cp Streetwise > TB HDDs
 
 Spotify:
 Sid Vicious - Something Else
