@@ -8,7 +8,7 @@ FIN DE SEMANA:
 -------------
 Dload TRRTs Tenet, Continental Divide
 Arreglar tapabocas
-T410: Instalar Webscrobbler | Backup | 
+T410: Instalar Webscrobbler | Backup | Instalar updates
 Imprimir FEMEDICA
 
 
