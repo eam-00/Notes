@@ -10,6 +10,7 @@ Dload TRRTs Tenet, Continental Divide
 Arreglar tapabocas
 T410: Instalar Webscrobbler | Backup | Instalar updates
 Imprimir FEMEDICA
+Mail Ariel SCDT
 
 
 Claro: llamar al 0800 123 25276 9 a 21 hrs
@@ -20,7 +21,7 @@ LUN:
 ---
 cp TB HDDs: Six MM Man, Recount, Streetwise, Dreamscape, The Formula (?)
 cargar pilas AA
-
+Batts lappies
 
 Cogni:
 -----
