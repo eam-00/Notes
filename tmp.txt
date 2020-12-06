@@ -8,7 +8,7 @@ FIN DE SEMANA:
 -------------
 Dload TRRTs Tenet, Continental Divide - Import TRRT files from Dell XPS Studio
 Arreglar tapabocas
-T410: Instalar Webscrobbler | Backup | Instalar updates
+T410: Instalar Webscrobbler
 Imprimir FEMEDICA
 
 TRRTs: Solaris | The Mandalorian
