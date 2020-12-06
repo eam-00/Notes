@@ -1,5 +1,6 @@
 Llevar N:
 --------
+Leche
 Adaptador USB C -> USB
 https://www.reddit.com/r/Mercadoreddit/comments/j87gjc/vendo_pesas_de_cemento/
 
@@ -31,6 +32,9 @@ Solaris patching
 NFS
 Ansible
 Satellite
+
+MIE:
+---
 
 N: Recordatorio turno medico | Ver devolucion $ coutas auto 
 Llamar dentista + Besasso + Oftalmologo
