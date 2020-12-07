@@ -23,6 +23,7 @@ Pechugas | tarta | vino
 cp TB HDDs: Six MM Man, Recount, Streetwise, Dreamscape, The Formula (?)
 cargar pilas AA
 Batts lappies
+Preparar USB con Devuan 64 bits p/ X201T
 
 Cogni:
 -----
