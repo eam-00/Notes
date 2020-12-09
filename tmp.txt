@@ -17,7 +17,6 @@ ML:  Chromebook cb3431 | Chromebook Pixelbook | jungle boots ML | X201t - 549 11
 
 LUN:
 ---
-cp TB HDDs: Six MM Man, Recount, Streetwise, Dreamscape, The Formula (?)
 cargar pilas AA
 Dload TRRTs Solaris
 Preparar USB con Devuan 64 bits p/ X201T
