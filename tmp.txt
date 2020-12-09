@@ -18,7 +18,7 @@ ML:  Chromebook cb3431 | Chromebook Pixelbook | jungle boots ML | X201t - 549 11
 
 
 
-Preparar USB con Devuan 64 bits p/ X201T
+
 
 Cogni:
 -----
@@ -37,6 +37,7 @@ Tommy: Semillas de Girasol | Mani c/ choco
 ATM Galicia: Depositar Expensas
 N: Recordatorio turno medico | Ver devolucion $ coutas auto 
 Llamar dentista + Besasso + Oftalmologo
+Carre: bolsitas | fruta
 
 Spotify:
 Sid Vicious - Something Else
