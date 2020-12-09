@@ -32,7 +32,7 @@ Satellite
 MIE:
 ---
 Cargar pilas AA
-batts x140e x220
+batts x140e x220 (small)
 Dload Solaris installer - Ver Pato
 Tommy: Semillas de Girasol | Mani c/ choco
 ATM Galicia: Depositar Expensas
