@@ -26,7 +26,7 @@ Satellite
 MIE:
 ---
 Cargar pilas AA
-Lavar toallin & repasador
+
 batts x140e & x220 (small)
 Dload Solaris installer - Ver Pato
 Tommy: Semillas de Girasol | Mani c/ choco
