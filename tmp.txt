@@ -28,7 +28,7 @@ MIE:
 Cargar pilas AA
 
 Tommy: Semillas de Girasol | Mani c/ choco
-ATM Galicia: Depositar Expensas
+
 N: Recordatorio turno medico | Ver devolucion $ coutas auto 
 Llamar dentista + Besasso + Oftalmologo
 Carre: bolsitas | fruta
