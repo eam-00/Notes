@@ -32,6 +32,7 @@ Satellite
 
 MIE:
 ---
+Cargar pilas AA
 Dload Solaris installer - Ver Pato
 Tommy: Semillas de Girasol | Mani c/ choco
 ATM Galicia: Depositar Expensas
