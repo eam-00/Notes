@@ -23,12 +23,10 @@ NFS
 Ansible
 Satellite
 
-JUE:
+VIE:
 ---
-
-
+Check Bcos
 Cargar pilas AA
-
 Tommy: Semillas de Girasol | Mani c/ choco
 
 N: Recordatorio turno medico | Ver devolucion $ coutas auto 
