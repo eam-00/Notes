@@ -32,6 +32,7 @@ Pato: VDI aleatorias | CV19
 Tommy: Semillas de Girasol | Mani c/ choco
 W530: Updates | Other Dropbox
 T420: apt clean } Sync op2 > T420
+Charge: N10 | N7 | Nikon
 
 N: Recordatorio turno medico | Ver devolucion $ coutas auto 
 Llamar dentista + Besasso + Oftalmologo
