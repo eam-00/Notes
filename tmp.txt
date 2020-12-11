@@ -36,6 +36,9 @@ W530: Updates | Other Dropbox
 
 Charge: N10 | N7 | Nikon
 
+Lun:
+---
+T420: apt clean | Sync op2 > T420
 N: Recordatorio turno medico | Ver devolucion $ coutas auto 
 Llamar dentista + Besasso + Oftalmologo
 
