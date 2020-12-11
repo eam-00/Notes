@@ -25,7 +25,7 @@ Satellite
 
 VIE:
 ---
-TimeS
+
 Check Bcos
 Cargar pilas AA
 Pato: VDI aleatorias | CV19
