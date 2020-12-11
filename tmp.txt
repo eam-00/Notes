@@ -25,11 +25,13 @@ Satellite
 
 VIE:
 ---
+TimeS
 Check Bcos
 Cargar pilas AA
 Pato: VDI aleatorias | CV19
 Tommy: Semillas de Girasol | Mani c/ choco
 W530: Updates | Other Dropbox
+T420: apt clean } Sync op2 > T420
 
 N: Recordatorio turno medico | Ver devolucion $ coutas auto 
 Llamar dentista + Besasso + Oftalmologo
