@@ -27,7 +27,7 @@ VIE:
 ---
 Check Bcos
 Cargar pilas AA
-Pato: VDI aleatorias
+Pato: VDI aleatorias | CV19
 Tommy: Semillas de Girasol | Mani c/ choco
 W530: Updates | Other Dropbox
 
