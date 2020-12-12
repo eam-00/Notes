@@ -34,7 +34,7 @@ Cargar pilas AA
 Coser sandalias
 
 
-Charge: N10 
+
 
 Lun:
 ---
