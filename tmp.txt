@@ -34,6 +34,9 @@ DOM:
 Batts Lappies
 Cargar pilas AA
 Coser sandalias
+https://wiki.debian.org/SystemVirtualization
+VirtualBox on Debian
+Solaris
 
 Lun:
 ---
