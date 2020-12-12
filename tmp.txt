@@ -24,13 +24,13 @@ NFS
 Ansible
 Satellite
 
-VIE:
+SAB:
 ---
-
+Tommy: Semillas de Girasol
 
 Cargar pilas AA
 
-Tommy: Semillas de Girasol | Mani c/ choco
+
 Coser sandalias
 
 
