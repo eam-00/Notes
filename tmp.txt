@@ -35,6 +35,9 @@ Reboot servers Int
 
 Lun:
 ---
+Cargar pilas AA
+Coser sandalias
+Coser fosforescente
 T420: apt clean | Sync op2 > T420
 N: Recordatorio turno medico | Ver devolucion $ coutas auto 
 Llamar dentista + Besasso + Oftalmologo
