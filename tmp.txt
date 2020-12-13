@@ -23,10 +23,6 @@ LDAP
 NFS
 Ansible
 
-SAB:
----
-Tommy: Semillas de Girasol
-
 DOM:
 ---
 Batts Lappies
