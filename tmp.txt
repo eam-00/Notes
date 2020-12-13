@@ -27,9 +27,7 @@ DOM:
 ---
 Tapita rueda BT
 Batts Lappies
-Cargar pilas AA
-Coser sandalias
-Coser fosforescente
+
 https://wiki.debian.org/SystemVirtualization
 VirtualBox on Debian
 Solaris
