@@ -25,6 +25,7 @@ Ansible
 
 DOM:
 ---
+Tapita rueda BT
 Batts Lappies
 Cargar pilas AA
 Coser sandalias
