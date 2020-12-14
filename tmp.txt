@@ -25,7 +25,6 @@ DOM:
 
 Lun:
 ---
-!!!!!!!!!!!!!!!!!!!!!!!Cumple Niki!!!!!!!!!!!!!!!!!!
 N: Recordatorio turno medico | Ver devolucion $ coutas auto | Cargar Kindle
 Tapita rueda BT
 Lavar: BDU Chocochip|toallin|repasador
