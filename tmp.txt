@@ -25,15 +25,17 @@ Ansible
 
 DOM:
 ---
+
+
+Lun:
+---
+
 Tapita rueda BT
 
 https://wiki.debian.org/SystemVirtualization
 VirtualBox on Debian
 Solaris
 
-
-Lun:
----
 Cargar pilas AA
 Coser sandalias
 Coser fosforescente
