@@ -27,7 +27,6 @@ Lun:
 ---
 N: Recordatorio turno medico | Ver devolucion $ coutas auto | Cargar Kindle
 Tapita rueda BT
-Lavar: repasador
 
 https://wiki.debian.org/SystemVirtualization
 VirtualBox on Debian
