@@ -26,12 +26,11 @@ Ansible
 DOM:
 ---
 Tapita rueda BT
-Batts Lappies
 
 https://wiki.debian.org/SystemVirtualization
 VirtualBox on Debian
 Solaris
-Reboot servers Int
+
 
 Lun:
 ---
