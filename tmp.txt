@@ -35,8 +35,6 @@ Wiki MRLN Kernels nuevos
 https://wiki.debian.org/SystemVirtualization
 VirtualBox on Debian
 Solaris
-
-Cargar pilas AA
 Coser sandalias
 Coser fosforescente
 Coser tapabocas
