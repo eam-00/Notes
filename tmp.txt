@@ -31,7 +31,7 @@ Lun:
 ---
 !!!!!!!!!!!!!!!!!!!!!!!Cumple Niki!!!!!!!!!!!!!!!!!!
 Tapita rueda BT
-
+Wiki MRLN Kernels nuevos
 https://wiki.debian.org/SystemVirtualization
 VirtualBox on Debian
 Solaris
