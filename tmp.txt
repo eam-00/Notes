@@ -29,7 +29,7 @@ Lun:
 N: Recordatorio turno medico | Ver devolucion $ coutas auto | Cargar Kindle
 Tapita rueda BT
 Lavar: BDU Chocochip|toallin|repasador
-Wiki MRLN Kernels nuevos
+
 https://wiki.debian.org/SystemVirtualization
 VirtualBox on Debian
 Solaris
@@ -40,6 +40,10 @@ Coser alforjas
 T420: apt clean | Sync op2 > T420
 
 Llamar dentista + Besasso + Oftalmologo
+
+MAR:
+---
+Wiki MRLN Kernels nuevos
 
 Spotify:
 Sid Vicious - Something Else
