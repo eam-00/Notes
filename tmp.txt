@@ -26,6 +26,7 @@ DOM:
 Lun:
 ---
 !!!!!!!!!!!!!!!!!!!!!!!Cumple Niki!!!!!!!!!!!!!!!!!!
+N: Recordatorio turno medico | Ver devolucion $ coutas auto 
 Tapita rueda BT
 Lavar: BDU Chocochip|toallin|repasador
 Wiki MRLN Kernels nuevos
@@ -37,7 +38,7 @@ Coser fosforescente
 Coser tapabocas
 Coser alforjas
 T420: apt clean | Sync op2 > T420
-N: Recordatorio turno medico | Ver devolucion $ coutas auto 
+
 Llamar dentista + Besasso + Oftalmologo
 
 Spotify:
