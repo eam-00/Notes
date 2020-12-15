@@ -17,10 +17,6 @@ LDAP
 NFS
 Ansible
 
-DOM:
----
-
-
 Lun:
 ---
 N: Recordatorio turno medico | Ver devolucion $ coutas auto | Cargar Kindle
