@@ -20,7 +20,6 @@ Ansible
 MIE:
 ---
 N: Recordatorio turno medico | Ver devolucion $ coutas auto | Cargar Kindle
-Tapita rueda BT
 
 https://wiki.debian.org/SystemVirtualization
 VirtualBox on Debian
