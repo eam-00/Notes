@@ -32,10 +32,6 @@ T420: apt clean | Sync op2 > T420
 
 Llamar dentista + Besasso + Oftalmologo
 
-MAR:
----
-Wiki MRLN Kernels nuevos
-
 Spotify:
 Sid Vicious - Something Else
 https://www.youtube.com/watch?v=zpaVf_fSXoQ
