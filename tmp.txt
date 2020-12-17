@@ -20,7 +20,6 @@ Ansible
 JUE:
 ---
 N: Recordatorio turno medico | Ver devolucion $ coutas auto 
-
 https://wiki.debian.org/SystemVirtualization
 VirtualBox on Debian
 Solaris
@@ -29,7 +28,7 @@ Coser fosforescente
 Coser tapabocas
 Coser alforjas
 T420: apt clean | Sync op2 > T420
-
+Carre: Bolsitas| Fritolin|
 Llamar dentista + Besasso + Oftalmologo
 
 Spotify:
