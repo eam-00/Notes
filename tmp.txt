@@ -19,7 +19,7 @@ Ansible
 
 JUE:
 ---
-N: Recordatorio turno medico | Ver devolucion $ coutas auto | Cargar Kindle
+N: Recordatorio turno medico | Ver devolucion $ coutas auto 
 
 https://wiki.debian.org/SystemVirtualization
 VirtualBox on Debian
