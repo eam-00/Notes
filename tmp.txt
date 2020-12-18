@@ -22,7 +22,7 @@ VIE:
 ---
 Pinto - Cab?????
 CobroExpress
-Tommy: 
+Tommy: Bastoncitos de salvado | Manies (?)
 N: Recordatorio turno medico
 https://wiki.debian.org/SystemVirtualization
 VirtualBox on Debian
