@@ -20,6 +20,7 @@ Ansible
 
 VIE:
 ---
+Pinto - Cab?????
 N: Recordatorio turno medico
 https://wiki.debian.org/SystemVirtualization
 VirtualBox on Debian
