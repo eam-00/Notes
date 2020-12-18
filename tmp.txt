@@ -2,6 +2,7 @@ Llevar N:
 --------
 Adaptador USB C -> USB
 refill alcohol
+Choco
 
 https://www.reddit.com/r/Mercadoreddit/comments/j87gjc/vendo_pesas_de_cemento/
 
@@ -17,7 +18,7 @@ LDAP
 NFS
 Ansible
 
-JUE:
+VIE:
 ---
 N: Recordatorio turno medico
 https://wiki.debian.org/SystemVirtualization
