@@ -22,7 +22,7 @@ Ansible
 
 SAB:
 ---
-Depositar Pinto
+
 Dejar Tuppers
 Dejar boletas pagas
 
