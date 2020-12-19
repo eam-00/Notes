@@ -34,7 +34,7 @@ Coser fosforescente
 Coser tapabocas
 Coser alforjas
 T420: apt clean | Sync op2 > T420
-W530: Updates + Sync Other Dropbox
+
 
 
 Llamar dentista + Besasso + Oftalmologo
