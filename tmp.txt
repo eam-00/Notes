@@ -22,8 +22,10 @@ Ansible
 
 SAB:
 ---
+11 hrs - 
 Depositar Pinto
-
+Dejar Tuppers
+Dejar boletas pagas
 
 N: Recordatorio turno medico
 https://wiki.debian.org/SystemVirtualization
