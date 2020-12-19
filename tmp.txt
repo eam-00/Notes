@@ -22,7 +22,6 @@ Ansible
 
 SAB:
 ---
-11 hrs - fumigacion
 Depositar Pinto
 Dejar Tuppers
 Dejar boletas pagas
