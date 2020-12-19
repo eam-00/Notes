@@ -40,6 +40,9 @@ VirtualBox on Debian
 Solaris
 Coser sandalias
 
+LUN:
+---
+Mails shadow req. (?)
 Llamar dentista + Besasso + Oftalmologo
 
 Spotify:
