@@ -23,7 +23,7 @@ Ansible
 SAB:
 ---
 
-Dejar Tuppers
+
 Dejar boletas pagas
 
 La Ardilla
