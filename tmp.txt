@@ -25,7 +25,7 @@ SAB:
 Depositar Pinto
 Dejar Tuppers
 Dejar boletas pagas
-Guardar fruta heladera
+
 La Ardilla
 
 N: Recordatorio turno medico
