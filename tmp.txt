@@ -29,15 +29,15 @@ Dejar boletas pagas
 
 N: Recordatorio turno medico
 https://wiki.debian.org/SystemVirtualization
-VirtualBox on Debian
-Solaris
-Coser sandalias
+
 Coser fosforescente
 Coser tapabocas
 Coser alforjas
 
 
-
+VirtualBox on Debian
+Solaris
+Coser sandalias
 
 Llamar dentista + Besasso + Oftalmologo
 
