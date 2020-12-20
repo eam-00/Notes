@@ -30,6 +30,8 @@ https://wiki.debian.org/SystemVirtualization
 
 DOM:
 ---
+Cortar pelo
+Limpiar parrilla
 BDU woodland p/ achicar
 Coser fosforescente
 Coser tapabocas
