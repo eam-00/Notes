@@ -29,7 +29,7 @@ Ansible
 
 DOM:
 ---
-Cortar pelo
+
 
 BDU woodland p/ achicar
 Coser fosforescente
