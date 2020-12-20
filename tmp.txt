@@ -30,7 +30,7 @@ Ansible
 DOM:
 ---
 Cortar pelo
-Limpiar parrilla
+
 BDU woodland p/ achicar
 Coser fosforescente
 Coser tapabocas
