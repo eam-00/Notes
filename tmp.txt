@@ -24,7 +24,7 @@ Ansible
 
 
 N: Recordatorio turno medico
-https://wiki.debian.org/SystemVirtualization
+
 
 
 
@@ -36,7 +36,7 @@ BDU woodland p/ achicar
 Coser fosforescente
 Coser tapabocas
 Coser alforjas
-VirtualBox on Debian
+VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 Coser sandalias
 Backup Journal
