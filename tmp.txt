@@ -4,6 +4,7 @@ Adaptador USB C -> USB
 refill alcohol
 Leche
 Taza Starbucks
+Enj. bucal
 
 
 
@@ -48,6 +49,7 @@ Check Franciso 25/12
 N: Recordatorio turno medico
 Mails shadow req. (?)
 Llamar dentista + Besasso + Oftalmologo
+Coto
 
 Spotify:
 Sid Vicious - Something Else
