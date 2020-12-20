@@ -34,7 +34,7 @@ Cortar pelo
 BDU woodland p/ achicar
 Coser fosforescente
 Coser tapabocas
-Coser alforjas
+
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 Coser sandalias
