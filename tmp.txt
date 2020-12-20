@@ -23,7 +23,6 @@ Ansible
 
 
 
-N: Recordatorio turno medico
 
 
 
@@ -44,6 +43,8 @@ Backup Journal
 
 LUN:
 ---
+
+N: Recordatorio turno medico
 Mails shadow req. (?)
 Llamar dentista + Besasso + Oftalmologo
 
