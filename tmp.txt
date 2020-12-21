@@ -42,7 +42,6 @@ LUN:
 ---
 BDU woodland p/ achicar
 Coser fosforescente
-Coser tapabocas
 Check Dos Timbres
 Check hora apertura Starbucks
 Check Franciso 25/12
