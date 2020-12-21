@@ -41,7 +41,6 @@ LUN:
 ---
 Coser fosforescente
 Check Dos Timbres
-Check hora apertura Starbucks
 Check Franciso 25/12
 N: Recordatorio turno medico
 Llamar dentista + Besasso + Oftalmologo
