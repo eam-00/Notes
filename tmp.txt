@@ -40,7 +40,7 @@ DOM:
 
 LUN:
 ---
-Lavar BDU woodland
+
 Colgar toallon
 Coser fosforescente
 Check Dos Timbres
