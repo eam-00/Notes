@@ -37,7 +37,7 @@ DOM:
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 Coser sandalias
-Backup Journal
+
 TRRT Greenland
 
 
