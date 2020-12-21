@@ -41,7 +41,7 @@ DOM:
 LUN:
 ---
 
-Colgar toallon
+
 Coser fosforescente
 Check Dos Timbres
 Check hora apertura Starbucks
