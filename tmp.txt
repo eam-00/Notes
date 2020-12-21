@@ -44,7 +44,6 @@ Check Dos Timbres
 Check hora apertura Starbucks
 Check Franciso 25/12
 N: Recordatorio turno medico
-Mails shadow req. (?)
 Llamar dentista + Besasso + Oftalmologo
 Coto chorizos bombon
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
