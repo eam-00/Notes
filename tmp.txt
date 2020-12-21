@@ -38,7 +38,6 @@ VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 Coser sandalias
 
-TRRT Greenland
 
 
 LUN:
