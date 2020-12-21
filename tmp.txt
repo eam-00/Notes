@@ -45,6 +45,8 @@ TRRT Greenland
 
 LUN:
 ---
+Check Dos Timbres
+Check hora apertura Starbucks
 Check Franciso 25/12
 N: Recordatorio turno medico
 Mails shadow req. (?)
