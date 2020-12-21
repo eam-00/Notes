@@ -40,8 +40,6 @@ DOM:
 
 LUN:
 ---
-
-
 Coser fosforescente
 Check Dos Timbres
 Check hora apertura Starbucks
