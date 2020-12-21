@@ -40,7 +40,8 @@ DOM:
 
 LUN:
 ---
-BDU woodland p/ achicar
+Lavar BDU woodland
+Colgar toallon
 Coser fosforescente
 Check Dos Timbres
 Check hora apertura Starbucks
