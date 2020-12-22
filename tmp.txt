@@ -23,12 +23,6 @@ LDAP
 NFS
 Ansible
 
-
-
-
-
-
-
 DOM:
 ---
 
