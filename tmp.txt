@@ -43,7 +43,6 @@ LUN:
 ---
 Coser fosforescente
 Check Dos Timbres
-Check Franciso 25/12
 N: Recordatorio turno medico
 Llamar dentista + Besasso + Oftalmologo
 Coto chorizos bombon
