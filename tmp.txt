@@ -25,6 +25,8 @@ Ansible
 
 MIE:
 ---
+Limpiar casita
+Regalo Mamma
 Coser fosforescente
 Check Dos Timbres
 N: Recordatorio turno medico
