@@ -23,14 +23,6 @@ LDAP
 NFS
 Ansible
 
-
-
-
-
-
-
-
-
 LUN:
 ---
 Coser fosforescente
