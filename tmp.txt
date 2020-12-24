@@ -25,7 +25,6 @@ Ansible
 
 JUE:
 ---
-Regalo Mamma
 Coser fosforescente
 N: Recordatorio turno medico
 Llamar dentista + Besasso + Oftalmologo
