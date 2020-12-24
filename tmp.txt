@@ -25,10 +25,8 @@ Ansible
 
 JUE:
 ---
-
 Regalo Mamma
 Coser fosforescente
-
 N: Recordatorio turno medico
 Llamar dentista + Besasso + Oftalmologo
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
