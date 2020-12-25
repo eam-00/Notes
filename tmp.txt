@@ -23,7 +23,7 @@ LDAP
 NFS
 Ansible
 
-JUE:
+VIE:
 ---
 Coser fosforescente
 N: Recordatorio turno medico
