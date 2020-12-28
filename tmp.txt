@@ -26,7 +26,7 @@ Ansible
 
 LUN:
 ---
-Lavar: toallin + repasador
+
 Dos Timbres p/ Nati
 N: Cumple + Recordatorio turno medico
 Coser fosforescente
