@@ -28,9 +28,9 @@ LUN:
 ---
 Lavar: toallin + repasador
 Dos Timbres p/ Nati
-
+N: Cumple + Recordatorio turno medico
 Coser fosforescente
-N: Recordatorio turno medico
+
 Llamar dentista + Besasso + Oftalmologo
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
