@@ -22,7 +22,7 @@ DOM:
 Guita
 Planta
 Pechugas
-Batts Lappies
+
 
 
 LUN:
