@@ -27,7 +27,7 @@ Ansible
 LUN:
 ---
 
-Dos Timbres p/ Nati
+
 N: Cumple + Recordatorio turno medico
 Coser fosforescente
 Shopping: Desert Boots + Crocs
