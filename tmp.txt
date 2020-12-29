@@ -26,8 +26,6 @@ Ansible
 
 LUN:
 ---
-
-
 N: Cumple + Recordatorio turno medico
 Coser fosforescente
 Shopping: Desert Boots + Crocs
