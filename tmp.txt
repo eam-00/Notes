@@ -65,3 +65,5 @@ https://zapier.com/apps/cisco-webex-meetings/integrations/mailchimp
 
 N10:
 27 cm | 18 cm
+KBD:
+24 cm | 13 cm
