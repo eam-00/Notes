@@ -27,6 +27,7 @@ Ansible
 Mie:
 ---
 N: Recordatorio turno medico
+limpiar casita
 Coser fosforescente
 Shopping: Crocs | bicicleta
 Llamar dentista + Besasso + Oftalmologo
