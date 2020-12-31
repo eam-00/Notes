@@ -27,7 +27,6 @@ Ansible
 Mie:
 ---
 N: Recordatorio turno medico
-limpiar casita
 Coser fosforescente
 x60: updates sync from x201t batt
 Shopping: Crocs | bicicleta
