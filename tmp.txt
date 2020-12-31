@@ -19,13 +19,6 @@ LDAP
 NFS
 Ansible
 
-
-
-
-
-
-
-
 Mie:
 ---
 N: Recordatorio turno medico
