@@ -22,7 +22,7 @@ Ansible
 VIE:
 ---
 Batt X201T
-Cargar N10
+Cargar N10 | Nikon
 
 Mie:
 ---
