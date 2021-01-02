@@ -19,10 +19,6 @@ LDAP
 NFS
 Ansible
 
-VIE:
----
-
-
 
 DOM:
 ---
