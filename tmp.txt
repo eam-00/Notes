@@ -24,6 +24,9 @@ VIE:
 Batt X201T
 Cargar N10 | Nikon
 
+DOM:
+---
+
 Mie:
 ---
 N: Recordatorio turno medico
