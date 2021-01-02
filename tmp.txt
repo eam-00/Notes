@@ -22,7 +22,7 @@ Ansible
 VIE:
 ---
 
-Cargar N10 | Nikon
+
 
 DOM:
 ---
