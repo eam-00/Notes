@@ -23,12 +23,11 @@ DOM:
 ---
 Updates @W: PHP
 
-Mie:
+LUN:
 ---
 N: Recordatorio turno medico
 Coser fosforescente
 
-Shopping: Crocs | bicicleta
 Llamar dentista + Besasso + Oftalmologo
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
