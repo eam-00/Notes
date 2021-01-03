@@ -1,6 +1,6 @@
 Llevar N:
 --------
-Adaptador USB C -> USB
+
 
 
 
