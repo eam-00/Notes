@@ -27,7 +27,6 @@ LUN:
 ---
 N: Recordatorio turno medico
 Coser fosforescente
-
 Llamar dentista + Besasso + Oftalmologo
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
