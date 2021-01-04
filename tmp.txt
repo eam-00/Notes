@@ -27,6 +27,8 @@ LUN:
 ---
 Lavar: BDU Woodland, toallin, repasador
 Dos Timbres p/ Nati
+CobroExpress
+ATM SRio
 N: Recordatorio turno medico
 Coser fosforescente
 Llamar dentista + Besasso + Oftalmologo
