@@ -25,6 +25,7 @@ Updates @W: PHP
 
 LUN:
 ---
+Lavar: BDU Woodland, toallin, repasador
 N: Recordatorio turno medico
 Coser fosforescente
 Llamar dentista + Besasso + Oftalmologo
