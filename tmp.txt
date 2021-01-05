@@ -24,7 +24,7 @@ Ansible
 
 LUN:
 ---
-Dos Timbres p/ Nati
+
 CobroExpress
 
 Galano camisas
