@@ -18,17 +18,6 @@ LDAP
 NFS
 Ansible
 
-
-
-
-
-
-
-
-
-
-
-
 MAR:
 ---
 test BT off @x201t
