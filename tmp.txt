@@ -20,7 +20,7 @@ Ansible
 
 JUE:
 ---
-test BT off @x201t
+Bluetooth off @x201t
 
 llamar La Ardilla - ver si ampliaron el horario de atencion
 Fotos de asiento de BT para OE10
