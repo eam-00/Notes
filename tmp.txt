@@ -19,13 +19,14 @@ NFS
 Ansible
 
 SAB:
-Imprimir doc Cogni
+
 
 LUN:
 ---
 Check Fernando transfer: Cell + Internet | Aguinaldo
 Pato: Notas L Meeting
 Ver tema de la certificacion de firma en el SRio
+Imprimir doc Cogni
 TRRT Heartbreak Ridge
 Bluetooth off @x201t
 
