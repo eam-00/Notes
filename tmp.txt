@@ -21,7 +21,7 @@ Ansible
 DOM:
 ---
 Batts lappies
-Lavar cosas
+Lavar cosas toallin | 
 
 
 LUN:
