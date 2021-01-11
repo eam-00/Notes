@@ -20,7 +20,7 @@ Ansible
 
 DOM:
 ---
-Batts lappies
+
 Lavar cosas toallin | 
 
 
