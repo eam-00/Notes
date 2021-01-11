@@ -26,7 +26,7 @@ Lavar cosas toallin |
 
 LUN:
 ---
-check calendar
+check calendar |cambio de sabanas
 Check Fernando transfer: Cell + Internet | Aguinaldo
 Pato: Notas L Meeting
 Ver tema de la certificacion de firma en el SRio
