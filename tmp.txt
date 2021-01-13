@@ -25,11 +25,10 @@ Ansible
 
 MIE:
 ---
-
 Check Fernando transfer: Cell + Internet | Aguinaldo
 Pato: Notas L Meeting
 Ver tema de la cert de firma en el SRio -> chat soporte
-Imprimir doc Cogni
+Imprimir doc Cogni | mierda SRio (?)
 TRRT Heartbreak Ridge
 Bluetooth off @x201t
 
