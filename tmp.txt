@@ -22,8 +22,6 @@ Ansible
 MIE:
 ---
 Check Fernando transfer: Cell + Internet | Aguinaldo
-
-
 Imprimir doc Cogni | mierda SRio (?)
 
 
