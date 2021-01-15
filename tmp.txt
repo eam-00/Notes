@@ -19,15 +19,12 @@ LDAP
 NFS
 Ansible
 
-MIE:
+VIE:
 ---
 Check Fernando transfer: Cell + Internet | Aguinaldo
 Imprimir doc Cogni | mierda SRio (?)
-
-
 Fotos de asiento de BT para OE10
-Starbucks: cafe en granos
-
+Starbucks: cafe en granos (?)
 ATM SRio | Galicia
 N: Recordatorio turno medico
 Coser fosforescente
