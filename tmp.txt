@@ -21,7 +21,6 @@ Ansible
 
 VIE:
 ---
-TS
 Check Fernando transfer: Cell + Internet | Aguinaldo
 13:10 hrs - SRio: tramite 
 Fotos de asiento de BT para OE10
