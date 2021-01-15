@@ -22,9 +22,9 @@ Ansible
 VIE:
 ---
 Check Fernando transfer: Cell + Internet | Aguinaldo
-13:10 hrs - SRio: tramite 
 Fotos de asiento de BT para OE10
 Starbucks: cafe en granos (?)
+w530
 ATM SRio | Galicia
 N: Recordatorio turno medico
 Coser fosforescente
