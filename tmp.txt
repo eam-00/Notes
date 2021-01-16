@@ -23,7 +23,7 @@ Ansible
 
 DOM:
 ---
-Reboot @W
+Reboot @W | choco F |
 Cargar Kindle
 
 VIE:
