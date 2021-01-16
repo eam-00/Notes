@@ -23,6 +23,7 @@ Ansible
 
 DOM:
 ---
+Reboot @W
 
 VIE:
 ---
