@@ -41,7 +41,6 @@ VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 Arreglar sandalias x2
 
-
 Spotify:
 Sid Vicious - Something Else
 https://www.youtube.com/watch?v=zpaVf_fSXoQ
