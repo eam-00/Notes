@@ -24,6 +24,7 @@ Ansible
 DOM:
 ---
 Reboot @W
+Cargar Kindle
 
 VIE:
 ---
