@@ -21,7 +21,6 @@ Ansible
 
 LUN:
 ---
-Cargar Kindle
 Llamar: Besasso + Oftalmologo - Ver si OSDE
 Ver alforjas @ML
 Lavar: toallin | repasador | Alforja
