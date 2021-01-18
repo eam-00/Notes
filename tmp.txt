@@ -23,19 +23,21 @@ Reboot @W | choco F | Analytics
 
 LUN:
 ---
+Cargar Kindle
 Lavar: toallin | repasador
 Check Fernando transfer: Cell + Internet
 Fotos de asiento de BT para OE10
 Starbucks: cafe en granos (?)
-Cargar Kindle
+
 
 ATM SRio | Galicia
 N: Recordatorio turno medico
 Coser fosforescente
+Arreglar sandalias x2
 Llamar: Besasso + Oftalmologo - Ver si OSDE
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
-Arreglar sandalias x2
+
 
 Spotify:
 Sid Vicious - Something Else
