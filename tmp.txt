@@ -19,7 +19,7 @@ Ansible
 DOM:
 ---
 Reboot @W | choco F | Analytics
-Cargar Kindle
+
 
 LUN:
 ---
@@ -27,7 +27,7 @@ Lavar: toallin | repasador
 Check Fernando transfer: Cell + Internet
 Fotos de asiento de BT para OE10
 Starbucks: cafe en granos (?)
-
+Cargar Kindle
 
 ATM SRio | Galicia
 N: Recordatorio turno medico
