@@ -24,7 +24,7 @@ Tarta
 Reboot @W | choco F | Analytics
 Cargar Kindle
 
-VIE:
+LUN:
 ---
 Check Fernando transfer: Cell + Internet | Aguinaldo
 Fotos de asiento de BT para OE10
