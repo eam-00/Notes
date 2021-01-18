@@ -23,7 +23,7 @@ LUN:
 ---
 Cargar Kindle
 Llamar: Besasso + Oftalmologo - Ver si OSDE
-Lavar: toallin | repasador
+Lavar: toallin | repasador | Alforja
 Check Fernando transfer: Cell + Internet
 Fotos de asiento de BT para OE10
 Starbucks: cafe en granos (?)
