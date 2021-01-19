@@ -18,7 +18,6 @@ Ansible
 
 MAR:
 ---
-Cbio Sabanas
 Ver alforjas @ML
 
 Check Fernando transfer: Cell + Internet
