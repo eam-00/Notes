@@ -16,7 +16,7 @@ LDAP
 NFS
 Ansible
 
-LUN:
+MAR:
 ---
 Cbio Sabanas
 Ver alforjas @ML
