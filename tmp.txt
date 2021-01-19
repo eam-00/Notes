@@ -28,7 +28,7 @@ Instalar Stremio -> N10
 
 ATM SRio | Galicia
 N: Recordatorio turno medico
-Coser fosforescente
+Coser: fosforescente | alforjas
 Arreglar sandalias x2
 
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
