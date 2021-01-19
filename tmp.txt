@@ -16,9 +16,6 @@ LDAP
 NFS
 Ansible
 
-
-
-
 LUN:
 ---
 Llamar: Besasso + Oftalmologo - Ver si OSDE
