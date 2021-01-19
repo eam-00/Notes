@@ -18,6 +18,7 @@ Ansible
 
 LUN:
 ---
+Cbio Sabanas
 Ver alforjas @ML
 Lavar: toallin | repasador | Alforja
 Check Fernando transfer: Cell + Internet
