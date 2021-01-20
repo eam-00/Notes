@@ -29,7 +29,7 @@ Stremio: Ver addons c/ Pato
 ATM SRio | Galicia
 N: Recordatorio turno medico
 Coser: fosforescente | alforjas
-Arreglar sandalias x2
+Pegar sandalia Keen
 
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
