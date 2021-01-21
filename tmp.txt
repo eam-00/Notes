@@ -16,7 +16,7 @@ LDAP
 NFS
 Ansible
 
-MIE:
+JUE:
 ---
 Limpiar casita
 Ver alforjas @ML
