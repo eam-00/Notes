@@ -18,6 +18,7 @@ Ansible
 
 JUE:
 ---
+Revisar USB Ext Arcadia
 
 Ver alforjas @ML
 
