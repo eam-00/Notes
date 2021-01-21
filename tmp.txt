@@ -18,7 +18,7 @@ Ansible
 
 JUE:
 ---
-Limpiar casita
+
 Ver alforjas @ML
 
 Check Fernando transfer: Cell + Internet
