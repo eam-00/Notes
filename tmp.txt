@@ -30,7 +30,7 @@ ATM SRio | Galicia
 N: Recordatorio turno medico
 Coser: fosforescente | alforjas
 Pegar sandalia Keen
-Carrefour
+
 
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
