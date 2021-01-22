@@ -20,7 +20,7 @@ Ansible
 VIE:
 ---
 
-Revisar USB Ext Arcadia | cp Logwatchs from Desktop | Delete
+
 X60: Batt | Sync from op2
 W530 | Updates | Sync Other Dropbox
 Ver alforjas @ML
