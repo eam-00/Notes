@@ -24,6 +24,8 @@ VIE:
 X60: Batt | Sync from op2
 W530 | Updates | Sync Other Dropbox
 Ver alforjas @ML
+cargar N10
+
 
 Check Fernando transfer: Cell + Internet
 OE10: Sacar Fotos de asiento de BT | Post stats de Transmission
