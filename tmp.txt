@@ -19,8 +19,6 @@ Ansible
 
 VIE:
 ---
-
-
 X60: Batt | Sync from op2
 W530 | Updates | Sync Other Dropbox
 Ver alforjas @ML
