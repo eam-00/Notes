@@ -16,8 +16,9 @@ LDAP
 NFS
 Ansible
 
-JUE:
+VIE:
 ---
+TS
 Revisar USB Ext Arcadia | cp Logwatchs from Desktop | Delete
 X60: Batt | Sync from op2
 Ver alforjas @ML
