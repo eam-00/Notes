@@ -35,8 +35,6 @@ Starbucks: cafe en granos (?)
 ATM SRio | Galicia
 N: Recordatorio turno medico
 Coser: fosforescente | alforjas
-
-
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 
