@@ -21,7 +21,7 @@ SAB:
 ---
 Pasar Precio a Jorge
 Ver alforjas @ML
-cargar N10
+
 cargar Nikon
 
 LUN:
