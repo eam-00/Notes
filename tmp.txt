@@ -22,7 +22,7 @@ SAB:
 Pasar Precio a Jorge
 Ver alforjas @ML
 
-cargar Nikon
+
 
 LUN:
 ---
