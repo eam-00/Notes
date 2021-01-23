@@ -20,7 +20,6 @@ Ansible
 SAB:
 ---
 Pasar Precio a Jorge
-W530 | Updates | Sync Other Dropbox
 Ver alforjas @ML
 cargar N10
 cargar Nikon
