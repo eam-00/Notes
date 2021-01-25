@@ -16,10 +16,6 @@ NFS
 Ansible
 
 
----
-
-
-
 LUN:
 ---
 Check Fernando transfer: Cell + Internet
