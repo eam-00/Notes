@@ -19,6 +19,7 @@ Ansible
 LUN:
 ---
 Check Fernando transfer: Cell + Internet
+Colgar ropa en el balcon (BDU)
 OE10: Sacar Fotos de asiento de BT | Post stats de Transmission
 Starbucks: cafe en granos (?)
 ATM SRio | Galicia
