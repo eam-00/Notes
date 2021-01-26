@@ -15,7 +15,6 @@ LDAP
 NFS
 Ansible
 
-
 MAR:
 ---
 Check Fernando transfer: Cell + Internet
