@@ -23,7 +23,6 @@ OE10: Sacar Fotos de asiento de BT | Post stats de Transmission
 Starbucks: cafe en granos (?)
 ATM SRio | Galicia
 Coser: fosforescente | alforjas
-Convertir epub -> mobi "Five Fingers"
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 
