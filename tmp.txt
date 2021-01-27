@@ -26,7 +26,7 @@ ATM SRio | Galicia
 Coser: fosforescente | alforjas
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
-
+Carre: J. Clight|Chocolinas|
 
 Spotify:
 Sid Vicious - Something Else
