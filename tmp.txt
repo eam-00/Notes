@@ -17,6 +17,7 @@ Ansible
 
 MIE:
 ---
+M: colonia + Nflix The Dig
 Limpiar casita
 Check Fernando transfer: Cell + Internet
 
