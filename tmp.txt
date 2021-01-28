@@ -15,8 +15,9 @@ LDAP
 NFS
 Ansible
 
-MIE:
+JUE:
 ---
+Tomar medidas p/ base de Happy Hacking Sobre cogni.00
 M: colonia + Nflix The Dig
 Deb: Nflix Made You Look
 
