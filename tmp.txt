@@ -19,7 +19,7 @@ MIE:
 ---
 M: colonia + Nflix The Dig
 Deb: Nflix Made You Look
-Limpiar casita
+
 Check Fernando transfer: Cell + Internet
 
 OE10: Sacar Fotos de asiento de BT | Post stats de Transmission
