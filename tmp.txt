@@ -36,6 +36,10 @@ Tommy: Manies c/ choco|manies s/ sal
 Coser: fosforescente | alforjas
 Cargar N10
 
+DOM:
+---
+Reboot W + Proxy
+
 Spotify:
 Sid Vicious - Something Else
 https://www.youtube.com/watch?v=zpaVf_fSXoQ
