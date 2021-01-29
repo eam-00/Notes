@@ -17,7 +17,7 @@ Ansible
 
 VIE:
 ---
-Check Bcos
+
 TS
 Tomar medidas p/ base de Happy Hacking Sobre cogni.00
 Deb: Nflix Made You Look
