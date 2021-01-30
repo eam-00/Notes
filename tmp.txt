@@ -15,9 +15,9 @@ LDAP
 NFS
 Ansible
 
-VIE:
+SAB:
 ---
-
+Imprimir FEMEDICA
 
 Tomar medidas p/ base de Happy Hacking Sobre cogni.00
 Deb: Nflix Made You Look
@@ -39,6 +39,8 @@ Cargar N10
 DOM:
 ---
 Reboot W + Proxy
+
+LUN
 
 Spotify:
 Sid Vicious - Something Else
