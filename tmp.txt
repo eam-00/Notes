@@ -19,7 +19,7 @@ Ansible
 SAB:
 ---
 
-Cambiar Luz p/ bicicleta
+
 Borrar Mierda M
 Nivea aerosol sensitive 118$ precios cuidados
 
