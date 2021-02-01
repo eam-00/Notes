@@ -55,10 +55,6 @@ Starbucks: cafe en granos (?)
 Coser: fosforescente 
 
 
-DOM:
----
-
-Reboot W + Proxy
 
 
 LUN:
