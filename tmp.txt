@@ -34,9 +34,6 @@ Ansible
 SAB:
 ---
 Borrar Mierda M
-
-
-
 Deb: Nflix Made You Look
 
 
