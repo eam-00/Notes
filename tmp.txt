@@ -33,8 +33,6 @@ Ansible
 
 SAB:
 ---
-
-
 Borrar Mierda M
 
 
