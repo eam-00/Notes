@@ -52,7 +52,7 @@ Coser: fosforescente
 
 
 
-MAR:
+MIE:
 ---
 N: aniver
 Cbio. sabs.
