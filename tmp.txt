@@ -35,12 +35,6 @@ SAB:
 ---
 Borrar Mierda M
 Deb: Nflix Made You Look
-
-
-
-
-
-
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 
