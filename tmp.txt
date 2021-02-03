@@ -39,8 +39,6 @@ VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 
 Starbucks: cafe en granos (?)
-
-
 Coser: fosforescente 
 
 
