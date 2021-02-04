@@ -31,18 +31,6 @@ LDAP
 NFS
 Ansible
 
-SAB:
----
-Borrar Mierda M
-Deb: Nflix Made You Look
-VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
-Solaris
-
-
-
-
-
-
 VIE:
 ---
 TS
@@ -52,6 +40,16 @@ Starbucks: cafe en granos (?)
 Coser: fosforescente 
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 Check Fernando transfer: Cell + Internet
+
+SAB:
+---
+Borrar Mierda M
+Deb: Nflix Made You Look
+VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
+Solaris
+
+
+
 
 Spotify:
 Sid Vicious - Something Else
