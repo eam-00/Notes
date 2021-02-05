@@ -53,6 +53,7 @@ Lun:
 ---
 S -> patching (?)
 Freeze over?
+Lync HST ?
 Renamed dir -> Miss G
 
 Spotify:
