@@ -34,8 +34,7 @@ Ansible
 VIE:
 ---
 
-Freeze over?
-Renamed dir -> Miss G
+
 Desloratadina
 Coser: fosforescente 
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
@@ -53,7 +52,8 @@ Solaris
 
 Lun:
 ---
-
+Freeze over?
+Renamed dir -> Miss G
 
 Spotify:
 Sid Vicious - Something Else
