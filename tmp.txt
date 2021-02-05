@@ -49,6 +49,7 @@ SAB:
 ---
 Borrar Mierda M
 Deb: Nflix Made You Look
+Review T410
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 
