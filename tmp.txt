@@ -33,7 +33,6 @@ Ansible
 
 VIE:
 ---
-TS
 chk bcos
 Freeze over?
 Renamed dir -> Miss G
