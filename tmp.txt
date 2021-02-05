@@ -52,6 +52,7 @@ Solaris
 
 Lun:
 ---
+S -> patching (?)
 Freeze over?
 Renamed dir -> Miss G
 
