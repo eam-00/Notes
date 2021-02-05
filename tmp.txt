@@ -33,8 +33,6 @@ Ansible
 
 VIE:
 ---
-
-
 Desloratadina
 Coser: fosforescente 
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
