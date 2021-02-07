@@ -43,7 +43,7 @@ Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 SAB:
 ---
 Deb: Nflix Made You Look
-Review T410
+
 Reserva La Moneda
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
