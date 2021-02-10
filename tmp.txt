@@ -45,6 +45,7 @@ Solaris
 
 MIE:
 ---
+Limpiar casita
 Renamed dir -> Miss G
 
 Llamar La Moneda
