@@ -33,8 +33,6 @@ Ansible
 
 VIE:
 ---
-Coser: fosforescente 
-Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 
 SAB:
 ---
@@ -48,6 +46,8 @@ MIE:
 
 Check Fernando transfer: Cell + Internet
 Renamed dir -> Miss G
+Coser: fosforescente 
+Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 
 
 
