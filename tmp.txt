@@ -31,8 +31,6 @@ LDAP
 NFS
 Ansible
 
-
-
 SAB:
 ---
 Deb: Nflix Made You Look
