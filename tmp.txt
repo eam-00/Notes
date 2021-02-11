@@ -31,8 +31,7 @@ LDAP
 NFS
 Ansible
 
-VIE:
----
+
 
 SAB:
 ---
