@@ -41,7 +41,7 @@ Solaris
 
 VIE:
 ---
-
+W: Lets Encrypt SSL Cert
 Check Fernando transfer: Cell + Internet
 Renamed dir -> Miss G
 Coser: fosforescente 
