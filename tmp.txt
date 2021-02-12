@@ -43,7 +43,7 @@ Solaris
 VIE:
 ---
 
-Chck Bcos
+
 
 
 cp files cogni.00 -> cogni.01
