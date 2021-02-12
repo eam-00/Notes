@@ -46,7 +46,7 @@ VIE:
 
 
 
-cp files cogni.00 -> cogni.01
+
 Renamed dir -> Miss G
 Coser: fosforescente 
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
