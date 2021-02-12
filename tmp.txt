@@ -35,6 +35,7 @@ SAB:
 ---
 Deb: Nflix Made You Look
 La Moneda: 21 hrs
+Check Chromebook
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 
