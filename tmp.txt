@@ -45,7 +45,7 @@ VIE:
 TS
 Chck Bcos
 
-W: Lets Encrypt SSL Cert
+
 cp files cogni.00 -> cogni.01
 Renamed dir -> Miss G
 Coser: fosforescente 
