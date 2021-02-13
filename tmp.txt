@@ -43,8 +43,8 @@ Solaris
 MIE:
 ---
 ED: devel accnt
-unmet 279 (?)
-
+unmeta 279 (?)
+Review docs future project
 
 
 Renamed dir -> Miss G
