@@ -42,6 +42,7 @@ Solaris
 
 LUN:
 ---
+Llevar: Pizza|C100P
 Updates W
 
 MIE:
