@@ -41,7 +41,7 @@ Solaris
 
 LUN:
 ---
-Llevar: Pizza|C100P
+Llevar: Pizza|C100P|Fritolin(s)
 Updates W
 
 MIE:
