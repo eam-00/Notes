@@ -29,11 +29,6 @@ Satellite
 LDAP
 NFS
 Ansible
-
-
-
-
-
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 
