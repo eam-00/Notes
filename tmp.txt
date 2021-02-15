@@ -37,14 +37,14 @@ MAR:
 Llevar: Pizza|Fritolin(s)
 Updates W
 Deb: Nflix Made You Look
-
+Coser: fosforescente 
 MIE:
 ---
 ED: devel accnt
 unmeta 279 (?)
 Review docs future project
 Renamed dir -> Miss G
-Coser: fosforescente 
+
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 
 
