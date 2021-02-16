@@ -37,7 +37,7 @@ MAR:
 
 
 Deb: Nflix Made You Look
-Coser: fosforescente 
+
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 
 MIE:
@@ -46,7 +46,7 @@ ED: devel accnt
 unmeta 279 (?)
 Review docs future project
 Renamed dir -> Miss G
-
+Coser: fosforescente 
 
 
 
