@@ -34,8 +34,9 @@ Solaris
 
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 
-MIE:
+VIE:
 ---
+TS
 ED: devel accnt
 unmeta 279 (?)
 Review docs future project
