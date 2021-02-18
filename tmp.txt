@@ -32,11 +32,6 @@ Ansible
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 
-
-
-
-
-
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 
 MIE:
