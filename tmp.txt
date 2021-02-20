@@ -33,14 +33,14 @@ VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
-
+Coser: fosforescente
 LUN:
 ---
 ED: devel accnt
 unmeta 279 (?)
 Review docs future project
 Renamed dir -> Miss G
-Coser: fosforescente 
+
 
 Carrefour: Queso Port Salut Light|Blem
 
