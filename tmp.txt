@@ -41,6 +41,7 @@ Coser: fosforescente
 
 LUN:
 ---
+check cogni training stuff
 ED: devel accnt
 unmeta 279 (?)
 Review docs future project
