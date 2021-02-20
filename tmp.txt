@@ -36,7 +36,7 @@ Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 
 VIE:
 ---
-TS
+
 
 ED: devel accnt
 unmeta 279 (?)
