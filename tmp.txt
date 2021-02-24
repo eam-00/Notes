@@ -49,7 +49,9 @@ Deso Amb
 Alcohol
 Algodon
 Bolsitas
-Fruta|Vim|Liq. limpia pisos verde|j. liq. p/ manos
+Fruta
+Vim
+Liq. limpia pisos verde|j. liq. p/ manos
 
 Soda
 
