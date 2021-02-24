@@ -34,6 +34,7 @@ Solaris
 
 MIE:
 ---
+Limpiar casita
 check cogni training stuff
 ED: devel accnt
 script: uid|dir empty
