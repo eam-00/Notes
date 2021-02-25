@@ -35,7 +35,7 @@ Solaris
 JUE:
 ---
 ML: Keen + 11e
-
+mv back oryx -> rails-dev (?)
 check cogni training stuff
 ED: devel accnt
 script: uid|dir empty
