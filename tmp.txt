@@ -38,6 +38,8 @@ TS
 Check Bcos
 Lavar toallon nuevo
 ML: 11e
+Lappies: t420 (setup)|W530 (sync other Dropbox, get specs)
+P: Tablet (?)
 
 check cogni training stuff
 ED: devel accnt
