@@ -49,7 +49,7 @@ Coser: fosforescente
 
 Lun:
 ---
-
+alias ssh='ssh -o ServerAliveInterval=60'
 Review docs future project
 Renamed dir -> Miss G
 Cargar Nikon|Pilas AA
