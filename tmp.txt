@@ -46,6 +46,10 @@ ED: devel accnt
 
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 Coser: fosforescente
+
+Lun:
+---
+
 Review docs future project
 Renamed dir -> Miss G
 Cargar Nikon|Pilas AA
