@@ -42,13 +42,14 @@ Lappies: t420 (setup)|W530 (sync other Dropbox, get specs)
 
 A: info deposito
 
-ED: devel accnt
+
 
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 Coser: fosforescente
 
 Lun:
 ---
+ED: devel accnt
 alias ssh='ssh -o ServerAliveInterval=60'
 Review docs future project
 Renamed dir -> Miss G
