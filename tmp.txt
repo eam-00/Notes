@@ -38,7 +38,7 @@ ML: 11e
 
 check cogni training stuff
 ED: devel accnt
-script: uid|dir empty
+
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 Coser: fosforescente
 Review docs future project
