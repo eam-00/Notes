@@ -32,9 +32,9 @@ Ansible
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 
-JUE:
+VIE:
 ---
-ML: Keen + 11e
+ML: 11e
 mv back oryx -> rails-dev (?)
 check cogni training stuff
 ED: devel accnt
