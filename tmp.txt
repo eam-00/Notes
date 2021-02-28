@@ -37,7 +37,7 @@ DOM:
 ML: 11e
 Lappies: t420 (setup)|W530 (sync other Dropbox, get specs)
 Jubileta
-
+SRio
 
 
 
