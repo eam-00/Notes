@@ -39,7 +39,7 @@ Lappies: t420 (setup)|W530 (sync other Dropbox, get specs)
 Jubileta
 SRio
 reboot rails-pro
-
+Cargar Pilas AA
 
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 Coser: fosforescente
