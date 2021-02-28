@@ -47,6 +47,7 @@ Coser: fosforescente
 
 Lun:
 ---
+Check ticket Rackspace
 ED: devel accnt
 alias ssh='ssh -o ServerAliveInterval=60'
 Check Sun prod p/ patching
