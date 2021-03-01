@@ -36,7 +36,7 @@ DOM:
 ---
 
 ML: 11e
-Lappies: t420 (setup)|W530 (sync other Dropbox, get specs)
+
 
 SRio
 
@@ -52,6 +52,7 @@ ED: devel accnt
 alias ssh='ssh -o ServerAliveInterval=60'
 Check Sun prod p/ patching
 Review docs future project
+Lappies: t420 (setup)|W530 (sync other Dropbox, get specs)|
 Llamar Fibertel M
 Renamed dir -> Miss G
 Gali
