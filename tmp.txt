@@ -1,4 +1,3 @@
-
 Llevar N:
 --------
 
@@ -47,7 +46,7 @@ Lun:
 ---
 Check ticket Rackspace
 ED: devel accnt
-alias ssh='ssh -o ServerAliveInterval=60'
+
 
 Review docs future project
 Coser: fosforescente
