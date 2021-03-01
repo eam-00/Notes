@@ -42,7 +42,7 @@ Solaris
 
 
 
-Lun:
+
 
 
 MAR:
