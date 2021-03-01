@@ -19,7 +19,7 @@ https://articulo.mercadolibre.com.ar/MLA-873089705-sombrero-jungla-monte-tactico
 https://www.reddit.com/r/Mercadoreddit/comments/j87gjc/vendo_pesas_de_cemento/
 
 Claro: llamar al 0800 123 25276 9 a 21 hrs
-ML:  Chromebook cb3431 | Chromebook Pixelbook | X201t - 549 11 6849 2035 (15 6849 2035) Ivan - 60 mil
+ML:   | X201t - 549 11 6849 2035 (15 6849 2035) Ivan - 60 mil
 
 Cogni:
 -----
@@ -35,12 +35,11 @@ Solaris
 DOM:
 ---
 
-ML: 11e
+
 
 
 SRio
 
-Cargar Pilas AA
 
 
 
@@ -52,6 +51,7 @@ alias ssh='ssh -o ServerAliveInterval=60'
 Check Sun prod p/ patching
 Review docs future project
 Coser: fosforescente
+ML: 11e | Chromebook cb3431 | Chromebook Pixelbook
 Lappies: t420 (setup)|W530 (sync other Dropbox, get specs)|X220 small batt|X140e
 Llamar Fibertel M
 Renamed dir -> Miss G
