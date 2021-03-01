@@ -42,9 +42,6 @@ Solaris
 
 
 
-
-
-
 MAR:
 ---
 ANIVERSARIO
