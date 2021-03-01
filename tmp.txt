@@ -1,3 +1,4 @@
+
 Llevar N:
 --------
 
@@ -47,7 +48,7 @@ Lun:
 Check ticket Rackspace
 ED: devel accnt
 alias ssh='ssh -o ServerAliveInterval=60'
-Check Sun prod p/ patching
+
 Review docs future project
 Coser: fosforescente
 ML: 11e | Chromebook cb3431 | Chromebook Pixelbook
