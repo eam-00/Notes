@@ -42,8 +42,7 @@ SRio
 
 Cargar Pilas AA
 
-Tomar medidas p/ base de Happy Hacking ontop of cogni.00
-Coser: fosforescente
+
 
 Lun:
 ---
@@ -52,11 +51,13 @@ ED: devel accnt
 alias ssh='ssh -o ServerAliveInterval=60'
 Check Sun prod p/ patching
 Review docs future project
+Coser: fosforescente
 Lappies: t420 (setup)|W530 (sync other Dropbox, get specs)|X220 small batt|X140e
 Llamar Fibertel M
 Renamed dir -> Miss G
 Gali
 Tommy:  Mani s/ sal | Almendras c/ choco
+Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 
 
 
