@@ -44,6 +44,10 @@ Solaris
 
 Lun:
 ---
+
+MAR:
+---
+ANIVERSARIO
 Check ticket Rackspace
 ED: devel accnt
 Review docs future project
@@ -56,9 +60,6 @@ Renamed dir -> Miss G
 
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 
-MAR:
----
-ANIVERSARIO
 
 JUE:
 ---
