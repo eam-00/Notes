@@ -47,7 +47,7 @@ MAR:
 
 
 Check ticket Rackspace
-Test KeepAlive
+
 ED: devel accnt
 Review docs future project
 Coser: fosforescente
