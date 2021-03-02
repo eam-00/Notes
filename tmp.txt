@@ -45,9 +45,7 @@ Solaris
 MIE:
 ---
 Limpiar casita
-
 Check ticket Rackspace
-
 ED: devel accnt
 Review docs future project
 Coser: fosforescente
