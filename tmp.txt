@@ -36,7 +36,7 @@ MIE:
 ---
 
 Limpiar casita
-Llamar dentista
+
 Check ticket Rackspace
 ED: devel accnt
 Review docs future project
