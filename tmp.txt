@@ -34,6 +34,7 @@ Solaris
 
 MIE:
 ---
+Updates X201T
 Limpiar casita
 Llamar dentista
 Check ticket Rackspace
