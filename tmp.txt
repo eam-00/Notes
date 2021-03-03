@@ -35,7 +35,7 @@ Solaris
 JUE:
 ---
 
-Limpiar casita
+
 
 Check ticket Rackspace
 ED: devel accnt
