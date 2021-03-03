@@ -44,6 +44,7 @@ Coser: fosforescente
 ML: 11e | Chromebook cb3431 | Chromebook Pixelbook
 Lappies: t420 (setup)|W530 (sync other Dropbox, get specs)|X220 small batt|X140e
 Llamar Fibertel M
+Cargar Kindles
 Renamed dir -> Miss G
 
 
