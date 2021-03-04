@@ -71,8 +71,6 @@ La Ardilla Camping: 4772 0426 | L a V: 10-18 | S: 10-15
 
 SAB:
 ---
-
-
 Pago en ML: CobroExpress -> en ML seleccionar RapiPago
 
 @x201t: Bluetooth off @x201t
