@@ -39,7 +39,7 @@ Solaris
 VIE:
 ---
 Test USB @X201T -> cp FEMEDICA
-TS
+
 Chk Bcos
 Pedir turno cardiologo
 Check ticket Rackspace
