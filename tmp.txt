@@ -61,6 +61,7 @@ Imprimir FEMEDICA
 Lun:
 ---
 Cerrar tickets
+Push Sun patching
 Deposito Exp
 
  turno p/ pag. sup derecho online lab.
