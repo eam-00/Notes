@@ -61,6 +61,7 @@ Imprimir FEMEDICA
 Lun:
 ---
 Cerrar tickets
+Deposito Exp
 
  turno p/ pag. sup derecho online lab.
  ayuno 12 hrs
