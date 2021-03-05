@@ -60,6 +60,7 @@ Imprimir FEMEDICA
 
 Lun:
 ---
+Cerrar tickets
 
 Pago en ML: CobroExpress -> en ML seleccionar RapiPago
 
