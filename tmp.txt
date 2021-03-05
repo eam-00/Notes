@@ -38,7 +38,7 @@ Solaris
 
 VIE:
 ---
-Test USB @X201T -> cp FEMEDICA
+
 
 
 Pedir turno cardiologo
