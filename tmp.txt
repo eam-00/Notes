@@ -38,9 +38,6 @@ Solaris
 
 VIE:
 ---
-
-
-
 Pedir turno cardiologo
 Check ticket Rackspace
 ED: devel accnt
