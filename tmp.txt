@@ -40,7 +40,7 @@ VIE:
 ---
 Test USB @X201T -> cp FEMEDICA
 
-Chk Bcos
+
 Pedir turno cardiologo
 Check ticket Rackspace
 ED: devel accnt
