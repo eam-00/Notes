@@ -34,7 +34,10 @@ VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 
 
-
+VIE:
+---
+TS
+Chk Bcos
 Check ticket Rackspace
 ED: devel accnt
 Review docs future project
@@ -49,10 +52,7 @@ Renamed dir -> Miss G
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 18:30 hrs cardiologo
 
-VIE:
----
-TS
-Chk Bcos
+
 
 SAB:
 ---
