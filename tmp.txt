@@ -38,6 +38,7 @@ VIE:
 ---
 TS
 Chk Bcos
+Pedir turno cardiologo
 Check ticket Rackspace
 ED: devel accnt
 Review docs future project
