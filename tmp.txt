@@ -57,6 +57,7 @@ Lun:
 ---
 Cerrar tickets
 Push Sun patching
+1138789949 - Franco (?) - https://www.reddit.com/r/Mercadoreddit/comments/lgcl4n/vendo_rebajado_notebook_router_firewall_switch/
 Deposito Exp
 Check ticket Rackspace
 ED: devel accnt
