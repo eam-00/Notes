@@ -41,7 +41,6 @@ SAB:
 Imprimir FEMEDICA
 Cargar luces bicis
 Lubricar Blue Thunder
-Test Chromebook CP100
 Buscar Nucrem
 
 Dom:
