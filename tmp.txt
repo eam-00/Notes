@@ -40,7 +40,7 @@ SAB:
 ---
 Imprimir FEMEDICA
 Cargar luces bicis
-Lubricar Blue Thunder
+
 Buscar Nucrem
 
 Dom:
