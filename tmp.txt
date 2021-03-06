@@ -57,6 +57,7 @@ Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 SAB:
 ---
 Imprimir FEMEDICA
+Cargar luces bicis
 
 Lun:
 ---
