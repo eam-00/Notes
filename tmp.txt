@@ -43,6 +43,7 @@ SAB:
 ---
 Imprimir FEMEDICA
 Cargar luces bicis
+Lubricar Blue Thunder
 
 Lun:
 ---
