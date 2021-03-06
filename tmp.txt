@@ -36,10 +36,6 @@ VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 
 
-
-
-
-
 SAB:
 ---
 Imprimir FEMEDICA
