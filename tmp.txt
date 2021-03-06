@@ -38,18 +38,7 @@ Solaris
 
 VIE:
 ---
-Check ticket Rackspace
-ED: devel accnt
-Review docs future project
-Coser: fosforescente
-ML: 11e | Chromebook cb3431 | Chromebook Pixelbook
-Lappies: t420 (setup)
-Llamar Fibertel M
 
-Renamed dir -> Miss G
-
-
-Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 
 
 
@@ -64,6 +53,18 @@ Lun:
 Cerrar tickets
 Push Sun patching
 Deposito Exp
+Check ticket Rackspace
+ED: devel accnt
+Review docs future project
+Coser: fosforescente
+ML: 11e | Chromebook cb3431 | Chromebook Pixelbook
+Lappies: t420 (setup)
+Llamar Fibertel M
+
+Renamed dir -> Miss G
+
+
+Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 
  turno p/ pag. sup derecho online lab.
  ayuno 12 hrs
