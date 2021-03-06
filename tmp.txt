@@ -1,7 +1,7 @@
 Llevar N:
 --------
 - Manies c/ choco
-- Nucrem
+
 
 Tienda Outdoor
 Av. Alvarez Jonte 4770 (entre Allende y Benito Juarez)
@@ -45,6 +45,7 @@ Imprimir FEMEDICA
 Cargar luces bicis
 Lubricar Blue Thunder
 Test Chromebook CP100
+Buscar Nucrem
 
 Lun:
 ---
