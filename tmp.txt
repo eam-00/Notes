@@ -35,10 +35,6 @@ Ansible
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 
-
-
-Buscar Nucrem
-
 Dom:
 ---
 Cargar luces bicis
