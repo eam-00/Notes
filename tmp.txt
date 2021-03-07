@@ -41,6 +41,7 @@ Cargar luces bicis
 Limpiar parrilla
 Get: Barbijo|Asus C100PA
 TRRTs
+Batts: X201T|X60
 Update @W
 
 
