@@ -38,7 +38,8 @@ Solaris
 Dom:
 ---
 Cargar luces bicis
-Get: Barbijo
+Limpiar parrilla
+Get: Barbijo|Asus C100PA
 TRRTs
 Update @W
 
