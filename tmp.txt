@@ -35,12 +35,13 @@ Ansible
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 
-Cargar luces bicis
+
 
 Buscar Nucrem
 
 Dom:
 ---
+Cargar luces bicis
 Get: Barbijo
 TRRTs
 Update @W
