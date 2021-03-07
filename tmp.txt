@@ -45,8 +45,10 @@ Buscar Nucrem
 
 Dom:
 ---
-Update @W
+Get: Barbijo
 TRRTs
+Update @W
+
 
 Lun:
 ---
