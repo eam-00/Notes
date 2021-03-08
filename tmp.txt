@@ -62,7 +62,7 @@ Coser: fosforescente
 ML: 11e | Chromebook cb3431 | Chromebook Pixelbook
 Lappies: t420 (setup)
 Llamar Fibertel M
-Batts: X60
+
 Renamed dir -> Miss G
 
 
