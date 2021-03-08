@@ -41,7 +41,7 @@ Solaris
 
 
 
-Batts: X201T|X60
+Batts: X60
 
 
 
