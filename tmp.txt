@@ -39,7 +39,7 @@ Solaris
 
 
 
-Get: Barbijo|Asus C100PA|Queso
+
 TRRTs
 Batts: X201T|X60
 Update @W
