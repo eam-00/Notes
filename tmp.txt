@@ -36,8 +36,7 @@ Ansible
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 
-Dom:
----
+
 
 
 Get: Barbijo|Asus C100PA|Queso
