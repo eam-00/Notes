@@ -47,7 +47,7 @@ Solaris
 
 Lun:
 ---
-P: ver Win 10 + Adobe install
+
 
 Confirmar Ale Wells
 Push Sun patching
