@@ -37,14 +37,6 @@ VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 
 
-
-
-
-
-
-
-
-
 Mie:
 ---
 Confirmar Ale Wells
