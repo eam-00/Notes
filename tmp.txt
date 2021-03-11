@@ -39,6 +39,7 @@ Solaris
 VIE:
 ---
 Dar baja FEMEDICA
+Chk Bcos
 Confirmar Ale Wells
 Check ticket Rackspace
 ED: devel accnt
