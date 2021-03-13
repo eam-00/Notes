@@ -35,11 +35,10 @@ Ansible
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 
-
 VIE:
 ---
 
-Chk Bcos
+
 Confirmar Ale Wells
 Check ticket Rackspace
 ED: devel accnt
