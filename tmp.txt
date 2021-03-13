@@ -37,8 +37,6 @@ Solaris
 
 VIE:
 ---
-
-
 Confirmar Ale Wells
 Check ticket Rackspace
 ED: devel accnt
