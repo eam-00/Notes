@@ -37,7 +37,6 @@ Solaris
 
 VIE:
 ---
-
 Check ticket Rackspace
 ED: devel accnt
 Review docs future project
