@@ -45,7 +45,8 @@ Coser: fosforescente
 ML: 11e | Chromebook cb3431 | Chromebook Pixelbook
 Lappies: t420 (setup)
 
-DOM
+DOM:
+---
 Encuentro Pavillion
 18 hrs
 1138789949 - Franco
