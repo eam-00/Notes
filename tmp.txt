@@ -49,8 +49,7 @@ LUN:
 ---
 
 
-Sun attach mirrors
-SEP - Customer Care
+
 
 ED: devel accnt
 Review docs future project
