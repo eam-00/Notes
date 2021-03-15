@@ -38,12 +38,7 @@ Solaris
 VIE:
 ---
 
-ED: devel accnt
-Review docs future project
-Renamed dir -> Miss G
-Coser: fosforescente
-ML: 11e | Chromebook cb3431 | Chromebook Pixelbook
-Lappies: t420 (setup)
+
 
 DOM:
 ---
@@ -60,6 +55,12 @@ Dar baja FEMEDICA
 Sun attach mirrors
 SEP - Customer Care
 
+ED: devel accnt
+Review docs future project
+Renamed dir -> Miss G
+Coser: fosforescente
+ML: 11e | Chromebook cb3431 | Chromebook Pixelbook
+Lappies: t420 (setup)
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 
  turno p/ pag. sup derecho online lab.
