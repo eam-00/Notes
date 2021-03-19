@@ -55,7 +55,7 @@ ED: devel accnt
 Review docs future project
 Renamed dir -> Miss G
 Coser: fosforescente
-ML: 11e | Chromebook cb3431 | Chromebook Pixelbook
+
 Lappies: t420 (setup)
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 
