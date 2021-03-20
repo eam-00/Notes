@@ -51,6 +51,7 @@ TRRTs
 
 LUN:
 ---
+Reboot W
 cogni.00 -> RJ45
 Suspender req
 ED: devel accnt
