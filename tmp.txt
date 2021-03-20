@@ -53,7 +53,7 @@ LUN:
 ---
 Reboot W
 cogni.00 -> RJ45
-Suspender req
+Suspender req LDAP (?)
 ED: devel accnt
 Review docs future project
 Renamed dir -> Miss G
