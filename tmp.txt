@@ -1,7 +1,7 @@
 Llevar N:
 --------
 
-- Manies
+
 - Refill alcohol
 - Tupper
 - Kernel gunk @Dell
