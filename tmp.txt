@@ -60,6 +60,7 @@ Reboot W
 cogni.00 -> RJ45
 Push CHG SEP
 Suspender req LDAP (?)
+Lavar: Jean
 ED: devel accnt
 Review docs future project
 Renamed dir -> Miss G
