@@ -45,7 +45,7 @@ MAR:
 
 
 
-Lavar: Jean | toallin
+
 ED: devel accnt
 Review docs future project
 Renamed dir -> Miss G
