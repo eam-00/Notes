@@ -44,7 +44,7 @@ MAR:
 
 
 
-Suspender req LDAP (?)
+
 Lavar: Jean | toallin
 ED: devel accnt
 Review docs future project
