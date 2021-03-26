@@ -67,7 +67,9 @@ Carre: fosforos
 
 SAB:
 ---
+La Bolo: Lasagna c/ bolognesa y un poco de salsa blanca
 Updates @Pavillion
+
 
 Pago en ML: CobroExpress -> en ML seleccionar RapiPago
 
