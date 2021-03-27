@@ -41,8 +41,6 @@ Ansible
 VirtualBox on Debian - https://wiki.debian.org/SystemVirtualization
 Solaris
 
-DOM:
----
 Encuentro Pavillion
 18 hrs - Franco - 1138789949
 https://www.reddit.com/r/Mercadoreddit/comments/lgcl4n/vendo_rebajado_notebook_router_firewall_switch/
@@ -57,6 +55,9 @@ Darker Than Amber: chk UW
 Lappies: t420 (setup)
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 
+
+DOM:
+---
 
 
 cobro M (?)
@@ -73,6 +74,7 @@ SAB:
 La Bolo: Lasagna c/ bolognesa y un poco de salsa blanca
 El Bocated
 Updates @Pavillion
+
 
 
 Pago en ML: CobroExpress -> en ML seleccionar RapiPago
