@@ -56,10 +56,6 @@ Lappies: t420 (setup)
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
 
 
-DOM:
----
-Ge
-x220i: Updates
 
 cobro M (?)
 
@@ -76,6 +72,10 @@ La Bolo: Lasagna c/ bolognesa y un poco de salsa blanca
 El Bocated
 Updates @Pavillion
 
+DOM:
+---
+Ge
+x220i: Updates
 
 
 Pago en ML: CobroExpress -> en ML seleccionar RapiPago
