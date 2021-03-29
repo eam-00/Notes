@@ -75,7 +75,7 @@ DOM:
 ---
 Get T410
 Get tornillos
-x220i: Updates
+
 
 
 Pago en ML: CobroExpress -> en ML seleccionar RapiPago
