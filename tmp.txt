@@ -45,7 +45,7 @@ LUN:
 ---
 Cobro M (?)
 Lavar: Toallin | repasador
-
+Colgar cosas en el balcon
 ED: devel accnt | SEP
 Review docs future project
 Renamed dir -> Miss G
