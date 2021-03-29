@@ -69,8 +69,6 @@ Carre: fosforos
 
 
 
-
-
 DOM:
 ---
 Get T410
