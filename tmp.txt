@@ -46,7 +46,6 @@ MAR:
 Miss G: Feriado VIE | 
 
 
-Llamar p/ tablet
 ED: devel accnt | SEP
 Review docs future project
 Renamed dir -> Miss G
