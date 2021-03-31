@@ -55,6 +55,7 @@ P: compra MBP @ML (?)
 Llamar Eagle Tech p/ tablet
 Cargar KBD Bluetooth
 T60p: update | sync| Batts
+Check KBDs p/ T410
 ED: devel accnt | SEP
 Review docs future project
 Renamed dir -> Miss G
