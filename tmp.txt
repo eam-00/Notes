@@ -48,6 +48,11 @@ MAR:
 
 
 
+
+
+MIE:
+---
+Llamar Eagle Tech p/ tablet
 ED: devel accnt | SEP
 Review docs future project
 Renamed dir -> Miss G
@@ -55,11 +60,6 @@ Coser: fosforescente
 Darker Than Amber: chk UW
 Lappies: t420 (setup)
 Tomar medidas p/ base de Happy Hacking ontop of cogni.00
-
-
-MIE:
----
-Llamar Eagle Tech p/ tablet
 
 Carre: fosforos | bolsitas | Cinta de embalar
 
