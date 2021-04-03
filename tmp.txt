@@ -74,7 +74,7 @@ Carre: Fosforos | Colgante toallas
 SAB:
 ---
 
-Fibertel: M 2do Deco
+Chk factura Fibertel M
 Get T410
 Get tornillos
 
