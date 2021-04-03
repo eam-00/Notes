@@ -54,7 +54,7 @@ LUN:
 Llamar por tablet
 T60p: update | sync| Batts
 Celu cogni -> P
-ED: devel accnt | SEP
+ED: devel accnt | SEP | Jumpcaja
 Review docs future project
 Renamed dir -> Miss G
 Coser: fosforescente
