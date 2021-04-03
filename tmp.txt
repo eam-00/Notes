@@ -82,6 +82,7 @@ Setup printer -> FEMEDICA
 Get T410
 Get tornillos
 TRRT
+Ordenar facturas
 
 
 Pago en ML: CobroExpress -> en ML seleccionar RapiPago
