@@ -77,7 +77,7 @@ SAB/DOM:
 Check M65 sizes
 ATM
 Chk factura Fibertel M
-Setup printer
+Setup printer -> FEMEDICA
 Get T410
 Get tornillos
 TRRT
