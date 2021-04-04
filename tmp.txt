@@ -57,6 +57,7 @@ Ver M65 ML
 Moto G6: Batt | CoverGlass | MicroSD(s)
 T60p: update | sync| Batts
 Celu cogni -> P
+cogni: OSDE p/ N
 ED: devel accnt | SEP | Jumpcaja
 Review docs future project
 Renamed dir -> Miss G
