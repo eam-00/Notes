@@ -52,7 +52,7 @@ LUN:
 Rcksp: ver tema c/ MA & AE
 Llamar por tablet
 Ver M65 ML
-Moto G6: Batt | CoverGlass
+Moto G6: Batt | CoverGlass | MicroSD(s)
 T60p: update | sync| Batts
 Celu cogni -> P
 ED: devel accnt | SEP | Jumpcaja
