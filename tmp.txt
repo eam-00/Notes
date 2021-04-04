@@ -75,7 +75,7 @@ Carre: Fosforos | Colgante toallas
 
 SAB/DOM:
 -------
-CATM
+
 Chk factura Fibertel M
 Setup printer -> FEMEDICA
 Get T410
