@@ -63,7 +63,7 @@ Ver cable HDMI ML
 Moto G6: Batt | CoverGlass | MicroSD(s)
 test conect hostnames
 T60p: update | sync| Batts
-Batts: MBP, X220 (Large), T430
+
 
 cogni: OSDE p/ N
 ED: devel accnt | SEP | Jumpcaja
