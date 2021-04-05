@@ -91,7 +91,7 @@ Chk factura Fibertel M
 Setup printer -> FEMEDICA
 Get T410
 Get tornillos
-TRRT
+
 
 
 
