@@ -87,7 +87,7 @@ Carre: Fosforos | Colgante toallas
 SAB/DOM:
 -------
 
-Chk factura Fibertel M
+
 Setup printer -> FEMEDICA
 
 Get tornillos
