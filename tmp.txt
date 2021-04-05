@@ -59,6 +59,7 @@ Llamar por tablet
 ATM SRio
 ATM Disco
 Ver M65 ML
+Ver cable HDMI ML
 Moto G6: Batt | CoverGlass | MicroSD(s)
 T60p: update | sync| Batts
 Batts: MBP, X220 (Large), T430
