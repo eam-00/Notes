@@ -61,6 +61,7 @@ ATM Disco
 Ver M65 ML
 Moto G6: Batt | CoverGlass | MicroSD(s)
 T60p: update | sync| Batts
+Batts: MBP, X220 (Large), T430
 Celu cogni -> P
 cogni: OSDE p/ N
 ED: devel accnt | SEP | Jumpcaja
