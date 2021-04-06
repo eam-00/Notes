@@ -90,7 +90,7 @@ SAB/DOM:
 -------
 
 
-Setup printer -> FEMEDICA
+
 
 
 
