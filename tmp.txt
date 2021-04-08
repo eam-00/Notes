@@ -55,7 +55,6 @@ Moto G6: Batt | CoverGlass | MicroSD(s)
 test conect hostnames
 T60p: update | sync| Batts
 
-
 cogni: OSDE p/ N
 ED: devel accnt | SEP -> ticket | Jumpcaja
 Review docs future project
