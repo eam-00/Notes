@@ -51,7 +51,7 @@ Depositar Pinto
 
 VIE:
 ---
-TS
+
 Llamar Fernando | RE
 Chk Bcos
 M: Radioactive -> Netflix
