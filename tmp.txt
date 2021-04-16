@@ -52,7 +52,7 @@ Depositar Pinto
 VIE:
 ---
 TS
-Llamar Fernando |
+Llamar Fernando | RE
 
 
 
