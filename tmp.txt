@@ -49,7 +49,7 @@ LUN:
 ---
 Llamar Fernando | RE
 Batts:  W530 > Sync Other Dropbox
-Check X60: Kernel crud, etc...
+
 
 JUE:
 ---
