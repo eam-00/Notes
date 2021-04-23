@@ -68,6 +68,7 @@ Ver cable HDMI ML
 
 LUN:
 ---
+G: resumen tareas
 
 T60p: update | sync| Batts
 
