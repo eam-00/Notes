@@ -66,6 +66,8 @@ Transco The Stand 2020
 Rcksp: ver tema c/ MA & AE
 Ver cable HDMI ML
 
+LUN:
+---
 
 T60p: update | sync| Batts
 
