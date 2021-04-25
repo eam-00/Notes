@@ -73,6 +73,7 @@ Cerrar tickets
 MAR:
 ---
 Descongelar: Milanesa | Pan
+Poner Tornillos
 
 T60p: update | sync| Batts
 
