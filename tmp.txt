@@ -74,6 +74,7 @@ MAR:
 ---
 Descongelar: Milanesa | Pan
 Poner Tornillos
+Lubricar cerradura
 
 T60p: update | sync| Batts
 
