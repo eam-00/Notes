@@ -73,6 +73,8 @@ MAR:
 ---
 Descongelar: Milanesa | Pan
 Poner Tornillos
+Ver status Diego (P)
+Llamar Fernando | RE
 Lubricar cerradura
 
 T60p: update | sync| Batts
