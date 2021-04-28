@@ -67,7 +67,7 @@ Ver cable HDMI ML
 
 LUN:
 ---
-G: resumen tareas
+
 
 
 MAR:
