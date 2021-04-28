@@ -77,6 +77,7 @@ Lubricar cerradura
 
 T60p: update | sync| Batts
 
+JUE:
 cogni: OSDE p/ N
 Review docs future project
 Renamed dir -> Miss G
