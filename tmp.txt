@@ -80,6 +80,7 @@ T60p: update | sync| Batts
 JUE:
 ---
 Batts
+Test Solaris CNX
 
 cogni: OSDE p/ N
 Review docs future project
