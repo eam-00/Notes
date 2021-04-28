@@ -71,7 +71,7 @@ LUN:
 
 MIE:
 ---
-Descongelar: Milanesa | Pan
+
 Poner Tornillos
 Ver status Diego (P)
 Llamar Fernando | RE
