@@ -69,7 +69,7 @@ LUN:
 
 
 
-MAR:
+MIE:
 ---
 Descongelar: Milanesa | Pan
 Poner Tornillos
