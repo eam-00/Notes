@@ -79,6 +79,7 @@ T60p: update | sync| Batts
 
 JUE:
 ---
+Batts
 
 cogni: OSDE p/ N
 Review docs future project
