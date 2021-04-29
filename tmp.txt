@@ -73,13 +73,14 @@ MIE:
 
 Ver status Diego (P)
 Llamar Fernando | RE
-Lubricar cerradura
+
 
 T60p: update | sync| Batts
 
 JUE:
 ---
 Batts
+Lubricar cerradura
 Test Solaris CNX
 
 cogni: OSDE p/ N
