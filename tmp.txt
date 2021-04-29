@@ -81,7 +81,7 @@ Lubricar cerradura
 Test Solaris CNX
 Llamar Fernando | RE
 Ver status Diego (P)
-Carre: bolsitas | Leches | Yogurts
+Carre: bolsitas | Leches | Yogurts | Fruta
 
 cogni: OSDE p/ N
 Review docs future project
