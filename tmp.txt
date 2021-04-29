@@ -72,7 +72,7 @@ MIE:
 
 
 
-Llamar Fernando | RE
+
 
 
 T60p: update | sync| Batts
@@ -82,6 +82,7 @@ JUE:
 Batts
 Lubricar cerradura
 Test Solaris CNX
+Llamar Fernando | RE
 Ver status Diego (P)
 
 cogni: OSDE p/ N
