@@ -71,7 +71,7 @@ MIE:
 ---
 
 
-Ver status Diego (P)
+
 Llamar Fernando | RE
 
 
@@ -82,6 +82,7 @@ JUE:
 Batts
 Lubricar cerradura
 Test Solaris CNX
+Ver status Diego (P)
 
 cogni: OSDE p/ N
 Review docs future project
