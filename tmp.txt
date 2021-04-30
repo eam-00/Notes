@@ -77,7 +77,7 @@ T60p: update | sync| Batts
 VIE:
 ---
 Chk Bcos
-Batts
+Batts: X140e, X220 (Small), W530
 Lubricar cerradura
 Test Solaris CNX
 Llamar Fernando | RE
