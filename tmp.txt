@@ -7,7 +7,7 @@ Llevar N:
 - Crema
 
 
-Ver Backup viejos
+
 
 Tienda Outdoor
 Av. Alvarez Jonte 4770 (entre Allende y Benito Juarez)
@@ -90,6 +90,8 @@ Pegar anteojos
 
 
 SAB
+Ver Backup viejos
+
 
 cogni: OSDE p/ N
 Review docs future project
