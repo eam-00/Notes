@@ -76,6 +76,7 @@ T60p: update | sync| Batts
 
 VIE:
 ---
+Chk Bcos
 Batts
 Lubricar cerradura
 Test Solaris CNX
