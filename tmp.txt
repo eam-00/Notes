@@ -79,6 +79,7 @@ VIE:
 Chk Bcos
 Batts: X140e, X220 (Small), W530
 Lubricar cerradura
+Limpiar congelador
 Test Solaris CNX
 Llamar Fernando | RE
 Ver status Diego (P)
@@ -86,6 +87,7 @@ ATM Jubileta
 Depostitar Gal
 Carre: bolsitas | Leches | Yogurts | Fruta
 Pegar anteojos
+
 
 cogni: OSDE p/ N
 Review docs future project
