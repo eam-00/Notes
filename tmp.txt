@@ -75,7 +75,7 @@ T60p: update | sync| Batts
 
 VIE:
 ---
-Chk Bcos
+
 
 Lubricar cerradura
 
