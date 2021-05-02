@@ -78,6 +78,7 @@ T60p: update | sync| Batts
 Dom:
 ---
 Lubricar cerradura
+Regar plantas
 
 Test Solaris CNX
 Llamar Fernando | RE
