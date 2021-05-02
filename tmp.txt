@@ -79,6 +79,7 @@ Dom:
 ---
 Lubricar cerradura
 Regar plantas
+Poner a cargar batt X201T
 
 Test Solaris CNX
 Llamar Fernando | RE
