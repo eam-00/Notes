@@ -80,7 +80,7 @@ Dom:
 ---
 Lubricar cerradura
 
-Poner a cargar batt X201T
+
 
 Test Solaris CNX
 Llamar Fernando | RE
