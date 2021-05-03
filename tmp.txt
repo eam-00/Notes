@@ -122,7 +122,6 @@ Family Bike
 Peña 2302 (entre Larrea y Azcuenaga)
 011 2255-8926
 
-
 @x201t: Bluetooth off @x201t
 @X60: Test VGA | Limpiarla a fondo | swap HDD, test Win10
 @T60: Canibalizar partes p/ T60p
