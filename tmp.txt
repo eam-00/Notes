@@ -71,8 +71,7 @@ T60p: update | sync| Batts
 
 
 
-MAR:
----
+
 
 Cavagna (?)
 
