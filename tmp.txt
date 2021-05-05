@@ -85,7 +85,7 @@ Ver status Diego (P)
 
 MIE:
 ---
-
+- Decomm
 Lubricar cerradura
 Limpiar casita
 Push Elese (?)
