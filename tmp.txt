@@ -82,7 +82,7 @@ Llamar Fernando | RE
 Ver status Diego (P)
 - Cargar Nexus10
 
-MIE:
+JUE:
 ---
 - Decomm
 - Ticket p/ patch Solaris
