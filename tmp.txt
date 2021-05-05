@@ -87,6 +87,7 @@ MIE:
 ---
 - Link registro -> P
 Lubricar cerradura
+Limpiar casita
 Push Elese (?)
 Optica: buscar anteojos
 - Lavanderia
