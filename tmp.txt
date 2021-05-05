@@ -85,6 +85,7 @@ Ver status Diego (P)
 
 MIE:
 ---
+- Link registro -> P
 Lubricar cerradura
 Push Elese (?)
 Optica: buscar anteojos
