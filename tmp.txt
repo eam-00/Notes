@@ -75,7 +75,7 @@ T60p: update | sync| Batts
 
 Mie:
 ---
-Lubricar cerradura
+
 Cavagna (?)
 Push Elese (?)
 - Lavanderia
@@ -87,6 +87,7 @@ Ver status Diego (P)
 
 MIE:
 ---
+Lubricar cerradura
 Optica: buscar anteojos
 
 SAB:
