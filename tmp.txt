@@ -80,7 +80,7 @@ T60p: update | sync| Batts
 
 Llamar Fernando | RE
 Ver status Diego (P)
-- Cargar Nexus10
+
 
 JUE:
 ---
