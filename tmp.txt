@@ -89,7 +89,7 @@ JUE:
 - Ticket p/ patch Solaris
 
 
-Lubricar cerradura
+
 
 Push Elese (?)
 
