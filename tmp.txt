@@ -95,8 +95,11 @@ Delete Doctor Sleep
 
 VIE:
 ---
+TS
+
 ATM Galicia: Sacar Alq. | Depositar Expensas
 Push Elese (?)
+
 
 SAB:
 ---
