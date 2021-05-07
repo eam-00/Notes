@@ -78,6 +78,7 @@ SAB:
 ---
 Ver Backup viejos
 Cargar Kindle
+Windows Update
 
 cogni: OSDE p/ N
 
