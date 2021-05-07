@@ -72,7 +72,7 @@ Llamar Fernando | RE
 Ver status Diego (P)
 ATM Galicia: Sacar Alq. | Depositar Expensas
 Push Elese (?)
-Carre:  Nivea | Queso Crema Carrefour | Queso Port Salut | Leche Larga Vida
+Carre:  Nivea | Queso Crema Carrefour | Queso Port Salut | Leche Larga Vida | Mermelada
 
 SAB:
 ---
