@@ -1,10 +1,6 @@
 Llevar N:
 --------
-- Cereales
-- Leches
-- Manies
-- BBQ
-- Cremas
+
 - Choco
 - Galles dulces
 - Maceta
