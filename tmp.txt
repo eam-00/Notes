@@ -69,7 +69,7 @@ SAB:
 ---
 M:
 
-- Get: Alitas
+
 Ver Backup viejos
 Cargar Kindle
 Windows Update
