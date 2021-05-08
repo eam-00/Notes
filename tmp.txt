@@ -73,6 +73,9 @@ Carre:  Nivea | Queso Port Salut | Leche Larga Vida | Mermelada
 
 SAB:
 ---
+M:
+- Dejar: ABL | Analisis
+- Get: Alitas
 Ver Backup viejos
 Cargar Kindle
 Windows Update
@@ -80,7 +83,7 @@ Windows Update
 cogni: OSDE p/ N
 
 
-Coser: fosforescente
+Coser: fosforescente | medias
 Darker Than Amber: chk UW
 Lappies: t420 (setup)
 Tomar medidas p/ base de Happy Hacking on top of cogni.00
