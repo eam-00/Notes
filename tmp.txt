@@ -68,7 +68,7 @@ Carre:  Nivea | Queso Port Salut | Leche Larga Vida | Mermelada
 SAB:
 ---
 M:
-- Dejar: ABL | Analisis
+
 - Get: Alitas
 Ver Backup viejos
 Cargar Kindle
