@@ -49,6 +49,7 @@ LUN:
 ---
 - SEP: test XML reg @hosts not showing up
 - Llamar Cavagna (?)
+- Llamar Fernando | RE
 - Decomm
 
 - Elese: cbio batt celu
@@ -60,7 +61,7 @@ Carre:  Nivea | Queso Port Salut | Leche Larga Vida | Mermelada
 VIE:
 ---
 
-Llamar Fernando | RE
+
 
 
 
