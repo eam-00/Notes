@@ -52,7 +52,7 @@ LUN:
 - Decomm
 
 - Elese: cbio batt celu
-
+Carre:  Nivea | Queso Port Salut | Leche Larga Vida | Mermelada
 
 
 
@@ -63,7 +63,7 @@ VIE:
 Llamar Fernando | RE
 
 
-Carre:  Nivea | Queso Port Salut | Leche Larga Vida | Mermelada
+
 
 SAB:
 ---
