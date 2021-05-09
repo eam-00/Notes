@@ -49,7 +49,6 @@ LUN:
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
 - Decomm
-
 - Elese: cbio batt celu
 Carre:  Nivea | Queso Port Salut | Leche Larga Vida | Mermelada
 
@@ -63,7 +62,7 @@ Carre:  Nivea | Queso Port Salut | Leche Larga Vida | Mermelada
 
 
 
-SAB:
+Dom:
 ---
 Ver Backup viejos
 Cargar Kindle
