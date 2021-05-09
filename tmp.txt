@@ -46,7 +46,7 @@ Dom:
 ---
 Ver Backup viejos
 Cargar Kindle
-Get: Moto G4 Plus | Milanesa | D
+Get: Moto G4 Plus | Milanesa | Desodorante
 
 LUN:
 ---
