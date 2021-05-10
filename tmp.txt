@@ -58,7 +58,6 @@ LUN:
 - Llamar Fernando | RE
 - Decomm
 - Elese: cbio batt celu
-Carre:  Nivea | Queso Port Salut | Leche Larga Vida | Mermelada | Fruta | Enj. Bucal
 - T410: Test cable HDMI
 
 
