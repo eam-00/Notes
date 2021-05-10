@@ -50,7 +50,7 @@ Cargar Kindle
 
 LUN:
 ---
-- SEP: test XML reg @hosts not showing up
+- SEP: test XML reg @hosts not showing up | Check this week servers
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
 - Decomm
