@@ -123,6 +123,7 @@ X220 Large
  X220 Small
 X140E
 X220i
+X60
 
 T430
 T4102
