@@ -51,7 +51,7 @@ Cargar Kindle
 
 LUN:
 ---
-- SEP: test XML reg @hosts not showing up | Check this week servers
+- SEP: test XML reg @hosts not showing up 
 - Llamar Cavagna (?)
 - Check temperatura heladera: N @4
 - Llamar Fernando | RE
