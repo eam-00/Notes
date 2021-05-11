@@ -58,6 +58,7 @@ MAR:
 - Decomm
 - Elese: cbio batt celu
 - T410: Test cable HDMI
+- Batt: X60 
 
 
 
