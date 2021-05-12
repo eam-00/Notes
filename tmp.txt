@@ -54,7 +54,7 @@ Ver Backup viejos
 Cargar Kindle
 
 
-MIE:
+JUE:
 ---
 - SEP: test XML reg @hosts not showing up 
 - Decomm
