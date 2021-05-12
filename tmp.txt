@@ -57,9 +57,10 @@ Cargar Kindle
 MIE:
 ---
 - SEP: test XML reg @hosts not showing up 
+- Decomm
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
-- Decomm
+
 - Elese: buscar celular Nati
 - T410: Test cable HDMI
 - Batt: X60 | X220i
