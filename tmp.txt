@@ -56,7 +56,7 @@ MAR:
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
 - Decomm
-- SRio: Deposito Pinto
+
 - Elese: buscar celular Nati
 - T410: Test cable HDMI
 - Batt: X60 | X220i
