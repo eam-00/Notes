@@ -56,7 +56,7 @@ Cargar Kindle
 
 JUE:
 ---
-- M: tarta J&Q
+
 - SEP: test XML reg @hosts not showing up 
 - Decomm
 - CHG attach mirrors Solaris
