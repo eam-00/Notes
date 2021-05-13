@@ -64,7 +64,7 @@ JUE:
 - Limpiar casita (?)
 - Pagar TC Nati
 - T410: Test cable HDMI
-- Batt: X60 | X220i
+
 
 
 
