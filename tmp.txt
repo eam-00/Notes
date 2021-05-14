@@ -57,7 +57,8 @@ Cargar Kindle
 VIE:
 ---
 - Skype msgs p/ accesos
-- SEP: test XML reg @hosts not showing up 
+- SEP: test XML reg @hosts not showing up
+- TS
 - Decomm
 
 - Llamar Cavagna (?)
