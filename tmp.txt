@@ -67,7 +67,7 @@ VIE:
 - Limpiar casita (?)
 
 - T410: Test cable HDMI
-W530
+- W530: Batt + Updates + Sync Other Dropbox
 
 
 
