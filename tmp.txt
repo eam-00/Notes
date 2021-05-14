@@ -61,6 +61,7 @@ VIE:
 - SEP: test XML reg @hosts not showing up
 - TS
 - Decomm
+- AWS: Add cellphone
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
 - Limpiar casita (?)
