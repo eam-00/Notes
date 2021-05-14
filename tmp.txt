@@ -57,7 +57,7 @@ Bajar pizarron
 
 VIE:
 ---
-- Skype msgs p/ accesos
+
 - check excells
 - SEP: test XML reg @hosts not showing up
 
