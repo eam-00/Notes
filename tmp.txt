@@ -52,6 +52,7 @@ SAB:
 ---
 Ver Backup viejos
 Cargar Kindle
+Bajar pizarron
 
 
 VIE:
