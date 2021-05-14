@@ -61,11 +61,9 @@ VIE:
 - SEP: test XML reg @hosts not showing up
 - TS
 - Decomm
-
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
 - Limpiar casita (?)
-
 - T410: Test cable HDMI
 - W530: Batt + Updates + Sync Other Dropbox
 
