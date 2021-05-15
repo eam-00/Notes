@@ -75,7 +75,7 @@ VIE:
 
 LUN:
 ---
-- ED: Patching (?) | 
+- ED: Patching (?) | ADMS stuff this week (?)
 - Request/ email approval decomm
 - Cerrar ticket re-attach
 
