@@ -62,7 +62,7 @@ passwd
 VIE:
 ---
 
-- check excells
+
 - SEP: test XML reg @hosts not showing up
 
 - Decomm
@@ -78,7 +78,7 @@ LUN:
 - ED: Patching (?) | ADMS stuff this week (?)
 - Request/ email approval decomm
 - Cerrar ticket re-attach
-
+- check excells
 
 
 
