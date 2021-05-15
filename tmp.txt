@@ -75,7 +75,8 @@ VIE:
 
 LUN:
 ---
-- Email Request approval decomm
+
+- Request/ email approval decomm
 - Cerrar ticket re-attach
 
 
