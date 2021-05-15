@@ -75,7 +75,7 @@ VIE:
 
 LUN:
 ---
-
+- ED: Patching (?) | 
 - Request/ email approval decomm
 - Cerrar ticket re-attach
 
