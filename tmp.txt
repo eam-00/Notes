@@ -69,7 +69,7 @@ VIE:
 - AWS: Add cellphone
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
-- Limpiar casita (?)
+
 
 - W530: Batt + Updates + Sync Other Dropbox
 
