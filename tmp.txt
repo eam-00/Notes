@@ -71,7 +71,7 @@ VIE:
 - Llamar Fernando | RE
 
 
-- W530: Batt + Updates + Sync Other Dropbox
+
 
 LUN:
 ---
