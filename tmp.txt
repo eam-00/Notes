@@ -70,7 +70,7 @@ LUN:
 - Cerrar ticket re-attach
 - check excells
 - Decomm
-Cargar Kindle
+- N: Cargar Kindle
 Carre: Queso Port Salut | P. Higienico
 
 
