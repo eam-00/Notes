@@ -67,7 +67,7 @@ LUN:
 ---
 - ED: Patching (?) | ADMS stuff this week (?)
 - Request/ email approval decomm
-- Cerrar ticket re-attach
+
 - check excells
 - Decomm
 - N: Cargar Kindle
