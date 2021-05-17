@@ -75,7 +75,7 @@ LUN:
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
 Carre: Queso Port Salut | P. Higienico
-
+Batts: X220 | T4102
 
 
 
