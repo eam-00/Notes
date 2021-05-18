@@ -75,6 +75,7 @@ MAR:
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
 - T4102: kernel crud
+- Cargar KBD Blue Tooth
 Carre: Detergente | Manteca | Yogurt | Dentifrico
 Coser: fosforescente | medias
 Darker Than Amber: chk UW
