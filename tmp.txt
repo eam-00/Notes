@@ -74,7 +74,7 @@ MAR:
 - AWS: Add cellphone
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
-Carre: Detergente | Manteca | Yogurt
+Carre: Detergente | Manteca | Yogurt | Dentifrico
 Coser: fosforescente | medias
 Darker Than Amber: chk UW
 Lappies: t420 (setup)
