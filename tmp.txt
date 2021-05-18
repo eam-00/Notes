@@ -69,12 +69,12 @@ MAR:
 - Updates @sca
 - Request/ email approval decomm
 - Solaris: Add COMPLETE to Excel
-- check excells
+- Check Excel Vulns
 - N: Cargar Kindle
 - AWS: Add cellphone
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
-Carre: Detergente | Manteca |
+Carre: Detergente | Manteca | Yogurt
 Coser: fosforescente | medias
 Darker Than Amber: chk UW
 Lappies: t420 (setup)
