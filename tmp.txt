@@ -67,7 +67,7 @@ MAR:
 ---
 - ED: ADMS stuff this week (?)
 - Updates @sca
-- Request/ email approval decomm
+
 
 - Check Excel Vulns
 - N: Cargar Kindle
