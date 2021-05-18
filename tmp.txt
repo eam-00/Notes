@@ -68,7 +68,7 @@ MAR:
 - ED: ADMS stuff this week (?)
 - Updates @sca
 - Request/ email approval decomm
-- Solaris: Add COMPLETE to Excel
+
 - Check Excel Vulns
 - N: Cargar Kindle
 - AWS: Add cellphone
