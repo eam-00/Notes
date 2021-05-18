@@ -70,7 +70,6 @@ MAR:
 - Request/ email approval decomm
 - Add COMPLETE Excel Solaris
 - check excells
-- Decomm
 - N: Cargar Kindle
 - AWS: Add cellphone
 - Llamar Cavagna (?)
