@@ -74,6 +74,7 @@ MAR:
 - AWS: Add cellphone
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
+- T4102: kernel crud
 Carre: Detergente | Manteca | Yogurt | Dentifrico
 Coser: fosforescente | medias
 Darker Than Amber: chk UW
