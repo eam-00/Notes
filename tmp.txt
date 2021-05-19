@@ -67,8 +67,6 @@ MAR:
 ---
 - ED: ADMS stuff this week (?)
 
-
-
 - Check Excel Vulns
 - N: Cargar Kindle
 - AWS: Add cellphone
