@@ -73,7 +73,7 @@ JUE:
 - Llamar Fernando | RE
 - T4102: kernel crud
 
-Carre: Detergente | Manteca | Yogurt | Dentifrico
+Carre: Detergente | Manteca 
 Coser: fosforescente | medias
 Darker Than Amber: chk UW
 Lappies: t420 (setup)
