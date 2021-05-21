@@ -68,7 +68,7 @@ VIE:
 
 - ED: USER # | Email address
 
-- CHG decomm other Solaris
+
 - Chk Bcos
 - Check Excel Vulns
 - N: Cargar Kindle
@@ -79,6 +79,7 @@ VIE:
 
 LUN:
 ---
+- CHG decomm other Solaris
 
 Carre:  Manteca 
 Coser: fosforescente | medias
