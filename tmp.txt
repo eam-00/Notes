@@ -68,6 +68,7 @@ VIE:
 - TS
 - ED: USER # | Email address
 - Test AWS conex
+- CHG decomm other Solaris
 - Chk Bcos
 - Check Excel Vulns
 - N: Cargar Kindle
