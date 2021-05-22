@@ -82,7 +82,7 @@ LUN:
 - CHG decomm other Solaris
 - CHG Christine Project Number
 Carre:  Manteca 
-Coser: fosforescente | medias
+Coser: fosforescente 
 Darker Than Amber: chk UW
 Lappies: t420 (setup)
 Tomar medidas p/ base de Happy Hacking on top of cogni.00
