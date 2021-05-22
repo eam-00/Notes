@@ -82,7 +82,7 @@ LUN:
 - chk cogni training program
 - CHG decomm other Solaris
 - CHG Christine Project Number
-Carre:  Manteca 
+Carre:  Manteca | Te verde |
 Coser: fosforescente 
 Darker Than Amber: chk UW
 Lappies: t420 (setup)
