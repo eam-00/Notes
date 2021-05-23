@@ -82,6 +82,7 @@ LUN:
 ---
 - Mail Miss G: Project Number Christine ticket
 - Limpiar casita
+- Lavar cosas Lunes
 - chk cogni training program
 - chk/ warning tranining @remote
 - CHG decomm other Solaris
