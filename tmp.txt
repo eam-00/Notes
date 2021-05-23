@@ -84,7 +84,7 @@ LUN:
 - CHG decomm other Solaris
 - chk/ warning tranining @remote
 - CHG Christine Project Number
-Carre:  Manteca | Te verde | Zuccinis |
+Carre:  Manteca | Te verde | Zuccinis | Anco (bandeja)
 Coser: fosforescente 
 Darker Than Amber: chk UW
 Lappies: t420 (setup)
