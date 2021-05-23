@@ -82,6 +82,7 @@ LUN:
 ---
 - chk cogni training program
 - CHG decomm other Solaris
+- chk/ warning tranining @remote
 - CHG Christine Project Number
 Carre:  Manteca | Te verde |
 Coser: fosforescente 
