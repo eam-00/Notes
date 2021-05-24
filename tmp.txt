@@ -84,7 +84,7 @@ LUN:
 - Limpiar casita
 
 - Batts
-- Cbio sbas
+
 - chk cogni training program
 - chk/ warning tranining @remote
 - CHG decomm other Solaris
