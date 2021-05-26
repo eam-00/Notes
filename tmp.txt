@@ -85,6 +85,7 @@ MIE:
 - chk cogni training program
 - chk/ warning tranining @remote
 - CHG decomm other Solaris
+- Dejar tarj. M
 - Lavanderia
 
 Carre:  Manteca | Te verde | Zuccinis | Anco (bandeja) | Galles salvado Carre
