@@ -76,7 +76,7 @@ https://www.reddit.com/r/Mercadoreddit/comments/lgcl4n/vendo_rebajado_notebook_r
 
 
 - N: Cargar Kindle
-- AWS: Add cellphone
+
 
 
 
@@ -89,6 +89,7 @@ LUN:
 - chk/ warning tranining @remote
 - CHG decomm other Solaris
 - Check Excel Vulns
+- AWS: Add cellphone
 
 Carre:  Fruta | Galles salvado Carre | Yogurt
 
