@@ -78,7 +78,7 @@ Sab:
 - OpenBSD
 - N: Cargar Kindle
 
-- N: Kitty Love
+
 - N: Noam Chomsky
 
 
