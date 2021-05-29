@@ -79,7 +79,7 @@ Sab:
 - N: Cargar Kindle
 - N 24 Jun: Netflix Godzilla Singular Point
 - N: Kitty Love
-
+- N: Noam Chomsky
 
 
 LUN:
