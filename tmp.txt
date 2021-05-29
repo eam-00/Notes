@@ -125,7 +125,6 @@ https://support.zoom.us/hc/en-us/articles/360027397692-Desktop-client-mobile-app
 https://it.umn.edu/services-technologies/how-tos/zoom-pre-webinar-checklist-hosts
 https://support.zoom.us/hc/en-us/articles/360000252726-Roles-in-a-Webinar
 https://www.vidyard.com/blog/zoom-webinar-guide/
-
 https://zapier.com/apps/cisco-webex-meetings/integrations/mailchimp
 
 N10: 27 cm | 18 cm
@@ -136,7 +135,7 @@ Romeo Mayday Delta Alpha Sierra Hospital Romeo Foxtrot Sierra Lima Alpha Sierra 
 
 MBP
 X220 Large
- X220 Small
+X220 Small
 X140E
 X220i
 X60
