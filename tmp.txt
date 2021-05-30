@@ -94,7 +94,7 @@ LUN:
 - Check Excel Vulns
 - AWS: Add cellphone
 
-Carre:  Fruta | Galles salvado Carre 
+Carre:  Fruta 
 
 Darker Than Amber: chk UW
 Lappies: t420 (setup)
