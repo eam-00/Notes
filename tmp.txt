@@ -82,7 +82,6 @@ Sab:
 - N: Cargar Kindle
 
 
-- N: Noam Chomsky
 
 
 LUN:
