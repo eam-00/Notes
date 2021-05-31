@@ -68,7 +68,7 @@ LUN:
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
 
-- Depo G CC
+
 - Ver adapts.
 - chk cogni training program
 - chk/ warning tranining @remote
