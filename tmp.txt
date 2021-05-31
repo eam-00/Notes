@@ -81,8 +81,7 @@ Dom:
 ---
 
 
-- OpenBSD
-- N: Cargar Kindle
+
 
 
 
