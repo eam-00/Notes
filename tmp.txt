@@ -88,6 +88,8 @@ Dom:
 
 LUN:
 ---
+- OpenBSD
+- N: Cargar Kindle
 - Diego: corte agua caliente (?)
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
