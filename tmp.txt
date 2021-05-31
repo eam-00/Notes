@@ -69,6 +69,7 @@ LUN:
 - Llamar Fernando | RE
 - ATM M
 - Depo G CC
+- Ver adapts.
 - chk cogni training program
 - chk/ warning tranining @remote
 - CHG decomm other Solaris
