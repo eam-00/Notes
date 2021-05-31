@@ -68,6 +68,7 @@ LUN:
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
 - ATM M
+- Depo G CC
 - chk cogni training program
 - chk/ warning tranining @remote
 - CHG decomm other Solaris
