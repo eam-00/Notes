@@ -64,7 +64,7 @@ LUN:
 - OpenBSD - Test @T60p (?)
 - MBW: Cargar batt - Test OpenBSD (?)
 - N: Cargar Kindle
-- Diego: corte agua caliente (?)
+
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
 - ATM M
