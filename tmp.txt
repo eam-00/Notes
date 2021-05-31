@@ -59,10 +59,11 @@ https://www.reddit.com/r/Mercadoreddit/comments/lgcl4n/vendo_rebajado_notebook_r
 
 
 
-LUN:
+MAR:
 ---
 - OpenBSD - Test @T60p (?)
 - MBW: Cargar batt - Test OpenBSD (?)
+- Batts
 - N: Cargar Kindle
 
 - Llamar Cavagna (?)
