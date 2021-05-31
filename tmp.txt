@@ -89,6 +89,7 @@ Dom:
 
 LUN:
 ---
+- Diego: corte agua caliente (?)
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
 - chk cogni training program
