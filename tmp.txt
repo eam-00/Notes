@@ -77,7 +77,7 @@ MAR:
 - CHG decomm other Solaris
 - Check Excel Vulns
 - AWS: Add cellphone
-- Test: Flow | Share screen Chromecast
+- Test x220i: Flow | Share screen 
 
 Darker Than Amber: chk UW
 Lappies: t420 (setup)
