@@ -71,7 +71,7 @@ MAR:
 - Llamar Fernando | RE
 
 
-- Ver adapts.
+- Ver ML adaptador HDMI > DVI
 - chk cogni training program
 - chk/ warning tranining @remote
 - CHG decomm other Solaris
