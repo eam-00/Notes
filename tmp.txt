@@ -68,8 +68,6 @@ MAR:
 - N: Cargar Kindle
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
-
-
 - Ver ML adaptador HDMI > DVI
 - chk cogni training program
 
