@@ -66,7 +66,7 @@ MAR:
 - MBW: Cargar batt - Test OpenBSD (?)
 - Batts
 - N: Cargar Kindle
-- ATM J
+
 
 - Llamar Cavagna (?)
 - Llamar Fernando | RE
