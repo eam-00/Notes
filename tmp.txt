@@ -78,7 +78,7 @@ MAR:
 - Check Excel Vulns
 - AWS: Add cellphone
 - Test x220i Chromecast: Flow | Share screen
-- Test t410: VGA
+
 
 Darker Than Amber: chk UW
 Lappies: t420 (setup)
