@@ -76,7 +76,7 @@ JUE:
 - AWS: Add cellphone
 - Test x220i Chromecast: Flow | Share screen
 
-Carre: Alfajores Terrabusi | Queso Port 
+Carre: Alfajores Terrabusi | Queso Port Salut
 
 Darker Than Amber: chk UW
 Lappies: t420 (setup)
