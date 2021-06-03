@@ -71,7 +71,7 @@ JUE:
 - Ver ML adaptador HDMI > DVI
 - chk cogni training program
 
-- CHG decomm other Solaris
+
 - Check Excel Vulns
 - AWS: Add cellphone
 - Test x220i Chromecast: Flow | Share screen
