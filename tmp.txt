@@ -75,6 +75,7 @@ JUE:
 
 VIE:
 ---
+- Nati: chk clase particular (?)
 - Chk Bcos
 - CHG decomm other Solaris
 - Decomm
