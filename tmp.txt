@@ -64,7 +64,7 @@ JUE:
 ---
 - OpenBSD - Test @T60p (?)
 - MBW: Cargar batt - Test OpenBSD (?)
-- Batts
+
 - N: Cargar Kindle
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI
