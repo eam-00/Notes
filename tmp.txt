@@ -80,6 +80,7 @@ VIE:
 - Chk Bcos
 - CHG decomm other Solaris
 - Decomm
+- Batts: X140e, X60, X201t, W530
 
 
 Carre: Alfajores Terrabusi | Queso Port Salut
