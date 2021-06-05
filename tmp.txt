@@ -62,8 +62,7 @@ https://www.reddit.com/r/Mercadoreddit/comments/lgcl4n/vendo_rebajado_notebook_r
 
 JUE:
 ---
-- OpenBSD - Test: @T60p (?) @MBW (?)
-- MBW: Cargar batt
+
 
 - N: Cargar Kindle
 - Llamar Cavagna (?)
@@ -81,8 +80,11 @@ VIE:
 
 LUN:
 ---
-- CHG decomm other Solaris
 - Decomm
+- CHG decomm other Solaris
+
+- OpenBSD - Test: @T60p (?) @MBW (?)
+- MBW: Cargar batt
 Carre: Alfajores Terrabusi | Queso Port Salut
 
 Darker Than Amber: chk UW
