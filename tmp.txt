@@ -1,6 +1,6 @@
 Llevar N:
 --------
-- Factura CMR
+
 - Te Verde
 - Manies
 - Bastoncitos de Salvado
