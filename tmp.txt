@@ -80,7 +80,7 @@ LUN:
 
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - MBW: Cargar batt
-Carre: Alfajores Terrabusi | Queso Port Salut
+Carre: Alfajores Terrabusi | Queso Port Salut | Queso Crema
 
 Darker Than Amber: chk UW
 Lappies: t420 (setup)
