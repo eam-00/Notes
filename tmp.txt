@@ -76,7 +76,7 @@ JUE:
 VIE:
 ---
 - M: Cumple RE
-- Chk Bcos
+
 - CHG decomm other Solaris
 - Decomm
 
