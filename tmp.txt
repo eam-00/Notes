@@ -77,8 +77,7 @@ VIE:
 ---
 - M: Cumple RE
 
-- CHG decomm other Solaris
-- Decomm
+
 
 LUN:
 ---
