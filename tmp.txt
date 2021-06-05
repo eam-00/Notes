@@ -70,7 +70,7 @@ JUE:
 - chk cogni training program
 - Check Excel Vulns
 - AWS: Add cellphone
-- Test x220i Chromecast: Flow | Share screen
+
 
 SAB:
 ---
