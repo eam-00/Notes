@@ -74,8 +74,8 @@ JUE:
 
 SAB:
 ---
-- M: Cumple RE
-
+- Cumple RE
+- N: Cargar Kindle
 
 
 LUN:
