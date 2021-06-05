@@ -80,6 +80,7 @@ VIE:
 
 LUN:
 ---
+- Patching | SEP Updates
 - Decomm
 - CHG decomm other Solaris
 
