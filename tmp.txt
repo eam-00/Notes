@@ -64,7 +64,7 @@ JUE:
 ---
 
 
-- N: Cargar Kindle
+
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
