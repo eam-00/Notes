@@ -72,7 +72,7 @@ JUE:
 - AWS: Add cellphone
 - Test x220i Chromecast: Flow | Share screen
 
-VIE:
+SAB:
 ---
 - M: Cumple RE
 
