@@ -71,6 +71,7 @@ SAB:
 
 LUN:
 ---
+- Cumple RE
 - Patching | SEP Updates
 - Decomm
 - CHG decomm other Solaris
