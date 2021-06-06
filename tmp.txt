@@ -1,7 +1,6 @@
 Llevar N:
 --------
 
-
 Tienda Outdoor
 Av. Alvarez Jonte 4770 (entre Allende y Benito Juarez) - Monte Castro
 4566-1501
@@ -76,6 +75,7 @@ LUN:
 - Patching | SEP Updates
 - Decomm
 - CHG decomm other Solaris
+- Fer: celular Mrln
 
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - MBW: Cargar batt
