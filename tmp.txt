@@ -82,7 +82,7 @@ MAR:
 - Elese: Ver tema de Batt Moto G4 Plus N
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - MBW: Cargar batt
-Carre: chk ofertas | Alfajores Terrabusi | Queso Port Salut | Queso Crema
+Carre: chk ofertas | Alfajores Terrabusi | 
 
 Darker Than Amber: chk UW
 Lappies: t420 (setup)
