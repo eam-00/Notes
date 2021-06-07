@@ -75,7 +75,7 @@ MAR:
 - Check Excel Vulns
 - Cumple RE (?)
 - Llamar Cavagna (?)
-- Patching | SEP Updates
+
 - Decomm
 - CHG decomm other Solaris
 - Fer: celular Mrln
