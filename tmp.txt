@@ -77,7 +77,6 @@ LUN:
 - CHG decomm other Solaris
 - Fer: celular Mrln
 - Elese: Ver tema de Batt Moto G4 Plus N
-
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - MBW: Cargar batt
 Carre: Alfajores Terrabusi | Queso Port Salut | Queso Crema
