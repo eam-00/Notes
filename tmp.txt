@@ -77,12 +77,12 @@ MAR:
 - Llamar Cavagna (?)
 
 - Decomm
-- CHG decomm other Solaris
+- CHG decomm other Solaris (?)
 - Fer: celular Mrln
 - Elese: Ver tema de Batt Moto G4 Plus N
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - MBW: Cargar batt
-Carre: chk ofertas | Alfajores Terrabusi | 
+Carre: chk ofertas | Alfajores Terrabusi | Capellitinis
 
 Darker Than Amber: chk UW
 Lappies: t420 (setup)
