@@ -86,6 +86,9 @@ MAR:
 - MBW: Cargar batt
 Carre: chk ofertas | Alfajores Terrabusi | Capellitinis
 
+MIE:
+---
+
 Darker Than Amber: chk UW
 Lappies: t420 (setup)
 Tomar medidas p/ base de Happy Hacking on top of cogni.00
