@@ -80,7 +80,7 @@ MAR:
 - CHG decomm other Solaris (?)
 - Fer: celular Mrln
 - Elese: Ver tema de Batt Moto G4 Plus N
-- Lavanderia (?)
+
 - Starbucks
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - MBW: Cargar batt
