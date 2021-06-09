@@ -86,6 +86,7 @@ MIE:
 - Push Jerrell
 - Heri (?)
 - Check aa.com
+- Kernel crud @t4102
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - MBW: Cargar batt
 Carre: chk ofertas | Alfajores Terrabusi | Capellitinis | M: Esponja |  M: trapo amarillo cocina| M: atun
