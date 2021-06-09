@@ -84,7 +84,6 @@ MIE:
 - AWS: Add cellphone
 - Ticket de SEP
 - Push Jerrell
-- Heri (?)
 - Check aa.com
 - Kernel crud @t4102
 - OpenBSD - Test: @T60p (?) @MBW (?)
