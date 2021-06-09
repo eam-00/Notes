@@ -83,7 +83,7 @@ MIE:
 - Starbucks
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - MBW: Cargar batt
-Carre: chk ofertas | Alfajores Terrabusi | Capellitinis | M: Esponja |  M: trapo amarillo cocina
+Carre: chk ofertas | Alfajores Terrabusi | Capellitinis | M: Esponja |  M: trapo amarillo cocina| M: atun
 
 
 
