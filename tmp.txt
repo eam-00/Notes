@@ -84,7 +84,7 @@ MAR:
 - Starbucks
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - MBW: Cargar batt
-Carre: chk ofertas | Alfajores Terrabusi | Capellitinis | M: Esponja |  
+Carre: chk ofertas | Alfajores Terrabusi | Capellitinis | M: Esponja |  M: trapo amarillo cocina
 
 MIE:
 ---
