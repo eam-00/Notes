@@ -86,8 +86,7 @@ MAR:
 - MBW: Cargar batt
 Carre: chk ofertas | Alfajores Terrabusi | Capellitinis | M: Esponja |  M: trapo amarillo cocina
 
-MIE:
----
+
 - Batts
 - TRRTs
 - Chk pago expensas
