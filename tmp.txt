@@ -82,7 +82,8 @@ MIE:
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
 - AWS: Add cellphone
-
+- Ticket de SEP
+- Push Jerrell
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - MBW: Cargar batt
 Carre: chk ofertas | Alfajores Terrabusi | Capellitinis | M: Esponja |  M: trapo amarillo cocina| M: atun
