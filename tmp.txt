@@ -84,6 +84,8 @@ MIE:
 - AWS: Add cellphone
 - Ticket de SEP
 - Push Jerrell
+- Heri (?)
+- Check aa.com
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - MBW: Cargar batt
 Carre: chk ofertas | Alfajores Terrabusi | Capellitinis | M: Esponja |  M: trapo amarillo cocina| M: atun
