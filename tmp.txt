@@ -88,6 +88,8 @@ Carre: chk ofertas | Alfajores Terrabusi | Capellitinis | M: Esponja |  M: trapo
 
 MIE:
 ---
+- Batts
+- TRRTs
 - Chk pago expensas
 - Daily: SEP install @ora12 & ora13: how did Asif removed it? | Solaris patch notif before attaching?
 - Check SEP DSCADAD
