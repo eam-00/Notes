@@ -61,7 +61,7 @@ JUE:
 
 
 - Elese: Ver tema de Batt Moto G4 Plus N
-
+- Batt X220 Small
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
 - AWS: Add cellphone
