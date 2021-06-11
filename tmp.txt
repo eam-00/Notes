@@ -63,7 +63,7 @@ VIE:
 - Ticket de SEP
 - Push Jerrell
 - Check aa.com
-- Kernel crud @t4102
+
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - MBW: Cargar batt
 
