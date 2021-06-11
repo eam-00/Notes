@@ -64,6 +64,7 @@ VIE:
 - Push Jerrell
 - Check aa.com
 - Chk Bcos
+- Limpiar casita (?)
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - W530 / X140e
 
