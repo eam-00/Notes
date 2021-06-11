@@ -55,13 +55,9 @@ VIE:
 
 - Check Excel Vulns
 - Llamar Cavagna (?)
-
 - Decomm
 - CHG decomm other Solaris (?)
-
-
 - Elese: Ver tema de Batt Moto G4 Plus N
-
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
 - AWS: Add cellphone
