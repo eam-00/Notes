@@ -57,6 +57,7 @@ VIE:
 - Decomm
 - CHG decomm other Solaris (?)
 - Elese: Ver tema de Batt Moto G4 Plus N
+- Elese: Arreglo cargador Apple (?)
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
 - AWS: Add cellphone
@@ -66,7 +67,7 @@ VIE:
 - Chk Bcos
 - Limpiar casita (?)
 - Plantillas @chino (?)
-- Elese: Arreglo cargador Apple (?)
+
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - W530 / X140e
 
