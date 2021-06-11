@@ -67,6 +67,7 @@ VIE:
 - Chk Bcos
 - Limpiar casita (?)
 - Plantillas @chino (?)
+- Cerrar 8B
 
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - W530 / X140e
