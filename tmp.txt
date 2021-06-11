@@ -65,7 +65,7 @@ VIE:
 - Check aa.com
 
 - OpenBSD - Test: @T60p (?) @MBW (?)
-- MBW: Cargar batt
+
 
 Carre: chk ofertas  | Capellitinis | Lincoln
 
