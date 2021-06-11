@@ -65,6 +65,7 @@ VIE:
 - Check aa.com
 - Chk Bcos
 - Limpiar casita (?)
+- Plantillas @chino (?)
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - W530 / X140e
 
