@@ -63,7 +63,7 @@ VIE:
 - Ticket de SEP
 - Push Jerrell
 - Check aa.com
-
+- Chk Bcos
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - W530 / X140e
 
