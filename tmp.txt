@@ -71,7 +71,7 @@ JUE:
 - Kernel crud @t4102
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - MBW: Cargar batt
-- Cerrar 8B
+
 Carre: chk ofertas  | Capellitinis | Lincoln
 
 
