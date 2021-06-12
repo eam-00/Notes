@@ -73,7 +73,7 @@ VIE:
 - Limpiar casita (?)
 - Plantillas @chino (?)
 - Cerrar 8B
-- Blog M
+
 
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - W530 / X140e
