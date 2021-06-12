@@ -3,6 +3,7 @@ Llevar N:
 - Galles Dulces
 - Desodorante
 - Taza
+- Cafe
 - Pan
 - Fruta (?)
 
@@ -63,7 +64,7 @@ VIE:
 - AWS: Add cellphone
 - Ticket de SEP
 - Push Jerrell
-- Check aa.com
+
 - Chk Bcos
 - Limpiar casita (?)
 - Plantillas @chino (?)
