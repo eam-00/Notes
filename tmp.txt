@@ -78,7 +78,7 @@ LUN:
 
 
 
-- Plantillas @chino (?)
+
 - Cerrar 8B
 
 
