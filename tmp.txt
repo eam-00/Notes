@@ -60,6 +60,7 @@ SAB:
 ---
 - Check aa.com
 - Show WhatsApp
+- Ver pantalon
 
 LUN:
 ---
