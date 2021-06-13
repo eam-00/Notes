@@ -60,11 +60,13 @@ SAB:
 DOM:
 ---
 - Get Pizza
+- Chk 8B
 - TRRTs
 
 LUN:
 ---
 - Test Toppers
+
 - Check Excel Vulns
 - Llamar Cavagna (?)
 - Decomm
