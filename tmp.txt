@@ -82,8 +82,6 @@ LUN:
 
 
 
-- Cerrar 8B
-
 
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - W530 / X140e
