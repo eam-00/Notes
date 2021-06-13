@@ -80,9 +80,6 @@ LUN:
 - Push Jerrell
 
 
-
-
-
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - W530 / X140e
 
