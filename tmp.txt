@@ -65,7 +65,7 @@ SAB:
 
 LUN:
 ---
-
+- D: update SEP + Updates
 - Test Toppers
 - Push Jerrell
 - Check Excel Vulns
