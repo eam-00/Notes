@@ -76,8 +76,6 @@ LUN:
 - chk cogni training program
 - AWS: Add cellphone
 - Ticket de SEP
-
-
 - Check aa.com
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - W530 / X140e
