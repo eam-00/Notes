@@ -65,7 +65,9 @@ SAB:
 
 LUN:
 ---
+
 - Test Toppers
+- Push Jerrell
 - Check Excel Vulns
 - Llamar Cavagna (?)
 - Decomm
@@ -77,9 +79,9 @@ LUN:
 - chk cogni training program
 - AWS: Add cellphone
 - Ticket de SEP
-- Push Jerrell
 
 
+- Check aa.com
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - W530 / X140e
 
