@@ -70,7 +70,7 @@ MAR:
 - CHG decomm other Solaris (?)
 - Elese: Ver tema de Batt Moto G4 Plus N
 - Elese: Arreglo cargador Apple (?)
-
+- Pickup lavanderia
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
 - AWS: Add cellphone
