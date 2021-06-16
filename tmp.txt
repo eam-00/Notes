@@ -65,7 +65,7 @@ MAR:
 - CHG decomm other Solaris (?)
 
 - Elese: Arreglo cargador Apple (?)
-- Pickup lavanderia
+
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
 - AWS: Add cellphone
