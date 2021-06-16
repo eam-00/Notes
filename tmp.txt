@@ -64,7 +64,7 @@ MIE:
 - Decomm
 - CHG decomm other Solaris (?)
 
-- Elese: Arreglo cargador Apple (?)
+
 
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
