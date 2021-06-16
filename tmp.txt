@@ -58,6 +58,7 @@ MIE:
 ---
 - Chk SEP new hosts
 - Chk DSAD SEP
+- Symantec Ticket
 - Check Excel Vulns
 - Llamar Cavagna (?)
 - Decomm
