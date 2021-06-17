@@ -60,7 +60,7 @@ MIE:
 - Chk DSAD SEP
 - Symantec Ticket
 - Check Excel Vulns
-- Miss G: Get Excel
+
 - Setup CHG SEP install
 - Llamar Cavagna (?)
 - Decomm
