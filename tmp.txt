@@ -69,6 +69,7 @@ VIE:
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
 - AWS: Add cellphone
+- chk Bcos
 - Check aa.com
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - W530 / X140e
