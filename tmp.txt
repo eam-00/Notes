@@ -59,7 +59,6 @@ JUE:
 - Chk DSAD SEP
 - Symantec Ticket
 - Check Excel Vulns
-
 - Setup CHG SEP install
 - Llamar Cavagna (?)
 - Decomm
@@ -67,7 +66,6 @@ JUE:
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
 - AWS: Add cellphone
-
 - Check aa.com
 - OpenBSD - Test: @T60p (?) @MBW (?)
 - W530 / X140e
