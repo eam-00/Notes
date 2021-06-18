@@ -72,7 +72,7 @@ VIE:
 - chk Bcos
 - Check aa.com
 - OpenBSD - Test: @T60p (?) @MBW (?)
-- W530 / X140e
+
 
 Carre: chk ofertas  | Capellitinis | Lincoln | Cerealitas | Bolsas
 
