@@ -59,10 +59,10 @@ VIE:
 - TS
 - chk ora12 & ora13
 - Chk DSAD SEP -> Push Jerrell
+- Setup CHG SEP install
 - Batts, batts, batts
 - Symantec Ticket
 - Check Excel Vulns
-- Setup CHG SEP install
 - Llamar Cavagna (?)
 - Decomm
 - CHG decomm other Solaris (?)
