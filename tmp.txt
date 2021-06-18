@@ -59,6 +59,7 @@ VIE:
 - TS
 - chk ora12 & ora13
 - Chk DSAD SEP -> Push Jerrell
+- Batts, batts, batts
 - Symantec Ticket
 - Check Excel Vulns
 - Setup CHG SEP install
