@@ -63,6 +63,7 @@ LUN:
 MAR:
 ---
 - chk ora12 & ora13
+- DSAD install SEP update
 - Chk DSAD SEP -> Push Jerrell
 
 - Batts, batts, batts
