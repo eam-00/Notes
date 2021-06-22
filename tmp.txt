@@ -63,7 +63,7 @@ MAR:
 - chk ora12 & ora13
 - DSAD install SEP update
 - Chk DSAD SEP -> Push Jerrell
-
+- Lavar: Pantalon corderoi | toallin | repasador
 
 
 - Check Excel Vulns
