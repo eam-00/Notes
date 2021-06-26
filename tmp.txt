@@ -72,7 +72,7 @@ LUN:
 - Check Excel Vulns
 - Llamar Cavagna (?)
 - Llamar Elese x batt
-
+- Depositar Pinto Taboada
 - CHG decomm other Solaris (?)
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
