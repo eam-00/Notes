@@ -60,6 +60,9 @@ SAB:
 - N: wallpaper chino
 - N: preview Windows 11 [?]
 
+DOM:
+- TRRTs
+
 LUN:
 ---
 - Status SEP ora12 & ora13
