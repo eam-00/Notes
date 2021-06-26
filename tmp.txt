@@ -56,7 +56,8 @@ Encuentro Pavillion
 https://www.reddit.com/r/Mercadoreddit/comments/lgcl4n/vendo_rebajado_notebook_router_firewall_switch/
 
 SAB:
-https://download.manjaro.org/xfce/21.0.7/manjaro-xfce-21.0.7-minimal-210614-linux54.iso
+- https://download.manjaro.org/xfce/21.0.7/manjaro-xfce-21.0.7-minimal-210614-linux54.iso
+- N: wallpaper chino
 
 LUN:
 ---
