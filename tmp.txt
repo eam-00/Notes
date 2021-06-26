@@ -59,18 +59,20 @@ SAB:
 - https://download.manjaro.org/xfce/21.0.7/manjaro-xfce-21.0.7-minimal-210614-linux54.iso
 - N: wallpaper chino
 - N: preview Windows 11 [?]
+- Imprimir Movistar [?]
 
 DOM:
 - TRRTs
 
 LUN:
 ---
+- Decomm
 - Status SEP ora12 & ora13
 - Chk DSAD SEP -> Push Jerrell
 - Check Excel Vulns
 - Llamar Cavagna (?)
-- Llamar Elese x batts
-- Decomm
+- Llamar Elese x batt
+
 - CHG decomm other Solaris (?)
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
