@@ -55,9 +55,9 @@ SAB:
 - https://download.manjaro.org/xfce/21.0.7/manjaro-xfce-21.0.7-minimal-210614-linux54.iso
 - N: wallpaper chino
 - N: preview Windows 11 [?]
-- Imprimir Movistar [?]
 
 DOM:
+- Imprimir Movistar [?]
 - TRRTs
 
 LUN:
