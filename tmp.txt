@@ -57,7 +57,7 @@ SAB:
 - N: preview Windows 11 [?]
 
 DOM:
-- Imprimir Movistar [?]
+
 - TRRTs
 
 LUN:
