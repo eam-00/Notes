@@ -69,6 +69,7 @@ LUN:
 - Llamar Cavagna (?)
 - Llamar Elese x batt
 - Depositar Pinto Taboada
+- Imprimir Movistar [?]
 - CHG decomm other Solaris (?)
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
