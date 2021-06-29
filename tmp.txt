@@ -67,7 +67,7 @@ LUN:
 - Chk DSAD SEP -> Push Jerrell
 - Check Excel Vulns
 - Llamar Cavagna (?)
-- Llamar Elese x batt
+
 - Depositar Pinto Taboada
 - Imprimir Movistar [?]
 - Dload Manjaro XFCE
