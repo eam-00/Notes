@@ -68,7 +68,7 @@ LUN:
 - Check Excel Vulns
 - Llamar Cavagna (?)
 
-- Depositar Pinto Taboada
+
 - Imprimir Movistar [?]
 - Dload Manjaro XFCE
 - CHG decomm other Solaris (?)
