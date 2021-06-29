@@ -75,7 +75,7 @@ LUN:
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
 - AWS: Add cellphone
-- Format N7
+
 
 Carre: Yogurts | Fruta
 
