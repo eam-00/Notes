@@ -69,7 +69,7 @@ LUN:
 - Llamar Cavagna (?)
 
 
-- Imprimir Movistar [?]
+
 - Dload Manjaro XFCE
 - CHG decomm other Solaris (?)
 - Ver ML adaptador HDMI > DVI (?)
