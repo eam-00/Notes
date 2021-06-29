@@ -67,9 +67,6 @@ LUN:
 - Chk DSAD SEP -> Push Jerrell
 - Check Excel Vulns
 - Llamar Cavagna (?)
-
-
-
 - Dload Manjaro XFCE
 - CHG decomm other Solaris (?)
 - Ver ML adaptador HDMI > DVI (?)
