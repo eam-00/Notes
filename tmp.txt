@@ -65,6 +65,8 @@ MAR:
 - Status SEP ora12 & ora13
 
 - Check Excel Vulns
+- ATM
+- Galicia
 - Llamar Cavagna (?)
 
 - CHG decomm other Solaris (?)
