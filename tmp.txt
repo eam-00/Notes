@@ -58,7 +58,7 @@ MIE:
 - Status SEP ora12 & ora13
 - Check Excel Vulns
 
-- Galicia
+
 - Llamar Cavagna (?)
 - CHG decomm other Solaris (?)
 - Ver ML adaptador HDMI > DVI (?)
