@@ -63,7 +63,7 @@ MAR:
 ---
 - Decomm
 - Status SEP ora12 & ora13
-- Chk DSAD SEP -> Push Jerrell
+
 - Check Excel Vulns
 - Llamar Cavagna (?)
 
