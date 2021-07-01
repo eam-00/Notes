@@ -64,7 +64,7 @@ JUE:
 - chk cogni training program
 - AWS: Add cellphone
 
-Carre: Yogurts | Fruta
+Carre: Yogurts | Fruta | Queso Cremoso | 
 Tomasso: Panes
 
 SAB:
