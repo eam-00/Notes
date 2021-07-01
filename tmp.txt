@@ -64,6 +64,7 @@ MIE:
 - AWS: Add cellphone
 
 Carre: Yogurts | Fruta
+Tomasso: Panes
 
 - Test Samsung pen @tablet
 
