@@ -66,7 +66,7 @@ JUE:
 
 Carre: Yogurts | Fruta | Queso Cremoso | Shampoo Carrefour |
 Tomasso: Panes
-Tommy: Bastoncitos de Salvado |
+Tommy: Bastoncitos de Salvado | Manies s/ Sal |
 
 SAB:
 ---
