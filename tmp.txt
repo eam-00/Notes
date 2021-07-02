@@ -65,7 +65,7 @@ JUE:
 - AWS: Add cellphone
 - Chk Bcos
 
-Carre: Yogurts | Fruta |
+Carre: Yogurts |
 Polenta | Papel higienico
 Tomasso: Panes
 Tommy: Bastoncitos de Salvado | Manies s/ Sal |
