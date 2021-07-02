@@ -66,6 +66,7 @@ VIE:
 - AWS: Add cellphone
 - Chk Bcos
 - Palmrest X220i
+- Chk Blue Thunder
 
 Carre: Yogurts |
 Polenta | Papel higienico
