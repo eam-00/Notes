@@ -67,6 +67,7 @@ VIE:
 - Chk Bcos
 - Palmrest X220i
 - Chk Blue Thunder
+- Cargar Nikon
 
 
 
