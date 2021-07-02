@@ -80,6 +80,7 @@ SAB:
 ---
 - Test Samsung pen @tablet
 - Setup HBO Max [?]
+- Rotar luz de bici
 
 MAR:
 Diego Samuel Bejarano
