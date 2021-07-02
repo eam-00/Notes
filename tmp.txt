@@ -63,6 +63,7 @@ JUE:
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
 - AWS: Add cellphone
+- Chk Bcos
 
 Carre: Yogurts | Fruta |
 Polenta | Papel higienico
