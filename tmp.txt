@@ -64,7 +64,7 @@ JUE:
 - chk cogni training program
 - AWS: Add cellphone
 
-Carre: Yogurts | Fruta | Queso Cremoso | Shampoo Carrefour | Queso rallado verde 4/5 sobres
+Carre: Yogurts | Fruta | Queso Cremoso | Shampoo Carrefour | 
 Polenta | Papel higienico
 Tomasso: Panes
 Tommy: Bastoncitos de Salvado | Manies s/ Sal |
