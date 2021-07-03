@@ -60,7 +60,7 @@ LUN:
 - Check Excel Vulns
 - Llamar Cavagna (?)
 
-- ATM
+
 - CHG decomm other Solaris (?)
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
