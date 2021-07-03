@@ -78,7 +78,7 @@ SAB:
 ---
 - Test Samsung pen @tablet
 - Setup HBO Max [?]
-- Rotar luz de bici
+- Rotar luz de bici - Cargarlas
 - Research XFCE theme for Windows
 Google Keep
 Bacon Reader
