@@ -68,7 +68,7 @@ LUN:
 
 
 
-- Cargar N10 + Samsung
+
 
 
 
