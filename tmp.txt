@@ -67,7 +67,7 @@ LUN:
 
 
 
-- Samsung: Test USB mount + cp wallpapers
+
 - Cargar N10 + Samsung
 
 
