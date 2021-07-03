@@ -81,6 +81,7 @@ SAB:
 - Test Samsung pen @tablet
 - Setup HBO Max [?]
 - Rotar luz de bici
+Research XFCE theme for Windows
 
 MAR:
 Diego Samuel Bejarano
