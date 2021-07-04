@@ -77,7 +77,7 @@ SAB:
 ---
 - Check HBO
 - Setup HBO Max [?]
-- Rotar luz de bici - Cargarlas
+
 - Research XFCE theme for Windows
 
 
