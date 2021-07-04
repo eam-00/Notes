@@ -83,7 +83,7 @@ SAB:
 
 DOM:
 ---
-- Rotar luz de bici - Cargarlas
+- Cargar luz de bici roja
 - Get empanadas
 - TRRTs: Bob Dylan
 
