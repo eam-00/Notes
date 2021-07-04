@@ -75,7 +75,7 @@ LUN:
 
 SAB:
 ---
-- Test Samsung pen @tablet
+
 - Check HBO
 - Setup HBO Max [?]
 - Rotar luz de bici - Cargarlas
