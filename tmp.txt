@@ -76,7 +76,7 @@ LUN:
 SAB:
 ---
 
-- Setup HBO Max [?]
+
 
 - Research XFCE theme for Windows
 
