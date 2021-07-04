@@ -78,7 +78,7 @@ SAB:
 
 
 
-- Research XFCE theme for Windows
+
 
 
 DOM:
