@@ -83,7 +83,7 @@ LUN:
 DOM:
 ---
 
-- Get empanadas
+
 - Get Pepsi
 - TRRTs: Bob Dylan
 
