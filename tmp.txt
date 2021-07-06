@@ -64,7 +64,7 @@ Diego Samuel Bejarano - 11 3698 6668
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
 - AWS: Add cellphone
-
+- GoPerform
 
 
 
