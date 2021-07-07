@@ -59,12 +59,12 @@ MIE:
 - Status SEP ora12 & ora13
 - Check Excel Vulns
 - ATM
-- Funda ?Glass -> Tablet
+- Funda / Glass -> Tablet
 - Llamar Cavagna (?)
 - CHG decomm other Solaris (?)
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
-- AWS: Add cellphone
+- Okta / AWS: Add cellphone
 - GoPerform
 
 
