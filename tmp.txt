@@ -58,6 +58,7 @@ MIE:
 - Decomm
 - Status SEP ora12 & ora13
 - Check Excel Vulns
+- LLamar modista
 - ATM
 - Funda / Glass -> Tablet
 - Llamar Cavagna (?)
