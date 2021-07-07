@@ -55,12 +55,11 @@ Diego Samuel Bejarano - 11 3698 6668 - M65 Woodland
 
 MIE:
 ---
-
- 
 - Decomm
 - Status SEP ora12 & ora13
 - Check Excel Vulns
 - ATM
+- Funda ?Glass -> Tablet
 - Llamar Cavagna (?)
 - CHG decomm other Solaris (?)
 - Ver ML adaptador HDMI > DVI (?)
