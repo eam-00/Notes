@@ -60,7 +60,7 @@ MIE:
 - Check Excel Vulns
 - LLamar modista
 - ATM
-- Funda / Glass -> Tablet
+- Glass -> Tablet
 - Llamar Cavagna (?)
 - CHG decomm other Solaris (?)
 - Ver ML adaptador HDMI > DVI (?)
