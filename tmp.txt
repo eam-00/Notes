@@ -63,6 +63,7 @@ JUE:
 - LLamar modista
 - ATM
 - Glass -> Tablet
+- Lavanderia
 - Llamar Cavagna (?)
 - CHG decomm other Solaris (?)
 - Ver ML adaptador HDMI > DVI (?)
