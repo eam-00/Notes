@@ -57,6 +57,7 @@ Diego Samuel Bejarano - 11 3698 6668 - M65 Woodland
 
 VIE:
 ---
+- Arreglar persiana
 - Limpiar casita
 - Decomm
 - Status SEP ora12 & ora13
