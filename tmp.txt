@@ -59,6 +59,7 @@ VIE:
 ---
 - Arreglar persiana
 - Limpiar casita
+- Chk Bcos
 - Decomm
 - Status SEP ora12 & ora13
 - Check Excel Vulns
