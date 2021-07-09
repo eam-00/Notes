@@ -60,6 +60,8 @@ VIE:
 - Arreglar persiana
 - Limpiar casita
 - Chk Bcos
+- ATM
+- M: Empanadas + Lavanderia
 - Decomm
 - Status SEP ora12 & ora13
 - Check Excel Vulns
