@@ -64,7 +64,6 @@ VIE:
 - Check Excel Vulns
 - LLamar modista
 - ATM
-- Glass -> Tablet
 - Lavanderia
 - Llamar Cavagna (?)
 - CHG decomm other Solaris (?)
