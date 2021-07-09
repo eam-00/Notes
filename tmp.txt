@@ -67,7 +67,6 @@ VIE:
 - Status SEP ora12 & ora13
 - Check Excel Vulns
 - LLamar modista
-
 - Llamar Cavagna (?)
 - CHG decomm other Solaris (?)
 - Ver ML adaptador HDMI > DVI (?)
