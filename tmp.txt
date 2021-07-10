@@ -63,6 +63,8 @@ VIE:
 - ATM
 - Depost Gal [?]
 
+Lun:
+---
 - Decomm
 - Status SEP ora12 & ora13
 - Check Excel Vulns
