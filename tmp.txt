@@ -57,6 +57,7 @@ Diego Samuel Bejarano - 11 3698 6668 - M65 Woodland
 
 SAB:
 ---
+- Check Blue Thunder
 - Llamar persiana [?]
 - Lavar: Ropa de cama | Toallin | Repasador
 - Depost Gal [?]
