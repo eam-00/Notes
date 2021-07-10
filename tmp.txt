@@ -59,7 +59,7 @@ VIE:
 ---
 - Arreglar persiana
 - Limpiar casita
-- Chk Bcos
+
 - ATM
 - Depost Gal [?]
 - M: Empanadas + Lavanderia
