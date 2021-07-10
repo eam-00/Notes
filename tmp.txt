@@ -59,6 +59,7 @@ SAB:
 ---
 - Check Blue Thunder
 - Llamar persiana [?]
+- Llamar: La Bolognesa | El Bocado
 - Lavar: Ropa de cama | Toallin | Repasador
 - Depost Gal [?]
 - WD40 -> Blue Thunder
