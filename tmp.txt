@@ -62,6 +62,7 @@ DOM:
 - WD40 -> Blue Thunder
 - Samsung: Install -> Keep | Bacon Reader
 - Get Pepsi
+- Check available adaptors w/ N
 
 Lun:
 ---
