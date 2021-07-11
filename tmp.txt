@@ -67,7 +67,7 @@ Lun:
 ---
 - Decomm
 - Status SEP ora12 & ora13
-- Check Excel Vulns
+- Excel Vulns -> Check iDRAC Windows
 - LLamar modista
 - Llamar Cavagna (?)
 - CHG decomm other Solaris (?)
