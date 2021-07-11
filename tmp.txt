@@ -67,6 +67,7 @@ Lun:
 ---
 - Decomm
 - Check ora12 & ora13
+- Patching DSA: Check ED before / Reboot [?]
 - Status SEP
 - Excel Vulns -> Check iDRAC Windows
 - LLamar modista
