@@ -66,6 +66,7 @@ SAB:
 Lun:
 ---
 - Decomm
+- Check ora12 & ora13
 - Status SEP
 - Excel Vulns -> Check iDRAC Windows
 - LLamar modista
