@@ -70,6 +70,7 @@ Lun:
 - Patching DSA: Check ED before / Reboot [?]
 - Status SEP
 - Excel Vulns -> Check iDRAC Windows
+- Depost Gal [?]
 - LLamar modista
 - Llamar Cavagna (?)
 - CHG decomm other Solaris (?)
