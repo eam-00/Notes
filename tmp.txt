@@ -72,6 +72,8 @@ Lun:
 - Excel Vulns -> Check iDRAC Windows
 - Depost Gal [?]
 - LLamar modista
+- Llamar: 15 6803 8442 Juan
+15 6559 1236 Esteban
 - Llamar Cavagna (?)
 - CHG decomm other Solaris (?)
 - Ver ML adaptador HDMI > DVI (?)
