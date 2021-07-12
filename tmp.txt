@@ -61,7 +61,7 @@ DOM:
 ---
 
 - Samsung: Install -> Keep | Bacon Reader
-- Get Pepsi
+
 - Check available adaptors w/ N
 
 Lun:
