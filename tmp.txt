@@ -60,7 +60,7 @@ Diego Samuel Bejarano - 11 3698 6668 - M65 Woodland
 DOM:
 ---
 
-- Samsung: Install -> Keep | Bacon Reader
+
 
 - Check available adaptors w/ N
 
@@ -80,7 +80,7 @@ Lun:
 - chk cogni training program
 - Okta / AWS: Add cellphone
 - GoPerform
-
+- Samsung: Install -> Keep | Bacon Reader
 
 
 
