@@ -62,7 +62,7 @@ DOM:
 
 
 
-- Check available adaptors w/ N
+
 
 Lun:
 ---
@@ -80,6 +80,7 @@ Lun:
 - chk cogni training program
 - Okta / AWS: Add cellphone
 - GoPerform
+- Check available adaptors w/ N
 - Samsung: Install -> Keep | Bacon Reader
 
 
