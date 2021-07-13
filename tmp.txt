@@ -66,7 +66,7 @@ Lun:
 - Check ora12 & ora13
 - Status SEP
 - Excel Vulns
-- Depost Gal [?]
+- Gal: ATM | Deposit [?]
 - LLamar modista
 - Llamar: 15 6803 8442 Juan - 15 6559 1236 Esteban
 - Llamar Cavagna (?)
