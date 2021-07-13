@@ -63,7 +63,6 @@ Lun:
 ---
 - Decomm
 - Check ora12 & ora13
-
 - Status SEP
 - Excel Vulns
 - Depost Gal [?]
@@ -80,7 +79,7 @@ Lun:
 
 
 
-
+Carre: Yogurts | Queso s/ Sal
 
 
 
