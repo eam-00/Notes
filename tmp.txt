@@ -64,6 +64,7 @@ Diego Samuel Bejarano - 11 3698 6668 - M65 Woodland
 Mar:
 ---
 - Decomm
+- Close CHG from Monday
 - Check ora12 & ora13
 - Status SEP
 - Excel Vulns
