@@ -68,6 +68,7 @@ Mie:
 - Status SEP
 - Excel Vulns
 - Gal: ATM | Deposit [?]
+- Pago TC Na
 - LLamar modista
 - Llamar Cavagna (?)
 - CHG decomm other Solaris (?)
