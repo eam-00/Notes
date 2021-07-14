@@ -78,7 +78,7 @@ Mie:
 - GoPerform
 - Check available adaptors w/ N
 - Samsung: Install -> Keep | Bacon Reader
-
+- Arreglar Blue Thunder
 
 
 Carre:
