@@ -69,6 +69,7 @@ VIE:
 - Check ora12 & ora13
 - Status SEP
 - Excel Vulns
+- Depo Pinto [?]
 - Gal: ATM | Deposit [?]
 - LLamar modista
 - Llamar Cavagna (?)
