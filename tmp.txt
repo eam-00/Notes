@@ -68,6 +68,7 @@ VIE:
 
 - Decomm
 - Ticket rsh
+- Ticket RH VNC
 - Check ora12 & ora13
 - Status SEP
 - Excel Vulns
