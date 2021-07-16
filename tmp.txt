@@ -61,7 +61,7 @@ Arreglo persiana: Juan - 15 6803 8442 Juan
 
 
 
-Mie:
+Jue:
 ---
 - Decomm
 - Check ora12 & ora13
