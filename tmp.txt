@@ -64,6 +64,7 @@ Arreglo persiana: Juan - 15 6803 8442 Juan
 
 LUN:
 ---
+- Notif MAR CV19 vaccine
 - Wp: Cargador Apple
 - Decomm
 - Ticket rsh
