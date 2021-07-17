@@ -61,7 +61,7 @@ Arreglo persiana: Juan - 15 6803 8442 Juan
 SAB:
 ---
 
-Lavar: Ropa de cama | toallin | Repasador
+
 Blue Thunder: Apretar tuerca | Inflar ruedas
 
 LUN:
