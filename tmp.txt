@@ -62,7 +62,7 @@ SAB:
 ---
 Cbio Sabanas
 Lavar: Ropa de cama | toallin | Repasador
-Blue Thunder: Apretar tuerca | 
+Blue Thunder: Apretar tuerca | Inflar ruedas
 
 LUN:
 ---
