@@ -83,7 +83,7 @@ VIE:
 - Check available adaptors w/ N
 - Samsung: Install -> Keep | Bacon Reader
 
-- M: tupper | $ | Empanadas | T. Debito
+
 
 
 
