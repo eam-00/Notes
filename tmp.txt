@@ -62,7 +62,7 @@ Arreglo persiana: Juan - 15 6803 8442 Juan
 
 
 
-VIE:
+LUN:
 ---
 - Wp: Cargador Apple
 - Decomm
