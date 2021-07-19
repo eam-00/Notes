@@ -79,7 +79,7 @@ LUN:
 - GoPerform
 - Check available adaptors w/ N
 - Samsung: Install -> Keep | Bacon Reader
-
+- Batts: X220 (Large) & T4102.
 
 
 
