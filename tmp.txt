@@ -60,7 +60,7 @@ Arreglo persiana: Juan - 15 6803 8442 Juan
 
 MAR:
 ---
-
+- Pinto 8B
 - Wp: Cargador Apple
 - Decomm
 - Ticket rsh
