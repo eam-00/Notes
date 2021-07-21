@@ -61,7 +61,7 @@ Arreglo persiana: Juan - 15 6803 8442 Juan
 MIE:
 ---
 
-- Wp: Cargador Apple
+
 - Decomm
 - Ticket rsh
 - Ticket RH VNC
