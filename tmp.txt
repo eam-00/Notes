@@ -81,7 +81,8 @@ MIE:
 
 
 Carre: sopa instantanea | fruta
-Pilas Carrefour
+Pilas Carrefour AAA
+
 
 
 
