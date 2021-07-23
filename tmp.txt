@@ -62,6 +62,7 @@ Arreglo persiana: Juan - 15 6803 8442 Juan
 
 VIE:
 ---
+- Check SEP ticket -> Asif [?]
 - Decomm
 - Ticket rsh
 - Ticket RH VNC
