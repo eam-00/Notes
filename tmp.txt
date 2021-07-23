@@ -79,7 +79,7 @@ VIE:
 - GoPerform
 - Check available adaptors w/ N
 - Samsung: Install -> Keep | Bacon Reader
-- Cargar: N10 | 
+- Cargar: N10 | Samsung Tablet | 
 
 
 
