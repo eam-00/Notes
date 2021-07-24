@@ -81,7 +81,7 @@ LUN:
 
 SAB:
 ---
-- Cambio sabanas
+
 - Lavar: ropa de cama | toallin | repasador | bandana
 - Ferreteria: ducha
 - Instalar Open Office @Pavillion
