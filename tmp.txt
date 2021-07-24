@@ -82,7 +82,7 @@ LUN:
 SAB:
 ---
 
-- Lavar: ropa de cama | toallin | repasador | bandana
+
 - Ferreteria: ducha
 - Instalar Open Office @Pavillion
 - Dejar "Cecil B Demented"
