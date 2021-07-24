@@ -59,10 +59,10 @@ Arreglo persiana: Juan - 15 6803 8442
 
 LUN:
 ---
+- Check ora12 & ora13
 - Decomm
 - Ticket rsh
 - Ticket RH VNC
-- Check ora12 & ora13
 - Excel Vulns
 - Gal: ATM | Deposit [?]
 - LLamar modista
@@ -76,10 +76,6 @@ LUN:
 - Samsung: Install -> Keep | Bacon Reader
 - Cargar: N10 | Samsung Tablet | 
 - Test Apple Charger -> Notif p/ domani [?]
-
-
-
-
 
 
 SAB:
