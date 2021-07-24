@@ -61,6 +61,7 @@ LUN:
 ---
 - Check ora12 & ora13
 - Decomm
+- CHG DSCADA
 - Ticket rsh
 - Ticket RH VNC
 - Excel Vulns
