@@ -91,7 +91,7 @@ SAB:
 ---
 - Instalar Open Office @Pavillion
 - Dejar "Cecil B Demented"
-
+- Dejar Instalador Corel
 
 
 
