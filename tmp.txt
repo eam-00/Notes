@@ -82,6 +82,7 @@ LUN:
 SAB:
 ---
 - Cambio sabanas
+- Lavar: ropa de cama | toallin | repasador
 - Instalar Open Office @Pavillion
 - Dejar "Cecil B Demented"
 - Dejar Instalador Corel
