@@ -82,7 +82,7 @@ LUN:
 SAB:
 ---
 
-
+- Kernel crud @Dell XPS M1330
 - Ferreteria: ducha
 - Instalar Open Office @Pavillion
 - Dejar "Cecil B Demented"
