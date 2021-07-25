@@ -75,8 +75,7 @@ LUN:
 - GoPerform
 - Check available adaptors w/ N
 - Samsung: Install -> Keep | Bacon Reader
-
-- Test Apple Charger -> Notif p/ domani [?]
+- Apple Charger -> Avisar p/ encuentro [?]
 
 
 DOM:
