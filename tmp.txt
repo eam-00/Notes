@@ -82,7 +82,7 @@ LUN:
 DOM:
 ---
 
-- Kernel crud @Dell XPS M1330
+
 
 - Instalar Open Office @Pavillion
 - Dejar "Cecil B Demented"
