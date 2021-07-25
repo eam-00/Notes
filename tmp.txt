@@ -79,7 +79,7 @@ LUN:
 - Test Apple Charger -> Notif p/ domani [?]
 
 
-SAB:
+DOM:
 ---
 
 - Kernel crud @Dell XPS M1330
