@@ -73,7 +73,7 @@ LUN:
 - chk cogni training program
 - Okta / AWS: Add cellphone
 - GoPerform
-- Check available adaptors w/ N
+- P: PS/2 _> USB adaptors | Send hardware links
 - Samsung: Install -> Keep | Bacon Reader
 - Apple Charger -> Avisar p/ encuentro [?]
 
