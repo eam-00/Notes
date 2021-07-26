@@ -77,7 +77,7 @@ LUN:
 - Samsung: Install -> Keep | Bacon Reader
 - Pagar Movistar
 - Apple Charger -> Avisar p/ encuentro [?]
-
+- Install Manjaro
 
 DOM:
 ---
