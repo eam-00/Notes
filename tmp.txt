@@ -62,7 +62,7 @@ MAR:
 - Check ora12 & ora13
 - Decomm
 - CHG DSCADA
-- Ticket rsh
+- Close ticket rsh
 - Ticket RH VNC
 - Excel Vulns
 - Gal: ATM | Deposit [?]
