@@ -75,7 +75,6 @@ MAR:
 - GoPerform
 - P: PS/2 -> USB adaptors
 - Samsung: Install -> Keep | Bacon Reader
-- Pagar Movistar
 - Apple Charger -> Avisar p/ encuentro [?]
 - Install Manjaro
 
