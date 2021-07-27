@@ -57,7 +57,7 @@ Diego Samuel Bejarano - 11 3698 6668 - M65 Woodland
 Arreglo persiana: Juan - 15 6803 8442
 
 
-LUN:
+MAR:
 ---
 - Check ora12 & ora13
 - Decomm
