@@ -59,9 +59,10 @@ Arreglo persiana: Juan - 15 6803 8442
 
 MIE:
 ---
+- Check CHG DSCADA fro today
 - Check ora12 & ora13
 - Decomm
-- CHG DSCADA
+- 
 - Ticket RH VNC
 - Excel Vulns
 - Gal: ATM | Deposit [?]
