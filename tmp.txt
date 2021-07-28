@@ -75,6 +75,7 @@ MIE:
 - P: PS/2 -> USB adaptors
 - Samsung: Install -> Keep | Bacon Reader
 - Apple Charger -> Avisar p/ encuentro [?]
+- Limpiar casita
 
 
 DOM:
