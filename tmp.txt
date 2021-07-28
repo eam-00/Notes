@@ -76,6 +76,7 @@ MIE:
 - Samsung: Install -> Keep | Bacon Reader
 - Apple Charger -> Avisar p/ encuentro [?]
 - Limpiar casita
+- Chk Digo out cocina 8B [?]
 
 
 DOM:
