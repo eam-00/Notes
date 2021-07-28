@@ -76,6 +76,7 @@ MIE:
 - Apple Charger -> Avisar p/ encuentro [?]
 - Limpiar casita
 - Chk Digo out cocina 8B [?]
+- Ver cocinas @Fravega
 
 DOM:
 ---
