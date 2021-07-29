@@ -79,7 +79,7 @@ JUE:
 - Ver cocinas @Fravega
 
 Carre: Yogurts
-Galles | Fruta | Queso Portsalut 
+Galles | Fruta | Queso Portsalut | Bolsitas
 
 DOM:
 ---
