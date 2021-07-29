@@ -81,6 +81,7 @@ JUE:
 Carre: Yogurts
 Galles | Fruta | Queso Portsalut | Bolsitas
 Tommy: almendras c/ choco
+Tomasso: Panes
 
 DOM:
 ---
