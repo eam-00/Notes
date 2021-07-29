@@ -79,7 +79,7 @@ JUE:
 - Ver cocinas @Fravega
 
 Carre: Yogurts
-Galles 
+Galles | Fruta 
 
 DOM:
 ---
