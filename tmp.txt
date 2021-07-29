@@ -183,4 +183,5 @@ T4102
 W530
 
 
-
+Remove cache packages:
+sudo pacman -Sc
