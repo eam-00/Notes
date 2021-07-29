@@ -62,7 +62,8 @@ JUE:
 - Check ora12 & ora13
 - Decomm
 - Excel Vulns
-- Gal: ATM | Deposit [?]
+- Jubi
+- Gal: Depositar
 - LLamar modista
 - Llamar Cavagna (?)
 - CHG decomm other Solaris (?)
@@ -78,6 +79,7 @@ JUE:
 - Ver cocinas @Fravega
 
 Carre: Yogurts
+Galles 
 
 DOM:
 ---
