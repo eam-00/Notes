@@ -58,7 +58,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 VIE:
 ---
-- TS
+
 - Chk Bcos
 - CHG VNC DSCADA
 - Check ora12 & ora13
