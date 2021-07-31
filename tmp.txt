@@ -68,7 +68,7 @@ VIE:
 - Decomm
 - Excel Vulns
 - Jubi
-- Gal: Depositar
+
 - LLamar modista
 - Llamar Cavagna (?)
 - CHG decomm other Solaris (?)
