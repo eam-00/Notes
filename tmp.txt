@@ -87,9 +87,6 @@ SAB:
 ---
 - Instalar Open Office @Pavillion
 
-- Dejar Instalador Corel
-
-
 Love Vigilantes - New Order
 The Dead Heart - Midnight Oil
 Left of The Dial - The Replacements
