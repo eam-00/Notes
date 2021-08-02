@@ -60,7 +60,7 @@ MAR:
 ---
 - Solaris patching
 - Check ora12 & ora13
-- Decomm
+
 - Excel Vulns
 - Jubi
 
