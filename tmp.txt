@@ -60,7 +60,7 @@ MAR:
 ---
 - Solaris patching: Consulta Reboot Dom
 - Check ora12 & ora13
-
+- P: scripts + skills @G -> Storage
 - Excel Vulns
 - Jubi
 
