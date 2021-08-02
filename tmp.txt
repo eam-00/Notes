@@ -58,7 +58,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 MAR:
 ---
-- Solaris patching
+- Solaris patching: Consulta Reboot Dom
 - Check ora12 & ora13
 
 - Excel Vulns
