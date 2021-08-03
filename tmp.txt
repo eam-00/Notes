@@ -64,7 +64,7 @@ MAR:
 - P: scripts + skills @G -> Storage
 - Excel Vulns
 - Jubi
-
+- Ver inst. cocina
 - LLamar modista
 - Llamar Cavagna (?)
 - CHG decomm other Solaris (?)
