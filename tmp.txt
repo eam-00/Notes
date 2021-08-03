@@ -63,7 +63,7 @@ MIE:
 - Check ora12 & ora13
 - P: scripts + skills @G -> Storage
 - Excel Vulns
-- Jubi
+
 - Ver inst. cocina
 - Recibir cocina
 - Re-install Manjar @T410
