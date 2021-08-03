@@ -65,7 +65,7 @@ MIE:
 - Excel Vulns
 
 - Ver inst. cocina
-- Recibir cocina
+
 
 - Setup MBW: sync from backups
 - LLamar modista
