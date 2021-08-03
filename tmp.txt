@@ -66,6 +66,7 @@ MAR:
 - Jubi
 - Ver inst. cocina
 - Recibir cocina
+- Re-install Manjar @T410
 - LLamar modista
 - Llamar Cavagna (?)
 - CHG decomm other Solaris (?)
