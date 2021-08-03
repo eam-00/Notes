@@ -66,7 +66,7 @@ MIE:
 
 - Ver inst. cocina
 - Recibir cocina
-- Re-install Manjar @T410
+
 - Setup MBW: sync from backups
 - LLamar modista
 - Llamar Cavagna (?)
