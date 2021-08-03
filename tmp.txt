@@ -65,6 +65,7 @@ MAR:
 - Excel Vulns
 - Jubi
 - Ver inst. cocina
+- Recibir cocina
 - LLamar modista
 - Llamar Cavagna (?)
 - CHG decomm other Solaris (?)
