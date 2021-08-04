@@ -64,7 +64,7 @@ MIE:
 - P: scripts + skills @G -> Storage
 
 
-- Ver inst. cocina
+
 
 
 - Setup MBW: sync from backups
