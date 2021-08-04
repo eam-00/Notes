@@ -62,7 +62,7 @@ MIE:
 - Solaris patching: Consulta Reboot Dom | Select dates | Setup CHGs
 - Check ora12 & ora13
 - P: scripts + skills @G -> Storage
-- Excel Vulns
+- Excel Vulns mandar mail amy cierre VNC
 
 - Ver inst. cocina
 
