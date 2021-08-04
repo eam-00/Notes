@@ -63,7 +63,7 @@ MIE:
 - Check ora12 & ora13
 - P: scripts + skills @G -> Storage
 - Excel Vulns mandar mail amy cierre VNC
-
+- Close CHG VNC
 - Ver inst. cocina
 
 
