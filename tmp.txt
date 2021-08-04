@@ -201,3 +201,4 @@ sudo pacman -Syyu
 
 Copy:
 xcalc
+emacs
