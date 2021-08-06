@@ -63,7 +63,7 @@ VIE:
 - Chk Bcos
 - Solaris patching: Consulta Reboot Dom | Setup CHGs
 - Check ora12 & ora13
-- P: scripts + skills @G -> Storage
+
 
 
 
