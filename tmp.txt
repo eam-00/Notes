@@ -203,4 +203,4 @@ sudo pacman -Syyu
 Copy:
 xcalc
 emacs
-genmon plugin
+
