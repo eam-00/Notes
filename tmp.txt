@@ -95,6 +95,7 @@ SAB:
 ---
 100 gr Jamon Cocido La Octava - Bien finito
 100 gr Queso de Maquina La Paulina - Bien finito
+100 gr Panceta ahumada
 - Instalar Open Office @Pavillion
 - Tomar medidas para remeras
 - Ver enduido
