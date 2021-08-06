@@ -93,6 +93,7 @@ VIE:
 
 SAB:
 ---
+100 gr Jamon Cocido La Octava - Bien finito
 - Instalar Open Office @Pavillion
 - Tomar medidas para remeras
 - Ver enduido
