@@ -65,7 +65,7 @@ LUN:
 - LLamar modista
 - Llamar Cavagna (?)
 - Llamar Oftalmologo
-- CHG decomm other Solaris (?)
+
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
 - Okta / AWS: Add cellphone
