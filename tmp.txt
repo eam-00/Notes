@@ -66,7 +66,6 @@ LUN:
 - LLamar modista
 - Llamar Cavagna (?)
 - Llamar Oftalmologo
-
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
 - Okta / AWS: Add cellphone
@@ -113,15 +112,6 @@ Sisters Are Doin' It For Themselves - Eurythimics
 I'm Gonna Be (500 Miles) - The Proclaimers
 Voices Carry - Till Tuesday
 Kingdom of Heaven - 13TH FLOOR ELEVATORS
-
-
-
-
-
-
-
-
-
 
 
 
