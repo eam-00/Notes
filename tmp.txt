@@ -76,8 +76,6 @@ LUN:
 SAB:
 ---
 
-
-100 gr Panceta ahumada
 100 gr aceitunas c/ carozo
 Pan de Hamburguesas - La Perla o el propio de ellos, con semillas de sesamo
 Pan p/ tostadas
