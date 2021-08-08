@@ -79,7 +79,7 @@ SAB:
 
 
 - Instalar Open Office @Pavillion
-- Tomar medidas para remeras
+
 
 
 DOM:
