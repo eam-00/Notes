@@ -58,7 +58,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 MAR:
 ---
-- Solaris patching: Consulta Reboot Dom | Push CHGs | 
+- Solaris patching: Consulta Reboot Dom | Push CHGs | Send email JUE (?)
 - Check ora12 & ora13
 - Push mail Decomm Sun273
 - Llamar Oftalmologo
