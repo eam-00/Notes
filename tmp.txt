@@ -63,7 +63,7 @@ LUN:
 - Push mail Decomm Sun273
 - Llamar Oftalmologo
 - Setup MBW: sync from backups
-
+- Depositar expensas Gal
 - LLamar modista
 - Llamar Cavagna (?)
 
