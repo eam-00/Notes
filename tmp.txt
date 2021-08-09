@@ -177,5 +177,5 @@ The extra y forces the package manager to download package database regardless o
 This is helpful when you have a corrupted package database and you want to force a synchronization:
 sudo pacman -Syyu
 
-
+sudo rm /var/lib/pacman/db.lck
 
