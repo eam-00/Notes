@@ -80,8 +80,6 @@ SAB:
 - Cargar PowerPack
 - Instalar Open Office @Pavillion
 
-
-
 DOM:
 ---
 - TRRTs
