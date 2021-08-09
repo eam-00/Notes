@@ -61,10 +61,12 @@ LUN:
 - Solaris patching: Consulta Reboot Dom | Setup CHGs
 - Check ora12 & ora13
 - Push mail Decomm Sun273
+- Llamar Oftalmologo
 - Setup MBW: sync from backups
+
 - LLamar modista
 - Llamar Cavagna (?)
-- Llamar Oftalmologo
+
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
 - Okta / AWS: Add cellphone
