@@ -63,7 +63,7 @@ MAR:
 - Push mail Decomm Sun273
 - Llamar Oftalmologo
 
-- Depositar expensas Gal
+
 - LLamar modista
 - Llamar Cavagna (?)
 
