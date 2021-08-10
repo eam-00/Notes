@@ -64,7 +64,6 @@ MAR:
 - Llamar Oftalmologo
 - LLamar modista
 - Llamar Cavagna (?)
-
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
 - Okta / AWS: Add cellphone
