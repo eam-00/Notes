@@ -58,7 +58,7 @@ Arreglo persiana: Juan - 15 6803 8442
 MIE:
 ---
 - Solaris patching: Consulta Reboot Dom | Push CHGs | Send email JUE (?)
-- Push feriado el Lunes 16/8 [?]
+
 - Check ora12 & ora13
 - Push mail Decomm Sun273
 - Llamar Oftalmologo
