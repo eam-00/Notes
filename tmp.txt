@@ -176,6 +176,14 @@ sudo pacman -Syyu
 
 sudo rm /var/lib/pacman/db.lck
 
+sudo pacman-mirrors -f 5 # Update and rank the mirrorlist by speed, up to 5 mirrors
+sudo pacman -Syyuu # Sync, refresh mirrors, downgrade packages to repo version, and update
+
+## alias update='sudo pamac update'
+alias upgrade='sudo pacman -Syu'
+alias remove_lock='sudo rm /var/lib/pacman/db.lck'
+alias delete_cache='sudo pacman -Scc'
+
 [epsilon-alpha-mu@mbw ~]$ df
 Filesystem      Size  Used Avail Use% Mounted on
 dev             2,0G     0  2,0G   0% /dev
