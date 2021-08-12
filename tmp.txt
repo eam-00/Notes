@@ -75,6 +75,7 @@ JUE:
 
 SAB:
 ---
+El Bocado: 2 salchichas
 - Cargar PowerPack
 - Instalar Open Office @Pavillion
 
