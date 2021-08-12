@@ -73,9 +73,6 @@ JUE:
 - Samsung: Install -> Keep | Bacon Reader
 - Apple Charger -> Avisar p/ encuentro [?]
 
-
-
-
 SAB:
 ---
 - Cargar PowerPack
