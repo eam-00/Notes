@@ -59,7 +59,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 MIE:
 ---
-- Solaris patching: Push CHGs | Send email JUE (?)
+- Solaris patching: Push CHGs 
 - Check ora12 & ora13
 - Push mail Decomm Sun273
 - Llamar Oftalmologo
