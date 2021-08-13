@@ -65,7 +65,7 @@ VIE:
 - Solaris patching: What wave Sun206 [?]
 - Check ora12 & ora13
 - Push mail Decomm Sun273
-- Pinto: Status Otto [?]
+
 - Chk Bcos
 - W530
 - Llamar Oftalmologo
