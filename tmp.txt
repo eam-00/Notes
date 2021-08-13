@@ -60,7 +60,7 @@ Arreglo persiana: Juan - 15 6803 8442
 VIE:
 ---
 - Chk INC Sun205 -> Close it [?]
-- Solaris patching: Push CHGs 
+- Solaris patching: What wave Sun206 [?]
 - Check ora12 & ora13
 - Push mail Decomm Sun273
 - Llamar Oftalmologo
