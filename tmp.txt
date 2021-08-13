@@ -78,7 +78,7 @@ VIE:
 
 SAB:
 ---
-El Bocado: 2 salchichas | 150 gr J |
+El Bocado: 2 salchichas | 150 gr J | 150 gr Q |
 - Cargar PowerPack
 - Instalar Open Office @Pavillion
 
