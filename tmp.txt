@@ -68,7 +68,8 @@ VIE:
 
 - Chk Bcos
 - W530
-- Out Of Office -. Outlook
+- Close CHGs Sun patching
+- Out Of Office - Outlook
 - Llamar Oftalmologo
 - LLamar modista
 - Llamar Cavagna (?)
