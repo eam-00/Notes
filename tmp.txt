@@ -78,7 +78,7 @@ VIE:
 
 SAB:
 ---
-El Bocado: 2 salchichas | 150 gr J | 150 gr Q | 100 gr Panceta Ahumada |
+El Bocado: 2 salchichas | 150 gr J | 150 gr Q | 100 gr Panceta Ahumada | Pan de Papas
 - Cargar PowerPack
 - Instalar Open Office @Pavillion
 
