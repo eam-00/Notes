@@ -67,6 +67,7 @@ VIE:
 - Push mail Decomm Sun273
 - Pinto: Status Otto [?]
 - Chk Bcos
+- W530
 - Llamar Oftalmologo
 - LLamar modista
 - Llamar Cavagna (?)
