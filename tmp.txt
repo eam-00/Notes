@@ -59,7 +59,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 VIE:
 ---
-- chk mailq rails-dev-00
+
 - Ed: DSCADA Monday patching
 
 - Solaris patching: What wave Sun206 [?]
