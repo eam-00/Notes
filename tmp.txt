@@ -66,7 +66,7 @@ MAR:
 
 
 
-- Out Of Office - Outlook
+
 - Llamar Oftalmologo
 - LLamar modista
 - Llamar Cavagna (?)
