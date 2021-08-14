@@ -63,8 +63,6 @@ MAR:
 - Check ora12 & ora13
 - Push mail Decomm Sun273
 
-
-
 - Llamar Oftalmologo
 - LLamar modista
 - Llamar Cavagna (?)
