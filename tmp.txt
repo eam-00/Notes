@@ -62,7 +62,6 @@ MAR:
 - Solaris patching: What wave Sun206 [?]
 - Check ora12 & ora13
 - Push mail Decomm Sun273
-
 - Llamar Oftalmologo
 - LLamar modista
 - Llamar Cavagna (?)
@@ -76,7 +75,7 @@ MAR:
 
 SAB:
 ---
-El Bocado: 2 salchichas | 150 gr J | 150 gr Q | 100 gr Panceta Ahumada | 
+El Bocado: 2 salchichas | 150 gr J | 150 gr Q |
 - Cargar PowerPack
 - Instalar Open Office @Pavillion
 
