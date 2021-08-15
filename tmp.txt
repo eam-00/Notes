@@ -60,9 +60,10 @@ MAR:
 - Solaris patching: What wave Sun206 [?]
 - Check ora12 & ora13
 - Push mail Decomm Sun273
+- Diego: agua caliente en cocina
 - Llamar Oftalmologo
 - Depositar Pinto
-- Tommy: ALmendras | Mani s/ Sal | Ajo en polvo | Cereales [?]
+- Tommy: Almendras | Mani s/ Sal | Ajo en polvo | Cereales [?]
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
