@@ -75,7 +75,7 @@ MAR:
 
 SAB:
 ---
-El Bocado: 2 salchichas | 150 gr J | 150 gr Q |
+El Bocado: 2 salchichas | 150 gr J |
 - Cargar PowerPack
 - Instalar Open Office @Pavillion
 
