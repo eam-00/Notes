@@ -61,6 +61,7 @@ MAR:
 - Push mail Decomm Sun273
 - Llamar Oftalmologo
 - Depositar Pinto
+- Tommy: ALmendras, 
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
