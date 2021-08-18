@@ -63,7 +63,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 MIE:
 ---
-- Limpiar casita
+
 - Solaris patching: What wave Sun206 [?]
 - Push mail Decomm Sun273
 - Diego: agua caliente en cocina
