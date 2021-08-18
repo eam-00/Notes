@@ -80,6 +80,8 @@ MIE:
 - Samsung: Install -> Keep | Bacon Reader
 - Apple Charger -> Avisar p/ encuentro [?]
 
+Carre: 	8122369215900
+
 SAB:
 ---
 - Cargar PowerPack
