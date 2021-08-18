@@ -187,6 +187,7 @@ sudo pacman -Syyuu # Sync, refresh mirrors, downgrade packages to repo version, 
 alias upgrade='sudo pacman -Syu'
 alias remove_lock='sudo rm /var/lib/pacman/db.lck'
 alias delete_cache='sudo pacman -Scc'
+alias list_kernels='pacman -Q linux'
 
 [epsilon-alpha-mu@mbw ~]$ df
 Filesystem      Size  Used Avail Use% Mounted on
