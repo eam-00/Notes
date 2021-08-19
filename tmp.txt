@@ -63,7 +63,6 @@ Arreglo persiana: Juan - 15 6803 8442
 
 JUE:
 ---
-
 - Solaris patching: What wave Sun206 [?]
 - Push mail Decomm Sun273
 - Diego: agua caliente en cocina
@@ -82,7 +81,7 @@ JUE:
 
 - 4 PM close Solaris Tickets | Delete old patchs
 
-
+Carre: Leches |
 
 
 SAB:
