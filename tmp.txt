@@ -70,6 +70,7 @@ VIE:
 - Test SSH Satellite | Dload SEP updates
 - Solaris patching: What wave Sun206 [?]
 - Push: Ed close fuckin decom Task
+- Get Pato scripts
 - Push mail Decomm Sun273
 - Diego: agua caliente en cocina
 - Llamar Oftalmologo
