@@ -65,6 +65,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 VIE:
 ---
+- TS
 - Solaris patching: What wave Sun206 [?]
 - Push mail Decomm Sun273
 - Diego: agua caliente en cocina
@@ -86,7 +87,7 @@ VIE:
 
 
 
-TS
+
 Push: Ed close fuckin decom Task
 Test SSH Satellite | Dload SEP updates
 
