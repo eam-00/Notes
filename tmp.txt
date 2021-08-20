@@ -69,7 +69,7 @@ VIE:
 - Mail passwd Mr. D.
 - Test SSH Satellite | Dload SEP updates
 - Solaris patching: What wave Sun206 [?]
-- Push: Ed close fuckin decom Task - Sun273
+
 
 
 - Diego: agua caliente en cocina
