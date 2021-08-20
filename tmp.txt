@@ -65,7 +65,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 VIE:
 ---
-- TS
+
 - Mail passwd Mr. D.
 - Test SSH Satellite | Dload SEP updates
 - Solaris patching: What wave Sun206 [?]
