@@ -63,14 +63,14 @@ Arreglo persiana: Juan - 15 6803 8442
 
 
 
-JUE:
+VIE:
 ---
 - Solaris patching: What wave Sun206 [?]
 - Push mail Decomm Sun273
 - Diego: agua caliente en cocina
 - Llamar Oftalmologo
 - Depositar Pinto
-- Movistar [?]
+- Movistar
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
@@ -85,8 +85,7 @@ JUE:
 
 Carre: Leches | Mandarinas | Alfajores Terrabusi
 
-VIE:
-----
+
 TS
 Push: Ed close fuckin decom Task
 Test SSH Satellite | Dload SEP updates
