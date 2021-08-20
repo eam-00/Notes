@@ -68,6 +68,7 @@ VIE:
 - TS
 - Test SSH Satellite | Dload SEP updates
 - Solaris patching: What wave Sun206 [?]
+- Push: Ed close fuckin decom Task
 - Push mail Decomm Sun273
 - Diego: agua caliente en cocina
 - Llamar Oftalmologo
@@ -89,7 +90,7 @@ VIE:
 
 
 
-Push: Ed close fuckin decom Task
+
 
 
 SAB:
