@@ -78,7 +78,7 @@ LUN:
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
 - Okta / AWS: Add cellphone
-- GoPerform
+
 - P: PS/2 -> USB adaptors
 - Samsung: Install -> Keep | Bacon Reader
 - Apple Charger -> Avisar p/ encuentro [?]
