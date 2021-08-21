@@ -1,7 +1,7 @@
 Llevar N:
 --------
 
-- Cereales
+
 - Ajo en polvo
 - Almendras
 - Vino
