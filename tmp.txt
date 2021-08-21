@@ -97,6 +97,7 @@ SAB:
 - La Bolognesa: 12 Sorrentinos c/ jamon & mozzarela
 - Cargar PowerPack
 - Instalar Open Office @Pavillion
+- Linux Void Research
 
 
 
