@@ -63,6 +63,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 LUN:
 ---
+- Push CyberArk - Decom sun273
 - Mail passwd Mr. D.
 - Test SSH Satellite | Dload SEP updates
 - Solaris patching: What wave Sun206 [?]
