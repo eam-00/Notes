@@ -88,7 +88,7 @@ LUN:
 SAB:
 ---
 
-- Cargar PowerPack
+
 - Instalar Open Office @Pavillion
 - Linux Void Research
 
