@@ -1,9 +1,5 @@
 Llevar N:
 --------
-
-
-
-
 - Vino
 - Dentifricos
 - Leche
