@@ -63,7 +63,6 @@ LUN:
 - Push CyberArk - Decom sun273
 - SEP VD download at GSOC Satellite
 - Setup Solaris patch for Sept -> Dom cluster?
-
 - Solaris patching: What wave Sun206 [?]
 - Diego: agua caliente en cocina
 - Llamar Oftalmologo
@@ -74,7 +73,6 @@ LUN:
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
 - Okta / AWS: Add cellphone
-
 - P: PS/2 -> USB adaptors
 - Samsung: Install -> Keep | Bacon Reader
 - Apple Charger -> Avisar p/ encuentro [?]
@@ -90,7 +88,7 @@ LUN:
 
 SAB:
 ---
-- La Bolognesa: 12 Sorrentinos c/ jamon & mozzarela
+
 - Cargar PowerPack
 - Instalar Open Office @Pavillion
 - Linux Void Research
