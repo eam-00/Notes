@@ -87,8 +87,6 @@ LUN:
 
 SAB:
 ---
-
-
 - Instalar Open Office @Pavillion
 - Linux Void Research
 
