@@ -67,6 +67,7 @@ LUN:
 - Llamar Oftalmologo
 - Depositar Pinto
 - Movistar
+- Coser botones M-65
 - Check before TRRT: "Wag The Dog" & "Fire In The Sky"
 - LLamar modista
 - Llamar Cavagna (?)
@@ -93,7 +94,7 @@ SAB:
 
 DOM:
 ---
-Coser botones M-65
+
 Dentifricos
 Batts: X220 (Small) | T430 | X60 | X201T | T420
 
