@@ -67,12 +67,13 @@ LUN:
 - Llamar Oftalmologo
 - Depositar Pinto
 - Movistar
+- Check before TRRT: "Wag The Dog" & "Fire In The Sky"
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
 - chk cogni training program
 - Okta / AWS: Add cellphone
-- P: PS/2 -> USB adaptors
+- ML: PS/2 -> USB adaptors
 - Samsung: Install -> Keep | Bacon Reader
 - Apple Charger -> Avisar p/ encuentro [?]
 
