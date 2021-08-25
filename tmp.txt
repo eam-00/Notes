@@ -58,8 +58,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 MIE:
 ---
-- Moto G6
-- Push CyberArk - Decom sun273
+- Push Rack Room - Decom sun273
 - SEP VD download at GSOC Satellite
 - Solaris patching Sept: Dom cluster?
 - Solaris patching: What wave Sun206 [?]
