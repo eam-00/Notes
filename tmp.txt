@@ -158,3 +158,5 @@ W530
 Interview:
 ---------
 - Experiencias
+- Cloud - [AWS]
+- Scripting
