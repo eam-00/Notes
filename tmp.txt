@@ -90,7 +90,7 @@ Carre: Papel (Hiigienico | Cocina) | Queso Crema Verde (2) | Anticucas (No Raid)
 SAB:
 ---
 - Instalar Open Office @Pavillion
-- Linux Void Research
+
 
 DOM:
 ---
