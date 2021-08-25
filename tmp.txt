@@ -160,3 +160,5 @@ Interview:
 - Experiencias
 - Cloud - [AWS]
 - Scripting
+- SSH exercise
+- Trouble Shooting - [Wireshark], [TCP Dump]
