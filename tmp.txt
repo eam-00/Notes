@@ -56,19 +56,19 @@ Diego Samuel Bejarano - 11 3698 6668 - M65 Woodland (Medium Short)
 Arreglo persiana: Juan - 15 6803 8442
 
 
-LUN:
+MIE:
 ---
 - Moto G6
 - Push CyberArk - Decom sun273
 - SEP VD download at GSOC Satellite
-- Setup Solaris patch for Sept -> Dom cluster?
+- Solaris patching Sept: Dom cluster?
 - Solaris patching: What wave Sun206 [?]
 - Diego: agua caliente en cocina
 - Llamar Oftalmologo
 - Depositar Pinto
 - Movistar
 - Coser botones M-65
-- Check before TRRT: "Wag The Dog" & "Fire In The Sky"
+- TRRT: cp "Wag The Dog" -> TB HDDs | transco "Fire In The Sky"
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
@@ -78,14 +78,7 @@ LUN:
 - Samsung: Install -> Keep | Bacon Reader
 - Apple Charger -> Avisar p/ encuentro [?]
 
-
-
 Carre: Papel (Hiigienico | Cocina) | Queso Crema Verde (2) | Anticucas (No Raid) | Antiaranas
-
-
-
-
-
 
 SAB:
 ---
@@ -111,9 +104,6 @@ Sisters Are Doin' It For Themselves - Eurythimics
 I'm Gonna Be (500 Miles) - The Proclaimers
 Voices Carry - Till Tuesday
 13TH FLOOR ELEVATORS - Kingdom of Heaven 
-
-
-
 
 Darker Than Amber: chk UW
 
@@ -164,5 +154,3 @@ X60
 T430
 T4102
 W530
-
-
