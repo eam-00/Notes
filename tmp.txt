@@ -162,3 +162,5 @@ Interview:
 - Scripting
 - SSH exercise
 - Trouble Shooting - [Wireshark], [TCP Dump]
+- Disaster recovery
+- NFS
