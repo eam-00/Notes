@@ -162,7 +162,7 @@ Interview:
 - Cloud - [AWS]
 - Scripting
 - SSH exercise
-- Trouble Shooting - [Wireshark], [TCP Dump]
+- Troubleshooting - [Wireshark], [TCP Dump]
 - Disaster recovery
 - NFS
 - Working on nested environments - [Citrix]
