@@ -69,7 +69,7 @@ JUE:
 
 - Coser botones M-65
 
-- cp Company Business sbs  -> TB HDDs
+
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
