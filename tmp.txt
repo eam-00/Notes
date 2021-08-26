@@ -67,7 +67,7 @@ JUE:
 - Depositar Pinto
 - Movistar
 - Coser botones M-65
-- TRRT: cp "Wag The Dog" -> TB HDDs | transco "Fire In The Sky"
+
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
