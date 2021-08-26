@@ -67,7 +67,7 @@ JUE:
 - Depositar Pinto
 - Movistar
 - Coser botones M-65
-
+- Delete movies TB HDDs
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
