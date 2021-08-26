@@ -65,7 +65,7 @@ JUE:
 - Diego: agua caliente en cocina
 - Llamar Oftalmologo
 - Depositar Pinto
-- Movistar
+
 - Coser botones M-65
 - Delete movies TB HDDs
 - cp Company Business sbs  -> TB HDDs
