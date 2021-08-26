@@ -68,6 +68,7 @@ JUE:
 - Movistar
 - Coser botones M-65
 - Delete movies TB HDDs
+- cp Company Business sbs  -> TB HDDs
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
