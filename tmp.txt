@@ -60,6 +60,7 @@ Arreglo persiana: Juan - 15 6803 8442
 VIE:
 ---
 - TS
+- Chk Bcos
 - Push Rack Room - Decom sun273
 - SEP VD download at GSOC Satellite
 - Solaris patching: What wave Sun206 [?]
@@ -75,9 +76,6 @@ VIE:
 - ML: PS/2 -> USB adaptors
 - Samsung: Install -> Keep | Bacon Reader
 - Apple Charger -> Avisar p/ encuentro [?]
-
-
-
 
 SAB:
 ---
