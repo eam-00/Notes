@@ -62,6 +62,7 @@ VIE:
 - Chk Bcos
 - Decom Sun273: Push Recover Server Equip
 - GSOC: Reboot Satellite server + Setup SEP VD download
+- Setup emails friendly reminder Solaris patch fro tomorrow
 - Solaris patching: What wave Sun206 [?]
 - Diego: agua caliente en cocina
 - Llamar Oftalmologo
