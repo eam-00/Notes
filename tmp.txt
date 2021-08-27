@@ -60,7 +60,7 @@ VIE:
 ---
 
 - Chk Bcos
-- Push Rack Room - Decom sun273
+- Decom sun273: Push Recover Server Equip
 - SEP VD download at GSOC Satellite
 - Solaris patching: What wave Sun206 [?]
 - Diego: agua caliente en cocina
