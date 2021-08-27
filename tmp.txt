@@ -57,19 +57,15 @@ Diego Samuel Bejarano - 11 3698 6668 - M65 Woodland (Medium Short)
 Arreglo persiana: Juan - 15 6803 8442
 
 
-JUE:
+VIE:
 ---
 - Push Rack Room - Decom sun273
 - SEP VD download at GSOC Satellite
-
 - Solaris patching: What wave Sun206 [?]
 - Diego: agua caliente en cocina
 - Llamar Oftalmologo
 - Depositar Pinto
-
 - Coser botones M-65
-
-
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
