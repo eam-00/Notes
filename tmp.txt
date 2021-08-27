@@ -59,6 +59,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 VIE:
 ---
+- TS
 - Push Rack Room - Decom sun273
 - SEP VD download at GSOC Satellite
 - Solaris patching: What wave Sun206 [?]
