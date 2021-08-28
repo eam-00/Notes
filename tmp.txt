@@ -59,7 +59,7 @@ Arreglo persiana: Juan - 15 6803 8442
 VIE:
 ---
 
-- Chk Bcos
+
 - Decom Sun273: Push Recover Server Equip
 - GSOC: Reboot Satellite server + Setup SEP VD download
 - Setup emails friendly reminder Solaris patch fro tomorrow
