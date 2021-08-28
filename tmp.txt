@@ -77,7 +77,7 @@ LUN:
 
 SAB:
 ---
-- La Bolognesa: 
+- La Bolognesa: Lasagna p/ 3 (mas bolognesa que salsa blanca)
 - Instalar Open Office @Pavillion
 
 Love Vigilantes - New Order
