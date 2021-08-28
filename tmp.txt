@@ -76,7 +76,7 @@ LUN:
 
 SAB:
 ---
-- El Bocado: 100 J + 100 Q + 1 salchicha
+
 
 - Instalar Open Office @Pavillion
 
