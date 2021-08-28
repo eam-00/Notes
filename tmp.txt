@@ -56,7 +56,7 @@ Diego Samuel Bejarano - 11 3698 6668 - M65 Woodland (Medium Short)
 Arreglo persiana: Juan - 15 6803 8442
 
 
-VIE:
+LUN:
 ---
 - Decom Sun273: Push Recover Server Equip
 - GSOC: Reboot Satellite server + Setup SEP VD download
