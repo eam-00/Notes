@@ -76,8 +76,6 @@ LUN:
 
 SAB:
 ---
-
-
 - Instalar Open Office @Pavillion
 
 Love Vigilantes - New Order
