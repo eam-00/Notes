@@ -64,7 +64,7 @@ LUN:
 - Diego: agua caliente en cocina
 - Llamar Oftalmologo
 - Depositar Pinto
-
+- Jubileta
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
