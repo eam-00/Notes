@@ -64,7 +64,7 @@ MAR:
 - Llamar Oftalmologo
 - Depositar Pinto
 - Jubileta
-- Papeles D. Medico
+
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
