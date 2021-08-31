@@ -76,6 +76,7 @@ MAR:
 SAB:
 ---
 - Instalar Open Office @Pavillion
+- Desparazitador p/ los michis
 
 Love Vigilantes - New Order
 The Dead Heart - Midnight Oil
