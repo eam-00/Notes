@@ -58,7 +58,7 @@ MAR:
 ---
 - Decom Sun273: Push Recover Server Equip
 - GSOC: Setup SEP VD download
-- Setup emails friendly reminder Solaris patch fro tomorrow
+- Send emails friendly reminder Solaris patch for tomorrow
 - Solaris patching: What wave Sun206 [?]
 - Diego: agua caliente en cocina
 - Llamar Oftalmologo
