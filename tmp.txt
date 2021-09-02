@@ -65,8 +65,7 @@ JUE:
 - Diego: agua caliente en cocina
 - Depositar Pinto
 
-Pagar Edenor
-Dejar FEMEDICA
+
 Dejar Tarj. Jubi
 Dejar Saldo
 Dejar Tupper
