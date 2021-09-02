@@ -58,15 +58,12 @@ Arreglo persiana: Juan - 15 6803 8442
 
 JUE:
 ---
-
 - Decom Sun273: Push Recover Server Equip
 - GSOC: Setup SEP VD download
 - Solaris patching: Check email - 213
 - Solaris patching: What wave Sun206 [?]
 - Diego: agua caliente en cocina
-
 - Depositar Pinto
-
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
