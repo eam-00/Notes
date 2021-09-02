@@ -61,7 +61,7 @@ JUE:
 - Llamar Oftalmologo
 - Decom Sun273: Push Recover Server Equip
 - GSOC: Setup SEP VD download
-- Send emails friendly reminder Solaris patch for tomorrow
+- Solaris patching: Check email - 213
 - Solaris patching: What wave Sun206 [?]
 - Diego: agua caliente en cocina
 
