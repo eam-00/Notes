@@ -77,8 +77,6 @@ JUE:
 - Apple Charger -> Avisar p/ encuentro [?]
 
 
-Agua |  
-
 SAB:
 ---
 - Instalar Open Office @Pavillion
