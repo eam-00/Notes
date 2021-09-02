@@ -58,7 +58,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 JUE:
 ---
-- Llamar Oftalmologo
+
 - Decom Sun273: Push Recover Server Equip
 - GSOC: Setup SEP VD download
 - Solaris patching: Check email - 213
