@@ -64,6 +64,15 @@ JUE:
 - Solaris patching: What wave Sun206 [?]
 - Diego: agua caliente en cocina
 - Depositar Pinto
+Imprimir FEMEDICA
+Pagar Edenor
+Dejar FEMEDICA
+Dejar Tarj. Jubi
+Dejar Saldo
+Dejar Tupper
+Get 
+Traer tarta
+
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
