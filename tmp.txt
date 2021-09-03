@@ -84,6 +84,12 @@ Lun:
 - Industrial Defender install
 - decom sun
 
+Mar:
+---
+- Push decom sun273
+- Email patch & reboot sun212
+- Patch & reboot sun212
+
 SAB:
 ---
 - Instalar Open Office @Pavillion
