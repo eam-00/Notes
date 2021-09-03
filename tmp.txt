@@ -66,8 +66,7 @@ JUE:
 - Depositar Pinto
 
 
-Dejar Tarj. Jubi
-Dejar Saldo
+
 Dejar Tupper
 Get 
 Traer tarta
