@@ -79,6 +79,10 @@ JUE:
 
 Carre: Queso Crema Verde | Azucar [?] | P. Higienico
 
+Lun:
+- crontab SEP VD dload
+- Industrial Defender install
+- decom sun
 
 SAB:
 ---
