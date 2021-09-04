@@ -97,6 +97,7 @@ LUN:
 - Push cogni cel
 - Chinese stuff
 - Galicia
+- C100 -> Mamma
 
 MAR:
 ---
