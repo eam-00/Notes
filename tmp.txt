@@ -1,6 +1,6 @@
 Llevar N:
 --------
-- Dentifricos
+
 - Tupper
 - Vino[s]
 
