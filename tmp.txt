@@ -99,6 +99,7 @@ LUN:
 - Industrial Defender install
 - decom sun
 - Push cogni cel
+- Chinese stuff
 
 MAR:
 ---
