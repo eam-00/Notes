@@ -89,6 +89,7 @@ https://b-ok.lat/book/3559898/d7699f
 
 Kubernetes: Up and Running: Dive Into the Future of Infrastructure
 https://b-ok.lat/book/5262956/8d92a2
+- cp mobis -> Kindle
 
 
 LUN:
