@@ -96,6 +96,7 @@ LUN:
 - decom sun
 - Push cogni cel
 - Chinese stuff
+- Galicia
 
 MAR:
 ---
