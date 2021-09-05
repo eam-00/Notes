@@ -76,6 +76,7 @@ Tomasso: Panes
 DOM:
 ---
 - Instalar Open Office @Pavillion
+- Piedras Michis
 - Imprimir Mamografia
 - cp mobis -> Kindle
 
