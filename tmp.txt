@@ -80,7 +80,6 @@ SAB:
 - Imprimir Mamografia
 - cp mobis -> Kindle
 
-
 LUN:
 ---
 - crontab SEP VD dload
@@ -170,6 +169,14 @@ X60
 T430
 T4102
 W530
+
+r/LiminalSpace:
+--------------
+
+DSCN0131.JPG
+DSCN0135.JPG
+DSCN0163.JPG
+
 
 Interview:
 ---------
