@@ -73,10 +73,9 @@ VIE:
 Carre: Queso Crema Verde | Azucar [?] | P. Higienico
 Tomasso: Panes
 
-SAB:
+DOM:
 ---
 - Instalar Open Office @Pavillion
-
 - Imprimir Mamografia
 - cp mobis -> Kindle
 
