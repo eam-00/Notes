@@ -91,9 +91,9 @@ LUN:
 
 MAR:
 ---
+- Email patch & reboot sun212
 - Push decom sun273
 - Push after reboot sun212 & sun279 in order to close tickets
-- Email patch & reboot sun212
 - Patch & reboot sun212
 
 Candy-Ho Electronics
