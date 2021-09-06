@@ -76,8 +76,6 @@ Tomasso: Panes
 DOM:
 ---
 - Instalar Open Office @Pavillion
-
-
 - cp mobis -> Kindle
 
 LUN:
