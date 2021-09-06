@@ -76,7 +76,7 @@ Tomasso: Panes
 DOM:
 ---
 - Instalar Open Office @Pavillion
-- Piedras Michis
+
 
 - cp mobis -> Kindle
 
