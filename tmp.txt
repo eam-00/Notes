@@ -77,7 +77,7 @@ DOM:
 ---
 - Instalar Open Office @Pavillion
 - Piedras Michis
-- Imprimir Mamografia
+
 - cp mobis -> Kindle
 
 LUN:
