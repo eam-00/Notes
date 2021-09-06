@@ -68,6 +68,7 @@ LUN:
 - Okta / AWS: Add cellphone
 - ML: PS/2 -> USB adaptors
 - Samsung: Install -> Keep | Bacon Reader
+- cp mobis -> Kindle
 - Apple Charger -> Avisar p/ encuentro [?]
 
 Carre: Queso Crema Verde | Azucar [?] | P. Higienico [?] | Yogurts [?]
@@ -76,7 +77,7 @@ Tomasso: Panes
 DOM:
 ---
 - Instalar Open Office @Pavillion
-- cp mobis -> Kindle
+
 
 LUN:
 ---
