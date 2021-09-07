@@ -81,7 +81,7 @@ DOM:
 
 LUN:
 ---
-- crontab SEP VD dload
+
 - Industrial Defender install
 - decom sun
 - Push cogni cel
