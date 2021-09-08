@@ -56,7 +56,7 @@ Arreglo persiana: Juan - 15 6803 8442
 MIE:
 ---
 - Decom Sun273: Push Recover Server Equip
-- Solaris patching: What wave Sun206 [?]
+
 - Diego: agua caliente en cocina
 - Depositar Pinto
 - LLamar modista
