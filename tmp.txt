@@ -56,8 +56,6 @@ Arreglo persiana: Juan - 15 6803 8442
 LUN:
 ---
 - Decom Sun273: Push Recover Server Equip
-
-
 - Solaris patching: What wave Sun206 [?]
 - Diego: agua caliente en cocina
 - Depositar Pinto
@@ -81,12 +79,10 @@ DOM:
 
 LUN:
 ---
-
 - Industrial Defender install
 - decom sun
 - Push cogni cel
 - Buy chinese stuff
-
 
 
 MAR:
