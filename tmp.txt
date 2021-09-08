@@ -57,7 +57,7 @@ MIE:
 ---
 - Decom Sun273: Push Recover Server Equip
 
-- Diego: agua caliente en cocina
+
 - Depositar Pinto
 - LLamar modista
 - Llamar Cavagna (?)
