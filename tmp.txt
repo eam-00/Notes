@@ -85,7 +85,7 @@ MAR:
 ---
 
 
-- Check crontab exec @GSOC server
+
 - Push after reboot sun212 & sun279 in order to close tickets
 
 
