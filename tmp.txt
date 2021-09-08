@@ -57,6 +57,7 @@ MIE:
 ---
 - Decom Sun273: Push Recover Server Equip
 - Install Industrial Defender
+- Check crontab exec @GSOC Satellite server
 - Push cogni cel
 - Buy chinese stuff
 - Depositar Pinto
