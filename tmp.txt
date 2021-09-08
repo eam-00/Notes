@@ -83,7 +83,7 @@ DOM:
 
 MAR:
 ---
-- Email patch & reboot sun212
+
 - Push decom sun273
 - Check crontab exec @GSOC server
 - Push after reboot sun212 & sun279 in order to close tickets
