@@ -78,8 +78,6 @@ DOM:
 - Instalar Open Office @Pavillion
 
 
-LUN:
----
 
 
 
