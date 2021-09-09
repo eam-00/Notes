@@ -55,7 +55,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 JUE:
 ---
-- Push after reboot sun212 & sun279 in order to close tickets
+
 - Decom Sun273: Push Recover Server Equip
 - Install Industrial Defender
 - Check crontab exec @GSOC Satellite server
