@@ -84,7 +84,7 @@ DOM:
 
 MAR:
 ---
-- Push after reboot sun212 & sun279 in order to close tickets
+
 
 
 Candy-Ho Electronics
