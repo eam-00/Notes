@@ -61,6 +61,7 @@ VIE:
 - Check crontab exec @GSOC Satellite server
 - Push cogni cel
 - Chk Bcos
+- Sync Other Dropbox
 - Buy chinese stuff
 - Imprimir M
 - Depositar Pinto
