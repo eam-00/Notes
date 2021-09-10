@@ -71,7 +71,7 @@ VIE:
 - chk cogni training program
 - Okta / AWS: Add cellphone
 - ML: PS/2 -> USB adaptors
-- Samsung: Install -> Keep | Bacon Reader | ML | Musicolet
+- Samsung: Install -> Keep | Bacon Reader | ML | Musicolet | Popping keyboard
 - cp mobis -> Kindle
 - Apple Charger -> Avisar p/ encuentro [?]
 
