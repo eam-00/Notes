@@ -57,7 +57,7 @@ VIE:
 ---
 
 
-- ADMS: Install Industrial Defender @RHEL 7.9 [??]
+
 - Check crontab exec @GSOC Satellite server
 - Push cogni cel
 
