@@ -55,9 +55,6 @@ Arreglo persiana: Juan - 15 6803 8442
 
 VIE:
 ---
-
-
-
 - Check crontab exec @GSOC Satellite server
 - Push cogni cel
 
