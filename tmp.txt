@@ -61,7 +61,7 @@ VIE:
 - Check crontab exec @GSOC Satellite server
 - Push cogni cel
 
-- Sync x201t > T420
+
 - Sync Other Dropbox
 - Buy chinese stuff
 - Imprimir M
