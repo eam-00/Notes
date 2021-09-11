@@ -60,7 +60,7 @@ VIE:
 - ADMS: Install Industrial Defender @RHEL 7.9 [??]
 - Check crontab exec @GSOC Satellite server
 - Push cogni cel
-- Chk Bcos
+
 - Sync x201t > T420
 - Sync Other Dropbox
 - Buy chinese stuff
