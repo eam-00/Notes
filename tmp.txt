@@ -64,7 +64,7 @@ MAR:
 
 
 - Push cogni cel
-- Pinto: Chk Pago [?] | Depositar
+- Pinto: Push Deposito -> Monto [?]
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
