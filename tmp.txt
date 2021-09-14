@@ -64,7 +64,7 @@ MAR:
 
 - push Cogni -> Fish Rules [?]
 - Push cogni cel
-- Pinto: Push Deposito -> Monto [?]
+
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
