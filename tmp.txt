@@ -63,7 +63,7 @@ MAR:
 - Check crontab exec @GSOC Satellite server
 - Batts:
 - X220 (Large)
-- T4102
+
 - Push cogni cel
 - Pinto: Chk Pago [?] | Depositar
 - LLamar modista
