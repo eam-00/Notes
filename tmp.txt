@@ -62,7 +62,7 @@ MAR:
 - ADMS tasks: ED: review ntp task | test access -> report Ed
 - Check crontab exec @GSOC Satellite server
 
-
+- push Cogni -> Fish Rules [?]
 - Push cogni cel
 - Pinto: Push Deposito -> Monto [?]
 - LLamar modista
