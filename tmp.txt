@@ -59,6 +59,7 @@ MAR:
 - Review DSCADA patching calendar
 - Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
+- ADMS tasks: ED: review ntp task | test access -> report Ed
 - Check crontab exec @GSOC Satellite server
 - Push cogni cel
 - Pinto: Chk Pago [?] | Depositar
