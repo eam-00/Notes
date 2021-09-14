@@ -58,7 +58,7 @@ MAR:
 ---
 - Check crontab exec @GSOC Satellite server
 - Push cogni cel
-- Depositar Pinto
+- Pinto: Depositar
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
