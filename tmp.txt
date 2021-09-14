@@ -61,8 +61,7 @@ MAR:
 - Test DRAC -> Java -> Email
 - ADMS tasks: ED: review ntp task | test access -> report Ed
 - Check crontab exec @GSOC Satellite server
-- Batts:
-- X220 (Large)
+
 
 - Push cogni cel
 - Pinto: Chk Pago [?] | Depositar
