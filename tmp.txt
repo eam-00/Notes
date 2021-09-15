@@ -62,8 +62,7 @@ MIE:
 - Test DRAC -> Java -> Email
 - ADMS tasks: ED: review ntp task | test access -> report Ed
 - Check crontab exec @GSOC Satellite server
-
-
+- Limpiar casita
 
 - Batt X220i
 - LLamar modista
