@@ -64,7 +64,7 @@ MAR:
 - Check crontab exec @GSOC Satellite server
 
 
-- Push cogni cel
+- Cogni: push cel | 
 
 - LLamar modista
 - Llamar Cavagna (?)
