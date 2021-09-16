@@ -62,7 +62,7 @@ MIE:
 - Change Passwd [?] Test DRAC -> Java -> Email
 - ADMS tasks: ED: review ntp task | test access -> report Ed
 - Check crontab exec @GSOC Satellite server
-- Limpiar casita
+
 
 
 - LLamar modista
