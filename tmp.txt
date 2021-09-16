@@ -60,7 +60,7 @@ MIE:
 - Cogni: push cel | Send praise [?]
 - Ed: Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
-- ADMS tasks: ED: review ntp task | test access -> report Ed
+- ADMS tasks: ED: test access -> report Ed
 - Check crontab exec @GSOC Satellite server
 
 
