@@ -62,9 +62,6 @@ JUE:
 - Test DRAC -> Java -> Email
 - ADMS tasks: ED: test access IP hosts -> report Ed
 - Check crontab exec @GSOC Satellite server
-
-
-
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
