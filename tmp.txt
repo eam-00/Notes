@@ -65,7 +65,7 @@ MIE:
 - Check crontab exec @GSOC Satellite server
 - Limpiar casita
 
-- Batt X220i
+
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
