@@ -67,7 +67,7 @@ VIE:
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
-- chk cogni training program
+- Cogni: Zer0 ciurse
 - Okta / AWS: Add cellphone
 - ML: PS/2 -> USB adaptors
 - Samsung: Update | Install > Keep | Bacon Reader | ML | Musicolet 
