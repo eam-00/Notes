@@ -58,7 +58,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 VIE:
 ---
-- GSOC Satellite: Check crontab exec
+- GSOC Satellite: Access [?] | Check crontab exec
 - Cogni: Send praise [?]
 - Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
