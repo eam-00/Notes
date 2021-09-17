@@ -73,6 +73,7 @@ VIE:
 - Samsung: Update | Install > Keep | Bacon Reader | ML | Musicolet 
 - cp mobis -> Kindle
 - Apple Charger -> Avisar p/ encuentro [?]
+- W530: Update | Sync | 
 - Chk Bcos
 - Test HDMI connect from X140e
 
