@@ -80,7 +80,7 @@ VIE:
 - Test HDMI connect from X140e
 
 SAB:
-- El Bocado: Aceitunas negras
+- El Bocado: 100 gr Aceitunas negras
 
 DOM:
 ---
