@@ -62,7 +62,7 @@ VIE:
 - Cogni: Send praise [?]
 - Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
-- ADMS tasks: ED: test access IP hosts -> report Ed
+- ADMS tasks: Register Satellite [?] | Update | Reboot |
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
 - Llamar Cavagna (?)
