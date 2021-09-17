@@ -80,7 +80,7 @@ VIE:
 - Test HDMI connect from X140e
 
 SAB:
-- El Bocado: 
+- El Bocado: Aceitunas negras
 
 DOM:
 ---
