@@ -79,6 +79,9 @@ VIE:
 - Chk Bcos
 - Test HDMI connect from X140e
 
+SAB:
+- El Bocado: 
+
 DOM:
 ---
 - Instalar Open Office @Pavillion
