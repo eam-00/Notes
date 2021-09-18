@@ -82,7 +82,7 @@ SAB:
 ---
 
 
-- Test new keyboard
+
 - Research chrome-cursor
 
 DOM:
