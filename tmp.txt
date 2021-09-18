@@ -81,7 +81,7 @@ VIE:
 SAB:
 ---
 
-- La Bolognesa:
+
 - Test new keyboard
 - Research chrome-cursor
 
