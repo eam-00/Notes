@@ -66,7 +66,7 @@ VIE:
 - Cogni: Send praise [?]
 - Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
-- ADMS tasks:   | Reboot | ID install
+- ADMS tasks: yum -localinstall [?]  | Reboot | ID install
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
 - Llamar Cavagna (?)
