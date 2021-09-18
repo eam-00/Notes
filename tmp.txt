@@ -78,7 +78,7 @@ VIE:
 - cp mobis -> Kindle
 - Apple Charger -> Avisar p/ encuentro [?]
 - W530: Update | Sync | 
-- Chk Bcos
+
 - Test HDMI connect from X140e
 
 SAB:
