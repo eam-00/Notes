@@ -81,7 +81,7 @@ VIE:
 SAB:
 ---
 
-- La Bolognesa: 12 sorrentinos con mozarella
+- La Bolognesa:
 - Test new keyboard
 - Research chrome-cursor
 
