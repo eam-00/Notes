@@ -56,6 +56,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 LUN:
 ---
+- Warning: 21/09 doc
 - GSOC Satellite: Access [?] | Check crontab exec
 - Cogni: Send praise [?]
 - Help w/ CHGs Decom Solaris Zones
