@@ -62,6 +62,7 @@ LUN:
 - Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
 - ADMS tasks: yum -localinstall [?]  | Reboot | ID install
+- TRRT: Cry Macho
 - Hardware store: PS/2 -> USB adaptors
 - TNF: Hat [?]
 - LLamar modista
