@@ -63,6 +63,7 @@ LUN:
 - Test DRAC -> Java -> Email
 - ADMS tasks: yum -localinstall [?]  | Reboot | ID install
 - Hardware store: PS/2 -> USB adaptors
+- TNF: Hat [?]
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
