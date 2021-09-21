@@ -82,7 +82,7 @@ SAB:
 DOM:
 ---
 - Instalar Open Office @Pavillion
-- Take out: empanadas
+
 - Updates @T420
 
 Candy-Ho Electronics
