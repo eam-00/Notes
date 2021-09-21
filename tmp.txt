@@ -83,7 +83,6 @@ DOM:
 ---
 - Instalar Open Office @Pavillion
 
-- Updates @T420
 
 Candy-Ho Electronics
 Mejico 3941, Villa Martelli, PBA
