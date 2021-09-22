@@ -54,9 +54,8 @@ https://www.reddit.com/r/Mercadoreddit/comments/lgcl4n/vendo_rebajado_notebook_r
 Diego Samuel Bejarano - 11 3698 6668 - M65 Woodland (Medium Short)
 Arreglo persiana: Juan - 15 6803 8442
 
-MAR:
+JUE:
 ---
-
 - GSOC Satellite: Access [?] | Check crontab exec
 - Cogni: Send praise [?]
 - Help w/ CHGs Decom Solaris Zones
