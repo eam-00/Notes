@@ -65,7 +65,7 @@ JUE:
 - TRRT: Cry Macho
 - Hardware store: PS/2 -> USB adaptors
 - TNF: Hat [?]
-- X220i: Batt | 
+ 
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
