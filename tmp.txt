@@ -76,6 +76,7 @@ LUN:
 SAB:
 ---
 - Research chrome-cursor
+- Delete kernel crud - Dell XPS M1330
 
 DOM:
 ---
