@@ -57,6 +57,7 @@ LUN:
 - ML: PS/2 -> USB adaptors
 - Samsung: Update | Install > Keep | Bacon Reader | ML | Musicolet 
 - cp mobis -> Kindle
+- Research chrome-cursor
 - Moto G4 Plus: Remove MicroSD
 - Llevar cosas lavanderia
 - Apple Charger -> Avisar p/ encuentro [?]
@@ -64,7 +65,7 @@ LUN:
 
 SAB:
 ---
-- Research chrome-cursor
+
 - Delete kernel crud - Dell XPS M1330
 
 DOM:
