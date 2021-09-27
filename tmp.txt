@@ -57,6 +57,7 @@ LUN:
 - ML: PS/2 -> USB adaptors
 - Samsung: Update | Install > Keep | Bacon Reader | ML | Musicolet 
 - cp mobis -> Kindle
+- Llevar cosas lavanderia
 - Apple Charger -> Avisar p/ encuentro [?]
 - Test HDMI connect from X140e
 
