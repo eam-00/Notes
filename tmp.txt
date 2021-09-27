@@ -59,6 +59,7 @@ LUN:
 - cp mobis -> Kindle
 - Research chrome-cursor
 - Moto G4 Plus: Remove MicroSD
+- Samsung 10: Add MicroSD
 - Llevar cosas lavanderia
 - Apple Charger -> Avisar p/ encuentro [?]
 - Test HDMI connect from X140e
