@@ -66,8 +66,7 @@ LUN:
 
 SAB:
 ---
-
-- Delete kernel crud - Dell XPS M1330
+- Dell XPS M1330: Delete kernel crud 
 
 DOM:
 ---
