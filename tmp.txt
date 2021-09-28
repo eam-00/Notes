@@ -45,6 +45,7 @@ Arreglo persiana: Juan - 15 6803 8442
 MAR:
 ---
 - GSOC Satellite: / part space
+- SEP Install [?]
 - Cogni: Send praise [?]
 - Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
