@@ -46,7 +46,7 @@ MAR:
 ---
 - GSOC Satellite: / part space
 - SEP Install [?]
-- cyber Sc web thing [?]
+- cyber Sec web thing [?]
 - Cogni: Send praise [?]
 - Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
@@ -61,7 +61,7 @@ MAR:
 - cp mobis -> Kindle
 - Research chrome-cursor
 - Moto G4 Plus: Remove MicroSD
-- Samsung 10: Add MicroSD
+
 
 - Apple Charger -> Avisar p/ encuentro [?]
 - Test HDMI connect from X140e
