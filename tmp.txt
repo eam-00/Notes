@@ -62,6 +62,7 @@ MAR:
 - Batt: X220i
 - Apple Charger -> Avisar p/ encuentro [?]
 - Test HDMI connect from X140e
+- Mamma: http://television.com.ar/hbo-max-estrena-the-american-guest-18-09/173101
 
 SAB:
 ---
