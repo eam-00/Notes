@@ -60,8 +60,6 @@ MAR:
 - cp mobis -> Kindle
 - Research chrome-cursor
 - Batt: X220i
-
-
 - Apple Charger -> Avisar p/ encuentro [?]
 - Test HDMI connect from X140e
 
