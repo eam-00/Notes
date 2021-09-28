@@ -60,7 +60,7 @@ MAR:
 - Samsung: Update | Install > Keep | Bacon Reader | ML | Musicolet 
 - cp mobis -> Kindle
 - Research chrome-cursor
-- Moto G4 Plus: Remove MicroSD
+
 
 
 - Apple Charger -> Avisar p/ encuentro [?]
