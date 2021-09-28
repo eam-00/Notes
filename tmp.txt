@@ -63,6 +63,7 @@ MIE:
 - Test HDMI connect from X140e
 
 Carre: Queso Port Salut
+Pan Multigranos (x2) |
 
 SAB:
 ---
