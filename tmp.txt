@@ -62,6 +62,8 @@ MIE:
 - Apple Charger -> Avisar p/ encuentro [?]
 - Test HDMI connect from X140e
 
+Carre: Queso Port Salut
+
 SAB:
 ---
 - Dell XPS M1330: Delete kernel crud 
