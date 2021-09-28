@@ -46,6 +46,7 @@ MAR:
 ---
 - GSOC Satellite: / part space
 - SEP Install [?]
+- cyber Sc web thing [?]
 - Cogni: Send praise [?]
 - Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
