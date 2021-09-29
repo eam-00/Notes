@@ -71,7 +71,7 @@ SAB:
 DOM:
 ---
 - Instalar Open Office @Pavillion
-- TRRT
+
 
 
 Candy-Ho Electronics
