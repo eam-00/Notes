@@ -44,7 +44,7 @@ JUE:
 ---
 - GSOC Satellite: / part space
 
-- cyber Sec web thing [?]
+
 - Cogni: Send praise [?]
 - Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
