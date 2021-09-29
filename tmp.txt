@@ -58,7 +58,7 @@ MIE:
 - Samsung: Update | Install > Keep | Bacon Reader | ML | Musicolet 
 - cp mobis -> Kindle
 - Research chrome-cursor
-- Batt: X220i
+
 - Apple Charger -> Avisar p/ encuentro [?]
 - Test HDMI connect from X140e
 
