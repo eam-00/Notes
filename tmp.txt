@@ -58,7 +58,6 @@ JUE:
 - Samsung: Update | Install > Keep | Bacon Reader | ML | Musicolet 
 - cp mobis -> Kindle
 - Research chrome-cursor
-
 - Apple Charger -> Avisar p/ encuentro [?]
 - Test HDMI connect from X140e
 
