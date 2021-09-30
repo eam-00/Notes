@@ -52,6 +52,7 @@ VIE:
 - Chk Fumi Sab
 - Chk Bcos
 - X140e | W530 
+- Cargar Nikon
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
