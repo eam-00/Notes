@@ -41,7 +41,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 VIE:
 ---
-
+- TS
 - GSOC Satellite: / part space
 - SEP: test connex SSH
 - Cogni: Send praise [?]
