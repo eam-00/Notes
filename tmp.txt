@@ -43,7 +43,7 @@ Arreglo persiana: Juan - 15 6803 8442
 JUE:
 ---
 - GSOC Satellite: / part space
-
+- SEP: Push CHG
 
 - Cogni: Send praise [?]
 - Help w/ CHGs Decom Solaris Zones
