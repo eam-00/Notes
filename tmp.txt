@@ -51,6 +51,7 @@ VIE:
 - Hardware store: PS/2 -> USB adaptors
 - Chk Fumi Sab
 - Chk Bcos
+- X140e | W530 
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
