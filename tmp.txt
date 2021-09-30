@@ -49,6 +49,7 @@ VIE:
 - Test DRAC -> Java -> Email
 - ADMS tasks: 
 - Hardware store: PS/2 -> USB adaptors
+- Chk Bcos
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
