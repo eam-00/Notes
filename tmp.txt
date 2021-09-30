@@ -41,6 +41,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 JUE:
 ---
+- N: https://www.youtube.com/watch?v=HMxYdTt5N_s
 - GSOC Satellite: / part space
 - SEP: Push CHG
 - Cogni: Send praise [?]
