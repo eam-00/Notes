@@ -44,7 +44,6 @@ JUE:
 ---
 - GSOC Satellite: / part space
 - SEP: Push CHG
-
 - Cogni: Send praise [?]
 - Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
@@ -60,8 +59,6 @@ JUE:
 - Research chrome-cursor
 - Apple Charger -> Avisar p/ encuentro [?]
 - Test HDMI connect from X140e
-
-
 
 
 SAB:
