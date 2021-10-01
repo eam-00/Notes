@@ -49,7 +49,7 @@ VIE:
 - Test DRAC -> Java -> Email
 - ADMS tasks: 
 - Hardware store: PS/2 -> USB adaptors
-- Chk Fumi Sab
+
 - Chk Bcos
 - X140e | W530 
 - Cargar Nikon
