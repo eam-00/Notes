@@ -51,7 +51,7 @@ VIE:
 - Hardware store: PS/2 -> USB adaptors
 
 - Chk Bcos
-- X140e | W530 
+
 - Cargar Nikon
 - LLamar modista
 - Llamar Cavagna (?)
