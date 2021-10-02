@@ -41,7 +41,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 LUN:
 ---
-- SEP : Renew CHG
+- SEP: Renew CHG
 - GSOC Satellite: / part space
 - Cogni: Send praise [?]
 - Help w/ CHGs Decom Solaris Zones
@@ -61,7 +61,7 @@ LUN:
 
 https://www.reddit.com/r/empleos_AR/comments/pxf1h1/fully_remote_position_recruiting/
 https://www.reddit.com/r/argentina/comments/pzixrt/empleo_remoto_desde_argentina_para_usa/
-https://www.hbolatam.com/ar/series/detail/El-Hu-sped-Americano---Parte-1/14791/TTL728348
+
 
 SAB:
 ---
