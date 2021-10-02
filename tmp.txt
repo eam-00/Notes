@@ -52,7 +52,7 @@ LUN:
 
 
 
-- Cargar Nikon
+
 - LLamar modista
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
