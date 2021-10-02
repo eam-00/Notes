@@ -51,7 +51,7 @@ LUN:
 - Ver ML adaptador HDMI > DVI (?)
 - Okta / AWS: Add cellphone
 - ML: PS/2 -> USB adaptors
-- Samsung: Update | Install > Keep | Bacon Reader | ML | Musicolet 
+
 - cp mobis -> Kindle
 - Research chrome-cursor
 - Apple Charger -> Avisar p/ encuentro [?]
