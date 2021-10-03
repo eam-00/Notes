@@ -52,7 +52,6 @@ LUN:
 - Ver ML adaptador HDMI > DVI (?)
 - Okta / AWS: Add cellphone
 - ML: PS/2 -> USB adaptors
-
 - cp mobis -> Kindle
 - Research chrome-cursor
 - Apple Charger -> Avisar p/ encuentro [?]
