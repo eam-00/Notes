@@ -48,7 +48,7 @@ MAR:
 - ADMS tasks: 
 
 
-- Leave: Tuppers | Card |  
+- Leave: Tuppers |  
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
 - Llamar Cavagna (?)
