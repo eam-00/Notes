@@ -46,9 +46,6 @@ MAR:
 - Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
 - ADMS tasks: 
-
-
-
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
 - Llamar Cavagna (?)
