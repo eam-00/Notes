@@ -47,7 +47,7 @@ MAR:
 - Test DRAC -> Java -> Email
 - ADMS tasks: 
 
-- ATM BN
+
 - Leave: Tuppers | Card | $ | Laundry | Towel
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
