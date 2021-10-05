@@ -57,11 +57,6 @@ MAR:
 - Apple Charger -> Avisar p/ encuentro [?]
 - Test HDMI connect from X140e
 
-
-
-
-
-
 DOM:
 ---
 - Instalar Open Office @Pavillion
