@@ -47,7 +47,7 @@ VIE:
 ---
 
 - Chk Cursos
-- Limpiar casita
+
 - T60p: install Void
 - W530: Updates + Sync Other Dropbox
 - SEP: Install on low RAM
