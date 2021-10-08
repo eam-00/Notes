@@ -44,6 +44,7 @@ VIE:
 ---
 - TS
 - Chk Cursos
+- Limpiar casita
 - SEP: Install on low RAM
 - Cogni: Send praise [?]
 - Help w/ CHGs Decom Solaris Zones
