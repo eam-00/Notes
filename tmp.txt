@@ -53,7 +53,8 @@ MAR:
 - ADMS tasks: 
 - Turno Cors
 - Chk Telecom
-- Movistar: Chk SMS 
+- Movistar: Chk SMS
+- Depo Expensas- El ministro de Educacion apoyo los viajes de egresados gratis que anuncio Kicillof.
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
 - Llamar Cavagna (?)
