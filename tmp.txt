@@ -59,7 +59,6 @@ MAR:
 - Ver ML adaptador HDMI > DVI (?)
 - Okta / AWS: Add cellphone
 - ML: PS/2 -> USB adaptors
-
 - Research chrome-cursor
 - Apple Charger -> Avisar p/ encuentro [?]
 - Test HDMI connect from X140e
