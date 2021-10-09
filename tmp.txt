@@ -51,6 +51,7 @@ MAR:
 - Test DRAC -> Java -> Email
 - ADMS tasks: 
 - Turno Cors
+- Chk Telecom
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
 - Llamar Cavagna (?)
