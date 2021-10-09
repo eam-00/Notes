@@ -6,7 +6,6 @@ Llevar N:
 - Crema
 - Whisky + Ferrero Rocher
 
-
 Eagle Technology - https://www.eagletechnology.com.ar
 Nueva York 3306
 +5411 5236 0160
@@ -47,7 +46,6 @@ VIE:
 ---
 
 - Chk Cursos
-
 - T60p: install Void
 
 - SEP: Install on low RAM
