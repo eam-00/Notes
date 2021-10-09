@@ -52,6 +52,7 @@ MAR:
 - ADMS tasks: 
 - Turno Cors
 - Chk Telecom
+- Movistar: Chk SMS 
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
 - Llamar Cavagna (?)
