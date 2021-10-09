@@ -1,4 +1,4 @@
-Llevar N:
+- El ministro de Educacion apoyo los viajes de egresados gratis que anuncio Kicillof.Llevar N:
 --------
 - Leches
 - Tupper
@@ -55,6 +55,7 @@ MAR:
 - Chk Telecom
 - Movistar: Chk SMS
 - Depo Expensas
+- Metrogas
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
 - Llamar Cavagna (?)
