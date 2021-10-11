@@ -46,7 +46,7 @@ MAR:
 - Test DRAC -> Java -> Email
 - ADMS tasks: 
 - Turno Cors
-- Chk Telecom
+- Telecom: Chk pagos
 - Movistar: Chk SMS
 - Depo Expensas
 - Metrogas
