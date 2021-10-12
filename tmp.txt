@@ -50,7 +50,7 @@ MAR:
 - Movistar: Chk SMS
 - Depo Expensas
 - Metrogas
-- Dejar: Tuppers | Lavanderia | 
+- Dejar: Tuppers | Lavanderia | Camisa | 
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
 - Llamar Cavagna (?)
