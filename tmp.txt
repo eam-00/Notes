@@ -50,7 +50,7 @@ MAR:
 - Movistar: Chk SMS
 - 
 
-- Dejar:  
+
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
 - Llamar Cavagna (?)
