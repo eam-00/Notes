@@ -46,7 +46,7 @@ MIE:
 - Test DRAC -> Java -> Email
 - ADMS tasks: 
 - Turno Cors
-- Chk Recibo Exp
+
 - Telecom: Chk pagos
 - Movistar: Chk SMS
 - Limpiar casita
