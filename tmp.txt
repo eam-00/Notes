@@ -40,7 +40,7 @@ Arreglo persiana: Juan - 15 6803 8442
 MIE:
 ---
 - Cogni: Chk Cursos
-- SEP: Install on low RAM
+
 - Cogni: Send praise [?]
 - Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
