@@ -50,7 +50,7 @@ MIE:
 - Telecom: Chk pagos
 - Movistar: Chk SMS
 - Limpiar casita
-- Batts: X220i 
+- Batts: X220i | X140e
 
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
