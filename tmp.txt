@@ -48,7 +48,7 @@ MAR:
 - Turno Cors
 - Telecom: Chk pagos
 - Movistar: Chk SMS
-- Depo Expensas
+- 
 - Metrogas
 - Dejar: Tuppers | Lavanderia | Camisa | Mobi
 - Hardware store: PS/2 -> USB adaptors
