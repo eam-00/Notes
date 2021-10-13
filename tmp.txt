@@ -49,7 +49,7 @@ MAR:
 - Telecom: Chk pagos
 - Movistar: Chk SMS
 - 
-- Metrogas
+
 - Dejar: Tuppers | Lavanderia | Camisa | Mobi
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
