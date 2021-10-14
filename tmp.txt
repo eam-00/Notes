@@ -46,7 +46,7 @@ JUE:
 - Test DRAC -> Java -> Email
 - ADMS tasks: 
 - Turno Cors
-
+- Close CHGs
 - Telecom: Chk pagos
 - Movistar: Chk SMS
 - Limpiar casita
