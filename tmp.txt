@@ -48,6 +48,7 @@ JUE:
 - Turno Cors
 - Close CHGs
 - Mail Mike
+- Mail Courtney
 - Telecom: Chk pagos
 - Movistar: Chk SMS
 - Limpiar casita
