@@ -47,6 +47,7 @@ JUE:
 - ADMS tasks: 
 - Turno Cors
 - Close CHGs
+- Mail Mike
 - Telecom: Chk pagos
 - Movistar: Chk SMS
 - Limpiar casita
