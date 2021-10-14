@@ -50,6 +50,7 @@ JUE:
 - Mail Mike
 - Mail Courtney
 - SEP install
+- Spreadsheet Cell
 - Telecom: Chk pagos
 - Movistar: Chk SMS
 - Limpiar casita
