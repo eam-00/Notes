@@ -49,6 +49,7 @@ JUE:
 - Close CHGs
 - Mail Mike
 - Mail Courtney
+- SEP install
 - Telecom: Chk pagos
 - Movistar: Chk SMS
 - Limpiar casita
