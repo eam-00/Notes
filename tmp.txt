@@ -51,7 +51,7 @@ VIE:
 - Turno Cors
 - Chk Bcos
 
-- Mail Courtney
+
 - SEP install
 - Spreadsheet Cell
 - Telecom: Chk pagos
