@@ -49,7 +49,7 @@ VIE:
 - Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
 - ADMS tasks: 
-- Turno Cors
+
 - Chk Bcos
 
 
