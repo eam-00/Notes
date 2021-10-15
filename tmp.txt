@@ -48,7 +48,7 @@ VIE:
 - Test DRAC -> Java -> Email
 - ADMS tasks: 
 - Turno Cors
-- Close CHGs
+
 - Mail Mike
 - Mail Courtney
 - SEP install
