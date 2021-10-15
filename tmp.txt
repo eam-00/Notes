@@ -49,7 +49,7 @@ VIE:
 - ADMS tasks: 
 - Turno Cors
 
-- Mail Mike
+
 - Mail Courtney
 - SEP install
 - Spreadsheet Cell
