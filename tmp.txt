@@ -49,7 +49,7 @@ VIE:
 - Test DRAC -> Java -> Email
 - ADMS tasks: 
 - Turno Cors
-
+- Chk Bcos
 
 - Mail Courtney
 - SEP install
