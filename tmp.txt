@@ -50,7 +50,7 @@ VIE:
 - Test DRAC -> Java -> Email
 - ADMS tasks: 
 
-- Chk Bcos
+
 
 
 - SEP install
