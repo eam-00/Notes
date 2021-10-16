@@ -50,10 +50,6 @@ LUN:
 - Test DRAC -> Java -> Email
 - ADMS tasks: 
 
-
-
-
-
 - Spreadsheet Cell
 - Telecom: Chk pagos
 - Movistar: Chk SMS
