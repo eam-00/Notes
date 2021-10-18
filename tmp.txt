@@ -40,7 +40,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 LUN:
 ---
-- DS Patching & Rebooting
+
 - SEP install
 - Cbio Sabanas
 - Cogni: Chk Cursos
