@@ -41,7 +41,7 @@ Arreglo persiana: Juan - 15 6803 8442
 LUN:
 ---
 
-- SEP install
+
 
 - Cogni: Chk Cursos
 - Cogni: Send praise [?]
