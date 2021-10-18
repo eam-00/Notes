@@ -50,9 +50,6 @@ LUN:
 - Spreadsheet Cell
 - Telecom: Chk pagos
 - Movistar: Chk SMS
-
-
-
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
 - Llamar Cavagna (?)
