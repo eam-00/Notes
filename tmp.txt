@@ -41,7 +41,7 @@ Arreglo persiana: Juan - 15 6803 8442
 MAR:
 ---
 - M65
-- Chk: Azure | Inteview domani [?] | Chk SEP |
+- Chk: Azure | Inteview domani [?] | Chk SEP | Close CHG 
 - Cogni: Chk Cursos
 - Cogni: Send praise [?]
 - Help w/ CHGs Decom Solaris Zones
