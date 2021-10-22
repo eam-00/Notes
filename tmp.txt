@@ -55,7 +55,7 @@ VIE:
 - Telecom: Chk pagos
 - Movistar: Chk SMS
 
-- Chk Bcos
+
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
 - Llamar Cavagna (?)
