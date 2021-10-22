@@ -54,7 +54,7 @@ VIE:
 - Spreadsheet Cell
 - Telecom: Chk pagos
 - Movistar: Chk SMS
-- Limpiar casita
+
 - Chk Bcos
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
