@@ -44,7 +44,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 VIE:
 ---
-- TS
+
 - Chk SEP then Close CHG 
 - Cogni: Chk Cursos
 - Cogni: Send praise [?]
