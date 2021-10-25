@@ -48,6 +48,7 @@ MAR:
 - Test DRAC -> Java -> Email
 - ADMS tasks: 
 - Spreadsheet Cell
+- M: Llevar tarjeta
 - Telecom: Chk pagos
 - Movistar: Chk SMS
 - Hardware store: PS/2 -> USB adaptors
