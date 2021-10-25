@@ -51,6 +51,7 @@ LUN:
 - Movistar: Chk SMS
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
+- Cosas lavanderia
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
 - Okta / AWS: Add cellphone
