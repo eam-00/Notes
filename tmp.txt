@@ -49,7 +49,7 @@ JUE:
 - Test DRAC -> Java -> Email
 - ADMS tasks: 
 - Spreadsheet Cell
-
+- Print M
 - Llamar Telecom: Chk pagos
 - Llamar Movistar: Chk SMS
 - Hardware store: PS/2 -> USB adaptors
