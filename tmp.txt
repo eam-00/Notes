@@ -42,7 +42,6 @@ Arreglo persiana: Juan - 15 6803 8442
 
 JUE:
 ---
-
 - Solaris: Setup Patching Schedule
 - Cogni: Chk Cursos
 - Cogni: Send praise [?]
@@ -55,7 +54,6 @@ JUE:
 - Llamar Movistar: Chk SMS
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
-
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
 - Okta / AWS: Add cellphone
