@@ -50,7 +50,7 @@ JUE:
 - Spreadsheet Cell
 
 
-- Push: Suda Script (?)
+
 - Llamar Telecom: Chk pagos
 - Llamar Movistar: Chk SMS
 - Hardware store: PS/2 -> USB adaptors
