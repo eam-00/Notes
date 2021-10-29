@@ -49,7 +49,7 @@ JUE:
 - Test DRAC -> Java -> Email
 - Spreadsheet Cell
 
-- N: info inq
+
 - Push: Suda Script (?)
 - Llamar Telecom: Chk pagos
 - Llamar Movistar: Chk SMS
