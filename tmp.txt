@@ -49,6 +49,7 @@ VIE:
 - Test DRAC -> Java -> Email
 - Spreadsheet Cell
 - Llamar Telecom: Chk pagos
+- Chk Bcos
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
 - Llamar Cavagna (?)
