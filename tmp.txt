@@ -51,7 +51,7 @@ LUN:
 - Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
 - Spreadsheet Cell
-- ATM Bco. Nacion
+
 - Llamar Telecom: Chk pagos
 - Chk Bcos
 - Hardware store: PS/2 -> USB adaptors
