@@ -44,6 +44,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 LUN:
 ---
+- Pinto: Status Cab.
 - Solaris: Setup Patching Schedule
 - Cogni: Chk Cursos
 - Cogni: Send praise [?]
