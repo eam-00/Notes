@@ -59,8 +59,6 @@ LUN:
 - Apple Charger -> Avisar p/ encuentro [?]
 - Test HDMI connect from X140e
 
-Carre:
- 
 Candy-Ho Electronics
 Mejico 3941, Villa Martelli, PBA
 +5411 3968 5940
