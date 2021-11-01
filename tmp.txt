@@ -57,6 +57,7 @@ LUN:
 - Movistar: Chk Facturas
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
+- Lavanderia
 - Ver Headphones
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
