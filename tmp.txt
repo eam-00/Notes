@@ -58,7 +58,7 @@ MAR:
 - Movistar: Chk Facturas
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
-- Lavanderia
+
 
 - Gap Sweatshirt
 - Ver Headphones
