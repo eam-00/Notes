@@ -61,6 +61,7 @@ LUN:
 - P. Reverte
 - Gap Sweatshirt
 - Ver Headphones
+- Add Netflix list Chapelle
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
 - Okta / AWS: Add cellphone
