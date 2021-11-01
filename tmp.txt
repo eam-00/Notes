@@ -44,7 +44,7 @@ LUN:
 ---
 
 - Kudos Martin
-
+- Thinkpad Phaser
 - Pinto: Status Cab.
 - Solaris: Setup Patching Schedule
 - Cogni: Chk Cursos
