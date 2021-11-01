@@ -43,6 +43,7 @@ Arreglo persiana: Juan - 15 6803 8442
 LUN:
 ---
 
+- Kudos Martin
 
 - Pinto: Status Cab.
 - Solaris: Setup Patching Schedule
