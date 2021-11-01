@@ -58,6 +58,7 @@ LUN:
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
 - Lavanderia
+- P. Reverte
 - Ver Headphones
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
