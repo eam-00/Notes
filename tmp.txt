@@ -44,6 +44,7 @@ MAR:
 ---
 - ATM
 - CobroExpress
+- Tuppers
 - Kudos Martin
 - Thinkpad Phaser
 - Pinto: Status Cab.
