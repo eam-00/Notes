@@ -56,7 +56,7 @@ MIE:
 - Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
 - Spreadsheet Cell
-- Fernando: email telecom
+
 - Telecom: Chk Facturas
 - Movistar: Chk Facturas
 - Hardware store: PS/2 -> USB adaptors
