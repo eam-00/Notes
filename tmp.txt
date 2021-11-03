@@ -58,7 +58,7 @@ MIE:
 - Spreadsheet Cell
 
 - Telecom: Chk Facturas
-- Movistar: Chk Facturas
+
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
 
