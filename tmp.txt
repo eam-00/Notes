@@ -45,7 +45,7 @@ MIE:
 - Push Req Patches DS
 - ATM
 
-- Tuppers
+
 - Kudos Martin
 - Thinkpad Phaser
 - Pinto: Status Cab.
