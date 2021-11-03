@@ -43,6 +43,7 @@ Arreglo persiana: Juan - 15 6803 8442
 MIE:
 ---
 - Push Req Patches DS
+- Push old CHG AD 
 - ATM
 
 
