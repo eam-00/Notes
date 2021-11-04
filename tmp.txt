@@ -44,7 +44,7 @@ JUE:
 - Push old CHG AD
 - AD: CHG Apache Off  
 - ATM
-- Kudos Martin
+
 - Thinkpad Phaser
 - Pinto: Status Cab.
 - Solaris: Setup Patching Schedule
