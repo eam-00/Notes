@@ -60,6 +60,7 @@ VIE:
 - LLamar modista
 - W530
 - X220i
+- X140e
 - Add Netflix list Chapelle
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
