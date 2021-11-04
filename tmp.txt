@@ -58,7 +58,7 @@ VIE:
 - Telecom: Chk Facturas
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
-
+- W530
 - Add Netflix list Chapelle
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
