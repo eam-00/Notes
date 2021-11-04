@@ -45,7 +45,7 @@ VIE:
 
  
 - ATM
-
+- Chk schedule Sun Ed -> Setup
 - Thinkpad Phaser
 - Pinto: Status Cab.
 - Solaris: Setup Patching Schedule
