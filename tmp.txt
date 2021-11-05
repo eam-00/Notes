@@ -63,6 +63,7 @@ VIE:
 - X140e
 - Chk Bcos
 - Charge: Batts AA
+- Charge: Nikon
 - Add Netflix list Chapelle
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
