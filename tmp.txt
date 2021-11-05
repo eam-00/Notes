@@ -62,6 +62,7 @@ VIE:
 - X220i
 - X140e
 - Chk Bcos
+- Charge: Batts AA
 - Add Netflix list Chapelle
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
