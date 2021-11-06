@@ -3,6 +3,7 @@ Llevar N:
 - Gelatinas
 - Leche
 - Vino
+- Bolsitas
 
 Eagle Technology - https://www.eagletechnology.com.ar
 Nueva York 3306
