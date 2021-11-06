@@ -57,7 +57,7 @@ VIE:
 - Telecom: Chk Facturas
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
-- W530
+
 - X220i
 - X140e
 - Chk Bcos
