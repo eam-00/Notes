@@ -58,7 +58,7 @@ VIE:
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
 
-- X220i
+
 - X140e
 - Chk Bcos
 - Charge: Batts AA
