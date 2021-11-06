@@ -50,7 +50,7 @@ LUN:
 - ED: AD CHG Networkers [?] - ChK end date CGH
 - Chk schedule Sun Ed -> Setup
 - Thinkpad Phaser
-- Pinto: Depositar | 
+- Pinto: Depositar | Status depto. Cab.
 - Solaris: Setup Patching Schedule
 - Cogni: Chk Cursos
 - Cogni: Send praise [?]
