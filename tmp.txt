@@ -60,8 +60,6 @@ LUN:
 
 
 
-
-
 - Charge: Nikon
 - Add Netflix list Chapelle
 - Llamar Cavagna (?)
