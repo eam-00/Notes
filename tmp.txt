@@ -65,7 +65,7 @@ LUN:
 
 
 
-- Charge: Nikon
+
 - Add Netflix list Chapelle
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
