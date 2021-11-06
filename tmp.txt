@@ -60,7 +60,7 @@ VIE:
 
 
 
-- Chk Bcos
+
 - Charge: Batts AA
 - Charge: Nikon
 - Add Netflix list Chapelle
