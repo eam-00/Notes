@@ -61,7 +61,7 @@ VIE:
 
 
 
-- Charge: Batts AA
+
 - Charge: Nikon
 - Add Netflix list Chapelle
 - Llamar Cavagna (?)
