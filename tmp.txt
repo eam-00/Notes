@@ -47,10 +47,10 @@ Arreglo persiana: Juan - 15 6803 8442
 
 LUN:
 ---
-- ED: AD CHG Networkers [?] -. ChK end date CGH
+- ED: AD CHG Networkers [?] - ChK end date CGH
 - Chk schedule Sun Ed -> Setup
 - Thinkpad Phaser
-- Pinto: Status Cab.
+- Pinto: Depositar | 
 - Solaris: Setup Patching Schedule
 - Cogni: Chk Cursos
 - Cogni: Send praise [?]
