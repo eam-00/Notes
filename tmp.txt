@@ -49,7 +49,6 @@ Mail Pinto
 LUN:
 ---
 - ED: AD CHG Networkers [?] -. ChK end date CGH
-- ATM
 - Chk schedule Sun Ed -> Setup
 - Thinkpad Phaser
 - Pinto: Status Cab.
