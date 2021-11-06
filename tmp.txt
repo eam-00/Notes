@@ -59,7 +59,7 @@ VIE:
 - LLamar modista
 
 
-- X140e
+
 - Chk Bcos
 - Charge: Batts AA
 - Charge: Nikon
