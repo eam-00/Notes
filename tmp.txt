@@ -65,7 +65,7 @@ LUN:
 - Add Netflix list Chapelle
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
-
+- T60p: test Spotify | 
 - ML: PS/2 -> USB adaptors
 - Research chrome-cursor
 - Apple Charger -> Avisar p/ encuentro [?]
