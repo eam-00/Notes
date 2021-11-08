@@ -42,7 +42,7 @@ LUN:
 ---
 - Spotify: Islands in the stream | Give My Regards To Broad Street
 - ED: AD CHG Networkers [?] - Chk end date CGH
-- ED: shadow Sun updates [?]
+
 - Thinkpad Phaser
 - Pinto: Depositar
 - Solaris: Setup Patching Schedule
