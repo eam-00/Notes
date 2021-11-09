@@ -58,7 +58,7 @@ MAR:
 - ML: PS/2 -> USB adaptors
 - Research chrome-cursor
 - Apple Charger -> Avisar p/ encuentro [?]
-- Test HDMI connect from X140e
+- X140e: Test HDMI TV
 
 Candy-Ho ElectronicsBrody Stevens
 Mejico 3941, Villa Martelli, PBA
