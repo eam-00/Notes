@@ -46,6 +46,7 @@ MAR:
 - Solaris: Setup Patching Schedule
 - ATM: Depo Exp | Take out
 - Tommy: mani c/ sal
+- CobroExpress Chk Telecom
 - M: Tupper
 - Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
