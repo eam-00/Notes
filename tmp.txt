@@ -45,7 +45,6 @@ MAR:
 - Thinkpad Phaser
 - Solaris: Setup Patching Schedule
 - Cogni: Chk Cursos
-
 - Tommy: mani c/ sal
 - Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
@@ -56,7 +55,6 @@ MAR:
 - Add Netflix list Chapelle
 - Llamar Cavagna (?)
 - Ver ML adaptador HDMI > DVI (?)
-
 - ML: PS/2 -> USB adaptors
 - Research chrome-cursor
 - Apple Charger -> Avisar p/ encuentro [?]
