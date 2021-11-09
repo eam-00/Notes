@@ -42,9 +42,7 @@ MAR:
 ---
 - Spotify: Islands in the stream | Give My Regards To Broad Street
 - ED: AD CHG Networkers [?] - Chk end date CGH
-
 - Thinkpad Phaser
-
 - Solaris: Setup Patching Schedule
 - Cogni: Chk Cursos
 - Cogni: Send praise [?]
