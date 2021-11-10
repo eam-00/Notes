@@ -45,7 +45,7 @@ MIE:
 - Thinkpad Phaser
 - Solaris: Setup Patching Schedule
 - ATM: Take out
-- Tommy: mani c/ sal
+
 - Farmacity
 - Get lavanderia
 
