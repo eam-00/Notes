@@ -46,6 +46,7 @@ MIE:
 - Solaris: Setup Patching Schedule
 - ATM: Take out
 - Tommy: mani c/ sal
+- Get lavanderia
 - Vallone: Chk email response
 - Reply Pinto email
 - Help w/ CHGs Decom Solaris Zones
