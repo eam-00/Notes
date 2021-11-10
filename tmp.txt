@@ -44,7 +44,7 @@ MIE:
 - ED: AD CHG Networkers [?] - Chk end date CGH
 - Thinkpad Phaser
 - Solaris: Setup Patching Schedule
-- ATM: Depo Exp 
+- ATM: Take out
 - Tommy: mani c/ sal
 
  
