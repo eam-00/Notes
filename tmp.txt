@@ -47,7 +47,7 @@ MIE:
 - ATM: Take out
 - Tommy: mani c/ sal
 - Vallone: Chk email response
- 
+- Reply Pinto email
 - Help w/ CHGs Decom Solaris Zones
 - Test DRAC -> Java -> Email
 - Spreadsheet Cell
