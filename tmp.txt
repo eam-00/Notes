@@ -48,7 +48,7 @@ MIE:
 - ATM: Take out
 
 
-- Get lavanderia
+
 
 - Reply Pinto email
 - Help w/ CHGs Decom Solaris Zones
