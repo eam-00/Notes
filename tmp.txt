@@ -42,6 +42,7 @@ Arreglo persiana: Juan - 15 6803 8442
 JUE:
 ---
 - Spotify: Islands in the stream | Give My Regards To Broad Street
+- DS: Patch
 - ED: AD CHG Networkers [?] - Thursday the window closes
 - ED: Shadow Solaris patch
 - Thinkpad Phaser
