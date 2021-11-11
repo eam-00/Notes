@@ -43,7 +43,7 @@ VIE:
 ---
 - TS
 - Spotify: Islands in the stream | Give My Regards To Broad Street
-
+- AD: email Vulns progress
 
 - ED: Shadow Solaris patch
 - Thinkpad Phaser
