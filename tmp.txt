@@ -45,6 +45,7 @@ VIE:
 - Spotify: Islands in the stream | Give My Regards To Broad Street
 - AD: email Vulns progress
 - Upload Sun Sparc patchset
+- Sun: setup CHGs
 - ED: Shadow Solaris patch
 - Thinkpad Phaser
 
