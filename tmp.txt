@@ -48,7 +48,7 @@ JUE:
 - Thinkpad Phaser
 
 - ATM: Take out
-- DS: send email spreadsheet
+
 - DS: close ticket
 
 
