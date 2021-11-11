@@ -49,7 +49,7 @@ JUE:
 
 - ATM: Take out
 - DS: send email spreadsheet
-
+- DS: close ticket
 
 
 - Reply Pinto email
