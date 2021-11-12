@@ -52,6 +52,7 @@ VIE:
 - Thinkpad Phaser
 
 - ATM: Take out
+- M: Take bag | 
 - Chk Bcos
 
 
