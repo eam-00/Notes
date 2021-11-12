@@ -41,7 +41,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 VIE:
 ---
-- TS
+
 - Chk fumigacion
 - Spotify: Islands in the stream | Give My Regards To Broad Street
 - AD: email Vulns progress
