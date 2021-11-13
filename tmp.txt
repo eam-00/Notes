@@ -54,7 +54,7 @@ VIE:
 - Thinkpad Phaser
 
 - ATM: Take out
-- M: Take bag | Get Scotch
+- M: Take bag 
 
 
 
