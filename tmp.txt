@@ -48,7 +48,7 @@ VIE:
 
 
 
-- Upload Sun Sparc patchset
+
 - Sun: setup CHGs
 - ED: Shadow Solaris patch
 - Thinkpad Phaser
