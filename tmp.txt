@@ -55,7 +55,7 @@ VIE:
 
 - ATM: Take out
 - M: Take bag | Get Scotch
-- Chk Bcos
+
 
 
 
