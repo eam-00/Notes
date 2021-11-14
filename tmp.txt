@@ -45,7 +45,7 @@ VIE:
 
 
 
-
+- DS: Patch
 - Sun: setup CHGs
 - ED: Shadow Solaris patch
 - Thinkpad Phaser
