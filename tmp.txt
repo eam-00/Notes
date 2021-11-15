@@ -43,7 +43,7 @@ LUN:
 
 - Reply Pinto email
 
-- DS:  Close CHG |  Close INCs
+
 
 - Sun: setup CHGs
 - Sun: setup CHGs Decom Zones
