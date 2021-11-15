@@ -43,7 +43,7 @@ LUN:
 
 - Reply Pinto email
 
-- DS: Send Excel |  Close CHG |  Close INCs
+- DS:  Close CHG |  Close INCs
 - Send Weekly invoice
 - Sun: setup CHGs
 - Sun: setup CHGs Decom Zones
