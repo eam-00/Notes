@@ -42,7 +42,7 @@ LUN:
 - Spotify: Islands in the stream | Give My Regards To Broad Street
 
 - Reply Pinto email
-- Chk Bco Nac
+
 - DS: Patch
 - Send Weekly invoice
 - Sun: setup CHGs
