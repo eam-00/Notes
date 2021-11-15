@@ -45,6 +45,7 @@ LUN:
 - Chk Bco Nac
 - DS: Patch
 - Sun: setup CHGs
+- Sun: setup CHGs Decom Zones
 - ED: Shadow Solaris patch
 - Thinkpad Phaser
 
