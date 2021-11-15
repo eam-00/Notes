@@ -50,7 +50,7 @@ LUN:
 - ED: Shadow Solaris patch
 - Thinkpad Phaser
 - ATM: Take out
-- Lavanderia
+
 
 
 
