@@ -44,7 +44,7 @@ LUN:
 - Reply Pinto email
 
 - DS:  Close CHG |  Close INCs
-- Send Weekly invoice
+
 - Sun: setup CHGs
 - Sun: setup CHGs Decom Zones
 - ED: Shadow Solaris patch
