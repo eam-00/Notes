@@ -41,8 +41,6 @@ LUN:
 ---
 - Spotify: Islands in the stream | Give My Regards To Broad Street
 
-- Reply Pinto email
-
 
 
 - Sun: setup CHGs
