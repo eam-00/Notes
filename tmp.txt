@@ -42,6 +42,7 @@ LUN:
 - Spotify: Islands in the stream | Give My Regards To Broad Street
 
 - Cbio. Sabanas
+- Reply Pinto email
 - Chk Bco Nac
 - DS: Patch
 - Sun: setup CHGs
@@ -55,7 +56,7 @@ LUN:
 
 
 
-- Reply Pinto email
+
 
 - Test DRAC -> Java -> Email
 - Spreadsheet Cell
