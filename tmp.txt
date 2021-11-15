@@ -43,7 +43,7 @@ LUN:
 
 - Reply Pinto email
 
-- DS: Patch
+
 - Send Weekly invoice
 - Sun: setup CHGs
 - Sun: setup CHGs Decom Zones
