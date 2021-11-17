@@ -41,7 +41,7 @@ MIE:
 ---
 
 - X220i
-- Freezer
+
 - Sun: Chk Approved -> friendly reminder Thurs Reboot
 - AD: Send CHG Sat /pub | Setup 9090 Off
 - Spotify: Islands in the stream | Give My Regards To Broad Street
