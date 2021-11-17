@@ -45,7 +45,7 @@ MIE:
 
 
 
-- Sun: setup CHGs
+
 - Sun: setup CHGs Decom Zones
 - ED: Shadow Solaris patch
 - Thinkpad Phaser
