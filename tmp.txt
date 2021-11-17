@@ -46,7 +46,7 @@ MIE:
 
 
 
-- Sun: setup CHGs Decom Zones
+
 - ED: Shadow Solaris patch
 - Thinkpad Phaser
 - ATM: Take out
