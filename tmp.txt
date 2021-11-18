@@ -43,7 +43,7 @@ VIE:
 
 
 
-- Sun: Chk Approved -> friendly reminder Thurs Reboot
+- Sun: Friendly reminder Tue Reboot -> Mr. D Also
 - AD: Send CHG Sat /pub | Setup 9090 Off
 - Spotify: Islands in the stream | Give My Regards To Broad Street
 
