@@ -46,7 +46,7 @@ MAR:
 
 
 
-- AD: CHG Sat /pub | Setup 9090 Off
+- AD: Push CHG Satellite /pub | Setup 9090 Off
 - Spotify: Islands in the stream | Give My Regards To Broad Street
 
 
