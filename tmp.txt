@@ -43,7 +43,7 @@ Arreglo persiana: Juan - 15 6803 8442
 VIE:
 ---
 
-- TS -> PSEG
+
 - Chk close CHG DS
 
 - AD: CHG Sat /pub | Setup 9090 Off
