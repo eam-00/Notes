@@ -42,7 +42,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 VIE:
 ---
-- TS
+
 - TS -> PSEG
 - Chk close CHG DS
 - Sun: Friendly reminder Tue Reboot -> Mr. D Also
