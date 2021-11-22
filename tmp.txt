@@ -45,8 +45,6 @@ LUN:
 MAR:
 ---
 - M: ATM [?]
-
-
 - Sun: patch & Reboot -> Mail setup someone from DBA
 - AD: Push CHG Satellite /pub | Setup 9090 Off
 - Spotify: Islands in the stream | Give My Regards To Broad Street
