@@ -40,7 +40,7 @@ Arreglo persiana: Juan - 15 6803 8442
 LUN:
 ---
 - Docker notes -> USB -> Github
-- TRRTs
+
 
 MAR:
 ---
@@ -48,7 +48,7 @@ MAR:
 - Sun: patch & Reboot -> Mail setup someone from DBA
 - AD: Push CHG Satellite /pub | Setup 9090 Off
 - Spotify: Islands in the stream | Give My Regards To Broad Street
-
+- TRRTs
 
 
 
