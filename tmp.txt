@@ -43,7 +43,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 MIE:
 ---
-- X220i
+
 - M: ATM [?]
 - AD: Amy email/ clarification
 - AD: Setup 9090 Off
