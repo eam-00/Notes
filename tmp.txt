@@ -46,7 +46,7 @@ MIE:
 
 - M: ATM [?]
 
-- AD: Setup 9090 Off
+
 - AD: Push CHG Satellite /pub
 - Spotify: Islands in the stream | Give My Regards To Broad Street
 - TRRTs
