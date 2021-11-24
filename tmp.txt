@@ -45,6 +45,7 @@ MIE:
 ---
 - X220i
 - M: ATM [?]
+- AD: Amy email/ clarification
 - AD: Setup 9090 Off
 - AD: Push CHG Satellite /pub
 - Spotify: Islands in the stream | Give My Regards To Broad Street
