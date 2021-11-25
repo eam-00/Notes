@@ -45,7 +45,7 @@ MIE:
 ---
 
 - M: ATM [?]
-- Send Excel Hours
+
 
 
 - AD: Push CHG Satellite /pub
