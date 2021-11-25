@@ -47,7 +47,7 @@ MIE:
 - M: ATM [?]
 - Send Excel Hours
 
-- Lavanderia
+
 - AD: Push CHG Satellite /pub
 - Spotify: Islands in the stream | Give My Regards To Broad Street
 - TRRTs
