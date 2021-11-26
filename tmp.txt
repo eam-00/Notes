@@ -81,6 +81,7 @@ VIE:
 
 LUN:
 ---
+- AD: Research AMQP Cleartext Auth
 - Sun: Decom Solaris Zones
 - Sun: Re-attach drives
 
