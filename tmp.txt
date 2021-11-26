@@ -80,6 +80,7 @@ VIE:
 
 LUN:
 ---
+- Sun: Decom Solaris Zones
 
 Carre: Queso rallado comun | Queso Portsalut |
 
