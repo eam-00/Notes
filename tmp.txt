@@ -48,7 +48,7 @@ VIE:
 
 - M: ATM
 - Limpiar casita
-- Chk Bcos
+
 
 - AD: Push CHG Satellite /pub
 - Spotify: Islands in the stream | Give My Regards To Broad Street
