@@ -44,8 +44,8 @@ Arreglo persiana: Juan - 15 6803 8442
 
 VIE:
 ---
-
-- M: ATM [?]
+-
+- M: ATM
 - Limpiar casita
 - Chk Bcos
 
