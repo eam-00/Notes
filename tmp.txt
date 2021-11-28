@@ -45,7 +45,7 @@ LUN:
 ---
 - AD: Research AMQP Cleartext Auth
 - AD: Push CHG Satellite /pub
-- Sun: Decom Solaris Zones
+- Sun: [Delete] Decom Solaris Zones
 - Sun: Re-attach drives
 
 
