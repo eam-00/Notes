@@ -46,7 +46,7 @@ MAR:
 - AD: Research AMQP Cleartext Auth
 - AD: Push CHG Satellite /pub
 - Sun: Push WT -> Decom DNS
-
+- Batts: X220i | 
 
 
 
