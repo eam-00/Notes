@@ -45,7 +45,7 @@ LUN:
 ---
 - AD: Research AMQP Cleartext Auth
 - AD: Push CHG Satellite /pub
-
+- Sun: Push WT -> Decom DNS
 - Sun: Re-attach drives
 
 
