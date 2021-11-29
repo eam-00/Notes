@@ -47,8 +47,7 @@ MAR:
 - AD: Push CHG Satellite /pub
 - Sun: Push WT -> Decom DNS
 - Batts: X220i | X220 (Large) | T4102
-
-
+- Check Hat
 
 
 
