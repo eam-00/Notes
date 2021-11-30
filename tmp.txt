@@ -50,6 +50,7 @@ MAR:
 - Batts: X220i | X220 (Large) | T4102
 - Check Hat
 - ATM Nacion
+- ATM SRio
 - Dom: Recovery alerts [????]
 
 
