@@ -48,7 +48,7 @@ MAR:
 - Sun: Push Decom Cybera
  
 
-- CGP
+
 - ATM Nacion
 - ATM SRio
 - Dom: Recovery alerts [????]
