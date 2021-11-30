@@ -47,7 +47,7 @@ MAR:
 - AD: Research AMQP Cleartext Auth
 - Sun: Push Decom Cybera
  
-- Check Hat
+
 - CGP
 - ATM Nacion
 - ATM SRio
