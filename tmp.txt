@@ -47,7 +47,7 @@ MAR:
 - AD: Research AMQP Cleartext Auth
 
 - Sun: Push Decom Cybera
-- Batts: X220i | X220 (Large) 
+- Batts: X220i 
 - Check Hat
 - CGP
 - ATM Nacion
