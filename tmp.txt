@@ -44,6 +44,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 MAR:
 ---
+- AD: Mail status de Vulns
 - AD: Research AMQP Cleartext Auth
 - Sun: Push Decom Cybera
  
