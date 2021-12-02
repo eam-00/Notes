@@ -52,7 +52,7 @@ JUE
 - ATM Nacion
 - ATM SRio
 
-- CobroExpress: Edenor | MetroGas
+- CobroExpress: Edenor |
 - Dom: Recovery alerts [????]
 
 
