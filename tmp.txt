@@ -53,7 +53,7 @@ JUE
 - ATM Nacion
 - ATM SRio
 
-- CobroExpress: Edenor |
+- CobroExpress:
 - Dom: Recovery alerts [????]
 
 
