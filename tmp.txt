@@ -70,7 +70,7 @@ LUN:
 
 
 
-- Shopping: Thinkpad Phaser [?] | Macbook Air ML [?]
+- Shopping: Thinkpad Phaser [?] | Macbook Air ML [?] | Adaptador USB -> PS/2
 
 
 
