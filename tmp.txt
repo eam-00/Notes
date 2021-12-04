@@ -51,7 +51,7 @@ LUN:
 - AD: Research AMQP Cleartext Auth
 - AD: CHG login message
 - Follow up John Menes
-- Charge: N10 
+
 
 
 
