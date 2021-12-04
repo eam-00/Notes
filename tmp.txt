@@ -50,7 +50,7 @@ LUN:
 ---
 - AD: Research AMQP Cleartext Auth
 - AD: CHG login message
-- Follow up John Menes
+- Follow up John - Install NetWorker
 
 
 
