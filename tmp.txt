@@ -50,6 +50,7 @@ VIE:
 ---
 - AD: Research AMQP Cleartext Auth
 - AD: CHG login message
+- Follow up John Menes
 - Charge: N10 
 
 
@@ -71,7 +72,7 @@ VIE:
 
 - Shopping: Thinkpad Phaser [?] | Macbook Air ML [?]
 
-- Follow up John Menes
+
 
 - Carre: te | Queso Portsalut | Queso Cremoso Verde |
 
