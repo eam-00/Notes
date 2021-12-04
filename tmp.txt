@@ -49,6 +49,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 LUN:
 ---
+- Sun: Push Zones decom 
 - AD: Research AMQP Cleartext Auth
 - AD: CHG login message
 - Follow up John - Install NetWorker
