@@ -50,7 +50,7 @@ Arreglo persiana: Juan - 15 6803 8442
 LUN:
 ---
 - Sun: Push Zones decom
-- Sun: check attach un-mirrored drives
+- Sun: check attach un-mirrored drives -> Update xls
 - AD: Research AMQP Cleartext Auth
 - AD: CHG login message
 - Follow up John - Install NetWorker
