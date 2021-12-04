@@ -72,7 +72,7 @@ VIE:
 
 - Follow up John Menes
 
-- Carre: te
+- Carre: te | Queso Portsalut |
 
 
 - Test DRAC -> Java -> Email
