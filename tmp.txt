@@ -51,8 +51,8 @@ LUN:
 - AD: Research AMQP Cleartext Auth
 - AD: CHG login message
 - Follow up John - Install NetWorker
-
-
+- Llamar Cavagna (?)
+- Llamar Oftalmologo
 
 
 
@@ -83,7 +83,7 @@ LUN:
 - Hardware store: PS/2 -> USB adaptors
 - LLamar modista
 - Add Netflix list Chapelle
-- Llamar Cavagna (?)
+
 - Ver ML adaptador HDMI > DVI (?)
 - ML: PS/2 -> USB adaptors
 - Research chrome-cursor
