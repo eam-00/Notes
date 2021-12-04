@@ -49,7 +49,7 @@ VIE:
 ---
 - AD: Research AMQP Cleartext Auth
 - AD: CHG login message
-- Charge: N10 | Nikon
+- Charge: N10 
 
 
 - ATM Nacion
