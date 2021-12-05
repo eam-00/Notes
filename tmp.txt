@@ -1,6 +1,6 @@
 Llevar N:
 --------
-- Dispenser de alcohol
+
 - Whisky + Ferrero Rocher
 - Crema Humectante
 - Swarovski
