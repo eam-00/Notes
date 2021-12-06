@@ -52,6 +52,7 @@ LUN:
 - Llamar Cavagna (?)
 - Llamar Oftalmologo
 - Llamar cardiologo
+- Lavar BDU Woodland
 - Lavanderia
 - N: alquiler SCDT Marzo [????????]
 
