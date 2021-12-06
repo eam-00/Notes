@@ -51,7 +51,7 @@ LUN:
 - Llamar Cavagna (?)
 - Llamar Oftalmologo
 - Llamar cardiologo
-
+- Lavanderia
 
 
 
