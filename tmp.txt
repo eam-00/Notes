@@ -54,7 +54,7 @@ LUN:
 - Llamar cardiologo
 - Lavar BDU Woodland
 
-- N: alquiler SCDT Marzo [????????]
+
 
 
 
