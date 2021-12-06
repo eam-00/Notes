@@ -78,7 +78,7 @@ LUN:
 - Test DRAC -> Java -> Email
 - Spreadsheet Cell
 - Telecom: Chk Facturas
-- Hardware store: PS/2 -> USB adaptors
+
 - LLamar modista
 - Add Netflix list Chapelle
 
