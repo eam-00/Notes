@@ -52,7 +52,7 @@ LUN:
 - Llamar Oftalmologo
 - Llamar cardiologo
 - Lavanderia
-
+- N: alquiler SCDT Marzo
 
 
 - Dom: Recovery alerts [????]
@@ -71,7 +71,7 @@ LUN:
 
 
 
-- Carre: te | Queso Portsalut | Queso Cremoso Verde |
+- Carre: Te | Queso Portsalut | Queso Cremoso Verde |
 
 
 - Test DRAC -> Java -> Email
