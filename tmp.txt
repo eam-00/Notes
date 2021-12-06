@@ -69,7 +69,7 @@ LUN:
 
 
 
-- Shopping: Thinkpad Phaser [?] | Macbook Air ML [?] | Adaptador USB -> PS/2
+- Shopping: Thinkpad Phaser [?] | Macbook Air ML [?] | Adaptador USB -> PS/2 | Adaptador DVI -> HDMI
 
 
 
