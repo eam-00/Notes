@@ -48,14 +48,15 @@ LUN:
 - AD: Research AMQP Cleartext Auth
 - AD: CHG login message
 - Follow up John - Install NetWorker
+- Dom: Recovery alerts [????]
 - Llamar Cavagna (?)
 - Llamar Oftalmologo
 - Llamar cardiologo
 - Lavanderia
-- N: alquiler SCDT Marzo
+- N: alquiler SCDT Marzo [????????]
 
 
-- Dom: Recovery alerts [????]
+
 
 
 
