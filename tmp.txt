@@ -43,7 +43,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 MAR:
 ---
-- Sun: Push Zones decom
+
 - Sun: check attach un-mirrored drives -> Update xls
 - AD: CHG stop/ disable services
 - AD: Research AMQP Cleartext Auth
