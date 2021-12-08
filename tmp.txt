@@ -44,6 +44,7 @@ Arreglo persiana: Juan - 15 6803 8442
 JUE:
 ---
 - PS/2 -> USB adapt
+- Call Vicda
 - CHG: oratab [?]
 - Update XLS Hours
 - Satellite RHEL 6 Ok?
