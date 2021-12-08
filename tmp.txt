@@ -53,6 +53,7 @@ JUE:
 - Llamar Cavagna (?)
 - Llamar Oftalmologo
 - Llamar cardiologo
+- ATM: Depositar exp casita
 
 
 
