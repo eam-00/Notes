@@ -77,7 +77,7 @@ JUE:
 
 
 
-- Carre: Te | Queso Portsalut | Queso Cremoso Verde |
+- Carre: Te | Queso Portsalut | 
 
 
 - Test DRAC -> Java -> Email
