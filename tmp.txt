@@ -77,7 +77,7 @@ JUE:
 
 
 
-- Carre: Te | Queso Portsalut | 
+- Carre: Te |
 
 
 - Test DRAC -> Java -> Email
