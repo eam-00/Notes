@@ -50,7 +50,7 @@ VIE:
 - BNA: PF
 - Batt: X220i
 - CHG: oratab [?]
-
+- Decom/ Shutdown Sun206
 - CHG oratab
 - AD: CHG stop/ disable services
 - AD: CHG AMQP Cleartext Auth
