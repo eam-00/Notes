@@ -50,7 +50,7 @@ JUE:
 - Batt: X220i
 - CHG: oratab [?]
 - Update XLS Hours
-- Satellite RHEL 6 Ok?
+
 - AD: CHG stop/ disable services
 - AD: Research AMQP Cleartext Auth
 - AD: CHG login message
