@@ -49,7 +49,7 @@ JUE:
 - BNA: PF
 - Batt: X220i
 - CHG: oratab [?]
-- Update XLS Hours
+
 
 - AD: CHG stop/ disable services
 - AD: Research AMQP Cleartext Auth
