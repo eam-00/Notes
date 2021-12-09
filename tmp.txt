@@ -52,14 +52,14 @@ JUE:
 
 
 - AD: CHG stop/ disable services
-- AD: Research AMQP Cleartext Auth
+- AD: CHG AMQP Cleartext Auth
 - AD: CHG login message
 - Follow up John - Install NetWorker
 - Dom: Recovery alerts [????]
 - Llamar Cavagna (?)
 - Llamar Oftalmologo
 - Llamar cardiologo
-- ATM: Depositar exp casita
+
 
 
 
