@@ -45,6 +45,7 @@ JUE:
 ---
 - PS/2 -> USB adapt
 - Call Vicda
+- BNA: PF
 - CHG: oratab [?]
 - Update XLS Hours
 - Satellite RHEL 6 Ok?
