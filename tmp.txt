@@ -51,7 +51,7 @@ VIE:
 
 - CHG: oratab [?]
 
-- CHG oratab
+
 - AD: CHG stop/ disable services
 - AD: CHG AMQP Cleartext Auth
 - AD: CHG login message
