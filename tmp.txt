@@ -49,7 +49,6 @@ VIE:
 - DS: close CHG Ora Patch
 - Call Vicda
 - BNA: PF
-
 - CHG: oratab [?]
 - Decom/ Shutdown Sun206
 - CHG oratab
@@ -89,7 +88,6 @@ VIE:
 - Test DRAC -> Java -> Email
 - Spreadsheet Cell
 - Telecom: Chk Facturas
-
 - LLamar modista
 - Add Netflix list Chapelle
 
