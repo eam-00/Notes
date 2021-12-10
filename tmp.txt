@@ -50,7 +50,7 @@ VIE:
 - Call Vicda
 - BNA: PF
 - CHG: oratab [?]
-- Decom/ Shutdown Sun206
+
 - CHG oratab
 - AD: CHG stop/ disable services
 - AD: CHG AMQP Cleartext Auth
