@@ -60,7 +60,7 @@ VIE:
 - Llamar Cavagna (?)
 - Llamar Oftalmologo
 - Llamar cardiologo
-
+- Test PUTTY: - Ctrl-Shift-C - for copy || - Ctrl-Shift-V - for paste
 
 
 
