@@ -48,7 +48,7 @@ VIE:
 
 
 - Call Vicda
-- BNA: PF
+
 - CHG: oratab [?]
 
 - CHG oratab
