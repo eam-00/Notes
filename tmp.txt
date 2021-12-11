@@ -47,6 +47,7 @@ Arreglo persiana: Juan - 15 6803 8442
 DOM:
 ---
 - Pan p/ LUN
+- Cargar N10
 
 LUN:
 ---
