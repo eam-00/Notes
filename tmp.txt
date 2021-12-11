@@ -44,13 +44,13 @@ https://www.reddit.com/r/Mercadoreddit/comments/lgcl4n/vendo_rebajado_notebook_r
 Diego Samuel Bejarano - 11 3698 6668 - M65 Woodland (Medium Short)
 Arreglo persiana: Juan - 15 6803 8442
 
-VIE:
+LUN:
 ---
 
 
 - Call Vicda
 
-- CHG: oratab [?]
+- CHG: oratab
 
 
 - AD: CHG stop/ disable services
@@ -58,7 +58,7 @@ VIE:
 - AD: CHG login message
 - Follow up John - Install NetWorker
 - Dom: Recovery alerts [????]
-- Llamar Cavagna (?)
+- Llamar Cavagna
 - Llamar Oftalmologo
 - Llamar cardiologo
 - Test PUTTY: - Ctrl-Shift-C - for copy || - Ctrl-Shift-V - for paste
