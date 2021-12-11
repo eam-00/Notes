@@ -54,7 +54,7 @@ LUN:
 
 - CHG: oratab
 
-
+- Push CHGs:
 - AD: CHG stop/ disable services
 - AD: CHG AMQP Cleartext Auth
 - AD: CHG login message
