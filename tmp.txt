@@ -48,6 +48,7 @@ DOM:
 ---
 - Pan p/ LUN
 - Cargar N10
+- Check Edenor -> Delete Gmail
 
 LUN:
 ---
