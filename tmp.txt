@@ -51,7 +51,7 @@ LUN:
 - Call Vicda
 - Chk CHG cockpit login off
 - CHG: oratab
-
+- Chk Jumanji email [Attachment ???]
 - Push CHGs:
 - DS: Check future CHGs -> Push approvals
 - AD: CHG stop/ disable services
