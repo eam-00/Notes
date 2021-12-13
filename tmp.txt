@@ -42,7 +42,7 @@ DOM:
 
 
 - Cargar N10
-- Check Edenor -> Delete Gmail
+
 - cp USB files -> X201T
 
 LUN:
