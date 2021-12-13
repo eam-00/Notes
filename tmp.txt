@@ -43,7 +43,7 @@ DOM:
 
 - Cargar N10
 
-- cp USB files -> X201T
+
 
 LUN:
 ---
