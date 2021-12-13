@@ -47,6 +47,7 @@ DOM:
 
 LUN:
 ---
+- cp USB files -> X201T
 - Check Edenor -> Delete Gmail
 - Call/ Push Pinto Cab
 - Call Vicda
