@@ -47,6 +47,7 @@ DOM:
 
 LUN:
 ---
+- Check Edenor -> Delete Gmail
 - Call/ Push Pinto Cab
 - Call Vicda
 - Chk CHG cockpit login off
