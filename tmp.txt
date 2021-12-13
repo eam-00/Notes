@@ -53,7 +53,7 @@ LUN:
 
 - CHG: oratab
 
-- Push CHGs:
+
 - DS: Check future CHGs -> Push approvals
 - AD: CHG stop/ disable services
 - AD: CHG AMQP Cleartext Auth
