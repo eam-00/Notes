@@ -47,7 +47,7 @@ Arreglo persiana: Juan - 15 6803 8442
 LUN:
 ---
 
-- Check Edenor -> Delete Gmail
+
 - Call/ Push Pinto Cab
 - Call Vicda
 - Chk CHG cockpit login off
