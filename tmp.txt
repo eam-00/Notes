@@ -52,7 +52,7 @@ LUN:
 - Call Vicda
 
 - CHG: oratab
-- Chk Jumanji email [Attachment ???]
+
 - Push CHGs:
 - DS: Check future CHGs -> Push approvals
 - AD: CHG stop/ disable services
