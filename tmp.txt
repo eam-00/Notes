@@ -50,7 +50,7 @@ LUN:
 
 - Call/ Push Pinto Cab
 - Call Vicda
-- Chk CHG cockpit login off
+
 - CHG: oratab
 - Chk Jumanji email [Attachment ???]
 - Push CHGs:
