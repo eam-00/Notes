@@ -49,9 +49,9 @@ MIE:
 
 - P: TimeSheet [!!!!!!]
 - Call/ Push Pinto Cab
-- Call Vicda
-vicda.com.ar - https://articulo.mercadolibre.com.ar/MLA-715484605-adaptador-hdmi-macho-a-dvi-d-hembra-10-cm-x5-_JM
-5219 0070
+- Call Vicda - vicda.com.ar - 5219 0070
+  https://articulo.mercadolibre.com.ar/MLA-715484605-adaptador-hdmi-macho-a-dvi-d-hembra-10-cm-x5-_JM
+
 - CHG: oratab
 
 
