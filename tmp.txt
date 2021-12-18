@@ -56,7 +56,7 @@ LUN:
 
 - SEP: Push CHG
 - DS: Check future CHGs -> Push approvals
-- AD: CHG stop/ disable services
+
 - AD: CHG AMQP Cleartext Auth -> CLOSE [??]
 - AD: CHG login message -> CLOSE
 - Follow up John - Install NetWorker
