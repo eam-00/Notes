@@ -54,7 +54,7 @@ LUN:
 
 - CHG: oratab
 
-- SEP: Push CHG
+- SEP: Conference call
 - DS: Check future CHGs -> Push approvals
 
 - AD: CHG AMQP Cleartext Auth -> CLOSE [??]
