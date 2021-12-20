@@ -53,7 +53,7 @@ LUN:
 - CHG: oratab
 - SEP: Conference call
 
-- AD: CHG AMQP Cleartext Auth -> CLOSE [??]
+
 
 - Follow up John - Install NetWorker
 - Dom: Recovery alerts [????]
