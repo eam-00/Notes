@@ -57,7 +57,7 @@ LUN:
 - AD: CHG login message -> CLOSE
 - Follow up John - Install NetWorker
 - Dom: Recovery alerts [????]
-
+- Lavanderia
 - Llamar Cavagna
 - Llamar Oftalmologo
 - Llamar cardiologo
