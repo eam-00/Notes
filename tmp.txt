@@ -67,7 +67,7 @@ Ed: APMQ Vuln proc
 - Llamar Cavagna
 - Llamar Oftalmologo
 - Llamar cardiologo
-- ATMs
+
 
 
 
