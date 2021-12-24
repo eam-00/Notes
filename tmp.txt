@@ -48,7 +48,7 @@ VIE:
 ---
 - P: TS
 - Script install SEP -> Test locally
-- Test conex D & A
+
 
 
 - Update new PINs
