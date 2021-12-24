@@ -50,6 +50,7 @@ VIE:
 - Script install SEP -> Test locally
 - Test conex D & A
 - CARBON!!!!!
+- Chk AA
 - Update new PINs
 - Mirus Tec: Warranty 
 - Call Vicda - vicda.com.ar - 5219 0070
