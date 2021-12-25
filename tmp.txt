@@ -39,8 +39,6 @@ Arreglo persiana: Juan - 15 6803 8442
 
 
 
-
-
 LUN:
 ---
 Ed: APMQ Vuln proc
