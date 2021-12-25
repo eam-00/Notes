@@ -73,7 +73,7 @@ Ed: APMQ Vuln proc
 
 
 - Spotify: Islands in the stream | Give My Regards To Broad Street
-- Shopping: Thinkpad Phaser [?] |  Chromebook Phaser [?] | Adaptador DVI -> HDMI
+- Shopping: |  Chromebook Phaser [?] | Adaptador DVI -> HDMI
 
 
 
