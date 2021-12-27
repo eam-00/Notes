@@ -39,9 +39,9 @@ Arreglo persiana: Juan - 15 6803 8442
 
 LUN:
 ---
-Ed: APMQ Vuln proc
+- Ed: APMQ Vuln proc
 - Script install SEP -> Test locally
-
+- Lavanderia
 - Update new PINs
 - Mirus Tec: Warranty 
 - Call Vicda - vicda.com.ar - 5219 0070
