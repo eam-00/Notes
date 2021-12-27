@@ -43,6 +43,7 @@ LUN:
 - Script install SEP -> Test locally
 - Lavanderia
 - Get chicken
+- Tornillo botiquin
 - ATM
 - Interview
 - Mirus Tec: Warranty 
