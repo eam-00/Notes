@@ -44,6 +44,7 @@ LUN:
 - Lavanderia
 - Get chicken
 - Tornillo botiquin
+- Fix WhatsApp
 - ATM
 - Interview
 - Mirus Tec: Warranty 
