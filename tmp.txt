@@ -61,7 +61,7 @@ MIE:
 
 - Llamar cardiologo
 - SSL Cert @AWS
-- CobroExpress: Celu |
+
 
 
 - 
