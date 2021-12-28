@@ -43,7 +43,7 @@ LUN:
 - Script install SEP -> Test locally
 
 - Get chicken
-- Tornillo botiquin
+
 - Fix WhatsApp
 - Tupper
 - ATM
