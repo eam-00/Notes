@@ -58,7 +58,7 @@ MAR:
 
 
 - Llamar Cavagna
-- Llamar Oftalmologo
+
 - Llamar cardiologo
 - SSL Cert @AWS
 - CobroExpress: Celu | Telecom (x2)
