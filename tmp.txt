@@ -46,7 +46,7 @@ LUN:
 
 
 
-- ATM
+
 - Interview
 - Chk Movistar
 - Chk Monit MRLN
