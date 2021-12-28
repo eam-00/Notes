@@ -41,7 +41,7 @@ LUN:
 ---
 - Ed: APMQ Vuln proc
 - Script install SEP -> Test locally
-- Lavanderia
+
 - Get chicken
 - Tornillo botiquin
 - Fix WhatsApp
