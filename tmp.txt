@@ -44,7 +44,7 @@ LUN:
 
 - Get chicken
 
-- Fix WhatsApp
+
 - Tupper
 - ATM
 - Interview
