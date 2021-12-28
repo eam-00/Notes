@@ -42,7 +42,7 @@ MAR:
 
 - Script install SEP -> Test locally
 
-- Get chicken
+
 
 
 
