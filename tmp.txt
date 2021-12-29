@@ -41,7 +41,7 @@ MIE:
 ---
 - SCDT: re-chk & 27 K
 - Test SEP script Satellite
-- Script install SEP -> Test locally
+- Script SEP -> Test Satellite
 
 
 
