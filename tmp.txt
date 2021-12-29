@@ -41,7 +41,7 @@ MIE:
 ---
 
 
-- Script SEP -> Test Satellite
+
 - ATM
 - Lavanderia
 
