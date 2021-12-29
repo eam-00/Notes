@@ -60,7 +60,7 @@ MIE:
 - Llamar Cavagna
 
 - Llamar cardiologo
-- SSL Cert @AWS
+
 
 
 
