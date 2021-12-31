@@ -53,6 +53,7 @@ VIE:
 LUN:
 ---
 - CobroExpress: AysA | Telecom ~
+- Request hours for Friday
 - Follow up John - Install NetWorker
 - Dom: Recovery alerts [????]
 
