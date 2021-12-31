@@ -43,8 +43,7 @@ VIE:
 - Cell Phone [???]
 
 - R: USB TP
-
-
+- Limpiar casita
 - Chk Monit MRLN
 - Mirus Tec: Warranty 
 - Call Vicda - vicda.com.ar - 5219 0070
