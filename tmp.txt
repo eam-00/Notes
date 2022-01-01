@@ -42,7 +42,7 @@ VIE:
 
 - Cell Phone [???]
 
-- R: USB TP
+
 
 
 - Chk Monit MRLN
