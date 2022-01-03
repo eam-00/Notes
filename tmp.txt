@@ -49,6 +49,7 @@ LUN:
 ---
 - Request hours for Friday
 - Cell Phone [???]
+- Setup new server
 - CobroExpress: AysA | Telecom ~ | Edenor
 - Lavanderia
 - Follow up John - Install NetWorker
