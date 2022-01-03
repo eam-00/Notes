@@ -51,7 +51,7 @@ MAR:
 - Cell Phone [???]
 - Setup new server
 - Request RA for patching
-- CobroExpress: AysA | Telecom ~ | Edenor
+- CobroExpress: Telecom ~ | Edenor
 - Lavanderia
 - Follow up John - Install NetWorker
 - Dom: Recovery alerts [????]
