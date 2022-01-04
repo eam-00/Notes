@@ -52,7 +52,7 @@ MAR:
 - Setup new server
 - Request RA for patching
 - CobroExpress: Telecom ~
-- Lavanderia
+
 - Follow up John - Install NetWorker
 - Dom: Recovery alerts [????]
 - Call Vicda - vicda.com.ar - 5219 0070
