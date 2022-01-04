@@ -48,7 +48,7 @@ MAR:
 - Request hours for Friday
 - Cell Phone [???]
 - Setup new server
-- Request RA for patching
+
 - CobroExpress: Telecom ~
 - Cert SSL
 - Follow up John - Install NetWorker
