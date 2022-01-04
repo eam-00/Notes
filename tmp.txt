@@ -51,6 +51,7 @@ MAR:
 
 - CobroExpress: Telecom ~
 - Cert SSL
+- Fucked uo Telecom Stuff
 - Follow up John - Install NetWorker
 - Dom: Recovery alerts [????]
 - Call Vicda - vicda.com.ar - 5219 0070
