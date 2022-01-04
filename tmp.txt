@@ -80,7 +80,6 @@ MAR:
 - Telecom: Chk Facturas
 - LLamar modista
 - Add Netflix list Chapelle
-
 - Ver ML adaptador HDMI > DVI (?)
 - ML: PS/2 -> USB adaptors
 - Research chrome-cursor
