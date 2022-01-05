@@ -49,12 +49,13 @@ Arreglo persiana: Juan - 15 6803 8442
 MIE:
 ---
 - Request hours for Friday
-- Cell Phone [???]
+
 - Setup new server
 
 - CobroExpress: Telecom ~
 - Cert SSL
-- Fucked uo Telecom Stuff
+- Fucked up Telecom Stuff
+- Cell Phone [???]
 - Follow up John - Install NetWorker
 - Dom: Recovery alerts [????]
 - Call Vicda - vicda.com.ar - 5219 0070
