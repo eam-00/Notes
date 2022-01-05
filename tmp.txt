@@ -53,7 +53,7 @@ MIE:
 - Setup new server
 
 - CobroExpress: Telecom ~
-- Cert SSL
+- Cert SSL -> Godaddy
 - Fucked up Telecom Stuff
 - Cell Phone [???]
 - Follow up John - Install NetWorker
