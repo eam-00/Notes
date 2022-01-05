@@ -54,7 +54,7 @@ MIE:
 
 - CobroExpress: Telecom ~
 
-- Fucked up Telecom Stuff
+
 - Cell Phone [???]
 - Follow up John - Install NetWorker
 - Dom: Recovery alerts [????]
