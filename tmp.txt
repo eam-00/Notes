@@ -48,7 +48,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 MIE:
 ---
-- Request hours for Friday
+
 
 - Setup new server
 
