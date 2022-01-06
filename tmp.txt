@@ -50,6 +50,7 @@ JUE:
 ---
 - Setup new server
 
+- PF
 - Limpiar casita
 - CobroExpress: Telecom ~
 - Batts: X140E, T420 & W530
