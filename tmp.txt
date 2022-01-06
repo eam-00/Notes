@@ -50,6 +50,7 @@ JUE:
 ---
 - Setup new server
 
+- Limpiar casita
 - CobroExpress: Telecom ~
 
 
