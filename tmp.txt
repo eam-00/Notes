@@ -49,7 +49,7 @@ Arreglo persiana: Juan - 15 6803 8442
 JUE:
 ---
 - Setup new server
-
+- P: TS [!!!!]
 - PF
 - Limpiar casita
 - CobroExpress: Telecom ~
