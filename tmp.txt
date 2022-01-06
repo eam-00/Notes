@@ -50,7 +50,7 @@ VIE:
 ---
 - Setup new server
 - P: TS [!!!!]
-
+- C: TS
 - Limpiar casita
 - CobroExpress: Telecom ~
 - Batts: X140E, T420 & W530
