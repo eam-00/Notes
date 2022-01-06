@@ -52,7 +52,7 @@ JUE:
 
 - Limpiar casita
 - CobroExpress: Telecom ~
-
+- Batts: X140E,
 
 - Cell Phone [???]
 - Follow up John - Install NetWorker
