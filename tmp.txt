@@ -52,7 +52,7 @@ VIE:
 - P: TS [!!!!]
 - C: TS
 - D: CHG -> L3 [???]
-- Limpiar casita
+
 - CobroExpress: Telecom ~
 - Batts: X140E, T420 & W530
 
