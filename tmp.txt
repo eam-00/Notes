@@ -54,7 +54,7 @@ VIE:
 - D: CHG -> L3 [???]
 
 - CobroExpress: Telecom ~
-- Batts: X140E, T420 & W530
+
 
 - Cell Phone [???]
 - Follow up John - Install NetWorker
