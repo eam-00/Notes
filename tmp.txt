@@ -51,7 +51,7 @@ VIE:
 - Setup new server
 - P: TS [!!!!]
 - C: TS
-- Ed: assign CHG
+- D: CHG -> L3 [???]
 - Limpiar casita
 - CobroExpress: Telecom ~
 - Batts: X140E, T420 & W530
