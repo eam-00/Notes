@@ -53,7 +53,7 @@ Chk 11e -> Ethernet
 
 LUN:
 ---
-
+- Chk Staples -> USB
 
 
 - D: CHG -> L3 [???]
