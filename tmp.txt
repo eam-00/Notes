@@ -1,7 +1,6 @@
 Llevar N:
 --------
 - Nucrem
-
 - Bolsitas
 
 - Bolsa de compras
