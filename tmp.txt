@@ -49,7 +49,7 @@ Chk 11e -> Ethernet
 
 LUN:
 ---
-- Lavar: toallin | 
+- Lavar: toallin | repasador
 - Chk Staples -> USB
 - Fibertel: Chk precios
 - Post Rackspace Help probs envio emial.
