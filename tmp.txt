@@ -50,7 +50,7 @@ LUN:
 ---
 
 
-- Chk Alicia transfer CA > CC
+
 
 - Chk Staples -> USB
 - Fibertel: Chk precios
