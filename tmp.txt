@@ -49,7 +49,7 @@ Chk 11e -> Ethernet
 
 LUN:
 ---
-- Colgar ropa balcon
+
 - Lavar: toallin | repasador
 - Chk Alicia transfer CA > CC
 
