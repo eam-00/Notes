@@ -50,7 +50,7 @@ Chk 11e -> Ethernet
 LUN:
 ---
 
-- Lavar: toallin | repasador
+- Lavar: toallin 
 - Chk Alicia transfer CA > CC
 
 - Chk Staples -> USB
