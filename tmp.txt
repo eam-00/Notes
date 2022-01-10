@@ -52,7 +52,7 @@ LUN:
 - Colgar ropa balcon
 - Lavar: toallin | repasador
 - Chk Alicia transfer CA > CC
-- Chk V. Expensas OK
+
 - Chk Staples -> USB
 - Fibertel: Chk precios
 - Post Rackspace Help probs envio emial.
