@@ -51,7 +51,7 @@ MIE:
 ---
 
 - P: Push CyberArk new server
-
+- P: Decom Solaris
 
 - Tommy: 
 - Fibertel: Chk precios
