@@ -57,7 +57,7 @@ MIE:
 - Fibertel: Chk precios
 - Post Rackspace Help probs envio emial.
 
-- D: CHG -> L3 [???]
+
 - CobroExpress: Telecom ~
 - Dep expensas
 
