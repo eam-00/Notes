@@ -53,7 +53,7 @@ JUE:
 - Chk MongoDev down [?????]
 - P: Push CyberArk new server
 
-- Llamar: 
+
 - Tommy: Mani c/ Sal | Almendras | Manies c/ Choco |
 - Fibertel: Chk precios
 - Post Rackspace Help probs envio emial.
