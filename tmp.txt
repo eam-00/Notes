@@ -53,7 +53,7 @@ VIE:
 
 - SCDT: Confirmar Sab
 - Chk MongoDev down [?????]
-- P: Ed mail assignment
+
 - P: Push CyberArk new server
 
 
