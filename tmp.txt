@@ -1,6 +1,5 @@
 Llevar N:
 --------
-
 - Bolsitas
 - Bolsa de compras
 - Manual del Happy Hacking
