@@ -45,6 +45,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 LUN:
 ---
+- P: Chk status RHEL case
 - P: test conex RDP -> AWS
 - Chk MongoDev down [?????]
 
