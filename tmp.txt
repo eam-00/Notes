@@ -46,6 +46,7 @@ LUN:
 ---
 - P: Chk status RHEL case
 - P: test conex RDP -> AWS
+- P: Chk zoom call para SEP
 - Chk MongoDev down [?????]
 
 - CobroExpress: Chk Telecom ~
