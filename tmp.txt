@@ -49,6 +49,9 @@ LUN:
 - P: test conex RDP -> AWS
 - Chk MongoDev down [?????]
 
+- CobroExpress: Chk Telecom ~
+- Tommy: Mani c/ Sal | Almendras | Manies c/ Choco | Bastoncitos de Salvado
+
 MAR:
 ---
 - A: Push FE & CB disable [?]
@@ -56,12 +59,12 @@ MAR:
 
 
 
-- Tommy: Mani c/ Sal | Almendras | Manies c/ Choco | Bastoncitos de Salvado
+
 - Fibertel: Chk precios
 - Post Rackspace Help probs envio emial.
 
 
-- CobroExpress: Chk Telecom ~
+
 - M: Agarradera cocina
 
 
