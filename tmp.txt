@@ -48,7 +48,7 @@ LUN:
 - P: test conex RDP -> AWS
 - P: Chk zoom call para SEP
 - Chk MongoDev down [?????]
-- M: Agarradera cocina
+- M: Agarradera cocina | Setup Google Photos share
 
 - CobroExpress: Chk Telecom ~
 - Tommy: Mani c/ Sal | Almendras | Manies c/ Choco | Bastoncitos de Salvado
