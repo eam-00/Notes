@@ -52,8 +52,7 @@ MAR:
 - M: Setup Google Photos share
 - Tommy: 
 
-MAR:
----
+
 - A: Push FE & CB disable [?]
 - P: Push CyberArk new server [?]
 
