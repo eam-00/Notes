@@ -50,7 +50,7 @@ LUN:
 - Chk MongoDev down [?????]
 - CobroExpress: Chk Telecom ~
 - M: Setup Google Photos share
-- Tommy: Mani c/ Sal | 
+- Tommy: 
 
 MAR:
 ---
