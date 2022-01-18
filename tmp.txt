@@ -42,7 +42,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 
 
-MAR:
+MIE:
 ---
 - P: Chk status RHEL case
 - P: AWS Chk Build
