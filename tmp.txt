@@ -52,7 +52,7 @@ MIE:
 
 - M: Setup Google Photos share | 
 - Tommy: Manies c/ Chocolate
-
+- Carrefour: 
 
 - A: Push FE & CB disable [?]
 - P: Push CyberArk new server [?]
