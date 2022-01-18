@@ -49,7 +49,7 @@ MAR:
 - P: Chk zoom call para SEP
 - Chk Email probs iPhone
 - Chk MongoDev down [?????]
-- CobroExpress: Chk Telecom ~
+
 - M: Setup Google Photos share | cp Daisy Dunn -> Kindle
 - Tommy: 
 
