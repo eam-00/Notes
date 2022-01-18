@@ -1,5 +1,6 @@
 Llevar N:
 --------
+- Bastoncitos de Salvado
 
 Eagle Technology - https://www.eagletechnology.com.ar
 Nueva York 3306
@@ -44,7 +45,7 @@ Arreglo persiana: Juan - 15 6803 8442
 MAR:
 ---
 - P: Chk status RHEL case
-- P: AWS -> Miss G -> TagCostCenter
+- P: AWS -> Miss G -> TagCostCenter [?????]
 - P: Chk zoom call para SEP
 - Chk Email probs iPhone
 - Chk MongoDev down [?????]
