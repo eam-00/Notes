@@ -52,7 +52,7 @@ MIE:
 
 - M: Setup Google Photos share | 
 - Tommy: Manies c/ Chocolate
-- Carrefour: Queso PortSalut | Agua
+- Carrefour: Queso PortSalut | Agua | Jugos Tang [???] 
 
 - A: Push FE & CB disable [?]
 - P: Push CyberArk new server [?]
