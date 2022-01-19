@@ -48,7 +48,7 @@ MIE:
 - P: Chk status RHEL case
 - P: AWS Chk Build
 - P: Chk zoom call para SEP
-- Chk Email probs iPhone
+- M: Chk Email probs iPhone
 - Chk MongoDev down [?????]
 
 - M: Setup Google Photos share | 
