@@ -43,7 +43,7 @@ Arreglo persiana: Juan - 15 6803 8442
 
 
 
-MIE:
+JUE:
 ---
 - P: TS
 - P: Chk status RHEL case
