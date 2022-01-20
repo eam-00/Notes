@@ -47,7 +47,7 @@ JUE:
 ---
 - P: TS
 
-- P: AWS Chk Build
+- P: AWS Finish Build
 - P: Chk zoom call para SEP
 - M: Chk Email probs iPhone | Chk MongoDev down [?????]
 - Chk MongoDev down [?????]
