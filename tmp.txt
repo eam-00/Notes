@@ -98,7 +98,7 @@ JUE:
 - LLamar modista
 - Add Netflix list Chapelle
 - Ver ML adaptador HDMI > DVI (?)
-- ML: PS/2 -> USB adaptors
+
 - Research chrome-cursor
 - Apple Charger -> Avisar p/ encuentro [?]
 - X140e: Test HDMI TV
