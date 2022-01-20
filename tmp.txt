@@ -46,7 +46,7 @@ Arreglo persiana: Juan - 15 6803 8442
 JUE:
 ---
 - P: TS
-- P: Chk status RHEL case
+
 - P: AWS Chk Build
 - P: Chk zoom call para SEP
 - M: Chk Email probs iPhone | Chk MongoDev down [?????]
