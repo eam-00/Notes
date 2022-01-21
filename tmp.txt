@@ -46,7 +46,7 @@ Arreglo persiana: Juan - 15 6803 8442
 VIE:
 ---
 - C: TS
-- Reboot: Red de
+
 
 - P: AWS Finish Build
 - P: Chk zoom call para SEP
