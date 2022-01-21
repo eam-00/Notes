@@ -56,7 +56,7 @@ VIE:
 - Tommy: Manies c/ Chocolate
 - Carrefour: Queso PortSalut | Agua | Jugos Tang [???] | Te Taragui [???] | Pan | Bolsitas
 4128068383784
-
+- P: send TS
 - Test cp Manjaro iso -> USB
 - A: Push FE & CB disable [?]
 - P: Push CyberArk new server [?]
