@@ -52,7 +52,7 @@ VIE:
 - M: Chk Email probs iPhone | Chk MongoDev down [?????]
 - M: Setup Google Photos share | 
 - Tommy: Manies c/ Chocolate
-- Carrefour: Queso PortSalut | Agua | Jugos Tang [???] | Te Taragui [???] | Pan
+- Carrefour: Queso PortSalut | Agua | Jugos Tang [???] | Te Taragui [???] | Pan | Bolsitas
 - Chk Bcos
 - A: Push FE & CB disable [?]
 - P: Push CyberArk new server [?]
