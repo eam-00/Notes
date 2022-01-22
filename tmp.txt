@@ -46,7 +46,7 @@ SAB:
 ---
 - Imprimir email Carrefour
 - Camisa: proc centrifugado [????]
-- Pintar boonie hat
+
 
 DOM:
 ---
