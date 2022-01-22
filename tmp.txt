@@ -48,6 +48,7 @@ SAB:
 
 DOM:
 ---
+- N7: batt
 
 LUN:
 ---
