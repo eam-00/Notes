@@ -51,7 +51,7 @@ DOM:
 - Imprimir email Carrefour
 - N7: batt
 - 11e:
-Test: Audio [Out & mic] | HDMI | Suspend [remove USB] Un-Suspend
+Test: Audio [Out & mic] | HDMI | Suspend [remove USB] Un-Suspend | Boot from different USB port
 
 LUN:
 ---
