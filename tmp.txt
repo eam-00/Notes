@@ -51,6 +51,7 @@ SAB:
 DOM:
 ---
 - N7: batt
+Test: Audio [Out & mic] | HDMI | Suspend [remove USB] Un-Suspend
 
 LUN:
 ---
