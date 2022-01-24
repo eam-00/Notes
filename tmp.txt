@@ -56,7 +56,7 @@ LUN:
 - Imprimir email Carrefour [??]
 - M: Fotos plantas | Chk Muni
 - Sacudir almohadones
-- Carrefour: Queso PortSalut | Agua | Jugos Tang [???] | Te Taragui [???] | Pan | Bolsitas
+- Carrefour: Queso PortSalut | Agua | Jugos Tang [???] | Te Taragui [???] | Pan | Bolsitas | Queso Cremoso Verde
 4128068383784
 
 - Test cp Manjaro iso -> USB
