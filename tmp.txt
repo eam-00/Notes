@@ -55,7 +55,7 @@ LUN:
 
 - M: Fotos plantas | Chk Muni
 - Sacudir almohadones
-- Carrefour: Queso PortSalut | Agua | Te Taragui [???] | Pan | Bolsitas | Queso Cremoso Verde | Manzanas
+- Carrefour: Queso PortSalut | Agua | 4 Cajas de Te Taragui [???] | Pan | Bolsitas | 2 Quesos Cremosos Verde | Manzanas
 4128068383784
 
 - Test cp Manjaro iso -> USB
