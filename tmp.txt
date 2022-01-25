@@ -60,7 +60,7 @@ MAR:
 - Carrefour: Queso PortSalut | Agua | 4 Cajas de Te Taragui [???] | 3 Panes de Salvado | Bolsitas | 2 Quesos Cremosos Verde | Manzanas | 2 Yogurts | 2 Leches Larga Vida
 4128068383784
 
-- Test cp Manjaro iso -> USB
+
 - A: Push FE & CB disable [?]
 - P: Push CyberArk new server [?]
 
