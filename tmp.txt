@@ -50,7 +50,7 @@ MIE:
 - P: TS -> Add hours new project
 - Batts: X220 (Small) | X220i
 - P: Setup zoom call para SEP
-- AWS: Delete volume 
+
 - M: Chk Email probs iPhone | Chk MongoDev down [?????]
 
 - Lavanderia
