@@ -69,7 +69,7 @@ JUE:
 
 
 - Fibertel: Chk precios
-
+- Limpiar casita
 - Chk Bcos
 
 
