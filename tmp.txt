@@ -49,7 +49,7 @@ JUE:
 ---
 - P: TS -> Add hours new project
 
-- P: Setup zoom call para SEP
+- P: add calendar
 
 - M: Chk Email probs iPhone | Chk MongoDev down [?????]
 
