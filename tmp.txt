@@ -49,8 +49,8 @@ JUE:
 ---
 - P: TS -> Add hours new project
 
-- P: add calendar
-
+- P: Add calendar things
+- C: Add calendar things
 - M: Chk Email probs iPhone | Chk MongoDev down [?????]
 
 - 14 hrs Llamar dermatologa
