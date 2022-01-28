@@ -48,7 +48,7 @@ Test: Audio [Out & mic] | HDMI | Suspend [remove USB] Un-Suspend | Boot from dif
 VIE:
 ---
 - P: TS -> Add hours new project
-- P: Notif Monday SEP
+
 - P: Add calendar things
 - P: Sun setup Sun patching: CHGs | cp patches
 - C: Add calendar things
