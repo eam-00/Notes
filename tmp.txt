@@ -51,7 +51,7 @@ VIE:
 
 
 - P: Sun setup Sun patching: CHGs | cp patches
-- C: Add calendar things
+
 
 
 - M: Chk Email probs iPhone | Chk MongoDev down [?????]
