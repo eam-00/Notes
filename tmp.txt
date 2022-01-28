@@ -52,6 +52,7 @@ JUE:
 - P: Add calendar things
 - P: Sun setup Sun patching: CHGs | cp patches
 - C: Add calendar things
+- Marcelo A: tamano INBOX
 - M: Chk Email probs iPhone | Chk MongoDev down [?????]
 
 
