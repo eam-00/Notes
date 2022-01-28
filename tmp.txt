@@ -53,10 +53,12 @@ VIE:
 - P: Sun setup Sun patching: CHGs | cp patches
 - C: Add calendar things
 - Marcelo A: tamano INBOX
+
 - M: Chk Email probs iPhone | Chk MongoDev down [?????]
 
 
 - Setup Moto G20 | Setup OSDE
+- Batts: Samsungs | N10 | Nikon
 - Setup T60p
 - Spotify: Watchmen OST
 
