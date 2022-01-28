@@ -49,7 +49,7 @@ VIE:
 ---
 - P: TS -> Add hours new project
 
-- P: Add calendar things
+
 - P: Sun setup Sun patching: CHGs | cp patches
 - C: Add calendar things
 
