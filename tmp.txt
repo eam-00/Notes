@@ -47,7 +47,7 @@ Arreglo persiana: Juan - 15 6803 8442
 - 11e:
 Test: Audio [Out & mic] | HDMI | Suspend [remove USB] Un-Suspend | Boot from different USB port
 
-VIE:
+LUN:
 ---
 - P: TS -> Add hours new project
 
