@@ -116,7 +116,6 @@ VIE:
 - Ver ML adaptador HDMI > DVI (?)
 
 - Research chrome-cursor
-- Apple Charger -> Avisar p/ encuentro [?]
 - X140e: Test HDMI TV
 
 
