@@ -49,7 +49,6 @@ Test: Audio [Out & mic] | HDMI | Suspend [remove USB] Un-Suspend | Boot from dif
 
 SAB:
 ---
-- N: Setup auth Moto G20
 
 
 LUN:
