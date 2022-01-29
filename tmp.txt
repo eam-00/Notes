@@ -57,7 +57,7 @@ VIE:
 - M: Chk Email probs iPhone | Chk MongoDev down [?????]
 
 
-- Setup Moto G20 | Setup OSDE
+
 - Batts & Sync: X140E | W530 | T410
 - Batts: Samsungs | N10 | Nikon
 
