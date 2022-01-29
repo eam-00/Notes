@@ -61,7 +61,7 @@ LUN:
 
 
 - Batts & Sync: X140E | W530 | T410
-- Batts: Samsungs | N10 | Nikon
+
 
 - Setup T60p
 - Spotify: Watchmen OST
