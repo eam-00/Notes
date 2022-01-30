@@ -80,7 +80,7 @@ LUN:
 
 
 - Fibertel: Chk precios
-- Limpiar casita
+
 
 
 
