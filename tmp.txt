@@ -63,7 +63,7 @@ LUN:
 
 
 
-- Batts & Sync: X140E | W530 | T410
+
 
 
 - Setup T60p
