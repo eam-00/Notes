@@ -76,6 +76,7 @@ Lavanderia
 Keller's
 Cobro Express
 ATM
+ATM
 
 
 - A: Push FE & CB disable [?]
