@@ -71,7 +71,7 @@ LUN:
 
 
 - Carrefour: Dulce de Leche | Tomates | Limones
-
+Mamma: get cards | get lavanderia
 
 
 - A: Push FE & CB disable [?]
