@@ -74,6 +74,7 @@ LUN:
 Mamma: get cards | get lavanderia
 Lavanderia
 Keller's
+Cobro Express
 
 - A: Push FE & CB disable [?]
 - P: Push CyberArk new server [?]
