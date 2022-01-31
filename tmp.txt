@@ -72,7 +72,7 @@ LUN:
 
 - Carrefour: Dulce de Leche | Tomates | Limones
 Mamma: get cards | get lavanderia
-
+Lavanderia
 
 - A: Push FE & CB disable [?]
 - P: Push CyberArk new server [?]
