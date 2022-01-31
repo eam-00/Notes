@@ -49,7 +49,7 @@ Test: Audio [Out & mic] | HDMI | Suspend [remove USB] Un-Suspend | Boot from dif
 
 DOM:
 ---
-- Take out: Pepsi | Pizza [???] | 
+- Take out: Pepsi | 
 
 LUN:
 ---
