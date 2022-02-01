@@ -122,7 +122,6 @@ ATM
 - LLamar modista
 - Add Netflix list Chapelle
 - Ver ML adaptador HDMI > DVI (?)
-
 - Research chrome-cursor
 - X140e: Test HDMI TV
 
