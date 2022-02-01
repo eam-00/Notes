@@ -70,12 +70,13 @@ MIE:
 
 - Carrefour: Dulce de Leche | Tomates | Limones
 
+ATM
+ATM
 Cobro Express
 Lavanderia
 Keller's
 
-ATM
-ATM
+
 
 
 - A: Push FE & CB disable [?]
