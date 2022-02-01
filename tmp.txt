@@ -48,7 +48,7 @@ Test: Audio [Out & mic] | HDMI | Suspend [remove USB] Un-Suspend | Boot from dif
 
 
 
-LUN:
+MIE:
 ---
 - P: TS -> Add hours new project
 
