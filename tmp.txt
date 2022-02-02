@@ -78,6 +78,7 @@ Lavanderia
 Keller's
 Starbucks
 Pato
+Reboot MI
 
 
 - A: Push FE & CB disable [?]
