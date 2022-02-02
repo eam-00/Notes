@@ -51,7 +51,7 @@ Test: Audio [Out & mic] | HDMI | Suspend [remove USB] Un-Suspend | Boot from dif
 MIE:
 ---
 - P: TS -> Add hours new project
-- P: Pentest setup [????]
+
 
 - P: Sun setup CHGs 
 
