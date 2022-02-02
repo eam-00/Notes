@@ -77,7 +77,7 @@ Cobro Express: Mamma | Movistar
 Lavanderia
 Keller's
 Starbucks
-
+Pato
 
 
 - A: Push FE & CB disable [?]
