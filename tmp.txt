@@ -53,7 +53,7 @@ MIE:
 - P: TS -> Add hours new project
 
 
-- P: Sun setup CHGs 
+
 
 
 
