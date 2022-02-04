@@ -110,7 +110,7 @@ Reboot MI
 
 LUN:
 ---
-
+P: While Patch & Reboot D -- Check Log4j -- Gather info
 
 
 
