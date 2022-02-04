@@ -80,7 +80,7 @@ ATM
 
 
 Pato
-Reboot MI
+
 
 
 - A: Push FE & CB disable [?]
