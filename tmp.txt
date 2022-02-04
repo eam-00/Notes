@@ -53,7 +53,7 @@ VIE:
 
 - P: TS
 - P: Workflow decom
-- P: Test if hosts on CA
+
 
 
 
