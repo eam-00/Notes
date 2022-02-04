@@ -50,7 +50,7 @@ Test: Audio [Out & mic] | HDMI | Suspend [remove USB] Un-Suspend | Boot from dif
 
 VIE:
 ---
-- C: TS
+
 - P: TS
 - P: Workflow decom
 - P: Test if hosts on CA
