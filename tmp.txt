@@ -54,7 +54,7 @@ VIE:
 
 
 - P: Workflow decom
-- Chk Bcos
+
 - La Bolognesa
 
 
