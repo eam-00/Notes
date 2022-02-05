@@ -110,8 +110,8 @@ VIE:
 
 LUN:
 ---
-P: While Patch & Reboot D -- Check Log4j -- Gather info
-
+- P: While Patch & Reboot D -- Check Log4j -- Gather info
+- Charge BT KBD
 
 
 
