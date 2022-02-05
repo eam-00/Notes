@@ -113,6 +113,7 @@ LUN:
 - P: While Patch & Reboot D -- Check Log4j -- Gather info
 - Pinto: Status
 - Charge BT KBD
+- Expensas
 
 
 
