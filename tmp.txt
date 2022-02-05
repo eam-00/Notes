@@ -110,6 +110,7 @@ VIE:
 LUN:
 ---
 - P: While Patch & Reboot D -- Check Log4j -- Gather info
+- P: D: INC Load @Stupids
 - Pinto: Status
 - Charge BT KBD
 - Expensas
