@@ -52,7 +52,7 @@ Test: Audio [Out & mic] | HDMI | Suspend [remove USB] Un-Suspend | Boot from dif
 VIE:
 ---
 
-- P: TS
+
 - P: Workflow decom
 - Chk Bcos
 - La Bolognesa
