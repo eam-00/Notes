@@ -1,7 +1,6 @@
 Llevar N:
 --------
 
-
 Eagle Technology - https://www.eagletechnology.com.ar
 Nueva York 3306
 +5411 5236 0160
@@ -54,7 +53,7 @@ SAB:
 - Download EndeavourOS
 - Charge XPS M1330 Batt
 
-- P: Workflow decom
+
 
 
 
@@ -111,6 +110,7 @@ SAB:
 LUN:
 ---
 - P: While Patch & Reboot D -- Check Log4j -- Gather info
+- P: Workflow decom
 - P: D: INC Load @Stupids
 - Pinto: Status
 - Charge BT KBD
