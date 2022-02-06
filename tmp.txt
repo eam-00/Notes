@@ -82,7 +82,7 @@ DOM:
 
 
 
-- P: A: Push FE & CB disable [?]
+
 
 
 
@@ -112,6 +112,7 @@ LUN:
 - P: While Patch & Reboot D -- Check Log4j -- Gather info
 - P: Workflow decom
 - P: D: INC Load @Stupids
+- P: A: Push FE & CB disable [???]
 - Pinto: Status
 - Charge BT KBD
 - Expensas
