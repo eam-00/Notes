@@ -109,7 +109,7 @@ DOM:
 
 LUN:
 ---
-- P: While Patch & Reboot D -- Check Log4j -- Gather info
+- P: D: While Patch & Reboot -- Check Log4j -- Gather info
 - P: Workflow decom
 - P: D: INC Load @Stupids
 - P: A: Push FE & CB disable [???]
