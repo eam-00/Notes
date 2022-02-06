@@ -50,7 +50,7 @@ Test: Audio [Out & mic] | HDMI | Suspend [remove USB] Un-Suspend | Boot from dif
 
 SAB:
 ---
-- Download EndeavourOS
+
 - Charge XPS M1330 Batt
 
 
