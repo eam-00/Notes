@@ -105,7 +105,7 @@ https://fosspost.org/20-gnome-extensions-gnome-40/
 
 
 
-LUN:
+MAR:
 ---
 - P: D: While Patch & Reboot -- Check Log4j -- Gather info
 - P: Workflow decom
