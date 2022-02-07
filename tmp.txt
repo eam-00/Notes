@@ -51,8 +51,7 @@ Test: Audio [Out & mic] | HDMI | Suspend [remove USB] Un-Suspend | Boot from dif
 
 
 
-DOM:
----
+
 
 - 20 GNOME Extensions To Perfectly Balance GNOME 40
 https://fosspost.org/20-gnome-extensions-gnome-40/
