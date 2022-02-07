@@ -113,7 +113,7 @@ MAR:
 - P: A: Push FE & CB disable [???]
 - Pinto: Status
 
-- Expensas
+
 
 
 - Carrefour: Bolsitas | Agua
