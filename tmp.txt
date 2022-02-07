@@ -112,7 +112,7 @@ LUN:
 - P: D: INC Load @Stupids
 - P: A: Push FE & CB disable [???]
 - Pinto: Status
-- Charge BT KBD
+
 - Expensas
 
 
