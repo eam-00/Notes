@@ -109,6 +109,7 @@ https://fosspost.org/20-gnome-extensions-gnome-40/
 
 MAR:
 ---
+- P: Decomm Solaris
 - P: D: While Patch & Reboot -- Check Log4j -- Gather info
 - P: Workflow decom
 - P: D: Close INC [????]
