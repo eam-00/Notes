@@ -112,7 +112,7 @@ MAR:
 - P: D: INC Load @Stupids
 - P: A: Push FE & CB disable [???]
 - M: PF
-
+- Blue Thunder
 
 
 
