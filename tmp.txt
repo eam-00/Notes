@@ -119,7 +119,7 @@ MAR:
 - CobroExpress
 - Tommy
 - ATM
-
+- Vallone
 
 
 - Carrefour: Bolsitas | Agua | Pilas recargables
