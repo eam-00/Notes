@@ -110,6 +110,7 @@ MAR:
 - P: D: While Patch & Reboot -- Check Log4j -- Gather info
 - P: Workflow decom
 - P: D: Close INC [????]
+- P: A: SEP Manager [???]
 - P: A: Push FE & CB disable [???]
 - M: PF
 - Blue Thunder
