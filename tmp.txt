@@ -116,7 +116,7 @@ MAR:
 - P: A: Push FE & CB disable [???]
 
 - Blue Thunder
-- CobroExpress
+
 - Tommy
 - ATM
 - Vallone
