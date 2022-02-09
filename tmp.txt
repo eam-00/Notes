@@ -124,7 +124,7 @@ MIE:
 - 
 - vpn-00: add tar-backups -> /usr/local/etc/scripts/
 - SSL Cert
-- Carrefour: Bolsitas | Agua | Pilas recargables
+- Carrefour: Bolsitas | Agua | Pilas recargables | Clight [Descuento????]
 
 
 - Spotify: Islands in the stream | Give My Regards To Broad Street
