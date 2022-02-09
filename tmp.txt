@@ -119,7 +119,7 @@ JUE:
 
 
 
-- Tommy
+
 - ATM
 - 
 - vpn-00: add tar-backups -> /usr/local/etc/scripts/
