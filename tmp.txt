@@ -121,7 +121,7 @@ MIE:
 
 - Tommy
 - ATM
-- Push Vallone [!!!!!!!]
+- 
 - vpn-00: add tar-backups -> /usr/local/etc/scripts/
 
 - Carrefour: Bolsitas | Agua | Pilas recargables
