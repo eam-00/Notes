@@ -123,6 +123,7 @@ JUE:
 
 - La Ardilla - store hours
 - Link Internet Options [????]
+- Link Cellphone brightness
 - vpn-00: add tar-backups -> /usr/local/etc/scripts/
 - SSL Cert
 - Carrefour: Bolsitas | Agua | Pilas recargables | Clight [Descuento????]
