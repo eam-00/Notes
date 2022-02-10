@@ -120,7 +120,7 @@ JUE:
 
 - M: Dejar tarjeta | Ver ringotne cell | ver papel
 
-- ATM
+
 - 
 - vpn-00: add tar-backups -> /usr/local/etc/scripts/
 - SSL Cert
