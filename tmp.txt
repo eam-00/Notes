@@ -126,7 +126,7 @@ JUE:
 - Link Cellphone brightness
 - vpn-00: add tar-backups -> /usr/local/etc/scripts/
 - SSL Cert
-- Carrefour: Bolsitas | Agua | Pilas recargables | Clight [Descuento????]
+- Carrefour: Bolsitas | Agua | Pilas recargables |
 
 
 - Spotify: Islands in the stream | Give My Regards To Broad Street
