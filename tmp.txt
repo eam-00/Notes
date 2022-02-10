@@ -118,7 +118,7 @@ JUE:
 - P: A: Push FE & CB disable [???]
 
 
-
+- M: Dejar tarjeta | 
 
 - ATM
 - 
