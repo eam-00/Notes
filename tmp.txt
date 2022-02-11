@@ -124,7 +124,7 @@ VIE:
 
 
 
-- La Ardilla - store hours
+- La Ardilla - Check store hours
 - Link Internet Options [????]
 - Link Cellphone brightness
 
