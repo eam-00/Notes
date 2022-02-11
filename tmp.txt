@@ -113,7 +113,7 @@ VIE:
 ---
 
 
-- P: D: Close CHG
+
 - P: D: While Patch & Reboot -- Check Log4j -- Gather info
 
 
