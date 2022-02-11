@@ -116,7 +116,7 @@ VIE:
 - P: A: SEP Manager [???]
 - P: A: Push FE & CB disable [???]
 
-- Charge: 
+- Charge:  Moto G6
 
 
 
