@@ -113,7 +113,7 @@ JUE:
 - P: Decomm Solaris
 - P: D: While Patch & Reboot -- Check Log4j -- Gather info
 
-- P: A; Decom Pen Test server [????]
+
 - P: A: SEP Manager [???]
 - P: A: Push FE & CB disable [???]
 
