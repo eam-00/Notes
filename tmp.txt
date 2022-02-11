@@ -119,7 +119,7 @@ VIE:
 - P: A: Push FE & CB disable [???]
 
 
-- M: Dejar tarjeta | Ver ringotne cell 
+- M: Dejar tarjeta 
 
 
 - La Ardilla - store hours
