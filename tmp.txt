@@ -116,7 +116,7 @@ LUN:
 - P: A: SEP Manager [???]
 - P: A: Push FE & CB disable [???]
 
-- Charge:  Moto G6
+
 
 - ATM Bco. N: Out
 - ATM Gal: Transfer
