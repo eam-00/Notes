@@ -120,7 +120,7 @@ LUN:
 
 - ATM Bco. N: Out
 - ATM Gal: Transfer
-- Free Terra: Bulnes Bulnes 1571 (entre Soler y Honduras)
+- Free Terra: Bulnes 1571 (entre Soler y Honduras)
 - La Ardilla - Check store hours
 - Link Internet Options [????]
 - Link Cellphone brightness
