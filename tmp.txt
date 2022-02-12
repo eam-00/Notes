@@ -118,7 +118,8 @@ LUN:
 
 - Charge:  Moto G6
 
-
+- ATM Bco. N: Out
+- ATM Gal: Transfer
 
 - La Ardilla - Check store hours
 - Link Internet Options [????]
