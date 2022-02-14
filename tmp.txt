@@ -124,7 +124,7 @@ MAR:
 
 - Carre: Chk Bat 9 Volts | Aguarras ifelse
 - Ferreteria: Pilas Recargables AAA
-- Free Terra: Bulnes 1571 (entre Soler y Honduras)
+
 
 - Link Internet Options [????]
 - Link Cellphone brightness
