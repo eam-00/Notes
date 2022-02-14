@@ -120,7 +120,7 @@ MAR:
 
 
 - La Ardilla - Check store hours
-
+- N: Imprimir boleta TC
 
 - Carre: Chk Bat 9 Volts | Aguarras ifelse
 - Ferreteria: Pilas Recargables AAA
