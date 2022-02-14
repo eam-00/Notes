@@ -121,7 +121,7 @@ LUN:
 
 - La Ardilla - Check store hours
 
-- ATM Gal: Transfer
+
 - Carre: Chk Bat 9 Volts | Aguarras ifelse
 - Ferreteria: Pilas Recargables AAA
 - Free Terra: Bulnes 1571 (entre Soler y Honduras)
