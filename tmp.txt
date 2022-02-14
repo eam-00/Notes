@@ -125,7 +125,7 @@ LUN:
 - La Ardilla - Check store hours
 - ATM Bco. N: Out
 - ATM Gal: Transfer
-- Carre: Chk Bat 9 Volts
+- Carre: Chk Bat 9 Volts | Aguarras
 - Free Terra: Bulnes 1571 (entre Soler y Honduras)
 
 - Link Internet Options [????]
