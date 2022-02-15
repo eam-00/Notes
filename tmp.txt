@@ -134,6 +134,7 @@ MAR:
 
 MIE:
 ---
+- Lavanderia
 - Carrefour: Bolsitas | PortSalut | Tabletas Shot [???] | Fruta | Queso Cremoso
 
 
