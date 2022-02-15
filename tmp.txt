@@ -118,7 +118,7 @@ MAR:
 - P: A: SEP Manager [???]
 - P: A: Push FE & CB disable [???]
 - P: Chk Tasks [!!!!]
-
+- Lavar Columbia [??]
 - La Ardilla - Check store hours
 - N: Imprimir boleta TC
 - Proyecto X
