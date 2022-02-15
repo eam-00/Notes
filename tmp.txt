@@ -117,7 +117,7 @@ MAR:
 - P: D: While Patch & Reboot -- Check Log4j -- Gather info
 - P: A: SEP Manager [???]
 - P: A: Push FE & CB disable [???]
-
+- P: Chk Tasks [!!!!]
 
 - La Ardilla - Check store hours
 - N: Imprimir boleta TC
