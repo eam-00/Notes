@@ -121,7 +121,7 @@ MAR:
 - Lavar Columbia [??]
 - La Ardilla - Check store hours
 - N: Imprimir boleta TC
-- Proyecto X
+
 - M: regar plantas
 - Carre: Chk Bat 9 Volts | Aguarras | Tabletas Shot en oferta [???] ifelse
 - Ferreteria: Pilas Recargables AAA
