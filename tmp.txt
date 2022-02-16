@@ -132,8 +132,7 @@ MIE:
 
 - SSL Cert
 
-MIE:
----
+
 - Lavanderia
 - Carrefour: Bolsitas | PortSalut | Tabletas Shot [???] | Fruta | Queso Cremoso
 
