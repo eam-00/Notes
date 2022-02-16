@@ -114,7 +114,7 @@ MIE:
 ---
 - Chk Pinto [!!!!]
 - P: AWS [Push!!!!]
-- Charge: Updates S8 | 
+- Updates: S8 | S10 | 
 - P: D: While Patch & Reboot -- Check Log4j -- Gather info
 - P: A: SEP Manager [???]
 - P: A: Push FE & CB disable [???]
