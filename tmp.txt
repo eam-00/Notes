@@ -120,7 +120,7 @@ MAR:
 - P: Chk Tasks [!!!!]
 - Lavar Columbia [??]
 - La Ardilla - Check store hours
-- N: Imprimir boleta TC
+
 
 - M: regar plantas
 - Carre: Chk Bat 9 Volts | Aguarras | Tabletas Shot en oferta [???] ifelse
