@@ -114,7 +114,6 @@ MIE:
 ---
 - Chk Pinto [!!!!]
 - P: AWS [Push!!!!]
-
 - P: D: While Patch & Reboot -- Check Log4j -- Gather info
 - P: A: SEP Manager [???]
 - P: A: Push FE & CB disable [???]
