@@ -125,6 +125,7 @@ JUE:
 
 
 - M: regar plantas
+- P: mail patch Solaris
 - Carre: Chk Bat 9 Volts | Aguarras | Tabletas Shot en oferta 
 - Ferreteria: Pilas Recargables AAA
 
