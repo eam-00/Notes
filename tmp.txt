@@ -131,7 +131,7 @@ MIE:
 - Link Internet Options [????]
 - Link Cellphone brightness
 
-- SSL Cert
+
 
 
 
