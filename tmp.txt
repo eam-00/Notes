@@ -113,7 +113,7 @@ https://fosspost.org/20-gnome-extensions-gnome-40/
 
 JUE:
 ---
-- Setup T410
+
 
 - P: AWS [Push!!!!]
 - P: D: While Patch & Reboot -- Check Log4j -- Gather info
