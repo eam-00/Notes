@@ -124,7 +124,7 @@ MIE:
 
 
 - M: regar plantas
-- Carre: Chk Bat 9 Volts | Aguarras | Tabletas Shot en oferta [???] ifelse
+- Carre: Chk Bat 9 Volts | Aguarras | Tabletas Shot en oferta 
 - Ferreteria: Pilas Recargables AAA
 
 
