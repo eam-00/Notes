@@ -125,7 +125,7 @@ VIE:
 
 
 - Batts | Sync: X140E & W530
-- M: regar plantas
+
 - Reboot: dev | prod - rails MI
 
 
