@@ -127,7 +127,7 @@ VIE:
 - M: regar plantas
 
 - P: D: mail patch evidence
-- P: Chk SEP docs
+
 - Carre: Chk Bat 9 Volts | Aguarras | Tabletas Shot en oferta 
 - Ferreteria: Pilas Recargables AAA
 
