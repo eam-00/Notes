@@ -123,7 +123,7 @@ VIE:
 - Lavar Columbia [??]
 - La Ardilla - Check store hours
 
-- P: TS
+
 - Batts | Sync: X140E & W530
 - M: regar plantas
 - Reboot: dev | prod - rails MI
