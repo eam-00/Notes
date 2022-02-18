@@ -128,7 +128,7 @@ VIE:
 
 
 
-- Carre: Chk Bat 9 Volts | Aguarras | Tabletas Shot en oferta 
+- Carre: Chk Bat 9 Volts | Aguarras
 - Ferreteria: Pilas Recargables AAA
 
 
