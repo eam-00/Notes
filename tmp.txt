@@ -115,7 +115,7 @@ LUN:
 ---
 
 - P: Chk SEP docs
-- P: AWS [Push!!!!]
+- P: AWS
 - P: D: While Patch & Reboot -- Check Log4j -- Gather info
 - P: A: SEP Manager [???]
 - P: A: Push FE & CB disable [???]
