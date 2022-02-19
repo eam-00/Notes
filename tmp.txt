@@ -115,7 +115,7 @@ SAB:
 
 DOM:
 ---
-- Lavar: toallin | repasador 
+- Lavar: toallin | repasador | Columbia
 LUN:
 ---
 - P: Chk SEP docs
