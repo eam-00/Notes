@@ -113,7 +113,6 @@ https://fosspost.org/20-gnome-extensions-gnome-40/
 
 LUN:
 ---
-
 - P: Chk SEP docs
 - P: AWS
 - P: D: While Patch & Reboot -- Check Log4j -- Gather info
