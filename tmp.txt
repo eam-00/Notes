@@ -130,7 +130,7 @@ VIE:
 
 
 
-- Carre: Chk Bat 9 Volts | Aguarras
+- Carre: Aguarras
 - Ferreteria: Pilas Recargables AAA
 
 
