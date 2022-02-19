@@ -124,7 +124,7 @@ VIE:
 - La Ardilla - Check store hours
 
 
-- Batts | Sync: X140E & W530
+
 
 - Reboot: dev | prod - rails MI
 
