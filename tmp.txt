@@ -110,7 +110,7 @@ SAB:
 ---
 - GNOME themes
 - Wolf Like Me
-
+- T60p
 
 
 LUN:
