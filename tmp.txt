@@ -113,7 +113,8 @@ SAB:
 
 DOM:
 ---
-- Lavar: toallin | repasador | Columbia
+- Lavar: toallin | repasador | Columbia | BDU Desert Camouflage Uniform (Small)
+
 LUN:
 ---
 - P: Chk SEP docs
