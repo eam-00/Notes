@@ -115,8 +115,7 @@ LUN:
 - Lavar: toallin | repasador | Columbia | BDU Desert Camouflage Uniform (Small)
 - Cambio sabanas
 
-LUN:
----
+
 - P: Chk SEP docs
 - P: AWS
 - P: A: SEP Manager [???]
