@@ -119,6 +119,7 @@ LUN:
 M:
 - Lavar
 - Regar
+- Lavanderia
 
 - La Ardilla - Check store hours
 
