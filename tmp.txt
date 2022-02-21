@@ -115,7 +115,7 @@ LUN:
 - Lavar: toallin | repasador | Columbia | BDU Desert Camouflage Uniform (Small)
 - Cambio sabanas
 
-
+- C: Install Windows 10 Update [??????]
 - P: Chk SEP replies | Test |Setup doc
 - P: AWS: Terminate duplicate inst [????] | Build new ones [????]
 - P: A: SEP Manager [???]
