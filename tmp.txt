@@ -108,7 +108,7 @@ LUN:
 ---
 - GNOME themes
 - Wolf Like Me
-- T60p
+- T60p: Test Firefox -> Spotify | Firefox: User Agent -> Spotify
 
 
 
