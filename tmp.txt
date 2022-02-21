@@ -121,6 +121,7 @@ M:
 - Regar
 - Lavanderia
 - Keller's
+- Mant. de Mani
 
 - La Ardilla - Check store hours
 
