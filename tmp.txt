@@ -111,6 +111,7 @@ LUN:
 - T60p: Test Firefox -> Spotify | Firefox: User Agent -> Spotify
 - Keen: Sandalias | Zapatillas
 
+- Mant. de Mani
 
 - Lavar: toallin | repasador | Columbia | BDU Desert Camouflage Uniform (Small)
 - Cambio sabanas
