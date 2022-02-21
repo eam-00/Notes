@@ -114,7 +114,7 @@ LUN:
 - Mant. de Mani
 
 - Lavar: toallin | repasador | Columbia | BDU Desert Camouflage Uniform (Small)
-
+- Charge: Moto G6
 - N: Setup HBO
 
 - C: Install Windows 10 Update [??????]
