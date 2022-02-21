@@ -111,8 +111,7 @@ LUN:
 - T60p
 
 
-DOM:
----
+
 - Lavar: toallin | repasador | Columbia | BDU Desert Camouflage Uniform (Small)
 - Cambio sabanas
 
