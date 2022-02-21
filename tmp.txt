@@ -116,7 +116,7 @@ LUN:
 - Cambio sabanas
 
 
-- P: Chk SEP docs
+- P: Chk SEP replies | Test |
 - P: AWS: Terminate duplicate inst [????] | Build new ones [????]
 - P: A: SEP Manager [???]
 - P: A: Push FE & CB disable [???]
