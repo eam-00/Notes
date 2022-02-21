@@ -117,7 +117,7 @@ LUN:
 
 
 - P: Chk SEP docs
-- P: AWS
+- P: AWS: Terminate duplicate inst [????]
 - P: A: SEP Manager [???]
 - P: A: Push FE & CB disable [???]
 - P: Chk Tasks [!!!!]
