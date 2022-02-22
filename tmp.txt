@@ -105,7 +105,7 @@ MAR:
 
 
 
-- Lavar: Columbia | BDU Desert Camouflage Uniform (Small)
+- Lavar: BDU Desert Camouflage Uniform (Small)
 - Charge: Moto G6
 - N: Setup HBO
 
