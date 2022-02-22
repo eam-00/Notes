@@ -119,7 +119,7 @@ MAR:
 - P: A: Push FE & CB disable [???]
 - P: Chk Tasks [!!!!]
 - N: Print TC | Pay
-
+- MBW: Update + Sync
 M:
 
 - Regar
