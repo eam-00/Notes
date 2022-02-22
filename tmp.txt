@@ -118,7 +118,7 @@ MAR:
 - P: Chk Tasks [!!!!]
 
 M:
-- Lavar
+
 - Regar
 - Lavanderia
 - Keller's
