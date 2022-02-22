@@ -103,7 +103,7 @@ MAR:
 - T60p: Test Firefox -> Spotify | Firefox: User Agent -> Spotify
 - Keen: Sandalias | Zapatillas
 
-- Mant. de Mani
+
 
 - Lavar: Columbia | BDU Desert Camouflage Uniform (Small)
 - Charge: Moto G6
