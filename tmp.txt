@@ -106,7 +106,7 @@ MAR:
 
 
 - Lavar: BDU Desert Camouflage Uniform (Small)
-- Charge: Moto G6
+
 - N: Setup HBO
 
 - P: Friendly reminder Sun Reboot
