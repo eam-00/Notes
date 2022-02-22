@@ -109,6 +109,7 @@ MAR:
 - Charge: Moto G6
 - N: Setup HBO
 
+- P: Friendly reminder Sun Reboot
 - C: Install Windows 10 Update [??????]
 - P: Chk SEP replies | Test |Setup doc
 - P: AWS: Terminate duplicate inst [????] | Build new ones [????]
