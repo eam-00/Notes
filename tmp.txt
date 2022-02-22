@@ -110,7 +110,7 @@ MAR:
 - N: Setup HBO
 
 - P: Friendly reminder Sun Reboot
-- P: Feriados semana que viene
+
 
 - P: SEP status versions | SEP @AWS
 - P: Chk SEP replies | Test |Setup doc
