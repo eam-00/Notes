@@ -109,7 +109,7 @@ MAR:
 
 - N: Setup HBO
 
-- P: Friendly reminder Sun Reboot
+
 
 
 - P: SEP status versions | SEP @AWS
