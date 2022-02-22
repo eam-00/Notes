@@ -112,7 +112,7 @@ MAR:
 - P: Friendly reminder Sun Reboot
 - P: Feriados semana que viene
 - P: AWS: Mount drives
-
+- P: SEP status versions | SEP @AWS
 - P: Chk SEP replies | Test |Setup doc
 - P: AWS: Terminate duplicate inst [????] | Build new ones [????]
 - P: A: SEP Manager [???]
