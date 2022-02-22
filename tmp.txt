@@ -110,6 +110,7 @@ MAR:
 - N: Setup HBO
 
 - P: Friendly reminder Sun Reboot
+- P: Feriados semana que viene
 
 - P: Chk SEP replies | Test |Setup doc
 - P: AWS: Terminate duplicate inst [????] | Build new ones [????]
