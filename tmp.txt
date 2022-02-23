@@ -120,7 +120,7 @@ MIE:
 - P: Chk Tasks [!!!!]
 
 
-- Lavanderia
+
 - Keller's
 - Regar
 - Check campera Columbia
