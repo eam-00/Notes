@@ -121,9 +121,9 @@ MIE:
 
 
 M:
-
-- Regar
 - Lavanderia
+- Regar
+
 - Keller's
 
 - La Ardilla - Check store hours
