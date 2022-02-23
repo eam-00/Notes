@@ -120,7 +120,6 @@ MIE:
 - P: Chk Tasks [!!!!]
 
 
-M:
 - Lavanderia
 - Keller's
 - Regar
