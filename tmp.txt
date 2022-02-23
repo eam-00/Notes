@@ -135,7 +135,7 @@ M:
 
 
 
-- Carre: Aguarras [???] | Yogurts | Agua | PortSalut | Fruta |
+- Carre: Aguarras [???] | Yogurts | Agua | PortSalut | Fruta | Bolsitas | 
 - Ferreteria: Pilas Recargables AAA
 
 
