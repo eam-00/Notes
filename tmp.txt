@@ -116,7 +116,7 @@ JUE:
 
 
 - P: Delete Solaris patchset @dev04
-- P: Mail decom Stuffs
+
 - P: HDD Space @Solaris
 - P: SEP call | Setup
 - P: SEP status versions | SEP @AWS
