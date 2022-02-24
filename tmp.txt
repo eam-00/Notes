@@ -112,6 +112,7 @@ JUE:
 
 
 - P: Decom: Chk Tasks [!!!!]
+- P: Mail decom Stuffs
 - P: SEP call | Setup
 - P: SEP status versions | SEP @AWS
 
