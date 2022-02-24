@@ -111,13 +111,14 @@ JUE:
 
 
 
-
-- P: SEP status versions | SEP @AWS
+- P: Decom: Chk Tasks [!!!!]
 - P: SEP call | Setup
+- P: SEP status versions | SEP @AWS
+
 
 - P: A: SEP Manager [???]
 - P: A: Push FE & CB disable [???]
-- P: Decom: Chk Tasks [!!!!]
+- P: A: Decom pentest server [???]
 
 
 
