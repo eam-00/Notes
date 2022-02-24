@@ -114,7 +114,7 @@ JUE:
 - P: Decom: Chk Tasks [!!!!]
 - M: kernel reboot cacao
 
-- P: Update Excel spreadsheet
+
 - P: Delete Solaris patchset @dev04
 - P: Mail decom Stuffs
 - P: HDD Space @Solaris
