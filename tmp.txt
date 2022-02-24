@@ -113,7 +113,7 @@ JUE:
 
 
 - P: SEP status versions | SEP @AWS
-- P: Chk SEP replies | Test |Setup doc
+- P: SEP call | Setup
 
 - P: A: SEP Manager [???]
 - P: A: Push FE & CB disable [???]
