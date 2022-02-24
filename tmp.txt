@@ -114,6 +114,7 @@ JUE:
 - P: Decom: Chk Tasks [!!!!]
 - P: Close CHG Patch Solaris
 - P: Update Excel spreadsheet
+- P: Delete Solaris patchset @dev04
 - P: Mail decom Stuffs
 - P: SEP call | Setup
 - P: SEP status versions | SEP @AWS
