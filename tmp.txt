@@ -97,7 +97,7 @@ https://fosspost.org/20-gnome-extensions-gnome-40/
 
 
 
-JUE:
+VIE:
 ---
 - GNOME themes
 - Wolf Like Me
@@ -112,7 +112,7 @@ JUE:
 
 
 - P: Decom: Chk Tasks [!!!!]
-- M: kernel reboot cacao
+
 
 
 - P: Delete Solaris patchset @dev04
