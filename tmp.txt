@@ -38,7 +38,7 @@ Test: Audio [Out & mic] | Suspend [remove USB] Un-Suspend | Boot from different 
 SAB:
 ---
 - Delete Kernel crud @Dell XPS M1330
-
+- Arreglar el interruptor de luz de la cocina
 
 
 
