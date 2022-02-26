@@ -110,7 +110,7 @@ MIE:
 
 
 - C: Setup Deliverables
-- C: Email AWS [??]
+- C: Email confirmation AWS [??]
 - P: Decom: Chk Tasks [!!!!]
 
 
