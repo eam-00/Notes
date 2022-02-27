@@ -33,9 +33,10 @@ Diego Samuel Bejarano - 11 3698 6668 - M65 Woodland (Medium Short)
 Arreglo persiana: Juan - 15 6803 8442
 
 - 11e:
+
 Test: Audio [Out & mic] | Suspend [remove USB] Un-Suspend | Boot from different USB port
 
-SAB:
+DOM:
 ---
 - Delete Kernel crud @Dell XPS M1330
 
@@ -63,7 +64,8 @@ https://fosspost.org/20-gnome-extensions-gnome-40/
 - Spotify:
 - Watchmen OST
 - Risky Business
-- Talking Heads: Swamp | Islands in the stream | Give My Regards To Broad Street
+- Talking Heads: Swamp
+- Islands in the stream | Give My Regards To Broad Street
 
 
 
