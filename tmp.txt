@@ -93,7 +93,7 @@ Spotify:
 
 
 
-- Follow up John - Install NetWorker
+
 - Call Vicda - vicda.com.ar - 5219 0070
   https://articulo.mercadolibre.com.ar/MLA-715484605-adaptador-hdmi-macho-a-dvi-d-hembra-10-cm-x5-_JM
 - Mirus Tec: 
@@ -120,7 +120,7 @@ MIE:
 - P: Decom: Chk Tasks [!!!!]
 
 
-
+- P: Follow up John - Install NetWorker
 - P: Delete Solaris patchset @dev04
 
 - P: HDD Space @Solaris
