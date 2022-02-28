@@ -36,10 +36,6 @@ Arreglo persiana: Juan - 15 6803 8442
 - 11e:
 Test: Audio [Out & mic] | Suspend [remove USB] Un-Suspend | Boot from different USB port
 
-DOM:
----
-
-
 
 LUN:
 ---
