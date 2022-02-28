@@ -43,7 +43,7 @@ LUN:
 
 MAR:
 ---
-- M: get Jubi card | 
+- M: get Jubi card | Chk WhatsApp cellphone  
 
 - 20 GNOME Extensions To Perfectly Balance GNOME 40
 https://fosspost.org/20-gnome-extensions-gnome-40/
