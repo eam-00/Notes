@@ -40,8 +40,9 @@ DOM:
 
 - Arreglar el interruptor de luz de la cocina
 
-
-
+LUN:
+---
+- Cargar Moto G20
 
 
 
