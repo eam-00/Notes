@@ -43,7 +43,8 @@ LUN:
 
 MAR:
 ---
-- M: get Jubi card | Chk WhatsApp cellphone 
+- M: get Jubi card | Chk WhatsApp cellphone
+- TRRTs: West Side Story | Belfast
 - Raise limit Jubi card
 
 - 20 GNOME Extensions To Perfectly Balance GNOME 40
