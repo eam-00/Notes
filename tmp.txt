@@ -42,6 +42,7 @@ Test: Audio [Out & mic] | Suspend [remove USB] Un-Suspend | Boot from different 
 
 MAR:
 ---
+- Bycicle Blue Light Change
 - Get pollo | Empanadas
 - M: get Jubi card | Chk WhatsApp cellphone
 - TRRTs: West Side Story | Belfast
