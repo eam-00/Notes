@@ -43,6 +43,7 @@ LUN:
 
 MAR:
 ---
+- Get pollo | 
 - M: get Jubi card | Chk WhatsApp cellphone
 - TRRTs: West Side Story | Belfast
 - Raise limit Jubi card
