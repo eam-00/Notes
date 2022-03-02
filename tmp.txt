@@ -42,7 +42,7 @@ Test: Audio [Out & mic] | Suspend [remove USB] Un-Suspend | Boot from different 
 
 MAR:
 ---
-- Get pollo | Empanadas
+- Get pollo 
 - M: get Jubi card | Chk WhatsApp cellphone
 - TRRTs: West Side Story | Belfast
 - Raise limit Jubi card
