@@ -228,6 +228,8 @@ https://support.zoom.us/hc/en-us/articles/360000252726-Roles-in-a-Webinar
 https://www.vidyard.com/blog/zoom-webinar-guide/
 https://zapier.com/apps/cisco-webex-meetings/integrations/mailchimp
 
+T8:
+T10:
 N10: 27 cm | 18 cm
 KBD: 24 cm | 13 cm
 
