@@ -130,7 +130,7 @@ Spotify:
 
 
 
-JUE:
+VIE:
 ---
 - GNOME themes
 - Wolf Like Me
