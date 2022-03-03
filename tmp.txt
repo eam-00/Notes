@@ -49,6 +49,25 @@ JUE:
 - TRRTs: West Side Story
 - Raise limit Jubi card
 
+- C: Setup Deliverables
+- C: Email confirmation AWS [??]
+- P: Decom: Chk Tasks [!!!!]
+
+
+- P: Follow up John - Install NetWorker
+- P: Delete Solaris patchset @dev04
+
+- P: HDD Space @Solaris
+- P: SEP call | Setup
+- P: SEP status versions | SEP @AWS
+
+
+- P: A: SEP Manager [???]
+- P: A: Push FE & CB disable [???]
+- P: A: Decom pentest server [???]
+
+
+
 - 20 GNOME Extensions To Perfectly Balance GNOME 40
 https://fosspost.org/20-gnome-extensions-gnome-40/
 
@@ -119,22 +138,6 @@ JUE:
 
 
 
-- C: Setup Deliverables
-- C: Email confirmation AWS [??]
-- P: Decom: Chk Tasks [!!!!]
-
-
-- P: Follow up John - Install NetWorker
-- P: Delete Solaris patchset @dev04
-
-- P: HDD Space @Solaris
-- P: SEP call | Setup
-- P: SEP status versions | SEP @AWS
-
-
-- P: A: SEP Manager [???]
-- P: A: Push FE & CB disable [???]
-- P: A: Decom pentest server [???]
 
 
 - CobroExpress: Chk pago de los Telecoms
