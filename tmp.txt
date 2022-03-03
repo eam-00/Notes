@@ -52,7 +52,7 @@ JUE:
 
 - P: Decom: Chk Tasks [!!!!]
 - P: HDD Space @Solaris -> Email
-- P: Delete Solaris patchset @dev04
+
 - P: A: SEP Manager [???]
 - P: A: Push FE & CB disable [???]
 - P: A: Decom pentest server [???]
