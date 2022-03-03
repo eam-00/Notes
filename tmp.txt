@@ -137,7 +137,7 @@ MIE:
 - P: A: Decom pentest server [???]
 
 
-- CobroExpress: Pagar cosas heladera | Chk pago de los Telecoms
+- CobroExpress: Chk pago de los Telecoms
 - Imprenta de Avda. Santa Fe: imprimir 2 de 350 pags doble faz B&W anillados -> PDF
 
 
