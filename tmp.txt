@@ -106,7 +106,7 @@ Spotify:
 
 
 
-MIE:
+JUE:
 ---
 - GNOME themes
 - Wolf Like Me
