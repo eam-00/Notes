@@ -146,7 +146,6 @@ JUE:
 
 
 - CobroExpress: Chk pago de los Telecoms
-- Imprenta de Avda. Santa Fe: imprimir 2 de 350 pags doble faz B&W anillados -> PDF
 
 
 - Carre: Aguarras [???]
