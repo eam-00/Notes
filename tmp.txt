@@ -45,7 +45,7 @@ Test: Audio [Out & mic] | Suspend [remove USB] Un-Suspend | Boot from different 
 MIE:
 ---
 
-- M: get Jubi card | Chk WhatsApp cellphone
+- M: get Jubi card | 
 - TRRTs: West Side Story | Belfast
 - Raise limit Jubi card
 
