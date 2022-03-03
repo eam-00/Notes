@@ -49,6 +49,10 @@ JUE:
 - TRRTs: West Side Story
 - Raise limit Jubi card
 
+- P: A: SEP Manager [???]
+- P: A: Push FE & CB disable [???]
+- P: A: Decom pentest server [???]
+
 - C: Setup Deliverables
 - C: Email confirmation AWS [??]
 - P: Decom: Chk Tasks [!!!!]
@@ -62,9 +66,6 @@ JUE:
 - P: SEP status versions | SEP @AWS
 
 
-- P: A: SEP Manager [???]
-- P: A: Push FE & CB disable [???]
-- P: A: Decom pentest server [???]
 
 
 
