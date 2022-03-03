@@ -46,7 +46,7 @@ MIE:
 ---
 
 
-- TRRTs: West Side Story | Belfast
+- TRRTs: West Side Story
 - Raise limit Jubi card
 
 - 20 GNOME Extensions To Perfectly Balance GNOME 40
