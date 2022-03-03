@@ -50,6 +50,7 @@ JUE:
 - Raise limit Jubi card
 
 - P: Decom: Chk Tasks [!!!!]
+- P: HDD Space @Solaris -> Email
 - P: A: SEP Manager [???]
 - P: A: Push FE & CB disable [???]
 - P: A: Decom pentest server [???]
@@ -62,7 +63,7 @@ JUE:
 - P: Follow up John - Install NetWorker
 - P: Delete Solaris patchset @dev04
 
-- P: HDD Space @Solaris
+
 - P: SEP call | Setup
 - P: SEP status versions | SEP @AWS
 
