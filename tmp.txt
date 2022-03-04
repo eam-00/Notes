@@ -140,6 +140,7 @@ VIE:
 LUN:
 ---
 - P: PDF Symantec
+- P: SEPM -> Check new hosts
 - P: D: Upgrade SEP [???]
 
 
