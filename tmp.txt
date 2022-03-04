@@ -44,11 +44,8 @@ Test: Audio [Out & mic] | Suspend [remove USB] Un-Suspend | Boot from different 
 
 VIE:
 ---
-
 - M: Belfast -> USB
-
-
-- Raise limit Jubi card
+- Raise limit Jubi card [?????]
 
 - P: Decom: Chk Tasks [!!!!]
 - P: HDD Space @Solaris -> Email
