@@ -138,6 +138,7 @@ VIE:
 LUN:
 ---
 - P: PDF Symantec
+- P: HDD Space @Solaris -> Email
 - P: SEPM -> Check new hosts
 - P: D: Upgrade SEP [???]
 
