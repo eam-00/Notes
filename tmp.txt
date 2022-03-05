@@ -1,6 +1,5 @@
 Llevar N:
 --------
-- Interruptor de luz [???]
 - Tupper
 - Mochila
 
