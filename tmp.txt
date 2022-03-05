@@ -50,8 +50,7 @@ VIE:
 
 
 
-- P: A: SEP Manager [???]
-- P: A: Decom pentest server [???]
+
 
 - C: Setup Deliverables
 - C: Email confirmation AWS [??]
