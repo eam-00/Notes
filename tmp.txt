@@ -139,7 +139,7 @@ LUN:
 - P: PDF Symantec
 - P: Decom: Chk Tasks [!!!!]
 - P: HDD Space @Solaris -> Email
-- P: SEPM -> Check new hosts
+- P: (ENT) SEPM -> Check new hosts
 - P: D: Upgrade SEP [???]
 - P: A: SEP Manager [???]
 - P: A: Decom pentest server [???]
