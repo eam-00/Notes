@@ -129,7 +129,6 @@ Spotify:
 VIE:
 ---
 - GNOME themes
-- Wolf Like Me
 - T60p: Test Firefox -> Spotify | Firefox: User Agent -> Spotify
 - Keen: Arreglar Sandalias & Zapatillas
 
