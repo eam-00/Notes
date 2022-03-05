@@ -51,7 +51,6 @@ VIE:
 - P: HDD Space @Solaris -> Email
 
 - P: A: SEP Manager [???]
-- P: A: Push FE & CB disable [???]
 - P: A: Decom pentest server [???]
 
 - C: Setup Deliverables
