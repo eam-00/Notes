@@ -53,7 +53,7 @@ VIE:
 
 
 - C: Setup Deliverables
-- C: Email confirmation AWS [??]
+
 
 
 
