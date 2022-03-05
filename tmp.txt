@@ -48,7 +48,7 @@ VIE:
 - Raise limit Jubi card [?????]
 
 - P: Decom: Chk Tasks [!!!!]
-- P: HDD Space @Solaris -> Email
+
 
 - P: A: SEP Manager [???]
 - P: A: Decom pentest server [???]
