@@ -141,6 +141,8 @@ LUN:
 - P: HDD Space @Solaris -> Email
 - P: SEPM -> Check new hosts
 - P: D: Upgrade SEP [???]
+- P: A: SEP Manager [???]
+- P: A: Decom pentest server [???]
 
 
 
