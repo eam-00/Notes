@@ -144,7 +144,7 @@ LUN:
 
 
 
-- CobroExpress: Chk pago de los Telecoms
+- CobroExpress: Telecom casita
 
 
 - Carre: Aguarras [???]
