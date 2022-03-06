@@ -310,32 +310,6 @@ DSCN0163.JPG
 Interview:
 270
 ---------
-271
-- Nacionalidad
-272
-- Experiencias
-273
-- Cloud - [AWS]
-274
-- Scripting
-275
-- SSH exercise
-276
-- Troubleshooting - [Wireshark], [TCP Dump]
-277
-- Disaster recovery
-278
-- NFS
-279
-- Working on nested environments - [Citrix]
-280
-- Ingles
-281
-- Guardias
-282
-- Return To The Office
-283
-
 
 https://support.zoom.us/hc/en-us/articles/360027397692-Desktop-client-mobile-app-and-web-client-comparison
 https://it.umn.edu/services-technologies/how-tos/zoom-pre-webinar-checklist-hosts
