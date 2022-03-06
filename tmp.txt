@@ -128,6 +128,8 @@ VIE:
 - T60p: Test Firefox -> Spotify | Firefox: User Agent -> Spotify
 - Keen: Arreglar Sandalias & Zapatillas
 
+DOM:
+----
 
 
 
@@ -227,7 +229,113 @@ Family Bike - Peña 2302 (entre Larrea y Azcuenaga) - 011 2255-8926
 @X60: Test VGA | Limpiarla a fondo | swap HDD, test Win10
 
 Toro: Check probs envio de emails
-Github: Dload all repositories
+Github: Dload all repositoriesGithub: Dload all repositories
+231
+​
+232
+https://support.zoom.us/hc/en-us/articles/360027397692-Desktop-client-mobile-app-and-web-client-comparison
+233
+https://it.umn.edu/services-technologies/how-tos/zoom-pre-webinar-checklist-hosts
+234
+https://support.zoom.us/hc/en-us/articles/360000252726-Roles-in-a-Webinar
+235
+https://www.vidyard.com/blog/zoom-webinar-guide/
+236
+https://zapier.com/apps/cisco-webex-meetings/integrations/mailchimp
+237
+​
+238
+T8:
+239
+T10:
+240
+N10: 27 cm | 18 cm
+241
+KBD: 24 cm | 13 cm
+242
+​
+243
+Romeo Mayday  DASH Romeo Foxtrot
+244
+Romeo Mayday Delta Alpha Sierra Hospital Romeo Foxtrot Sierra Lima Alpha Sierra Hospital ENTER
+245
+​
+246
+MBP
+247
+X220 Large
+248
+X220 Small
+249
+X140E
+250
+X220i
+251
+X60
+252
+​
+253
+T430
+254
+T4102
+255
+W530
+256
+​
+257
+r/LiminalSpace:
+258
+--------------
+259
+DSCN0228.JPG
+260
+DSCN0304.JPG
+261
+DSCN0290.JPG
+262
+DSCN0229.JPG
+263
+DSCN0224.JPG
+264
+DSCN0167.JPG
+265
+DSCN0131.JPG
+266
+DSCN0135.JPG
+267
+DSCN0163.JPG
+268
+​
+269
+Interview:
+270
+---------
+271
+- Nacionalidad
+272
+- Experiencias
+273
+- Cloud - [AWS]
+274
+- Scripting
+275
+- SSH exercise
+276
+- Troubleshooting - [Wireshark], [TCP Dump]
+277
+- Disaster recovery
+278
+- NFS
+279
+- Working on nested environments - [Citrix]
+280
+- Ingles
+281
+- Guardias
+282
+- Return To The Office
+283
+
 
 https://support.zoom.us/hc/en-us/articles/360027397692-Desktop-client-mobile-app-and-web-client-comparison
 https://it.umn.edu/services-technologies/how-tos/zoom-pre-webinar-checklist-hosts
