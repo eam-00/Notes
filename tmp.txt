@@ -130,6 +130,7 @@ VIE:
 
 DOM:
 ----
+- Check mochila TNF
 
 
 
