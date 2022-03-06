@@ -2,7 +2,7 @@ Llevar N:
 --------
 - Tupper
 - Mochila
-- Raincoat
+- Raincoat [???]
 
 Eagle Technology - https://www.eagletechnology.com.ar
 Nueva York 3306 - +5411 5236 0160
@@ -59,7 +59,7 @@ Test: Audio [Out & mic] | Suspend [remove USB] Un-Suspend | Boot from different 
 
 
 - P: SEP call | Setup
-- P: SEP status versions | SEP @AWS
+
 
 
 
