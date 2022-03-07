@@ -69,6 +69,11 @@ Test: Audio [Out & mic] | Suspend [remove USB] Un-Suspend | Boot from different 
 - 20 GNOME Extensions To Perfectly Balance GNOME 40
 https://fosspost.org/20-gnome-extensions-gnome-40/
 
+- How to upgrade Linux Mint 18 Sylvia to Linux Mint 19 Tara?
+https://ubunlog.com/en/como-actualizar-linux-mint-18-sylvia-a-linux-mint-19-tara/
+
+- How to Upgrade to Linux Mint 20 [Step by Step Tutorial]
+https://itsfoss.com/upgrade-linux-mint-version/
 
 
 
