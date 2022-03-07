@@ -1,6 +1,6 @@
 Llevar N:
 --------
-- Tupper
+
 - Mochila
 - Ojotas
 - Raincoat [???]
