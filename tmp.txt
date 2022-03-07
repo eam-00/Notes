@@ -156,7 +156,7 @@ LUN:
 
 - CobroExpress: Telecom casita
 - ATM Bco. Nacion
-
+- Cosas lavanderia
 - Carre: Pan | Aguarras [???]
 
 
