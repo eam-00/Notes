@@ -56,7 +56,7 @@ Test: Audio [Out & mic] | Suspend [remove USB] Un-Suspend | Boot from different 
 
 
 
-- P: SEP call | Setup
+
 
 
 
