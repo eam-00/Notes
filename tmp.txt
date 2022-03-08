@@ -139,9 +139,10 @@ VIE:
 MAR:
 ---
 - P: PDF Symantec
+
 - P: Decom: Chk Tasks [!!!!] -> LDAP who [???]
 - P: HDD Space @Solaris -> Email
-
+- P: D: Setup CHGs
 - P: D: Upgrade SEP [???]
 - P: A: SEP install which [????]
 - P: A: SEP Manager [???]
