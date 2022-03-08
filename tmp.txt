@@ -143,6 +143,7 @@ MAR:
 - P: HDD Space @Solaris -> Email
 
 - P: D: Upgrade SEP [???]
+- P: A: SEP install which [????]
 - P: A: SEP Manager [???]
 - P: A: Decom pentest server [???]
 
