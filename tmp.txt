@@ -140,7 +140,7 @@ MAR:
 ---
 - P: PDF Symantec
 
-- P: Decom: Chk Tasks [!!!!] -> LDAP who [???]
+
 - P: Start decomm piece of shit
 - P: HDD Space @Solaris -> Email
 - P: D: Setup CHGs
