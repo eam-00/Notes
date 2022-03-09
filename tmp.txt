@@ -144,7 +144,7 @@ MIE:
 
 - C: Setup Deliverables
 
-
+- Expensas
 - M: Tierra
 - CobroExpress: Telecom casita
 - ATM Bco. Nacion
