@@ -139,11 +139,11 @@ VIE:
 MIE:
 ---
 - P: PDF Symantec
-
+- P: D: Setup CHGs Patching & Reboot
 
 - P: Start decomm piece of shit
 - P: HDD Space @Solaris -> Email
-- P: D: Setup CHGs Patching & Reboot
+
 - P: D: Upgrade SEP [???]
 
 - P: A: SEP Manager [???]
