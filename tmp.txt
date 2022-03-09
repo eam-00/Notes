@@ -149,7 +149,7 @@ MIE:
 - CobroExpress: Telecom casita
 - ATM Bco. Nacion
 
-- Carre:  Queso PortSalut | Bolsitas | Pan | Fruta | Aguarras [???]
+- Carre:   Bolsitas | Pan | Fruta | Aguarras [???]
 
 
 - La Ardilla - Check store hours
@@ -225,7 +225,7 @@ Blue Thunder:
 Family Bike - Peña 2302 (entre Larrea y Azcuenaga) - 011 2255-8926
 
 @x201t: Bluetooth off
-@X60: Test VGA | Limpiarla a fondo | swap HDD, test Win10
+@X60: Test VGA | Limpian | arla a fondo | swap HDD, test Win10
 
 Toro: Check probs envio de emails
 Github: Dload all repositories
