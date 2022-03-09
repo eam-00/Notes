@@ -149,7 +149,7 @@ MIE:
 - CobroExpress: Telecom casita
 - ATM Bco. Nacion
 
-- Carre: Pan | Queso PortSalut | Bolsitas | Pan | Aguarras [???]
+- Carre: Pan | Queso PortSalut | Bolsitas | Pan | Fruta | Aguarras [???]
 
 
 - La Ardilla - Check store hours
