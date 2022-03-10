@@ -144,7 +144,7 @@ JUE:
 - P: A: SEP Manager [???]
 - P: A: Decom pentest server [???]
 
-- Chk Vallone
+
 - Bco. Nacion: PF
 - C: Setup Deliverables
 
