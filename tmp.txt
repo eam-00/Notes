@@ -149,7 +149,7 @@ MIE:
 - CobroExpress: Telecom casita
 - ATM Bco. Nacion
 
-- Carre:    Fruta | Aguarras [???]
+- Carre: Aguarras [???]
 
 
 - La Ardilla - Check store hours
