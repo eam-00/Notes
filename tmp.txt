@@ -133,6 +133,7 @@ VIE:
 
 VIE:
 ---
+- C: TS
 - P: PDF Symantec
 - P: D: Setup CHGs Patching & Reboot
 - P: A: Get info SEP -> 
