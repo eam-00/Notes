@@ -147,7 +147,7 @@ VIE:
 
 
 
-- Bco. Nacion: PF
+
 - C: Setup Deliverables
 - P: TS
 
