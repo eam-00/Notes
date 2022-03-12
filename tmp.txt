@@ -144,7 +144,7 @@ VIE:
 - P: A: SEP Manager [???]
 - P: A: Decom pentest server [???]
 
-- Kindles
+
 - Nikon
 - Chk Bcos
 - Bco. Nacion: PF
