@@ -132,9 +132,9 @@ VIE:
 
 VIE:
 ---
-
+- P: D: Chk CHGs approved today
 - P: PDF Symantec
-- P: D: CHhk CHGs approved
+
 - P: A: Get info SEP -> 
 - P: Start decomm piece of shit
 - P: HDD Space @Solaris -> Email
