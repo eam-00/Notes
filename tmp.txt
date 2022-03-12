@@ -145,7 +145,7 @@ VIE:
 - P: A: Decom pentest server [???]
 
 
-- Nikon
+
 - Chk Bcos
 - Bco. Nacion: PF
 - C: Setup Deliverables
