@@ -149,7 +149,7 @@ VIE:
 
 
 - C: Setup Deliverables
-- P: TS
+
 
 
 - CobroExpress: Telecom casita
