@@ -129,6 +129,7 @@ VIE:
 
 DOM:
 ---
+- Interruptor luz cocina
 - Get: Pizza, Libro de Reverte, Turrones
 - TRRTs
 
