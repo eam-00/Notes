@@ -129,7 +129,7 @@ VIE:
 
 DOM:
 ---
-- Interruptor luz cocina
+
 - Cortar maderas
 - Get: Pizza, Libro de Reverte, Turrones
 - TRRTs
