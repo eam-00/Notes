@@ -136,7 +136,7 @@ VIE:
 
 LUN:
 ---
-- Merlin Int: Call [???] -> Slack
+
 - P: D: Chk CHGs approved today
 - P: Change date CHG SEP
 - P: PDF Symantec
