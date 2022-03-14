@@ -130,7 +130,7 @@ VIE:
 DOM:
 ---
 
-- Cortar maderas
+
 
 
 
