@@ -131,7 +131,7 @@ DOM:
 ---
 
 - Cortar maderas
-- Get: Pizza, Libro de Reverte, Turrones
+
 - TRRTs
 
 
