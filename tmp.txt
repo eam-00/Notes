@@ -138,7 +138,7 @@ MAR:
 ---
 - P: A: Bilk -> Status [????]
 - P: A: SEP status [????] 
-- P: SEP friendly reminder install
+
 - P: Reminder holiday March 24th
 
 - P: PDF Symantec
