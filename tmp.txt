@@ -138,12 +138,8 @@ MIE:
 ---
 - P: A: Bilk -> Status [????]
 - P: A: SEP status [????] 
-
 - P: Reminder holiday March 24th
-
 - P: PDF Symantec
-
-
 - P: Start decomms pieces of shit
 - P: HDD Space @Solaris -> Email
 
