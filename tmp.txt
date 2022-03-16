@@ -138,7 +138,7 @@ MIE:
 - P: Reminder holiday March 24th
 - P: PDF Symantec
 - P: Start decomms pieces of shit
-- P: HDD Space @Solaris -> Email
+- P: HDD Space @Solaris -> Email -> SAVE
 
 - P: D: Upgrade SEP [???]
 
