@@ -146,7 +146,8 @@ MIE:
 - P: A: Decom pentest server [???]
 - P: accnt # un-rack
 
-
+- N: Vea: TC
+- Pinto: Depo
 
 
 - C: GDS contact
