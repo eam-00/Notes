@@ -144,7 +144,7 @@ MIE:
 - P: PDF Symantec
 
 
-- P: Start decomm piece of shit
+- P: Start decomms pieces of shit
 - P: HDD Space @Solaris -> Email
 
 - P: D: Upgrade SEP [???]
@@ -156,8 +156,6 @@ MIE:
 
 
 
-MAR:
----
 - C: GDS contact
 - C: Setup Deliverables
 
