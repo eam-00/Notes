@@ -96,8 +96,7 @@ Spotify:
 
 
 
-VIE:
----
+
 - GNOME themes
 - T60p: Test Firefox -> Spotify | Firefox: User Agent -> Spotify
 - Keen: Arreglar Sandalias & Zapatillas
@@ -108,7 +107,7 @@ VIE:
 
 
 
-JUE:
+VIE:
 ---
 
 
