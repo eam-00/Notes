@@ -150,7 +150,7 @@ MIE:
 - P: Follow up John - Install NetWorker
 
 
-- N: Vea: TC
+
 - Pinto: Depo
 - CobroExpress: Telecom casita
 
