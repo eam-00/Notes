@@ -140,7 +140,6 @@ JUE:
 - P: PDF Symantec
 - P: Start decomms pieces of shit
 - P: D: Upgrade SEP [???]
-
 - P: A: SEP Manager [???]
 - P: A: Install ID -> hosts
 - P: A: Decom pentest server [???]
