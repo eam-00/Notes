@@ -137,7 +137,7 @@ VIE:
 
 
 
-- Carre: PortSalut | 
+- Carre: PortSalut | Fruta
 
 
 - La Ardilla - Check store hours
