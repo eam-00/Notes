@@ -111,7 +111,7 @@ VIE:
 JUE:
 ---
 
-- P: Reminder holiday March 24th
+
 
 - P: A: Bilk -> Status [????]
 - P: A: SEP status [????] 
