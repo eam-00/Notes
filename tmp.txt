@@ -123,7 +123,7 @@ VIE:
 - P: A: Decom pentest server [???]
 - P: Follow up John - Install NetWorker
 - P: TS
-
+- Chk Bcos
 
 
 - CobroExpress: Telecom casita
