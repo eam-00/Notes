@@ -134,12 +134,13 @@ VIE:
 JUE:
 ---
 - P: Reminder holiday March 24th
+- P: HDD Space @Solaris -> Email -> SAVE
 - P: A: Bilk -> Status [????]
 - P: A: SEP status [????] 
 
 - P: PDF Symantec
 - P: Start decomms pieces of shit
-- P: HDD Space @Solaris -> Email -> SAVE
+
 
 - P: D: Upgrade SEP [???]
 
