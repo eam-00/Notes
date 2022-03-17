@@ -200,7 +200,9 @@ Darker Than Amber: chk UW
 
 Tomar medidas p/ base de Happy Hacking on top of cogni.00
 
-Pago en ML: CobroExpress -> en ML seleccionar RapiPago
+CobroExpress:
+-------------
+En ML seleccionar "RapiPago".
 
 
 
