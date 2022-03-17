@@ -151,7 +151,7 @@ MIE:
 
 
 
-- Pinto: Depo
+
 - CobroExpress: Telecom casita
 
 
