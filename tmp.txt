@@ -149,7 +149,7 @@ MIE:
 - P: accnt # un-rack
 - P: Follow up John - Install NetWorker
 
-- Ale
+
 - N: Vea: TC
 - Pinto: Depo
 - CobroExpress: Telecom casita
