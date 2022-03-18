@@ -124,6 +124,7 @@ VIE:
 - P: Follow up John - Install NetWorker
 - P: TS
 - Chk Bcos
+- W530 | 
 
 
 - CobroExpress: Telecom casita
