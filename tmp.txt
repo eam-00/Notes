@@ -128,7 +128,7 @@ LUN:
 
 
 - C: GDS contact
-- C: Setup Deliverables
+- C: Setup Deliverables, Goals & Training
 
 
 
