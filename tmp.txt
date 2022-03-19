@@ -120,7 +120,7 @@ LUN:
 - P: A: Decom pentest server [???]
 - P: Follow up John - Install NetWorker
 
-- Chk Bcos
+
 
 
 
