@@ -111,9 +111,6 @@ Spotify:
 LUN:
 ---
 - P: HDD Log Server
-
-
-
 - P: A: SEP status [????] 
 - P: PDF Symantec
 - P: Start decomms pieces of shit
