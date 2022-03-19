@@ -3,7 +3,7 @@ Llevar N:
 
 
 
-- Papel tarjeta de credito
+
 
 
 - test cursors @Chromebook
