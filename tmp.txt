@@ -4,7 +4,7 @@ Llevar N:
 - Tupper
 - Suplemento rash
 - Papel tarjeta de credito
-- Whisky
+
 
 - test cursors @Chromebook
 - Backups HP
