@@ -6,6 +6,7 @@ Llevar N:
 - Papel tarjeta de credito
 - Whisky
 
+- test cursors @Chromebook
 - 100 gr jamon
 - 100 gr queso
 - Pepsi
