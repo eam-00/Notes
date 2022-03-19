@@ -112,7 +112,8 @@ LUN:
 ---
 - P: HDD Log Server
 - P: A: Decom pentest server [???]
-- P: A: SEP status [????] 
+- P: A: SEP status [????]
+- P: A / E: SEP Repo no matter what
 - P: PDF Symantec
 - P: Start decomms pieces of shit
 - P: D: Upgrade SEP [???]
