@@ -121,7 +121,7 @@ LUN:
 - P: Follow up John - Install NetWorker
 
 - Chk Bcos
-- W530 | 
+
 
 
 - CobroExpress: Telecom casita
