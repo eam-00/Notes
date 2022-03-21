@@ -124,7 +124,7 @@ LUN:
 
 
 - N: Publish maq. coser
-- M: Cosas para lavanderia
+
 - CobroExpress: Telecom casita
 
 - P: Change Psswd
