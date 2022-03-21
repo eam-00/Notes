@@ -61,6 +61,7 @@ https://itsfoss.com/upgrade-linux-mint-version/
 
 Spotify:
 -------
+- The Andromeda Strain
 - Morvern Callar OST
 - Watchmen OST
 - Risky Business
