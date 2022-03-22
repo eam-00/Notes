@@ -120,13 +120,13 @@ MAR:
 - P: D: Upgrade SEP [???]
 - P: A: SEP Manager [???]
 - P: A: Install ID -> hosts
-
 - P: Follow up John - Install NetWorker
 
 
 
 - N: Publish maq. coser
 
+- N: Lapiceras
 - CobroExpress: Telecom casita
 
 
