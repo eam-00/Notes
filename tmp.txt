@@ -124,7 +124,7 @@ MAR:
 
 
 
-- N: Publish maq. coser
+
 
 - CobroExpress: Chk Telecom casita
 - N: Lapiceras
