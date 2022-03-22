@@ -126,7 +126,7 @@ MAR:
 
 
 
-- CobroExpress: Chk Telecom casita
+
 - N: Lapiceras
 
 
