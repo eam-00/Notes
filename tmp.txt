@@ -127,7 +127,6 @@ MAR:
 
 
 
-- N: Lapiceras
 
 
 
@@ -138,7 +137,8 @@ MAR:
 
 
 
-- Carre: PortSalut | Fruta | Bolsitas (bocha) | Queso Cremoso p/ N | Leches
+
+- Carre: PortSalut | Fruta | Bolsitas (bocha) | Queso Cremoso p/ N | Leches | N: Lapiceras
 
 
 - La Ardilla - Check store hours
