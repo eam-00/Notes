@@ -153,7 +153,7 @@ MAR:
 
 - Ferreteria: Pilas Recargables AAA
 
-- Link Internet Options [????]
+
 - Link Cellphone brightness
 
 
