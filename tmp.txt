@@ -131,8 +131,8 @@ MAR:
 
 
 
-- C: GDS contact
-- C: Setup Deliverables, Goals & Training
+
+- CobroExpress: Telecom casita
 
 
 
