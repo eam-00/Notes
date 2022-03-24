@@ -108,7 +108,9 @@ Spotify:
 - Keen: Arreglar Sandalias & Zapatillas
 
 
-
+JUE:
+---
+- X140E: Setup
 
 
 
