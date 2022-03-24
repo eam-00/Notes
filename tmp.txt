@@ -102,14 +102,14 @@ Spotify:
 
 
 
-- Keen: Arreglar Sandalias & Zapatillas
+
 
 
 JUE:
 ---
 - X140E: Setup
 - T60p: Test Firefox -> Spotify | Firefox: User Agent -> Spotify
-
+- Keen: Arreglar Sandalias & Zapatillas
 
 
 
