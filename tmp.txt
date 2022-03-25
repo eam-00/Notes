@@ -116,7 +116,7 @@ JUE:
 
 LUN:
 ---
-
+- P: A: Setup CHGs ID
 - P: HDD Log Server
 - P: A: Decom pentest server [???]
 - P: A: SEP status [????]
