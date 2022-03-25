@@ -114,7 +114,7 @@ JUE:
 
 
 
-VIE:
+LUN:
 ---
 
 - P: HDD Log Server
