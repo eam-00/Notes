@@ -127,7 +127,7 @@ VIE:
 - P: A: SEP Manager [???]
 - P: A: Install ID -> hosts
 - P: Follow up John - Install NetWorker
-- Chk Bcos
+
 
 - Carre: PortSalut | Fruta | Bolsitas (bocha) | Queso Cremoso p/ N |
 
