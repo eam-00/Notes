@@ -133,7 +133,7 @@ LUN:
 - P: Follow up John - Install NetWorker
 
 
-- Carre:
+- Carre: Mermelada | 
 
 
 - La Ardilla - Check store hours
