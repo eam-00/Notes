@@ -127,7 +127,7 @@ LUN:
 - P: Follow up John - Install NetWorker
 
 
-- Carre: PortSalut |
+- Carre:
 
 
 - La Ardilla - Check store hours
