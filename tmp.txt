@@ -108,7 +108,7 @@ Spotify:
 
 
 
-LUN:
+MAR:
 ---
 - P: A: Setup CHGs ID
 - P: HDD Log Server
