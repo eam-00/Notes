@@ -128,11 +128,10 @@ LUN:
 - P: PDF Symantec
 - P: Start decomms pieces of shit
 - P: D: Upgrade SEP [???]
-
 - P: A: Install ID -> hosts
 - P: Follow up John - Install NetWorker
 
-
+- Chk Bco
 - Carre: Mermelada | Minerva chico | 
 
 
