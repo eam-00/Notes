@@ -110,7 +110,7 @@ Spotify:
 
 MAR:
 ---
-- P: A: Setup CHGs ID
+- P: A: Setup CHGs ID install
 - P: HDD Log Server
 - P: A: Decom pentest server [???]
 - P: A: SEP status [????]
