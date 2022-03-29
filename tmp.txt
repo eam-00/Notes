@@ -3,7 +3,6 @@ Llevar N:
 
 SAB:
 ---
-
 - Test cursors @Chromebook (https://custom-cursor.com)
 - Lappie HP: Backups
 
