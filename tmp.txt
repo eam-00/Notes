@@ -110,7 +110,7 @@ Spotify:
 
 
 
-MIE:
+JUE:
 ---
 - P: A: Setup CHGs ID install
 - P: HDD Log Server
