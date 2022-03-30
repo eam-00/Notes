@@ -123,6 +123,7 @@ JUE:
 - P: Follow up John - Install NetWorker
 
 - CobroExpress: Movistar
+- Chk Havanna
 - ATM
 - ATM
 
