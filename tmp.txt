@@ -130,7 +130,7 @@ JUE:
 - ATM
 
 
-- Carre:
+- Carre: Pan |
 
 
 - La Ardilla - Check store hours
