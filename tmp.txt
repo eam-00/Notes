@@ -129,7 +129,7 @@ VIE:
 - Diego: Fumigacion [??]
 - Xerobase
 - ATM
-- T410
+
 - X140e [?]
 
 - Carre: Pan | Azucar [???]
