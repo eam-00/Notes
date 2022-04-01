@@ -113,7 +113,7 @@ Spotify:
 VIE:
 ---
 
-- P: A: Test conex EDI
+
 - P: A: Setup CHGs ID install
 - P: HDD Log Server
 - P: A: Decom pentest server [???]
