@@ -109,7 +109,7 @@ Spotify:
 
 
 
-JUE:
+VIE:
 ---
 - P: A: Test conex EDI
 - P: A: Setup CHGs ID install
