@@ -124,7 +124,7 @@ VIE:
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 
-- P: TS
+
 
 - Diego: Fumigacion [??]
 - Xerobase
