@@ -120,7 +120,6 @@ LUN:
 - P: SEP Repository Note
 - P: A / E: SEP Repo no matter what
 - P: PDF Symantec
-
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 - Llamar Muriano
@@ -132,7 +131,7 @@ LUN:
 
 
 
-- Carre: Pan | Azucar [???]
+- Carre: Pan | Azucar | Queso Cremoso [???]
 
 
 
