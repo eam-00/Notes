@@ -11,6 +11,8 @@ SAB:
 - Lappie HP: Backups
 
 100 gr J
+100 gr Q
+
 
 - USB
 - TDA
