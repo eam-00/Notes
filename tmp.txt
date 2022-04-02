@@ -112,7 +112,7 @@ Spotify:
 
 LUN:
 ---
-
+- P: A: SEP -> RHEL 7
 - P: Push decoms
 - P: A: Setup CHGs ID install -> EDI
 - P: HDD Log Server
