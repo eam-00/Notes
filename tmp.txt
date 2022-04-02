@@ -10,6 +10,8 @@ SAB:
 - Test cursors @Chromebook (https://custom-cursor.com)
 - Lappie HP: Backups
 
+100 gr J
+
 - USB
 - TDA
 - Ethernet
