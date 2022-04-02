@@ -113,7 +113,7 @@ Spotify:
 LUN:
 ---
 
-
+- P: Push decoms
 - P: A: Setup CHGs ID install -> EDI
 - P: HDD Log Server
 - P: A: Decom pentest server [???]
