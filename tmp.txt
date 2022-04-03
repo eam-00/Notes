@@ -16,7 +16,7 @@ Salchicha
 1 pollo trozado en 4
 
 
-- TDA
+
 - Ethernet
 
 DOM:
