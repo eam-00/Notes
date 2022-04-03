@@ -15,7 +15,7 @@ SAB:
 Salchicha
 1 pollo trozado en 4
 
-- USB
+
 - TDA
 - Ethernet
 
