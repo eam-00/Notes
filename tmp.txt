@@ -21,6 +21,7 @@ Salchicha
 
 DOM:
 ---
+- Get pizza
 - Descongelar pan
 
 
