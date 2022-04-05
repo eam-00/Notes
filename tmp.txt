@@ -113,7 +113,7 @@ MIE:
 - P: Push Court SEP thing
 - P: A: SEP -> RHEL 7
 - P: Push decoms
-- P: A: Setup CHGs ID install -> EDI
+
 - P: HDD Log Server
 - P: A: Decom pentest server [???]
 - P: SEP Repository Note
