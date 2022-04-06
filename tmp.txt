@@ -107,7 +107,7 @@ Spotify:
 
 
 
-MIE:
+JUE:
 ---
 - P: Push Court SEP thing
 - P: A: SEP -> RHEL 7
