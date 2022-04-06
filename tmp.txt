@@ -118,7 +118,8 @@ JUE:
 - P: A / E: SEP Repo no matter what
 - P: PDF Symantec
 - P: D: Upgrade SEP [???]
-- P: Follow up John - Install NetWorker
+- P: Follow up John - Install NetWorke
+- Limpiar casita
 - Llamar Muriano
 - ATM
 
