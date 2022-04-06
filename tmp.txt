@@ -112,7 +112,6 @@ MIE:
 - P: Push Court SEP thing
 - P: A: SEP -> RHEL 7
 - P: Push decoms
-
 - P: HDD Log Server
 - P: A: Decom pentest server [???]
 - P: SEP Repository Note
@@ -121,7 +120,7 @@ MIE:
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 - Llamar Muriano
-- ATM (x2)
+- ATM
 
 
 
