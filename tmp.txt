@@ -112,6 +112,7 @@ VIE:
 ---
 - C: TS
 - P: D: Setup CHGs
+- P: A: chg passwd
 - P: Push decoms
 - P: HDD Log Server
 - P: A: Decom pentest server [???]
