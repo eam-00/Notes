@@ -110,8 +110,6 @@ Spotify:
 
 JUE:
 ---
-
-
 - P: Push decoms
 - P: HDD Log Server
 - P: A: Decom pentest server [???]
