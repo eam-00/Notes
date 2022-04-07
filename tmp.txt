@@ -111,7 +111,7 @@ Spotify:
 JUE:
 ---
 
-- P: A: SEP -> RHEL 7
+
 - P: Push decoms
 - P: HDD Log Server
 - P: A: Decom pentest server [???]
