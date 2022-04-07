@@ -108,7 +108,7 @@ Spotify:
 
 
 
-JUE:
+VIE:
 ---
 - P: Push decoms
 - P: HDD Log Server
