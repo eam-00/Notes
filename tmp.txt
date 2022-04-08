@@ -12,6 +12,8 @@ Pintura:
 - Barniz
 - Aguarras
 
+- Sorrentinos
+
 - Test cursors @Chromebook (https://custom-cursor.com)
 - Lappie HP: Backups
 
