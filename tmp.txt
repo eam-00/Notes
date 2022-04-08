@@ -9,6 +9,9 @@ SAB:
 Pintura:
 - Roja mate
 - Dorada
+- Barniz
+- Aguarras
+
 - Test cursors @Chromebook (https://custom-cursor.com)
 - Lappie HP: Backups
 
