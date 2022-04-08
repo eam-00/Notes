@@ -12,6 +12,8 @@ Pintura:
 - Barniz
 - Aguarras
 
+-- Provoleta
+
 - Sorrentinos
 
 - Test cursors @Chromebook (https://custom-cursor.com)
