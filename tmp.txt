@@ -124,7 +124,7 @@ VIE:
 
 
 
-- ATM
+
 - GenMon: transfer files -> Manjaro
 
 
