@@ -119,7 +119,7 @@ Spotify:
 LUN:
 ---
 - P: Ver Feriados [!!!!]
-- P: D: Setup CHGs
+
 - P: Push decoms
 - P: HDD Log Server
 - P: A: Decom pentest server [???]
