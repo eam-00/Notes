@@ -5,7 +5,7 @@ SAB:
 ---
 Pintura:
 
-- Dorada
+
 - Barniz
 - Aguarras
 
