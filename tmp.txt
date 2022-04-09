@@ -139,7 +139,7 @@ LUN:
 
 
 
-- GenMon: transfer files -> Manjaro
+
 
 
 - Carre:
