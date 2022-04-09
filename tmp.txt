@@ -4,7 +4,7 @@ Llevar N:
 SAB:
 ---
 Pintura:
-- Roja mate
+
 - Dorada
 - Barniz
 - Aguarras
