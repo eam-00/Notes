@@ -3,7 +3,7 @@ Llevar N:
 
 SAB:
 ---
-Pintura:
+
 
 
 - Barniz
