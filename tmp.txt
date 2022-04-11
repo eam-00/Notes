@@ -129,7 +129,7 @@ LUN:
 - P: Follow up John - Install NetWorke
 - M: PDF Bco
 
-- Cablevision: instalacion deco
+
 - Cablevision: chk telefonia
 - Kernel reboot oryx-01
 
