@@ -130,6 +130,7 @@ LUN:
 - M: PDF Bco
 
 - Cablevision: instalacion deco
+- Cablevision: chk telefonia
 - Kernel reboot oryx-01
 
 - Llamar Muriano
