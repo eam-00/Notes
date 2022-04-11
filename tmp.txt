@@ -129,6 +129,7 @@ LUN:
 - P: Follow up John - Install NetWorke
 - M: PDF Bco
 
+- Cablevision: instalacion deco
 - Kernel reboot oryx-01
 
 - Llamar Muriano
