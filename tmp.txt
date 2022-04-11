@@ -128,6 +128,7 @@ LUN:
 - P: Follow up John - Install NetWorke
 - M: PDF Bco
 
+- Kernel reboot oryx-01
 - Llamar Muriano
 - ATM
 
