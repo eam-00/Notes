@@ -130,7 +130,7 @@ LUN:
 - M: PDF Bco
 
 - Kernel reboot oryx-01
-- Fibertel: Chk precios
+
 - Llamar Muriano
 - ATM
 
