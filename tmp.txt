@@ -128,7 +128,7 @@ MAR:
 
 
 - Cablevision: chk telefonia
-- Kernel reboot oryx-01
+
 
 - Llamar Muriano
 - ATM
