@@ -1,5 +1,6 @@
 Llevar N:
 --------
+- Boleta pago de Tarjeta de credito.
 
 SAB:
 ---
