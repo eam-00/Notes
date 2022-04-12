@@ -128,7 +128,7 @@ MAR:
 
 
 - Cablevision: chk telefonia
-
+- Batts: X220i | 
 
 - Llamar Muriano
 - ATM
