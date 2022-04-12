@@ -134,7 +134,8 @@ MAR:
 - Imprimir
 - ATM
 - ATM
-- 
+- Pagar TC
+
 
 
 
