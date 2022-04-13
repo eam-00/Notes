@@ -133,7 +133,7 @@ MIE:
 - Batts: X220i | T4102
 
 - Llamar Muriano
-- Imprimir
+
 - ATM
 - ATM
 - Pagar TC
