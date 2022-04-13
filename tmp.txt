@@ -135,7 +135,7 @@ MIE:
 - Llamar Muriano
 
 
-- ATM
+-
 - Pagar TC
 
 
