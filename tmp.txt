@@ -116,7 +116,7 @@ Spotify:
 ---
 MIE:
 ---
-- P: Setup Hours L: 8 Gral ||  M: 2 A: | 6 Gral
+
 - P: A:  log4j
 - P: Push decoms
 - P: HDD Log Server
