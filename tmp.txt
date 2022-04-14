@@ -5,6 +5,7 @@ Llevar N:
 
 SAB:
 ---
+- Test HDMI
 - Cortar unas Michael
 - Test cursors @Chromebook (https://custom-cursor.com)
 - Lappie HP: Backups
