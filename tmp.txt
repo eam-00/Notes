@@ -118,7 +118,6 @@ Spotify:
 ---
 JUE:
 ---
-
 - P: A: log4j
 - P: D: INC Load
 - P: Push decoms
@@ -144,7 +143,7 @@ JUE:
 
 
 
-- Carre: Yogurt | Te en Hebras | Galles Lincoln |
+- Carre: Yogurt | Te en Hebras | 
 
 
 
