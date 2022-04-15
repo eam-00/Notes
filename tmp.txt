@@ -6,6 +6,7 @@ Llevar N:
 
 SAB:
 ---
+- Soporte para impresora sobre equalizador
 - Test HDMI
 - Cortar unas Michael
 - Test cursors @Chromebook (https://custom-cursor.com)
