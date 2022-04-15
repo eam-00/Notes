@@ -3,6 +3,7 @@ Llevar N:
 - Boleta pago de Tarjeta de credito.
 - Bolsitas
 - Refill alcohol
+- Alcohol en gel
 - Turron [???]
 
 SAB:
