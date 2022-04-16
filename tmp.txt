@@ -1,7 +1,7 @@
 Llevar N:
 --------
 
-- Bolsitas
+
 - Refill alcohol
 - Alcohol en gel
 - Leche
