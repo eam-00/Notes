@@ -173,7 +173,7 @@ LUN:
 - Add Netflix list Chapelle
 
 - Research chrome-cursor
-- X140e: Test HDMI TV
+
 
 
 
