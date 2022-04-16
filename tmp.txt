@@ -52,10 +52,6 @@ Test: Audio [mic] | Suspend [remove USB] Un-Suspend | Boot from different USB po
 - 20 GNOME Extensions To Perfectly Balance GNOME 40
 https://fosspost.org/20-gnome-extensions-gnome-40/
 
-
-
-
-
 - M: Chk Email probs iPhone | Chk MongoDev down [?????]
 
 -------
