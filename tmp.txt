@@ -170,7 +170,7 @@ LUN:
 - Spreadsheet Cell
 - Telecom: Chk Facturas
 - LLamar modista
-- Add Netflix list Chapelle
+
 
 - Research chrome-cursor
 
