@@ -1,7 +1,7 @@
 Llevar N:
 --------
 
-SAB:
+DOM:
 ---
 - Soporte para impresora sobre equalizador
 - Test HDMI
