@@ -1,13 +1,6 @@
 Llevar N:
 --------
 
-
-
-
-
-
-
-
 SAB:
 ---
 - Soporte para impresora sobre equalizador
