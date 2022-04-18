@@ -109,9 +109,6 @@ LUN:
 - P: PDF Symantec
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
-
-
-
 - Fibertel: chk telefonia | Install Flow [??]
 - Llamar Muriano
 - Llamar Mirus Tech
