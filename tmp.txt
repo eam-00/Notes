@@ -117,7 +117,7 @@ LUN:
 - Llamar Mirus Tech
 - Llamar Cavagna
 - Llamar cardiologo
-
+- Telecom: Chk Facturas
 
 
 
@@ -152,7 +152,7 @@ LUN:
 
 
 - Spreadsheet Cell
-- Telecom: Chk Facturas
+
 - LLamar modista
 
 
