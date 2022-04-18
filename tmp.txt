@@ -3,7 +3,7 @@ Llevar N:
 
 DOM:
 ---
-- Soporte para impresora sobre equalizador
+
 
 - Cortar unas Michael
 - Test cursors @Chromebook (https://custom-cursor.com)
