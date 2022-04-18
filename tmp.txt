@@ -80,7 +80,7 @@ Spotify:
 
 
 
-- Llamar Cavagna
+
 - Llamar cardiologo
 
 
@@ -118,7 +118,7 @@ LUN:
 
 - Llamar Muriano
 - Llamar Mirus Tech
-
+- Llamar Cavagna
 
 
 
