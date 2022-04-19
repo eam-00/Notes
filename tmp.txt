@@ -98,7 +98,7 @@ Spotify:
 ---
 MAR:
 ---
-- Pinto: Push C
+- Pinto: Depositar
 - P: A: log4j
 - P: Push decoms
 - P: HDD Log Server
