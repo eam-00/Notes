@@ -110,6 +110,7 @@ MIE:
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 - Pinto: Depositar
+- Carre: PortSalut | Bolsitas | 
 
 - Fibertel: chk telefonia | Install Flow [??]
 - Llamar Muriano
@@ -120,7 +121,7 @@ MIE:
 
 
 
-- Carre: PortSalut | Bolsitas | 
+
 
 
 
