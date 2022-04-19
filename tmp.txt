@@ -109,7 +109,7 @@ MIE:
 - P: PDF Symantec
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
-- Batts: X220 (Large) | T4102 | T430
+- Batts: X220 (Large) | T4102 
 
 - Fibertel: chk telefonia | Install Flow [??]
 - Llamar Muriano
