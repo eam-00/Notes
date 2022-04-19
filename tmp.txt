@@ -111,7 +111,7 @@ MIE:
 - P: Follow up John - Install NetWorker
 - Pinto: Depositar
 - Carre: PortSalut | Bolsitas | 
-
+- Ferreteria: Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??] 
 - Fibertel: chk telefonia | Install Flow [??]
 - Llamar Muriano
 - Llamar Mirus Tech
@@ -134,7 +134,7 @@ MIE:
 
 
 
-- Ferreteria: Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??] 
+
 - Link Cellphone brightness
 
 
