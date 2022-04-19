@@ -37,8 +37,7 @@ https://www.reddit.com/r/Mercadoreddit/comments/lgcl4n/vendo_rebajado_notebook_r
 Diego Samuel Bejarano - 11 3698 6668 - M65 Woodland (Medium Short)
 Arreglo persiana: Juan - 15 6803 8442
 
-- 11e:
-Test: Audio [mic] | Suspend [remove USB] Un-Suspend | Boot from different USB port
+- 11e: Test -> Audio [mic] | Suspend [remove USB] Un-Suspend | Boot from different USB port
 
 - 20 GNOME Extensions To Perfectly Balance GNOME 40
 https://fosspost.org/20-gnome-extensions-gnome-40/
