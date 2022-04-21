@@ -147,15 +147,7 @@ JUE:
 
 
 
-
-
-
-
-
-
-
 - Spreadsheet Cell
-
 - LLamar modista
 
 
