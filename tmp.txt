@@ -114,7 +114,7 @@ MIE:
 
 
 
-- Carre: PortSalut | 
+
 - Ferreteria: Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??] 
 - Fibertel: chk telefonia | Install Flow [??]
 - Llamar Muriano
