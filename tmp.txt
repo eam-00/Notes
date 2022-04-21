@@ -109,7 +109,7 @@ MIE:
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 
-- ATM
+
 
 - Pinto: Depositar
 - Carre: PortSalut | Bolsitas | 
