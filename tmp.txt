@@ -114,7 +114,8 @@ JUE:
 
 
 
-- Ferreteria: Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??] 
+- Ferreteria: Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
+- M: Fibertel cajita Flow - 4.800 Pesos
 - Fibertel: chk telefonia | Install Flow [??]
 - Llamar Muriano
 - Llamar Mirus Tech
