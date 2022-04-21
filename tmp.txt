@@ -111,7 +111,7 @@ MIE:
 
 
 
-- Pinto: Depositar
+
 - Carre: PortSalut | Bolsitas | 
 - Ferreteria: Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??] 
 - Fibertel: chk telefonia | Install Flow [??]
