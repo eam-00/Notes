@@ -113,6 +113,7 @@ VIE:
 - Limpiar casita
 - P: TS
 - Batts: W530
+- M: Monit AWS
 
 sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
