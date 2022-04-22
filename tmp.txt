@@ -103,7 +103,7 @@ VIE:
 - P: A: log4j
 - P: Push decoms
 - P: HDD Log Server
-- P: A: ID log server
+
 - P: A: Decom pentest server [???]
 - P: SEP Repository Note
 - P: A / E: SEP Repo no matter what
