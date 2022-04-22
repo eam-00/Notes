@@ -198,7 +198,6 @@ https://support.zoom.us/hc/en-us/articles/360027397692-Desktop-client-mobile-app
 https://it.umn.edu/services-technologies/how-tos/zoom-pre-webinar-checklist-hosts
 https://support.zoom.us/hc/en-us/articles/360000252726-Roles-in-a-Webinar
 https://www.vidyard.com/blog/zoom-webinar-guide/
-https://zapier.com/apps/cisco-webex-meetings/integrations/mailchimp
 
 T8: 21 x 12 cms
 T10: 25 x 16 cms
