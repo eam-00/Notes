@@ -1,9 +1,6 @@
 Llevar N:
 --------
 
-
-
-
 SAB:
 ---
 - Charge Blue Light
