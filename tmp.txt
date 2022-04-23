@@ -111,7 +111,7 @@ VIE:
 - P: PDF Symantec
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
-- Limpiar casita
+
 - P: TS
 - Batts: W530
 - M: Monit AWS | Add to Monit
