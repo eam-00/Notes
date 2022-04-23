@@ -108,9 +108,6 @@ LUN:
 - P: PDF Symantec
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
-
-
-
 - M: Monit AWS
 
 sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
