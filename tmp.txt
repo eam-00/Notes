@@ -100,7 +100,7 @@ Spotify:
 ---
 VIE:
 ---
-- C: TS
+
 
 - P: Push decoms
 - P: HDD Log Server
