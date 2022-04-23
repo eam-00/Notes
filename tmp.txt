@@ -114,7 +114,7 @@ VIE:
 
 
 
-- M: Monit AWS | Add to Monit
+- M: Monit AWS
 
 sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
