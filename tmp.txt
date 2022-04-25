@@ -135,7 +135,8 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Telecom: Chk Facturas
 
 
-- Carre: Leches | Bolsitas | PortSalut | Fruta | 
+- Carre:
+Leches | Bolsitas | PortSalut | Fruta | 
 
 
 
@@ -151,14 +152,6 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 
 - Link Cellphone brightness
-
-
-
-
-
-
-
-
 - Spreadsheet Cell
 - LLamar modista
 
