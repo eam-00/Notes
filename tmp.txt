@@ -11,7 +11,7 @@ SAB:
 
 DOM:
 ---
-Get: Pizza | Jabones | Cafetera
+Get: Pizza | Jabones
 
 
 Eagle Technology - https://www.eagletechnology.com.ar
