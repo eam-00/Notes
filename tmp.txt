@@ -109,7 +109,9 @@ MIE:
 - M: Monit AWS
 - M: Clean Logwatch
 
+---------------
 Dell Studio XPS: RAM | Install Debian 11 -> LXQT
+---------------
 
 Thinkpad X140E: Switch SSD
 - Install Debian 11 -> GNOME
