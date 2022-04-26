@@ -95,7 +95,7 @@ Spotify:
 
 
 ---
-MAR:
+MIE:
 ---
 - P: Push decoms
 - P: Training
