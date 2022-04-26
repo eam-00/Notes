@@ -177,7 +177,7 @@ Happy Hacking: 30 cm x 12 cm
 
 CobroExpress:
 -------------
-En ML seleccionar "RapiPago".
+ - ML -> "RapiPago" [Hasta 7.000 Pesos ????]
 
 
 
