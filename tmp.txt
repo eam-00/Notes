@@ -106,7 +106,7 @@ MIE:
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 - M: Monit AWS
-- M: Clean Logwatch
+
 
 ---------------
 Dell Studio XPS: RAM | Install Debian 11 -> LXQT
