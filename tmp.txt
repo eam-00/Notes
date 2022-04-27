@@ -96,6 +96,7 @@ Spotify:
 ---
 JUE:
 ---
+- Batt: T4102
 - P: Ed: Push SEP prob
 - P: Push decoms
 - P: A: Decom pentest server [???]
