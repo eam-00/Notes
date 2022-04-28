@@ -97,7 +97,7 @@ Spotify:
 VIE:
 ---
 - C: TS
-- Batt: T4102
+- Batt: T4102 | W530
 - P: Ed: Push SEP prob
 - P: Push decoms
 - P: Setup Solaris patching
