@@ -100,6 +100,7 @@ VIE:
 - Batt: T4102
 - P: Ed: Push SEP prob
 - P: Push decoms
+- P: Setup Solaris patching
 - P: A: Decom pentest server [???]
 - P: SEP Repository Note
 - P: A / E: SEP Repo no matter what
