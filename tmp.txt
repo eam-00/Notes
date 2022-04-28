@@ -94,7 +94,7 @@ Spotify:
 
 
 ---
-JUE:
+VIE:
 ---
 - Batt: T4102
 - P: Ed: Push SEP prob
