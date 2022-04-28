@@ -105,6 +105,7 @@ JUE:
 - P: PDF Symantec
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
+- Muriano a partir de las 14 hrs.
 - M: Monit AWS
 
 
