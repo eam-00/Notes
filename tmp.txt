@@ -134,7 +134,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
   -----
 - Carre: J. Naranja | Aguas | 
   -----
-Leches | Bolsitas | PortSalut | Fruta | Pan
+Leches | Bolsitas | PortSalut | 
 
 
 
