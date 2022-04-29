@@ -106,7 +106,7 @@ VIE:
 - P: PDF Symantec
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
-- P: TS
+
 - Muriano a partir de las 14 hrs.
 - M: Monit AWS
 
