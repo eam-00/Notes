@@ -131,7 +131,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Telecom: Chk Facturas
 
   -----
-- Carre: J. Naranja
+- Carre:
   -----
 
 
