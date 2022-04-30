@@ -112,7 +112,7 @@ LUN:
 
 - Oftalmologo: recetas Muriano
 - Imprimir boletas
-
+- ATM
 - CobroExpress: Movistar
 - M: Monit AWS
 
