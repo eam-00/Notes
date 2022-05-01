@@ -124,6 +124,12 @@ X-GNOME-Autostart-enabled=true
 Name=pidgin
 Comment=instant messenging client
 
+How to autostart programs on Gnome Shell
+https://www.addictivetips.com/ubuntu-linux-tips/autostart-programs-on-gnome-shell/
+
+------------------
+
+
 ---
 LUN:
 ---
