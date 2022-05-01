@@ -110,7 +110,19 @@ Spotify:
 
 DOM:
 ---
+- How do I manage applications on startup in GNOME 3?
+https://askubuntu.com/questions/37957/how-do-i-manage-applications-on-startup-in-gnome-3
+Create a ~/.config/autostart/my-app-to-startup.desktop file for each program you want to start on login.
 
+For example, here's what my ~/.config/autostart/pidgin.desktop file looks like:
+
+[Desktop Entry]
+Type=Application
+Exec=pidgin
+Hidden=false
+X-GNOME-Autostart-enabled=true
+Name=pidgin
+Comment=instant messenging client
 
 ---
 LUN:
