@@ -159,7 +159,7 @@ MAR:
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 
-- Oftalmologo: recetas
+
 - Imprimir boletas
 - ATM
 - CobroExpress: Movistar
