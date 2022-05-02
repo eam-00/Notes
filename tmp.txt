@@ -139,6 +139,11 @@ dpkg --get-selections gnome-2048 aisleriot atomix gnome-chess five-or-more hitor
 sudo apt purge gnome-2048 aisleriot atomix gnome-chess five-or-more hitori iagno gnome-klotski lightsoff gnome-mahjongg gnome-mines gnome-nibbles quadrapassel four-in-a-row gnome-robots gnome-sudoku swell-foop tali gnome-taquin gnome-tetravex -y & sudo apt autoremove -y
 
 ------------------
+
+gsettings set org.gnome.shell.window-switcher current-workspace-only false
+
+------------------
+
 ---
 LUN:
 ---
