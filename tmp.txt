@@ -158,7 +158,7 @@ MIE:
 - P: Follow up John - Install NetWorker
 
 
-- Imprimir boletas
+- Imprimir
 - ATM
 - CobroExpress
 - M: Monit AWS
