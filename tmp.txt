@@ -160,7 +160,7 @@ MIE:
 
 - Imprimir boletas
 - ATM
-- CobroExpress: Movistar
+- CobroExpress
 - M: Monit AWS
 
 
