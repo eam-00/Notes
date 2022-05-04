@@ -141,6 +141,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
+- P: Paul Tomcat -> Do Not Update [?????]
 - C: Training
 - P: Ed: Push SEP prob
 - P: Push decoms
