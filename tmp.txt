@@ -144,7 +144,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 
-- P: Miss G S. Prep meeting -> No Link [?????]
 - C: Training
 - P: Training
 - P: Ed: Push SEP prob
