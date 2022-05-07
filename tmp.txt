@@ -136,6 +136,7 @@ SAB:
 - P: Brown -> CHGs: assign -> Date CHG on Monday
 - P: test psm -> WinSCP
 - P: test psm from other RDP
+- Charge Samsungs
 - Limpiar casita
 - T430: Debian 11 -> GNOME
 
