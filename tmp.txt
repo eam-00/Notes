@@ -135,6 +135,7 @@ SAB:
 - P: Invite -> Add Saturday
 - P: Brown -> CHGs: assign -> Date CHG on Monday
 - Limpiar casita
+- T430: Debian 11 -> GNOME
 
 ---
 LUN:
