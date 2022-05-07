@@ -152,6 +152,7 @@ LUN:
 - P: Follow up John - Install NetWorker
 - P: TS
 
+- Depositar Vallone
 - ATM
 - M: Monit AWS
 
