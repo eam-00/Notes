@@ -145,6 +145,7 @@ DOM:
 LUN:
 ---
 - P: Invite -> Add Saturday
+- P: Push CHGs for today [URG!!!!!!!!!]
 - C: Training
 
 - P: Ed: Push SEP prob
