@@ -161,6 +161,7 @@ LUN:
 
 - Depositar Vallone
 - ATM
+- Cosas lavanderia
 - M: Monit AWS
 
 
