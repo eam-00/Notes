@@ -138,7 +138,7 @@ SAB:
 
 - Charge Samsungs
 - Charge Nikon
-- Limpiar casita
+
 - T430: Debian 11 -> GNOME
 
 ---
