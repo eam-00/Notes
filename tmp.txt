@@ -136,7 +136,7 @@ DOM:
 
 - Batts
 
-- Charge Samsungs
+
 - Charge Nikon
 
 - T430: Debian 11 -> GNOME
