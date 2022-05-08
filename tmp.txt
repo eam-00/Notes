@@ -132,7 +132,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 SAB:
 ---
-- P: Invite -> Add Saturday
+
 
 
 
@@ -144,7 +144,7 @@ SAB:
 ---
 LUN:
 ---
-
+- P: Invite -> Add Saturday
 - C: Training
 
 - P: Ed: Push SEP prob
