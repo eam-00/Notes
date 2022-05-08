@@ -146,6 +146,7 @@ LUN:
 ---
 - P: Invite -> Add Saturday
 - P: Push CHGs for today [URG!!!!!!!!!]
+- P: Syslog: push logrotate
 - C: Training
 
 - P: Ed: Push SEP prob
