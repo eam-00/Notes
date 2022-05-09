@@ -135,7 +135,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 
-- Charge Nikon
+
 
 - T430: Debian 11 -> GNOME
 
@@ -158,6 +158,7 @@ LUN:
 - P: Follow up John - Install NetWorker
 - P: TS
 
+- Charge Nikon
 - Depositar Vallone
 - ATM
 - ATM
