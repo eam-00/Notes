@@ -141,7 +141,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 -P: Decom -> accnt # [???]
 ---
-MAR:
+MIE:
 ---
 - P: Invite -> Add Saturday
 - P: Push decoms [URG!!!]
