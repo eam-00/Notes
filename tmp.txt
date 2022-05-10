@@ -163,7 +163,7 @@ MAR:
 - Chk pago Vallone
 - ATM
 - ATM
-- Cosas lavanderia
+
 - Optica
 - Tommy
 - M: Monit AWS
