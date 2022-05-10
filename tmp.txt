@@ -138,12 +138,9 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 
-
-
 ---
 MIE:
 ---
-
 - P: Decom -> accnt # [???]
 - P: vCenter build: net | HDD -> partitions
 - P: Push decoms [URG!!!]
