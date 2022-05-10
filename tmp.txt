@@ -160,7 +160,7 @@ MIE:
 
 
 - T430: Debian 11 -> GNOME
-- Chk pago Vallone
+
 - ATM
 - ATM
 - Optica
