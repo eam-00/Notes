@@ -143,12 +143,11 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MAR:
 ---
 - P: Invite -> Add Saturday
-
+- P: Push decoms [URG!!!]
 - P: Syslog: Chk if alive 
 - C: Training
-
 - P: Ed: Push SEP prob
-- P: Push decoms [URG!!!]
+
 - P: Setup Solaris patching
 - P: A: Decom pentest server [???]
 - P: SEP Repository Note
