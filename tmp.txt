@@ -137,7 +137,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 
-- T430: Debian 11 -> GNOME
+
 
 ---
 MAR:
@@ -159,6 +159,7 @@ MAR:
 - P: TS
 
 - Charge Nikon
+- T430: Debian 11 -> GNOME
 - Depositar Vallone
 - ATM
 - ATM
