@@ -145,6 +145,7 @@ MIE:
 ---
 
 - P: Decom -> accnt # [???]
+- P: vCenter build: net | 
 - P: Push decoms [URG!!!]
 - P: Syslog: Chk RH
 - RH: Chk logrotate
