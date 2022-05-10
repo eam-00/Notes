@@ -160,7 +160,7 @@ MAR:
 
 - Charge Nikon
 - T430: Debian 11 -> GNOME
-- Depositar Vallone
+- Chk pago Vallone
 - ATM
 - ATM
 - Cosas lavanderia
