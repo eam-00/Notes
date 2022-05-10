@@ -144,7 +144,7 @@ MAR:
 ---
 - P: Invite -> Add Saturday
 
-- P: Syslog: Chk du |  
+- P: Syslog: Chk if alive 
 - C: Training
 
 - P: Ed: Push SEP prob
