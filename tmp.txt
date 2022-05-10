@@ -146,7 +146,7 @@ MIE:
 
 - P: Decom -> accnt # [???]
 - P: Push decoms [URG!!!]
-- P: Syslog: Chk if alive 
+- P: Syslog: Chk RH 
 - C: Training
 - P: Ed: Push SEP prob
 
