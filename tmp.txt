@@ -158,7 +158,6 @@ MAR:
 - P: Follow up John - Install NetWorker
 
 
-- Charge Nikon
 - T430: Debian 11 -> GNOME
 - Chk pago Vallone
 - ATM
