@@ -149,6 +149,7 @@ MIE:
 - P: Push decoms [URG!!!]
 - P: Syslog: Chk RH
 - RH: Chk logrotate
+- RH: Chk SSL
 - C: Training
 - P: Ed: Push SEP prob
 
