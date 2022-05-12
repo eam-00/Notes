@@ -168,8 +168,6 @@ JUE:
 Dell Studio XPS: RAM | Install Debian 11 -> LXQT
 ---------------
 
-
-
 sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 - Ferreteria: Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
