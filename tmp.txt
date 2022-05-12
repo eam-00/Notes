@@ -155,6 +155,8 @@ JUE:
 - Tommy
 - M: Monit AWS
 
+- chg passwd
+
 ---------------
 Dell Studio XPS: RAM | Install Debian 11 -> LXQT
 ---------------
