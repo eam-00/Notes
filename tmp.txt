@@ -156,7 +156,6 @@ JUE:
 
 
 - T430: Debian 11 -> GNOME
-
 - ATM
 - ATM
 - Optica
