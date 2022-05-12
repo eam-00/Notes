@@ -155,6 +155,7 @@ JUE:
 - Tommy
 - M: Monit AWS
 
+- setup chg -> req
 - chg passwd
 
 ---------------
