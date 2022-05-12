@@ -155,6 +155,7 @@ JUE:
 - Tommy
 - M: Monit AWS
 
+- mail lua
 - setup chg -> req
 - feriados
 - chg passwd
