@@ -146,7 +146,6 @@ JUE:
 - RH: Chk SSL
 - C: Training
 - P: Ed: Push SEP prob
-
 - P: Setup Solaris patching
 - P: A: Decom pentest server [???]
 - P: SEP Repository Note
