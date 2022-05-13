@@ -150,6 +150,7 @@ VIE:
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 - T430: Debian 11 -> GNOME
+- CHK Bcos
 - ATM
 - ATM
 - Optica
