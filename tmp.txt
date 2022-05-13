@@ -158,7 +158,7 @@ VIE:
 - M: Monit AWS
 
 
-- setup chg -> req
+
 - feriados
 - chg passwd
 
