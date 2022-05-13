@@ -133,7 +133,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
-- P: script test SSH
+
 - P: Decom -> accnt # [???]
 - P: vCenter build: net | HDD -> partitions
 - P: Push decoms [URG!!!]
