@@ -159,7 +159,7 @@ VIE:
 
 
 
-- feriados
+
 - chg passwd
 
 ---------------
