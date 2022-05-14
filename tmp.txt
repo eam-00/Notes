@@ -138,7 +138,6 @@ LUN:
 - RH: Chk logrotate -> Extend to b [????]
 - RH: Chk SSL
 - C: Training
-
 - P: Setup Solaris patching
 - P: A: Decom pentest server [???]
 - P: SEP Repository Note
