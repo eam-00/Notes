@@ -135,7 +135,7 @@ LUN:
 - P: Decom -> accnt # [???]
 - P: vCenter build: net | HDD -> partitions
 - P: Push decoms [URG!!!]
-- RH: Chk logrotate -> Extended to b [????]
+- RH: Chk logrotate -> Extend to b [????]
 - RH: Chk SSL
 - C: Training
 - P: Ed: Push SEP prob
