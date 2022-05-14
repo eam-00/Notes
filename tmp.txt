@@ -147,7 +147,6 @@ LUN:
 - P: Follow up John - Install NetWorker
 - T430: Debian 11 -> GNOME
 - ATM
-
 - Optica
 - Tommy
 - M: Monit AWS
