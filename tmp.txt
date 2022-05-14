@@ -149,7 +149,7 @@ LUN:
 - T430: Debian 11 -> GNOME
 - CHK Bcos
 - ATM
-- ATM
+
 - Optica
 - Tommy
 - M: Monit AWS
