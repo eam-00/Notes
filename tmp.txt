@@ -129,6 +129,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
+- P: ChK calendar f/ 18 May
 - P: ChK sent TS
 - P: ChK ansible doc -> Z
 - P: Decom -> accnt # [???]
