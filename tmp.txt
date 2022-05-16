@@ -133,7 +133,7 @@ MAR:
 - P: ChK sent TS
 - P: ChK ansible doc -> Z
 - P: Decom -> accnt # [???]
-- P: vCenter build: net | HDD -> partitions
+- P: vCenter build: Setu misc stuff
 - P: Push decoms [URG!!!]
 - RH: Chk logrotate -> Extend to b [????]
 - RH: Chk SSL
