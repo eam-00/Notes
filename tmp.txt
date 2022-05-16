@@ -130,7 +130,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MAR:
 ---
 - P: Miss G: connect on Wed [???]
-- P: ChK sent TS
+- P: ChK sent TS [URG!!!!!!!!]
 - P: ChK ansible doc -> Z
 - P: Decom -> accnt # [???]
 - P: vCenter build: Setu misc stuff
