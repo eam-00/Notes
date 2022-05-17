@@ -135,7 +135,7 @@ MAR:
 - P: Decom -> accnt # [???]
 - P: vCenter build: Setu misc stuff
 - P: Push decoms [URG!!!]
-- RH: Chk logrotate -> Extend to b [????]
+- RH: syslog server + HDD [???] | Chk logrotate -> Extend to b [????]
 - RH: Chk SSL
 - C: Training
 - P: Setup Solaris patching
