@@ -197,9 +197,6 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 
 
-
-
-
 Rebels - Tom Petty and The Heartbreakers
 It's Over If We Run Out Of Love - David Holmes, Raven Violet
 No Words - Clan of Xymox
