@@ -133,7 +133,7 @@ JUE:
 - P: ChK sent TS [URG!!!!!!!!]
 - P: ChK ansible doc -> Z
 - P: Decom -> accnt # [???]
-- P: vCenter build: Setu misc stuff
+
 - P: Push decoms [URG!!!]
 - RH: syslog server + HDD [???] | Chk logrotate -> Extend to b [????]
 - RH: Chk SSL
