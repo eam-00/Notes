@@ -127,7 +127,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
-
 - P: ChK sent TS [URG!!!!!!!!]
 - P: ChK ansible doc -> Z
 - P: Decom -> accnt # [???]
