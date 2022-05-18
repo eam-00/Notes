@@ -141,7 +141,7 @@ JUE:
 - P: PDF Symantec
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
-- T430: Debian 11 -> GNOME
+
 - ATM
 - M: ChK WhatsApp volume
 - Optica
@@ -150,7 +150,7 @@ JUE:
 
 
 
-
+- T430: Debian 11 -> GNOME
 ---------------
 Dell Studio XPS: RAM | Install Debian 11 -> LXQT
 ---------------
