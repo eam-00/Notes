@@ -142,7 +142,7 @@ JUE:
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 - ATM
-- M: ChK WhatsApp volume
+- M: ChK WhatsApp volume | Ropa invernal
 - Optica
 - Tommy
 - M: Monit AWS
