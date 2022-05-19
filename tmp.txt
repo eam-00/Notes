@@ -129,6 +129,7 @@ JUE:
 ---
 - P: ChK sent TS [URG!!!!!!!!]
 - P: Setup TS
+- T430: Debian 11 -> GNOME
 - P: ChK ansible doc -> Z
 - P: Decom -> accnt # [???]
 - P: Push decoms [URG!!!]
@@ -150,7 +151,7 @@ JUE:
 
 
 
-- T430: Debian 11 -> GNOME
+
 ---------------
 Dell Studio XPS: RAM | Install Debian 11 -> LXQT
 ---------------
