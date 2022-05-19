@@ -138,7 +138,7 @@ VIE:
 
 
 
-- T43: Debian 11 -> CLI
+
 - P: ChK ansible doc -> Z
 - P: Decom -> accnt # [???]
 - P: Push decoms [URG!!!]
