@@ -137,7 +137,7 @@ VIE:
 ---
 
 
-- T430: Debian 11 -> GNOME
+
 - T43: Debian 11 -> CLI
 - P: ChK ansible doc -> Z
 - P: Decom -> accnt # [???]
