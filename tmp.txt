@@ -136,7 +136,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 
-- P: Setup TS
+
 - T430: Debian 11 -> GNOME
 - T43: Debian 11 -> CLI
 - P: ChK ansible doc -> Z
