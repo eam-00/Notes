@@ -11,6 +11,7 @@ SAB:
 ---
 La Bolognesa:
 ------------
+- Lasagna para cuatro con mas bolognesa que salsa blanca.
 
 - Michael: Claws
 - Test cursors @Chromebook (https://custom-cursor.com)
