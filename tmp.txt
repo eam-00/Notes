@@ -130,6 +130,7 @@ JUE:
 - P: ChK sent TS [URG!!!!!!!!]
 - P: Setup TS
 - T430: Debian 11 -> GNOME
+- T43: Debian 11 -> CLI
 - P: ChK ansible doc -> Z
 - P: Decom -> accnt # [???]
 - P: Push decoms [URG!!!]
