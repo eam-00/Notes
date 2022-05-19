@@ -133,7 +133,7 @@ sudo apt purge gnome-2048 aisleriot atomix gnome-chess five-or-more hitori iagno
 gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 ---
-JUE:
+VIE:
 ---
 - P: ChK sent TS [URG!!!!!!!!]
 - P: Setup TS
