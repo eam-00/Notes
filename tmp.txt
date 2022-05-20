@@ -161,7 +161,7 @@ VIE:
 - ChK Bcos
 
 - Charge: Nikon | N10
-- M: Setup AWS Email
+
 - M: Monit AWS
 
 
