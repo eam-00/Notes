@@ -158,7 +158,7 @@ VIE:
 - Tommy
 - ChK Bcos
 - W530 | X140E
-- Charge: Nikon |
+- Charge: Nikon | N10
 - M: Setup AWS Email
 - M: Monit AWS
 
