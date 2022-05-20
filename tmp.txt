@@ -119,6 +119,8 @@ https://www.addictivetips.com/ubuntu-linux-tips/autostart-programs-on-gnome-shel
 
 ------------------
 
+https://stackoverflow.com/questions/50614071/amazon-workmail-forward-every-email
+
 - Remove all games in Ubuntu and Debian in one line
 https://www.allsupported.com/remove-all-games-in-ubuntu-and-debian-in-one-line/
 
