@@ -156,6 +156,7 @@ VIE:
 - M: Tuppers
 - Optica
 - Tommy
+- W530 | X140E 
 - M: Setup AWS Email
 - M: Monit AWS
 
