@@ -142,7 +142,7 @@ VIE:
 - P: ChK ansible doc -> Z
 
 - P: Push decoms [URG!!!]
-- RH: syslog server + HDD [???] | Chk logrotate -> Extend to b [????]
+
 - RH: Chk SSL
 - C: Training
 - P: Setup Solaris patching
