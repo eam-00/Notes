@@ -153,7 +153,7 @@ VIE:
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 - ATM
-- M: Tuppers
+
 - Optica
 - Tommy
 - ChK Bcos
