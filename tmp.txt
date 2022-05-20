@@ -157,7 +157,8 @@ VIE:
 - Optica
 - Tommy
 - ChK Bcos
-- W530 | X140E 
+- W530 | X140E
+- Charge: Nikon |
 - M: Setup AWS Email
 - M: Monit AWS
 
