@@ -138,7 +138,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 LUN:
 ---
 
-- C: Gaston -> SkillUp Next Week [???]
+- C: G -> SkillUp
 
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
