@@ -160,7 +160,7 @@ LUN:
 - Tommy
 - ChK Bcos
 
-- Charge: Nikon 
+
 
 - M: Monit AWS
 
