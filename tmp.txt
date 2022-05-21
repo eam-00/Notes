@@ -11,7 +11,7 @@ SAB:
 ---
 La Bolognesa:
 ------------
-- Lasagna para cuatro con mas bolognesa que salsa blanca
+
 - Noquis
 
 - Michael: Claws
