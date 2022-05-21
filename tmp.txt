@@ -139,7 +139,7 @@ LUN:
 ---
 
 - C: G -> SkillUp
-
+- P: ChK syslogs
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
 
