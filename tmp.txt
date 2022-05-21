@@ -11,8 +11,10 @@ SAB:
 ---
 La Bolognesa:
 ------------
-
 - Noquis
+
+- 100 gr j. cocido
+
 
 - Michael: Claws
 - Test cursors @Chromebook (https://custom-cursor.com)
