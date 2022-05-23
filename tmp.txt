@@ -133,7 +133,6 @@ LUN:
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
 - P: Push decoms [URG!!!]
-
 - RH: Chk SSL
 - C: Training
 - P: Setup Solaris patching
