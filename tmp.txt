@@ -144,7 +144,6 @@ LUN:
 - P: Follow up John - Install NetWorker
 - Cosas lavanderia
 - ATM
-
 - Optica
 - Tommy
 
