@@ -133,7 +133,7 @@ MAR:
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
 - P: Push decoms [URG!!!]
-- RH: Chk SSL
+- P: RH: Chk SSL
 - C: Training
 - P: Setup Solaris patching
 - P: A: Decom pentest server [???]
