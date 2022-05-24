@@ -130,6 +130,7 @@ MIE:
 - Camisa
 - B. Hat
 - Limpiar casita
+- Compras
 
 ---
 JUE:
