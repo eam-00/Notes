@@ -154,8 +154,6 @@ JUE:
 - M: Monit AWS
 
 
-
-
 ---------------
 Dell Studio XPS: RAM | Install Debian 11 -> LXQT
 ---------------
