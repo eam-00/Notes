@@ -151,8 +151,6 @@ JUE:
 - P: Follow up John - Install NetWorker
 - ATM
 - Optica
-
-
 - M: Monit AWS
 
 
