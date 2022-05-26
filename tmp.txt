@@ -153,7 +153,7 @@ VIE:
 - P: PDF Symantec
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
-- Backups: T60p | 
+
 - ATM
 - Camisa
 - M: Bolsitas | Tupper
