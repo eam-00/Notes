@@ -153,6 +153,7 @@ JUE:
 - P: Follow up John - Install NetWorker
 - Backups: T60p | MBW
 - ATM
+- Camisa
 - M: Bolsitas
 - Optica
 - M: Monit AWS
