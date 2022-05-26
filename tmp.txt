@@ -155,7 +155,7 @@ VIE:
 - P: Follow up John - Install NetWorker
 
 - ATM
-- Camisa
+
 - M: Bolsitas | Tupper
 - Optica
 - M: Monit AWS
