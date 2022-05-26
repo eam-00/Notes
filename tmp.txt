@@ -135,6 +135,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
+- C: TS
 - C: G -> SkillUp
 - P: ChK syslogs
 - P: ChK OLVM video
