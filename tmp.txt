@@ -130,7 +130,7 @@ MIE:
 ---
 - Camisa
 - B. Hat
-- M: send auth
+
 - Limpiar casita
 - Compras
 
