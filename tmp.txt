@@ -151,6 +151,7 @@ JUE:
 - P: PDF Symantec
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
+- Backups: T60p |
 - ATM
 - Optica
 - M: Monit AWS
