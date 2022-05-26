@@ -156,7 +156,7 @@ VIE:
 
 - ATM
 
-- M: Bolsitas | Tupper
+- M: Bolsitas 
 - Optica
 - M: Monit AWS
 
