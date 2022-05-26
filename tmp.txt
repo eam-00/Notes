@@ -128,7 +128,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MIE:
 ---
-- Camisa
+
 - B. Hat
 
 - Limpiar casita
