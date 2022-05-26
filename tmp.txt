@@ -177,7 +177,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Telecom: Chk Facturas
 
   -----
-- Carre: Pan | Bananitas Dolca [?] | Bolsitas | PortSalut | Yogurt | Agua | Manteca | Azucar | Leches | J. Cocido
+- Carre: Pan | Bananitas Dolca [?] | Bolsitas | PortSalut | Yogurt | Agua | Manteca | Azucar | Leches
   -----
 
 
