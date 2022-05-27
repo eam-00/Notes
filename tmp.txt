@@ -159,6 +159,7 @@ VIE:
 
 - Optica
 - M: Monit AWS
+- Batts: W530 
 
 ---------------
 Dell Studio XPS: RAM | Install Debian 11 -> LXQT
