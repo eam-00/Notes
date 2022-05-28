@@ -143,6 +143,7 @@ LUN:
 - P: ChK ansible doc -> Z
 - P: Push decoms [URG!!!]
 - P: RH: Chk SSL
+- P: RH: Chk Logrotate
 - C: Training
 - P: Setup Solaris patching
 - P: A: Decom pentest server [???]
