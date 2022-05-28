@@ -159,7 +159,7 @@ LUN:
 
 - Optica
 - M: Monit AWS
-- Batts: W530 | X140e
+
 
 ---------------
 Dell Studio XPS: RAM | Install Debian 11 -> LXQT
