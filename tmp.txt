@@ -141,7 +141,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MAR:
 ---
-- Batts: X220 (Large)
+- Batts: X220 (Large) | T4102
 - C: G -> SkillUp
 - P: ChK syslogs
 - P: ChK OLVM video
