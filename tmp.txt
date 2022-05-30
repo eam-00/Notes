@@ -158,7 +158,7 @@ LUN:
 - P: Follow up John - Install NetWorker
 - ATM
 
-- Panqueques
+
 - Anco
 
 - Optica
