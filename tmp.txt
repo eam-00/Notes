@@ -139,7 +139,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 ---
-LUN:
+MAR:
 ---
 - C: G -> SkillUp
 - P: ChK syslogs
