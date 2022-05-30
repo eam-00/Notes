@@ -127,7 +127,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 SAB:
 ---
 El Bocado:
-100 gr J
+
 
 
 
