@@ -143,7 +143,7 @@ MAR:
 ---
 - Batt: Moto G4 Plus
 - Batts: X220 (Large) | T4102
-- P: Send TS
+
 - C: G -> SkillUp
 - P: ChK syslogs
 - P: ChK OLVM video
