@@ -141,7 +141,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MAR:
 ---
-- Batt: Moto G4 Plus
+
 
 
 - C: G -> SkillUp
