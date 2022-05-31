@@ -142,6 +142,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MIE:
 ---
 - P: Email patch Solaris
+- P: conexion a todo
 - C: G -> SkillUp
 - P: ChK syslogs
 - P: ChK OLVM video
