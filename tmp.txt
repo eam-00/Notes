@@ -143,6 +143,7 @@ MIE:
 ---
 - P: Email patch Solaris
 - P: Sanitary to D
+- P: Sanitary to A
 - C: G -> SkillUp
 - P: ChK syslogs
 - P: ChK OLVM video
