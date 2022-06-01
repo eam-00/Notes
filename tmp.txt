@@ -139,9 +139,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MIE:
 ---
-
-
-
 - P: ChK syslogs
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
