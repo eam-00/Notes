@@ -140,7 +140,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MIE:
 ---
 
-- P: Sanitary to D
+
 - P: Sanitary to A
 - P: ChK syslogs
 - P: ChK OLVM video
