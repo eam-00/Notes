@@ -139,7 +139,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MIE:
 ---
-- P: Email patch Solaris
+
 - P: Sanitary to D
 - P: Sanitary to A
 - P: ChK syslogs
