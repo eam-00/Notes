@@ -144,7 +144,6 @@ MIE:
 - P: Email patch Solaris
 - P: Sanitary to D
 - P: Sanitary to A
-
 - P: ChK syslogs
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
@@ -226,8 +225,6 @@ Happy Hacking: 30 cm x 12 cm
 CobroExpress:
 -------------
  - ML -> "RapiPago" [Hasta 7.000 Pesos ????]
-
-
 
 Blue Thunder:
 Family Bike - Peña 2302 (entre Larrea y Azcuenaga) - 011 2255-8926
