@@ -139,7 +139,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
-- P: pathc Solaris
+- P: patch Solaris
 - P: ChK syslogs
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
@@ -156,7 +156,7 @@ JUE:
 - P: Follow up John - Install NetWorker
 - ATM
 - ATM
-
+- Limpiar casita
 
 
 - Optica
