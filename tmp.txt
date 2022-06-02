@@ -157,6 +157,7 @@ JUE:
 - P: Follow up John - Install NetWorker
 - ATM
 - ATM
+- M: Dejar bolsitas.
 - Limpiar casita
 
 
