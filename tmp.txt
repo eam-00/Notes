@@ -142,11 +142,12 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
-- P: patch Solaris -> Close CHG
+- P: Patch Solaris -> Close CHG
+- P: Push decoms [URG!!!]
 - P: ChK syslogs
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
-- P: Push decoms [URG!!!]
+
 - P: RH: Chk SSL
 - P: RH: Chk Logrotate
 - C: Training
