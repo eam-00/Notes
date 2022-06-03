@@ -158,7 +158,7 @@ VIE:
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 - ATM
-
+- Get USB Ext
 
 
 
