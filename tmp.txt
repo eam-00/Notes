@@ -147,7 +147,6 @@ VIE:
 - P: ChK syslogs
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
-
 - P: RH: Chk SSL
 - P: RH: Chk Logrotate
 - C: Training
@@ -160,7 +159,7 @@ VIE:
 - P: Follow up John - Install NetWorker
 - ATM
 - ATM
-- M: Dejar bolsitas.
+
 - Limpiar casita
 
 
