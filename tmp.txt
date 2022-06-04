@@ -165,7 +165,7 @@ LUN:
 - Optica
 - M: Monit AWS
 
-
+T420 | X220i: 
 ---------------
 Dell Studio XPS: RAM | Install Debian 11 -> LXQT
 ---------------
