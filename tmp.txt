@@ -143,6 +143,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 LUN:
 ---
 - P: Disable Audit
+- P: A: Login Ok? -> Close Case
 - P: Push decoms [URG!!!]
 - P: ChK syslogs
 - P: ChK OLVM video
