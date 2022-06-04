@@ -145,7 +145,7 @@ LUN:
 - P: Disable Audit
 - P: A: Login Ok? -> Close Case
 - P: Push decoms [URG!!!]
-- P: ChK syslogs
+- P: ChK syslogs | Expand RAM [???]
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
 - P: RH: Chk SSL
