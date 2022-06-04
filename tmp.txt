@@ -9,7 +9,8 @@
 
 - Michael: Claws
 - Test cursors @Chromebook (https://custom-cursor.com)
-- Lappie HP: Backups
+- Lappie HP: Backups ->
+Start > Control Panel > System and Maintenance > Backup and Restore > Set up backup
 
 Eagle Technology - https://www.eagletechnology.com.ar
 Nueva York 3306 - +5411 5236 0160
