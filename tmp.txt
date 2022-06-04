@@ -150,7 +150,7 @@ LUN:
 - P: ChK ansible doc -> Z
 - P: RH: Chk SSL
 - P: RH: Chk Logrotate
-- C: Training
+- P: Training
 - P: Setup Solaris patching
 - P: A: Decom pentest server [???]
 - P: SEP Repository Note
