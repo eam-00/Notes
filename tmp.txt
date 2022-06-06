@@ -93,7 +93,7 @@ Spotify:
 
 
 
-Type=Application
+
 Exec=pidgin
 Hidden=false
 X-GNOME-Autostart-enabled=true
