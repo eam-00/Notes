@@ -141,7 +141,7 @@ MAR:
 - P: Disable Audit
 - P: A: Login Ok? -> Close Case
 - P: Push decoms [URG!!!]
-- P: ChK syslogs | Expand RAM [???]
+- P: ChK syslogs
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
 - P: RH: Chk SSL
