@@ -137,7 +137,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MAR:
 ---
-- P: D: ChK dates patch
+
 - P: Disable Audit
 - P: A: Login Ok? -> Close Case
 - P: Push decoms [URG!!!]
