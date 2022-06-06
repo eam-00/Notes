@@ -171,7 +171,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - M: Fibertel cajita Flow - 4.800 Pesos
 - Fibertel: chk telefonia 
 
-- Llamar Mirus Tecnologia - 4470 5868
+- Mirus Tecnologia - 4470 5868
 Luis - X250 - i3 - 4 GB - SSD 50GB - 78 mil - 03 Junio 2022
 - Llamar Cavagna
 - Llamar cardiologo
