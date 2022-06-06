@@ -91,7 +91,6 @@ Spotify:
 
 
 
-For example, here's what my ~/.config/autostart/pidgin.desktop file looks like:
 
 [Desktop Entry]
 Type=Application
