@@ -92,7 +92,7 @@ Spotify:
 
 
 
-[Desktop Entry]
+
 Type=Application
 Exec=pidgin
 Hidden=false
