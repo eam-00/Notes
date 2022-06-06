@@ -100,7 +100,7 @@ X-GNOME-Autostart-enabled=true
 Name=pidgin
 Comment=instant messenging client
 
-How to autostart programs on Gnome Shell
+
 
 
 - 20 GNOME Extensions To Perfectly Balance GNOME 40: https://fosspost.org/20-gnome-extensions-gnome-40/
