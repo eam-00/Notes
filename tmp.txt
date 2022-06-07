@@ -137,6 +137,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MIE:
 ---
+- Batt: X220 (Large) | T4102
 - P: ChK sent email status Syslogs
 - P: CMDB Update -> Server build
 - P: Disable Audit
