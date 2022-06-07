@@ -137,6 +137,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MAR:
 ---
+- Martin: X220
 - P: CMDB Update -> Server build [??????]
 - P: Disable Audit
 - P: A: Login Ok? -> Close Case
