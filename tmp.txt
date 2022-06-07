@@ -137,7 +137,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MAR:
 ---
-
+- P: ChK sent email status Syslogs
 - P: CMDB Update -> Server build
 - P: Disable Audit
 - P: A: Login Ok? -> Close Case
