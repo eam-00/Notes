@@ -143,11 +143,12 @@ MAR:
 - P: A: Login Ok? -> Close Case
 - P: Push decoms [URG!!!]
 - P: ChK syslogs
+
 - P: RH: Chk SSL
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
 
-- P: RH: Chk Logrotate
+
 - P: Training
 - P: Setup Solaris patching
 - P: A: Decom pentest server [???]
