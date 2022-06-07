@@ -138,7 +138,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MAR:
 ---
 
-- P: CMDB Update -> Server build [??????]
+- P: CMDB Update -> Server build
 - P: Disable Audit
 - P: A: Login Ok? -> Close Case
 - P: Push decoms [URG!!!]
