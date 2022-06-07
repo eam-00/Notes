@@ -155,7 +155,7 @@ MIE:
 - P: PDF Symantec
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
-
+- Batt: X220 (Large) | T4102
 - ATM
 
 - Optica
