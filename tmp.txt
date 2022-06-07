@@ -157,7 +157,7 @@ MAR:
 - P: Follow up John - Install NetWorker
 
 - ATM
-- Get USB Ext
+
 - Optica
 - M: Monit AWS
 
