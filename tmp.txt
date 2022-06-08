@@ -137,7 +137,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
-
+- P: ChK CMDB CI [????]
 - P: D: ChK CHG for today [???????] 
 - P: ChK sent email status Syslogs
 - P: CMDB Update -> Server build
