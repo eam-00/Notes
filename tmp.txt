@@ -135,7 +135,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 ---
-MIE:
+JUE:
 ---
 - Batt: X220 (Large) | T4102 | 11e -> Updates
 - P: D: ChK CHG for today [???????] 
