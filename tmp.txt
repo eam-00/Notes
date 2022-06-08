@@ -139,7 +139,7 @@ JUE:
 ---
 - P: ChK CMDB CI [????]
 - P: A: INC RAM
-- P: D: ChK CHG for today [???????] 
+
 - P: ChK sent email status Syslogs
 - P: CMDB Update -> Server build
 - P: Disable Audit
