@@ -145,7 +145,7 @@ JUE:
 - P: CMDB Update -> Server build
 - P: Disable Audit
 - P: A: Login Ok? -> Close Case
-- P: Push decoms --> AWS terminate instance
+
 - P: ChK syslogs
 - P: RH: Chk Logrotate
 - P: RH: Chk SSL
