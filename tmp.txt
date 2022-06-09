@@ -143,7 +143,6 @@ JUE:
 
 - P: Disable Audit
 - P: A: Login Ok? -> Close Case
-
 - P: ChK syslogs
 - P: RH: Chk Logrotate
 - P: RH: Chk SSL
