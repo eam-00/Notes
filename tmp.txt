@@ -142,7 +142,7 @@ JUE:
 - P: Solaris - Attach mirrors
 - P: AWS Terminate instance
 
-- P: CMDB Update -> Server build
+
 - P: Disable Audit
 - P: A: Login Ok? -> Close Case
 
