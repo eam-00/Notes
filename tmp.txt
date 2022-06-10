@@ -135,7 +135,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
-- C: TS
+
 - P: ChK CMDB CI [????]
 - P: A: INC RAM
 - P: Syslog swap file
