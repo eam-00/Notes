@@ -2,6 +2,7 @@
   N:
 -----
 - Barbijos para arreglar [???]
+- x220i - cargador
 
 - Michael: Claws
 - Test cursors @Chromebook (https://custom-cursor.com)
