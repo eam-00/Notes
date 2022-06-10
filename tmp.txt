@@ -160,6 +160,7 @@ VIE:
 - Tuppers
 - Optica
 - M: Monit AWS
+- Charge: Nikon |
 
 T420: Update to Debian 11
 ---------------
