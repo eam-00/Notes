@@ -160,7 +160,7 @@ VIE:
 - Optica
 - M: Monit AWS
 
-T420 | X220i: Update to Debian 11
+T420: Update to Debian 11
 ---------------
 Dell Studio XPS: RAM | Install Debian 11 -> LXQT
 ---------------
