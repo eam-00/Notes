@@ -136,7 +136,7 @@ VIE:
 ---
 - P: ChK CMDB CI [????]
 - P: A: INC RAM
-- P: Solaris - Attach mirrors
+
 - P: AWS Terminate instance
 - P: Disable Audit
 - P: A: Login Ok? -> Close Case
