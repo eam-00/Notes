@@ -5,6 +5,7 @@
 - x220i - cargador
 - 10K
 - Nano-whisky
+- Leche
 
 - Michael: Claws
 - Test cursors @Chromebook (https://custom-cursor.com)
