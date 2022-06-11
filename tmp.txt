@@ -162,6 +162,7 @@ LUN:
 - M: Monit AWS
 - Charge: Nikon |
 
+Backup pendrive -> Sneakernet Files
 T420: Update to Debian 11
 ---------------
 Dell Studio XPS: RAM | Install Debian 11 -> LXQT
