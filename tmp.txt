@@ -8,10 +8,10 @@
 - Leche
 
 El Bocado:
-Pollo entero
-100 Gr J
-100 Gr Q
-Salchicha
+ Pollo entero
+ 100 Gr J
+ 100 Gr Q
+ Salchicha
 
 - Michael: Claws
 - Test cursors @Chromebook (https://custom-cursor.com)
