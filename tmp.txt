@@ -111,7 +111,7 @@ Spotify:
 
 
 
-Exec=pidgin
+
 Hidden=false
 X-GNOME-Autostart-enabled=true
 Name=pidgin
