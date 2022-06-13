@@ -150,7 +150,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MAR:
 ---
-- Batts: X220
+- Batts: X220 | T4102
 - P: ChK CMDB CI [????]
 - P: Syslog swap file
 - P: Disable Audit
