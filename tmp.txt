@@ -173,7 +173,7 @@ MAR:
 - DMV [URG!!!!]
 - Optica
 - M: Monit AWS
-- Charge: Nikon |
+
 
 Backup pendrive -> Sneakernet Files
 T420: Update to Debian 11
