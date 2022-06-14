@@ -111,7 +111,7 @@ Spotify:
 
 
 
-X-GNOME-Autostart-enabled=true
+
 Name=pidgin
 Comment=instant messenging client
 
