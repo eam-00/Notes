@@ -164,7 +164,7 @@ MIE:
 - P: Follow up John - Install NetWorker
 - ATM
 
-- DMV [URG!!!!]
+
 - Optica
 - M: Monit AWS
 
