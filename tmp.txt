@@ -141,7 +141,7 @@ JUE:
 ---
 - C: TS
 - Batts: T4102 | X220 (Batt x2202)
-- P: Build OVA
+- P: Build OVA -> ChK Miss G
 - P: ChK CMDB CI [????]
 - P: Syslog swap file
 - P: Disable Audit
