@@ -180,7 +180,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Telecom: Chk Facturas
 
   -----
-- Carre: Queso Cremoso | Fruta | Leches | Bolsitas | Yogurt | Agua
+- Carre: Queso Cremoso | Fruta | Leches | Bolsitas | Yogurt
   -----
 
 
