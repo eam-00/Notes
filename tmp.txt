@@ -139,6 +139,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
+- C: TS
 - Batts: T4102 | X220 (Batt x2202)
 - P: Build OVA
 - P: ChK CMDB CI [????]
