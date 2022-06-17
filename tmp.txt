@@ -132,7 +132,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 - Limpiar casita
-- M: Activar 
+- M: Activar Ts | Tuppers
 - Batts: T4102 | 
 
 
