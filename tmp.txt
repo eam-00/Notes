@@ -139,7 +139,7 @@ VIE:
 - P: MK -> ADMS Ok
 - Batts: T4102 | 
 - M: delete kernel crud vpn-00
-- P: Build OVA -> ChK Miss G
+- P: Build App Server
 - P: ChK CMDB CI [????]
 - P: Syslog swap file
 - P: Disable Audit
