@@ -139,7 +139,7 @@ VIE:
 - P: Close CHG Logrotate @plain vanilla server -> Close notes
 - P: MK -> ADMS Ok
 
-- M: delete kernel crud vpn-00
+
 - P: Build App Server
 - P: ChK CMDB CI [????]
 - P: Syslog swap file
