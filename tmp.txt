@@ -134,7 +134,7 @@ VIE:
 - Limpiar casita
 - M: Activar Ts | Tuppers
 - Batts: T4102 | 
-
+- ChK Bcos
 
 - P: Close CHG Logrotate @plain vanilla server -> Close notes
 - P: MK -> ADMS Ok
