@@ -137,6 +137,7 @@ VIE:
 - ChK Bcos
 
 MAR:
+---
 - P: Close CHG Logrotate @plain vanilla server -> Close notes
 - P: MK -> ADMS Ok
 
