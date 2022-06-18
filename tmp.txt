@@ -137,8 +137,6 @@ MAR:
 - P: CHG -> Build AWS server [???]
 - P: Close CHG Logrotate @plain vanilla server -> Close notes
 - P: MK -> ADMS Ok
-
-
 - P: Build App Server
 - P: ChK CMDB CI [????]
 - P: Syslog swap file
