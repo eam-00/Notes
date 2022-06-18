@@ -133,7 +133,7 @@ VIE:
 ---
 - Limpiar casita
 - M: Activar Ts 
-- Batts: T4102 | W530 | 
+- Batts: T4102 |
 - ChK Bcos
 
 ---
