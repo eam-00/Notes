@@ -142,7 +142,7 @@ MAR:
 - P: Syslog swap file
 - P: Disable Audit
 
-- P: ChK syslogs | run list files
+- P: ChK syslogs
 - P: RH: Chk Logrotate
 - P: RH: Chk SSL
 - P: ChK OLVM video
