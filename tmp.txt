@@ -132,7 +132,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 
-- M: Activar Ts 
+
 - Batts: T4102 |
 - ChK Bcos
 
