@@ -160,7 +160,7 @@ MAR:
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 - ATM
-- M: Bolsitas
+
 - Optica
 - M: Monit AWS
 
