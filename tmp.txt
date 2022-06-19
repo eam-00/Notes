@@ -86,7 +86,8 @@ https://stackoverflow.com/questions/19904182/rename-millions-of-files-on-linux
 More efficient way to find & tar millions of files
 https://stackoverflow.com/questions/2697213/more-efficient-way-to-find-tar-millions-of-files
 
-
+Find and Delete Files and Directories
+https://www.baeldung.com/linux/find-delete-files-directories
 
 
 
