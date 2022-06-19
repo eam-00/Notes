@@ -83,7 +83,8 @@ https://askubuntu.com/questions/1207041/more-efficient-way-to-find-content-of-fi
 Rename millions of files on Linux
 https://stackoverflow.com/questions/19904182/rename-millions-of-files-on-linux
 
-
+More efficient way to find & tar millions of files
+https://stackoverflow.com/questions/2697213/more-efficient-way-to-find-tar-millions-of-files
 
 
 
