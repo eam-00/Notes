@@ -153,7 +153,6 @@ MIE:
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 - ATM
-
 - New ATM cards
 - Optica
 - M: Monit AWS
