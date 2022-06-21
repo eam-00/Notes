@@ -154,6 +154,7 @@ MIE:
 - P: Follow up John - Install NetWorker
 - ATM
 - New ATM cards
+- Dietetica Avda. Santa Fe
 - Optica
 - M: Monit AWS
 
