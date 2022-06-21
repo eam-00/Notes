@@ -160,6 +160,7 @@ MAR:
 - P: Follow up John - Install NetWorker
 - ATM
 - Lavanderia
+- New ATM cards
 - Optica
 - M: Monit AWS
 
