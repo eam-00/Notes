@@ -146,7 +146,7 @@ JUE:
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
 - P: Training
-- P: Setup Solaris patching
+
 - P: A: Decom pentest server [???]
 - P: SEP Repository Note
 - P: A / E: SEP Repo no matter what
