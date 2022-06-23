@@ -154,7 +154,6 @@ JUE:
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 - ATM
-
 - Dietetica Avda. Santa Fe
 - Optica
 - M: Monit AWS
