@@ -125,7 +125,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 ---
-JUE:
+VIE:
 ---
 - Batt: X220 (Large) | T4102
 - P: Conx D & A
