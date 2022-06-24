@@ -152,7 +152,7 @@ VIE:
 - P: Follow up John - Install NetWorker
 - ATM
 - P: TS
-- ChK Bcos
+
 - Optica
 - M: Monit AWS
 
