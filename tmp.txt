@@ -128,7 +128,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 - C: TS
-
 - P: Conx D & A
 - P: Build AWS server
 - P: Close CHG Logrotate @plain vanilla server -> Close notes
