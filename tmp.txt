@@ -133,7 +133,7 @@ VIE:
 
 - P: Build AWS server
 
-- P: MK -> ADMS Ok
+
 - P: Build App Server
 - P: ChK CMDB CI [????]
 - P: Syslog swap file
