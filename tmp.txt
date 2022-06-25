@@ -18,6 +18,7 @@ El Bocado:
  - 100 Gr Jamon
  - 100 Gr Queso
  - 250 Gr Mozzarella
+ - Manteca
  - Salchicha
 
 
