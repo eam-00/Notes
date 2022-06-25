@@ -17,6 +17,7 @@ SAB:
 El Bocado:
  - 1oo Gr Jamon
  - 100 Gr Queso
+ - Salchicha
  - Mozzarella
 
 - DMV:
