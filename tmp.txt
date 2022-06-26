@@ -166,6 +166,10 @@ LUN:
 - Optica
 - M: Monit AWS
 
+Tienda Outdoor
+Godoy Cruz 2958
+3149 9051
+
 
 Backup pendrive -> Sneakernet Files
 T43 / T60p: Install Minimal XFCE 
