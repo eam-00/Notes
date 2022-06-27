@@ -139,8 +139,6 @@ LUN:
 ---
 - MRLN: Push Cert SSL Docks
 - P: Build AWS server
-
-
 - P: Build App Server -> Close Ticket [???]
 - P: ChK CMDB CI [????]
 - P: Syslog swap file
