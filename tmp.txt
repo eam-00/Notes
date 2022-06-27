@@ -137,7 +137,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
-
 - MRLN: Push Cert SSL Docks
 - P: Build AWS server
 
