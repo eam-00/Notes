@@ -126,7 +126,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 ---
-MAR:
+MIE:
 ---
 - P: Chk D patch new date [???]
 - P: Chk CHG approved [???]
