@@ -136,7 +136,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MAR:
 ---
-
 - P: Build AWS server
 - P: Build App Server -> Close Ticket [???]
 - P: ChK CMDB CI [????]
