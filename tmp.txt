@@ -116,7 +116,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 ---
-MIE:
+JUE:
 ---
 - P: SEP ChK install updates by hand
 - P: New Decom CHG - Set date - Push approval 
