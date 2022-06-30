@@ -162,7 +162,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Telecom: Chk Facturas
 
   -----
-- Carre: Merengadas | Bolsitas | Mermeladas | Desodorante | Fruta
+- Carre: Merengadas | Bolsitas | Mermeladas | Desodorante
   -----
 
 
