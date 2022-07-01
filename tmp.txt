@@ -125,8 +125,6 @@ VIE:
 - P: Syslog zip & delete [????]
 - P: D: New date [????]
 - P: SEP ChK install updates by hand
-
-
 - P: ChK CMDB CI [????]
 - P: Syslog swap file
 - P: Syslog: Disable Audit
