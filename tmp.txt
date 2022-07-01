@@ -126,7 +126,7 @@ VIE:
 - P: D: New date [????]
 - P: SEP ChK install updates by hand
 - P: New Decom CHG - Set date - Push approval 
-- P: Build AWS server -> Setup call
+
 - P: ChK CMDB CI [????]
 - P: Syslog swap file
 - P: Syslog: Disable Audit
