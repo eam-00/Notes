@@ -127,7 +127,6 @@ VIE:
 - P: SEP ChK install updates by hand
 - P: New Decom CHG - Set date - Push approval 
 - P: Build AWS server -> Setup call
-
 - P: ChK CMDB CI [????]
 - P: Syslog swap file
 - P: Syslog: Disable Audit
@@ -144,7 +143,6 @@ VIE:
 - P: Follow up John - Install NetWorker
 - ATM
 - Optica
-
 - M: Monit AWS
 
 Tienda Outdoor - Godoy Cruz 2958 - 3149 9051
