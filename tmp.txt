@@ -144,7 +144,7 @@ VIE:
 - P: Follow up John - Install NetWorker
 - ATM
 - Optica
-- P: TS(s)
+
 - M: Monit AWS
 
 Tienda Outdoor - Godoy Cruz 2958 - 3149 9051
