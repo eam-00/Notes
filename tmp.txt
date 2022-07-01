@@ -125,7 +125,7 @@ VIE:
 - P: Syslog zip & delete [????]
 - P: D: New date [????]
 - P: SEP ChK install updates by hand
-- P: New Decom CHG - Set date - Push approval 
+
 
 - P: ChK CMDB CI [????]
 - P: Syslog swap file
