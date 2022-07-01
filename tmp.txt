@@ -122,6 +122,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
+- P: Syslog zip & delete [????]
 - P: D: New date [????]
 - P: SEP ChK install updates by hand
 - P: New Decom CHG - Set date - Push approval 
