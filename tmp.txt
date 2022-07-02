@@ -8,6 +8,7 @@
 ---
 SAB:
 ---
+- Batt: T410
 - Michael: Claws | Pastilla
 - Lappie HP: Backups ->
 Start > Control Panel > System and Maintenance > Backup and Restore > Set up backup
