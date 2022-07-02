@@ -149,6 +149,7 @@ Tienda Outdoor - Godoy Cruz 2958 - 3149 9051
 Backup pendrive -> Sneakernet Files
 T43 / T60p: Install Minimal XFCE 
 T420: Update to Debian 11
+11e: Debian 11 XFCE
 ---------------
 Dell Studio XPS: RAM | Install Debian 11 -> LXQT
 ---------------
