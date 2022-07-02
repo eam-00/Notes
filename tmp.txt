@@ -47,7 +47,6 @@ Diego Samuel Bejarano - 11 3698 6668 - M65 Woodland (Medium Short)
 Arreglo persiana: Juan - 15 6803 8442
 
 - 11e: Test -> Audio [mic] | Suspend [remove USB] Un-Suspend | Boot from different USB port
-- 11e: Debian XFCE
 
 - M: Chk Email probs iPhone | Chk MongoDev down [?????]
 
