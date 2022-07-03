@@ -3,6 +3,7 @@
 -----
 - Barbijos para arreglar [???]
 - Tuppers
+- Trumpeter
 - Test cursors @Chromebook (https://custom-cursor.com)
 
 ---
