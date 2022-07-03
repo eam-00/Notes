@@ -117,6 +117,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
+- Cbio. Sabanas
 - P: Syslog zip & delete [????]
 - P: D: New date [????]
 - P: SEP ChK install updates by hand
