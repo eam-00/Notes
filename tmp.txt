@@ -116,7 +116,7 @@ LUN:
 ---
 - Cbio. Sabanas
 - T60p: Change/ oil fan
-- Batt: S10 | T420
+- Batt: S10 | T420 | T4102
 - P: Syslog zip & delete [????]
 - P: D: New date [????]
 - P: SEP ChK install updates by hand
