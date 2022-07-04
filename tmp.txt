@@ -114,7 +114,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
-
 - T60p: Change/ oil fan
 - Batt: S10 | T420 | T4102 | X220 (Large)
 - P: Syslog zip & delete [????]
