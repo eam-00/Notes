@@ -108,7 +108,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 DOM:
 
-- Batt: S10 | T420
+- Batt: S10
 
 
 ---
