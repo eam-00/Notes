@@ -117,7 +117,6 @@ MAR:
 - T60p: Change/ oil fan
 - Batt: S10 | T420 | T4102 | X220 (Large)
 - P: Syslog zip & delete [????]
-
 - P: SEP ChK install updates by hand
 - P: ChK CMDB CI [????]
 - P: Syslog swap file
@@ -135,7 +134,6 @@ MAR:
 - P: Follow up John - Install NetWorker
 - ATM
 - Tienda Outdoor - Godoy Cruz 2958 - 3149 9051 - Sab: Hasta las 15 hrs - Lun a Vie: Hasta las 19 hrs
-
 - Optica
 - M: Monit AWS
 
