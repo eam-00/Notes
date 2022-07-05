@@ -116,6 +116,7 @@ MAR:
 ---
 - T60p: Change/ oil fan
 - Batt: S10 | T420 | T4102 | X220 (Large)
+- P: Finish setup AWS build
 - P: Syslog zip & delete [????]
 - P: SEP ChK install updates by hand
 - P: ChK CMDB CI [????]
