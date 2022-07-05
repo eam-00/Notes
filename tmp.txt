@@ -115,7 +115,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MAR:
 ---
 - T60p: Change/ oil fan
-- Batt:  T420 | T4102 | X220 (Large)
+- Batt:  T420 | T4102 | 
 - P: Finish setup AWS build
 - P: Syslog zip & delete [????]
 - P: SEP ChK install updates by hand
