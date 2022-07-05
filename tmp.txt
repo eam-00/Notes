@@ -112,7 +112,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 ---
-MAR:
+MIE:
 ---
 - T60p: Change/ oil fan
 - Batt:  T420 | T4102 | 
