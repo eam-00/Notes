@@ -115,7 +115,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MIE:
 ---
 - T60p: Change/ oil fan
-- Batt:  T420 |
+- Batt:  T420 | X2202
 
 - P: Syslog zip & delete [????]
 - P: SEP ChK install updates by hand
