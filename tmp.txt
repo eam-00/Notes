@@ -116,7 +116,7 @@ MIE:
 ---
 - T60p: Change/ oil fan
 - Batt:  T420 |
-- P: Finish setup AWS build
+
 - P: Syslog zip & delete [????]
 - P: SEP ChK install updates by hand
 - P: ChK CMDB CI [????]
