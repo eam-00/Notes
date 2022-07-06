@@ -111,7 +111,7 @@ MIE:
 ---
 - T60p: Change/ oil fan
 - Batt:  T420 | X2202
-
+- P: Push approval CHG logrotate
 - P: Syslog zip & delete [????]
 - P: SEP ChK install updates by hand
 - P: ChK CMDB CI [????]
