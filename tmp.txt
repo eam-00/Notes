@@ -110,7 +110,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ---
 - T60p: Change/ oil fan
-- Batt:  T420 | X2202
+- Batt:  T420 
 - P: CHG CTASKS -> New
 - P: Push approval CHG logrotate
 - P: Syslog zip & delete [????]
