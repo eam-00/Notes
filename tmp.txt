@@ -111,6 +111,7 @@ JUE:
 ---
 - T60p: Change/ oil fan
 - Batt:  T420 
+- P: Secure boot Linux [??]
 - P: CHG CTASKS -> New
 - P: Push approval CHG logrotate
 - P: Syslog zip & delete [????]
