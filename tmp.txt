@@ -114,7 +114,7 @@ VIE:
 - T60p: Change/ oil fan
 - Batt:  T420 | W530 | X40E
 - P: Secure boot Linux [??]
-- P: CHG CTASKS -> New
+
 - P: Push approval CHG logrotate
 - P: Syslog zip & delete [????]
 - P: SEP ChK install updates by hand
