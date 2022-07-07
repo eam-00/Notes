@@ -110,6 +110,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
+- C: TS
 - T60p: Change/ oil fan
 - Batt:  T420 | W530 | X40E
 - P: Secure boot Linux [??]
