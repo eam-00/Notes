@@ -135,6 +135,7 @@ VIE:
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 - SUBE
+- Expensas
 - ATM
 - Tostadora
 - P: TS
