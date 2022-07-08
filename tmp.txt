@@ -114,7 +114,7 @@ VIE:
 - C: TS
 - T60p: Change/ oil fan
 - Batt:  T420 | W530 | X40E
-- P: Secure boot Linux [??]
+- P: Secure boot Linux [??] -> ED
 
 
 - P: Syslog zip & delete [????]
