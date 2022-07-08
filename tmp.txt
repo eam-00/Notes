@@ -116,7 +116,7 @@ VIE:
 - Batt:  T420 | W530 | X40E
 - P: Secure boot Linux [??]
 
-- P: Push approval CHG logrotate
+
 - P: Syslog zip & delete [????]
 - P: SEP ChK install updates by hand
 - P: ChK CMDB CI [????]
