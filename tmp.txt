@@ -116,7 +116,7 @@ VIE:
 - Telecom: Chk Facturas
 - T60p: Change/ oil fan
 - Batt:  T420 | W530 | X40E
-- P: Secure boot Linux [??] -> ED
+
 - p: Push CHG approval rsyslog
 
 - P: Syslog zip & delete [????]
