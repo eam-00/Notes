@@ -115,7 +115,7 @@ VIE:
 
 - Telecom: Chk Facturas
 - T60p: Change/ oil fan
-- Batt:  T420 | W530 
+- Batt:  T420 
 
 - p: Push CHG approval rsyslog
 
