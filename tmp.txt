@@ -117,6 +117,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 LUN:
 ---
 - P: Decom: CHG w/o tasks
+- P: Server Build: Hostname
 
 - Telecom: Chk Facturas
 - T60p: Change/ oil fan
