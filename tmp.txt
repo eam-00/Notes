@@ -122,7 +122,7 @@ LUN:
 - T60p: Change/ oil fan
  
 
-- p: Push CHG approval rsyslog
+
 
 - P: Syslog zip & delete [????]
 - P: SEP ChK install updates by hand
