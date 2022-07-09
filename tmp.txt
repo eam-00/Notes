@@ -120,7 +120,6 @@ LUN:
 - P: Server Build: Hostname
 - P: Send email IP address
 - P: Decom w/o deleted sever
-
 - Telecom: Chk Facturas
 - T60p: Change/ oil fan
  
@@ -129,7 +128,6 @@ LUN:
 
 - P: Syslog zip & delete [????]
 - P: SEP ChK install updates by hand
-
 - P: Syslog swap file
 - P: Syslog: Disable Audit
 - P: ChK syslogs
