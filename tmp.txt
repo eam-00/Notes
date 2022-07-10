@@ -14,6 +14,7 @@ Start > Control Panel > System and Maintenance > Backup and Restore > Set up bac
 ---
 DOM:
 ---
+- Get: 
 - Batt:  T420 | Bluetooth KBD |
 
 Eagle Technology - https://www.eagletechnology.com.ar
