@@ -16,6 +16,7 @@ DOM:
 ---
 - Get:
  Empanadas
+ Facturas
  
 
 - Batt:  T420 | Bluetooth KBD |
