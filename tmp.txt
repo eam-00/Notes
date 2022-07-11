@@ -147,7 +147,7 @@ LUN:
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 - Toallas
-
+- Imprimir T. Credito
 - ATM
 _ lavanderia
 _ Tuppers
