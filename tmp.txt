@@ -149,6 +149,7 @@ LUN:
 - Toallas
 - Imprimir T. Credito
 - ATM
+- Grimoldi (Hora)
 _ lavanderia
 _ Tuppers
 
