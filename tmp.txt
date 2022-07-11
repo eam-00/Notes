@@ -123,7 +123,7 @@ LUN:
 ---
 - P: Decom: CHG w/o tasks
 
-- P: Send email IP address
+
 - P: Decom w/o deleted sever
 - Telecom: Chk Facturas
 - T60p: Change/ oil fan
