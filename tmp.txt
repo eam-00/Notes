@@ -122,7 +122,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
-- P: Decom: CHG w/o tasks
+
 
 
 - P: Decom w/o deleted sever
