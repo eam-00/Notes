@@ -151,7 +151,7 @@ LUN:
 
 - ATM
 
-_ lavanderia
+
 _ Tuppers
 - Disco
 
