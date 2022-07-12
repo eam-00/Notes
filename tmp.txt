@@ -148,7 +148,7 @@ LUN:
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 
-- Imprimir T. Credito
+
 - ATM
 - Grimoldi (Hora)
 _ lavanderia
