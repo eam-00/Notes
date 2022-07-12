@@ -133,7 +133,7 @@ LUN:
 
 
 - P: Syslog zip & delete [????]
-- P: SEP ChK install updates by hand
+
 - P: Syslog swap file
 - P: Syslog: Disable Audit
 - P: ChK syslogs
