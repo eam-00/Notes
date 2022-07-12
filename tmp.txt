@@ -150,7 +150,7 @@ LUN:
 
 
 - ATM
-- Grimoldi (Hora)
+
 _ lavanderia
 _ Tuppers
 - Disco
