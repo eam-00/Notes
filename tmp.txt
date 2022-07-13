@@ -117,7 +117,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 ---
-MIE:
+JUE:
 ---
 - P: vCenter build: IP address [WTF ????]
 - P: ED: CHG Logrotate [????]
