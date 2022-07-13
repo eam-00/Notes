@@ -2,7 +2,7 @@
   N:
 -----
 - Barbijos para arreglar [???]
-_ Leches
+- Leches
 - Boleta tarjeta de credito
 
 - Test cursors @Chromebook (https://custom-cursor.com)
@@ -17,7 +17,7 @@ DOM:
 
 
 
-- Get:
+
  Empanadas
  Facturas
  Tarta
