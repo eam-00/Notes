@@ -121,7 +121,7 @@ JUE:
 ---
 - P: vCenter build: IP address [WTF ????]
 - P: ED: CHG Logrotate [????]
-- P: A: CA access -> Get Logs
+
 - P: Decom w/o deleted sever
 - Telecom: Chk Facturas
 - T60p: Change/ oil fan
