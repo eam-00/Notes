@@ -122,6 +122,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 - C: TS
+- P: I: Rename appliances
 - P: vCenter build: IP address [WTF ????]
 - P: ED: CHG Logrotate [????]
 - P: Decom w/o deleted sever
