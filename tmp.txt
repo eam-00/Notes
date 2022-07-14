@@ -148,7 +148,7 @@ JUE:
 - P: Follow up John - Install NetWorker
 
 
-- Movistar
+
 - ATM
 - Carre
 - PB
