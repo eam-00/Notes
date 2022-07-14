@@ -147,7 +147,7 @@ JUE:
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 
-- Imprimir
+
 - Movistar
 - ATM
 - Carre
