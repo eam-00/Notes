@@ -121,7 +121,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
-- C: TS
+
 - P: I: Rename appliances
 - P: Voyence / root Backup [???]
 - P: Arthur On The Logs
