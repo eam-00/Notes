@@ -133,7 +133,6 @@ VIE:
 
 
 - P: Syslog zip & delete [????]
-
 - P: Syslog swap file
 - P: Syslog: Disable Audit
 - P: ChK syslogs
