@@ -124,7 +124,7 @@ VIE:
 
 - P: I: Rename appliances
 - P: Voyence / root Backup [???]
-- P: Arthur On The Logs
+
 - P: vCenter build: IP address [WTF ????]
 - P: ED: CHG Logrotate [????]
 - P: Decom w/o deleted sever
