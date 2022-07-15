@@ -148,7 +148,7 @@ VIE:
 - P: D: Upgrade SEP [???]
 - P: Follow up John - Install NetWorker
 - P: TS
-- Batts: W530 | 
+- Batts: W530 | X140E | 
 
 - ATM
 - Carre
