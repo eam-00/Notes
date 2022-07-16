@@ -185,7 +185,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Telecom: Chk Facturas
 
   -----
-- Carre: Bolsitas | 
+- Carre: Bolsitas | Galles Saladas | 
   -----
 
 
