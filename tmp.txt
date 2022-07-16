@@ -5,7 +5,7 @@
 - Leches
 - Boleta tarjeta de credito
 - Tapa p/ hornito
-- Jugo en polvo
+- Jugos en polvo
 - Bolsitas
 - Tupper
 
@@ -126,7 +126,7 @@ LUN:
 - P: I: Rename appliances
 - P: Voyence / root Backup [???]
 
-- P: vCenter build: IP address [WTF ????]
+- P: vCenter build: Setup IP addresses
 - P: ED: CHG Logrotate [????]
 - P: Decom w/o deleted sever
 - Telecom: Chk Facturas
