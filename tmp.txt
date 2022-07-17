@@ -127,8 +127,6 @@ LUN:
 - P: Decom w/o deleted sever
 - Telecom: Chk Facturas
 - T60p: Change/ oil fan
-
-
 - P: Syslog zip & delete [????]
 - P: Syslog swap file
 - P: Syslog: Disable Audit
