@@ -123,7 +123,7 @@ MAR:
 - P: A / E: SEP Repo no matter what
 - P: PDF Symantec
 - P: Follow up John - Install NetWorker
-- PFs [?]
+
 - ATM
 
 
