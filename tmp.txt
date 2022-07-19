@@ -76,8 +76,6 @@ https://cloudacademy.com/blog/amazon-ebs-shink-volume/
 
 
 
-
-
 - 20 GNOME Extensions To Perfectly Balance GNOME 40: https://fosspost.org/20-gnome-extensions-gnome-40/
 
 ------------------
