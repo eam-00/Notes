@@ -100,6 +100,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MAR:
 ---
 - P: SEP install [PUSH]
+- P: A: Revert logs SEP
 - P: I: Rename appliances
 - P: Voyence / root Backup [???]
 - P: vCenter build: Setup IP addresses
