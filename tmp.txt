@@ -98,6 +98,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MIE:
 ---
+- P: MG: Update DNS record for AWS build
 - P: A: SEP install [PUSH (!!!!!!)]
 - P: A: SEP revert logs
 - P: Voyence / root Backup [???]
