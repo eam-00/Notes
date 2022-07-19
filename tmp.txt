@@ -107,6 +107,7 @@ MIE:
 - P: MG: Update DNS record for AWS build
 - P: MG: Email IP for build Ojos de Fuego
 - P: ED: patch 0n Thurs [????]
+- P: Setup AWS build
 - P: A: SEP install [PUSH (!!!!!!)]
 - P: A: SEP revert logs
 - P: Voyence / root Backup [???]
