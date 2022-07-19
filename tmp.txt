@@ -78,6 +78,9 @@ https://cloudacademy.com/blog/amazon-ebs-shink-volume/
 Create an Initial Administrator User Account
 https://docs.tenable.com/tenablecore/Nessus/Content/TenableCore/CreateAdminAccount.htm
 
+Manually Configure a Static IP Address
+https://docs.tenable.com/tenablecore/SecurityCenter/Content/TenableCore/ConfigureIPAddress.htm
+
 ------------------
 
 https://stackoverflow.com/questions/50614071/amazon-workmail-forward-every-email
