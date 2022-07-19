@@ -100,7 +100,7 @@ MIE:
 ---
 - P: A: SEP install [PUSH (!!!!!!)]
 - P: A: SEP revert logs
-- P: I: Rename appliances
+
 - P: Voyence / root Backup [???]
 - P: vCenter build: Setup IP addresses
 - P: ED: CHG Logrotate [????]
