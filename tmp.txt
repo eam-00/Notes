@@ -104,7 +104,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ---
 
-- P: MG: Email IP for build Ojos de Fuego
+
 - P: ED: patch 0n Thurs [????]
 - P: Setup AWS build
 - P: A: SEP install [PUSH (!!!!!!)]
