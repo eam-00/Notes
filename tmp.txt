@@ -106,7 +106,7 @@ JUE:
 
 
 
-- P: Setup AWS build
+
 - P: A: SEP install [PUSH (!!!!!!)]
 - P: A: SEP revert logs
 - P: Voyence / root Backup [???]
