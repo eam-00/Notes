@@ -105,7 +105,7 @@ JUE:
 ---
 
 
-- P: ED: patch 0n Thurs [????]
+
 - P: Setup AWS build
 - P: A: SEP install [PUSH (!!!!!!)]
 - P: A: SEP revert logs
