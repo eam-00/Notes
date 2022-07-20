@@ -104,6 +104,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ---
 - P: Install FireEye -> vCenter
+- P: AWS Post-build
 - P: A: SEP install [PUSH (!!!!!!)]
 - P: A: SEP revert logs
 - P: Voyence / root Backup [???]
