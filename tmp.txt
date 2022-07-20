@@ -101,7 +101,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 ---
-MIE:
+JUE:
 ---
 
 - P: MG: Email IP for build Ojos de Fuego
