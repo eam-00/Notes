@@ -111,7 +111,7 @@ MIE:
 - P: A: SEP install [PUSH (!!!!!!)]
 - P: A: SEP revert logs
 - P: Voyence / root Backup [???]
-- P: vCenter build: Setup IP addresses
+
 - P: ED: CHG Logrotate [????]
 - P: Decom w/o deleted sever
 - Telecom: Chk Facturas
