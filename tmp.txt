@@ -103,7 +103,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MIE:
 ---
-- P: MG: Update DNS record for AWS build
+
 - P: MG: Email IP for build Ojos de Fuego
 - P: ED: patch 0n Thurs [????]
 - P: Setup AWS build
