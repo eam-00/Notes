@@ -108,7 +108,7 @@ JUE:
 - P: AWS Post-build
 - P: Get versions:
   AWS -> Red Hat
-  Syslogs -> Everything
+  
 - P: OutL -> Syslog | Server-Build
 - P: A: SEP revert logs
 - P: Voyence / root Backup [???]
