@@ -107,7 +107,7 @@ JUE:
 - P: Install FireEye -> vCenter
 - P: AWS Post-build
 - P: Get versions:
-  AWS -> Red Hat
+  
   
 - P: OutL -> Syslog | Server-Build
 - P: A: SEP revert logs
