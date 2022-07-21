@@ -106,6 +106,8 @@ JUE:
 - P: A: Install SEP [??]
 - P: Install FireEye -> vCenter
 - P: AWS Post-build
+- P: Get versions:
+  A
 - P: OutL -> Syslog | Server-Build
 - P: A: SEP revert logs
 - P: Voyence / root Backup [???]
