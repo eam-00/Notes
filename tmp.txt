@@ -101,9 +101,9 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 ---
-JUE:
+VIE:
 ---
-- P: A: Install SEP [??]
+
 - P: Install FireEye -> vCenter
 - P: AWS Post-build
 - P: A: Upload ncompress
