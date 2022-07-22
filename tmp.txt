@@ -129,7 +129,7 @@ VIE:
 - P: A / E: SEP Repo no matter what
 - P: PDF Symantec
 - P: Follow up John - Install NetWorker
-- Limpiar casita
+
 - Imprimir Carrefour
 - ATM
 - M: Monit sites
