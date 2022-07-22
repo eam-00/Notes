@@ -108,7 +108,7 @@ VIE:
 - P: Install FireEye -> vCenter
 - P: AWS Post-build
 - Freeze: Ice -> out
-- Batts: 11e | 
+- Batts: 11e | W530 | 
 - Test mouses viejos
 
 - P: A: SEP revert logs
