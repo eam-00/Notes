@@ -133,7 +133,7 @@ VIE:
 
 - Imprimir Carrefour
 - ATM
-- Diarios | 
+- Diarios | Tuppers
 - M: Monit sites
 
 
