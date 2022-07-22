@@ -107,7 +107,7 @@ VIE:
 - P: A: Upload ncompress
 - P: Install FireEye -> vCenter
 - P: AWS Post-build
-
+- Freeze: Ice -> out
   
   
 
