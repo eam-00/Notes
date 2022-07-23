@@ -137,7 +137,7 @@ LUN:
 
 - Carrefour
 - ATM
-- Diarios
+
 - M: Monit sites
 
 
