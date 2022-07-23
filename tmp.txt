@@ -112,7 +112,7 @@ LUN:
 - P: Install FireEye -> vCenter
 - P: AWS Post-build
 - Freeze: Ice -> out
-- Batts: 11e | W530 | 
+- Batts: 11e 
 - Test mouses viejos
 
 - P: A: SEP revert logs
