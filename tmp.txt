@@ -134,7 +134,7 @@ LUN:
 - P: PDF Symantec
 - P: Follow up John - Install NetWorker
 
-- Imprimir Carrefour
+- Carrefour
 - ATM
 - Diarios | Tuppers
 - M: Monit sites
