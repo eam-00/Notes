@@ -143,6 +143,7 @@ LUN:
 - Carrefour -> printed email
 - ATM
 - CobroExpress [?]
+- N: OSDE take stuff
 
 
 
