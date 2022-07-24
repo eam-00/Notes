@@ -11,6 +11,7 @@ Start > Control Panel > System and Maintenance > Backup and Restore > Set up bac
 
 DOM:
 ----
+- M: Cocina
 - M: email accnt list
 - M: server to be disposed list
 
