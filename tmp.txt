@@ -13,7 +13,7 @@ DOM:
 ----
 
 
-- M: server to be disposed -> List
+
 
 Eagle Technology - https://www.eagletechnology.com.ar
 Nueva York 3306 - +5411 5236 0160
@@ -112,6 +112,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 LUN:
 ---
 - M: email accnt -> List
+- M: servers to be disposed -> List
 - P: A: ChK VD update ate | compare sizes -> SEPM
 - P: Install FireEye -> vCenter
 - P: AWS Post-build
