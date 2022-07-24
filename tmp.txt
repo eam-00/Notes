@@ -111,6 +111,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
+- M: email accnt -> List
 - P: A: ChK VD update ate | compare sizes -> SEPM
 - P: Install FireEye -> vCenter
 - P: AWS Post-build
