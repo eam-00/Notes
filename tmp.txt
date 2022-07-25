@@ -109,11 +109,12 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MAR:
 ---
+- P: AWS Post-build
 - P: Tenable: Delete built instances
 
 - P: A: ChK VD update ate | compare sizes -> SEPM
 - P: Install FireEye -> vCenter
-- P: AWS Post-build
+
 
 
 - Test mouses viejos
