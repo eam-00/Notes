@@ -114,7 +114,7 @@ LUN:
 - P: A: ChK VD update ate | compare sizes -> SEPM
 - P: Install FireEye -> vCenter
 - P: AWS Post-build
-- Freeze: Ice -> out
+
 
 - Test mouses viejos
 
