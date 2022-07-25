@@ -109,7 +109,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MAR:
 ---
-
+- P: Tenable: Delete built instances
 
 - P: A: ChK VD update ate | compare sizes -> SEPM
 - P: Install FireEye -> vCenter
