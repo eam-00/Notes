@@ -113,7 +113,7 @@ MAR:
 
 - P: AWS Post-build
 
-- P: Setup weekly TS file
+
 - P: A: ChK VD update ate | compare sizes -> SEPM
 - P: Install FireEye -> vCenter
 
