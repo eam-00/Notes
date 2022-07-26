@@ -109,7 +109,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MAR:
 ---
-- C: TS: reply to estimate
+
 
 - P: AWS Post-build
 - P: Tenable: Delete built instances
