@@ -109,7 +109,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MIE:
 ---
-
+- P: A: Court -> SEPM OK [?????]
 
 - P: AWS Post-build
 
