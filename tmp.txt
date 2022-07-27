@@ -120,7 +120,6 @@ MIE:
 
 
 - Test mouses viejos
-
 - P: A: SEP revert logs
 - P: Voyence / root Backup [???]
 - P: ED: CHG Logrotate [????]
