@@ -114,7 +114,7 @@ JUE:
 - P: AWS Post-build
 - P: Setup Solaris Patching
  -> ChK spreasheet
-
+ -> cp patch
 - P: Install FireEye -> vCenter
 
 
