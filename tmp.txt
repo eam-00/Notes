@@ -116,6 +116,7 @@ JUE:
  -> ChK spreasheet
  -> cp patch
 - P: Solaris Patching -> Ask Dom
+- P: Add SMARTs -> Ask Dom
 - P: Install FireEye -> vCenter
 
 
