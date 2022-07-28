@@ -113,6 +113,7 @@ JUE:
 - P: A: Court -> SEPM OK [?????]
 - P: AWS Post-build
 - P: Setup Solaris Patching
+ -> ChK spreasheet
 
 - P: Install FireEye -> vCenter
 
