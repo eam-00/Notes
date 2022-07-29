@@ -118,7 +118,7 @@ VIE:
  -> cp patch
 
 - P: Add SMARTs -> Ask Dom
-- P: Install FireEye -> vCenter
+- P: Install FireEye -> vCenter [PUSH]
 - P: Decom Tenable [PUSH]
 
 
