@@ -119,7 +119,7 @@ VIE:
 
 - P: Add SMARTs -> Ask Dom
 - P: Install FireEye -> vCenter
-
+- P: Decom Tenable [PUSH]
 
 
 - Test mouses viejos
