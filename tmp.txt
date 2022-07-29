@@ -113,7 +113,7 @@ VIE:
 - P: AWS Post-build
 
  
- -> cp patch
+
 -P: vimrc colors [??????]
 - P: Add SMARTs -> Ask Dom
 - P: Install FireEye -> vCenter [PUSH]
