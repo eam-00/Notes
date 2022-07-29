@@ -112,7 +112,7 @@ VIE:
 - P: A: Court -> SEPM OK [?????]
 - P: AWS Post-build
 
- -> ChK spreasheet
+ 
  -> cp patch
 -P: vimrc colors [??????]
 - P: Add SMARTs -> Ask Dom
