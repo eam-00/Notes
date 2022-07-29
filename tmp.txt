@@ -111,7 +111,7 @@ VIE:
 - P: A: Run SEP updater
 - P: A: Court -> SEPM OK [?????]
 - P: AWS Post-build
-- P: Setup Solaris Patching
+
  -> ChK spreasheet
  -> cp patch
 -P: vimrc colors [??????]
