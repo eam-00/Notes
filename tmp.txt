@@ -107,7 +107,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
-- P: Decom Tenable [PUSH]
+- P: Decom Tenable | Close Tenable [PUSH]
 - P: A: Run SEP updater
 - P: A: Court -> SEPM OK [?????]
 
