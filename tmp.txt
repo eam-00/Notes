@@ -113,7 +113,7 @@ LUN:
 
 
  
-
+- P: Decom w/o deleted sever
 - P: vimrc colors [??????]
 - P: Add SMARTs -> Ask Dom
 - P: Install FireEye -> vCenter [PUSH]
@@ -124,7 +124,7 @@ LUN:
 - P: A: SEP revert logs
 
 - P: ED: CHG Logrotate [????]
-- P: Decom w/o deleted sever
+
 - Telecom: Chk Facturas
 - T60p: Change/ oil fan
 - P: Syslog zip & delete [????]
