@@ -28,6 +28,7 @@ M:
  - MBP
  - X60
  - T430
+ - X220 (x2202)
 
 Eagle Technology - https://www.eagletechnology.com.ar
 Nueva York 3306 - +5411 5236 0160
