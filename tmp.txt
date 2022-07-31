@@ -120,7 +120,7 @@ LUN:
 
 
 
-- Test mouses viejos
+
 - P: A: SEP revert logs
 
 - P: ED: CHG Logrotate [????]
