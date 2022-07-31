@@ -21,7 +21,7 @@ DOM:
 
 M:
 - Lavanderia
-- Blog
+
 
 MRLN:
 - Delete email accnts 
