@@ -22,9 +22,6 @@ DOM:
 
 
 
-MRLN:
-
-
 - Batts:
  - X201T
  - MBP
