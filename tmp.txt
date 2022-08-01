@@ -14,7 +14,7 @@ Start > Control Panel > System and Maintenance > Backup and Restore > Set up bac
 ----
 DOM:
 ---
-- Cambo de sabanas
+
 - Placards
 - Levi's -> OUT [?]
 - Lvei's -> IN [???]
