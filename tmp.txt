@@ -186,7 +186,7 @@ LUN:
 
 Backup pendrive -> Sneakernet Files
 T43: Install Minimal XFCE 
-T420: Update to Debian 11
+T420: Update to Debian 11 -> GNOME [?????]
 ---------------
 Dell Studio XPS: RAM | Install Debian 11 -> LXQT
 ---------------
