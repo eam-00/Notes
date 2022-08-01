@@ -162,7 +162,7 @@ LUN:
 - Print FEME
 - ATM
 - Carre: Baybicuits |  Bananas | 
-- FarmaCity: expectorante 
+- FarmaCity: expectorante | dolor de garganta
 
 
 
