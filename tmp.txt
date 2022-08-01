@@ -23,7 +23,7 @@ DOM:
 
 
 MRLN:
-- Delete email accnts 
+
 
 - Batts:
  - X201T
