@@ -160,7 +160,7 @@ MIE:
 
 - ATM
 - Carre: Baybicuits |  Bananas | 
-- FarmaCity: expectorante | dolor de garganta
+- FarmaCity: expectorante 
 
 
 
