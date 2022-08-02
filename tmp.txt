@@ -21,7 +21,7 @@ Start > Control Panel > System and Maintenance > Backup and Restore > Set up bac
 
 
 
- - X201T
+
  - MBP
  - X60
  - T430
