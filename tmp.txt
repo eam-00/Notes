@@ -124,6 +124,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
+- P: A: test script update
 - P: vacas
 - Call: Kombys -> Prices | Hours Of Operation
 - P: Setup CHG SEP KM update
