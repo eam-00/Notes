@@ -128,7 +128,6 @@ JUE:
 - P: D: ChK CHG -> PR -> Approve [????]
 - P: Setup CHG SEP KM update
 - P: Close Tenable | Decom Tenable -> [PUSH]
-
 - P: A: Court -> SEPM OK [?????]
 - P: Test Instance Metadata: curl http://169.254.169.254/latest/meta-data/ 
 - P: Decom w/o deleted sever
