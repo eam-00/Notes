@@ -137,7 +137,7 @@ JUE:
 - P: Install FireEye -> vCenter [PUSH]
 
 
-- Batt: X220 (Small)
+
 
 - P: A: SEP revert logs
 - P: ED: CHG Logrotate [????]
