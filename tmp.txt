@@ -124,7 +124,7 @@ JUE:
 ---
 - P: A: test script update
 - P: vacas
-- Call: Kombys -> Prices | Hours Of Operation
+
 - P: D: ChK CHG -> PR -> Approve [????]
 - P: Setup CHG SEP KM update
 - P: Close Tenable | Decom Tenable -> [PUSH]
