@@ -122,12 +122,13 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
+- P: D: ChK CHG -> PR -> Approve [????] ===> [PUSH!!!!!!!!]
 - C: TS
 
 - P: A: test script update
 
 
-- P: D: ChK CHG -> PR -> Approve [????]
+
 - P: Setup CHG SEP KM update
 - P: Close Tenable | Decom Tenable -> [PUSH]
 - P: A: Court -> SEPM OK [?????]
