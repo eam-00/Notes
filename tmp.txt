@@ -125,7 +125,7 @@ VIE:
 - C: TS
 
 - P: A: test script update
-- P: vacas
+
 
 - P: D: ChK CHG -> PR -> Approve [????]
 - P: Setup CHG SEP KM update
@@ -165,6 +165,7 @@ VIE:
 - P: TS
 
 LUN:
+- P: vacas
 
 - Carre: 
 
