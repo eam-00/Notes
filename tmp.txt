@@ -133,7 +133,7 @@ VIE:
 - P: Close Tenable | Decom Tenable -> [PUSH]
 - P: A: Court -> SEPM OK [?????]
 - P: Test Instance Metadata: curl http://169.254.169.254/latest/meta-data/ 
-- P: Decom w/o deleted sever
+
 
 - P: Add SMARTs -> Ask Dom
 - P: Install FireEye -> vCenter [PUSH]
@@ -166,6 +166,7 @@ VIE:
 - P: TS
 
 LUN:
+- P: Decom w/o deleted sever
 - P: vacas
 
 - Carre: 
