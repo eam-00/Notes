@@ -122,6 +122,8 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
+- C: TS
+
 - P: A: test script update
 - P: vacas
 
