@@ -151,7 +151,7 @@ VIE:
 - P: Syslog swap file
 - P: Syslog: Disable Audit
 - P: ChK syslogs
-- P: RH: Chk Logrotate
+
 - P: RH: Chk SSL
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
