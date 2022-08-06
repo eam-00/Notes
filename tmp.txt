@@ -167,7 +167,7 @@ LUN:
 - ATM
 
 
-- 5 papas blancas
+
 - 5 tomates peritas
 - 2 bananas
 - Dejar florero
