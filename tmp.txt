@@ -124,7 +124,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 
-- P: D: ChK CHG -> PR -> Approve [????] ===> [PUSH!!!!!!!!]
+
 
 
 - P: A: test script update
