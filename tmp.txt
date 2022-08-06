@@ -130,7 +130,7 @@ LUN:
 - P: A: test script update
 
 - P: Decom w/o deleted sever
-
+- P: vacas
 - P: Setup CHG SEP KM update
 - P: Close Tenable | Decom Tenable -> [PUSH]
 - P: A: Court -> SEPM OK [?????]
@@ -177,7 +177,7 @@ LUN:
 
 ---
 
-- P: vacas
+
 
 
 
