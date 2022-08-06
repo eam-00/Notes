@@ -179,8 +179,6 @@ LUN:
 - P: Decom w/o deleted sever
 - P: vacas
 
-- Carre: 
-
 
 
 
