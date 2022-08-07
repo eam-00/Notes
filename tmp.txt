@@ -23,7 +23,7 @@ Start > Control Panel > System and Maintenance > Backup and Restore > Set up bac
 ---
 DOM:
 ---
-- Guardar Carry-On 
+
 - Mover mesa
 - Subir cajas de te para asado
 - TRRTs
