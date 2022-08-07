@@ -1,7 +1,7 @@
 -----
   N:
 -----
-- Tupper
+
 - Boletas servicios pagos
 - Leches
 - Barbijos para arreglar [???]
