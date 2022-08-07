@@ -169,6 +169,7 @@ LUN:
 - Kindles
 - Depositar Expensas
 - ATM
+- Tapa licuadora
 
 
 
