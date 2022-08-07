@@ -2,7 +2,7 @@
   N:
 -----
 
-- Boletas servicios pagos
+
 - Leches
 - Barbijos para arreglar [???]
 - Jugos en polvo [??????]
