@@ -125,6 +125,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
+- P: Send SEP auto scripts
 - P: RH: sysstat -> swap issue
 
 
