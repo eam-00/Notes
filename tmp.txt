@@ -169,7 +169,7 @@ LUN:
 
 
 
-- 2 bananas
+
 - Dejar florero
 - P: TS
 
