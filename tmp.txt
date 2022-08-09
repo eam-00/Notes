@@ -160,7 +160,7 @@ MAR:
 
 - Kindles
 
-- Depositar Expensas
+- cHk Deposito Expensas
 - ATM
 - Tapa licuadora
 
