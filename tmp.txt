@@ -117,7 +117,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MAR:
 ---
-- P: RH: Case swap [URG]
+
 - P: RH: search Case logrotate exclude
 - P: Send SEP auto scripts
 - P: RH: sysstat -> swap issue
