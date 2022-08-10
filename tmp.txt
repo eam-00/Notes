@@ -157,7 +157,7 @@ MIE:
 
 - Kindles
  
-- cHk Deposito Expensas
+
 - ATM
 - ATM
 - Tapa licuadora
