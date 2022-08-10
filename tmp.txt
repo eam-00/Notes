@@ -160,7 +160,7 @@ MIE:
 - cHk Deposito Expensas
 - ATM
 - Tapa licuadora
-- Keller's magazine
+
 - ATM
 
 
