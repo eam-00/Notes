@@ -118,7 +118,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
-
 - P: RH: sysstat -> swap issue
 
 
@@ -154,9 +153,9 @@ JUE:
 
 - Tienda Outdoor - Godoy Cruz 2958 - 3149 9051 - Sab: Hasta 15 hrs - Lun Vie: Hasta 19 hrs >> LLAMAR <<
 
-
-- ATM
 - Tapa licuadora
+- ATM
+
 
 
 
