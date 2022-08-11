@@ -156,7 +156,7 @@ JUE:
 
 - ATM
 - Tapa licuadora
-- Kernel Reboot
+
 
 
 
