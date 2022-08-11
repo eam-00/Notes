@@ -162,7 +162,7 @@ JUE:
 
 VIE:
 
-
+- C: remove crud course
 
 
 
