@@ -11,7 +11,8 @@ Start > Control Panel > System and Maintenance > Backup and Restore > Set up bac
 
 
 
-- Placards
+Placards:
+- Pulovers
 - Levi's -> OUT
 
 
