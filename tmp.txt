@@ -118,6 +118,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
+- C: TS
 - P: RH: sysstat -> swap issue
 
 
