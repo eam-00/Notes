@@ -164,7 +164,7 @@ VIE:
 VIE:
 
 
-- C: remove crud course
+
 - C/ P: Setup OOO
 
 
