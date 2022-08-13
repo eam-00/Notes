@@ -28,6 +28,7 @@ El Bocado:
 ---------
 - Jamon
 - Queso
+- Salchicha
 - Pollo
 - Pan rallado
 
