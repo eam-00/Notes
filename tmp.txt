@@ -29,6 +29,7 @@ El Bocado:
 - Jamon
 - Queso
 - Pollo
+- Pan rallado
 
 
 - TRRTs
