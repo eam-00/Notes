@@ -215,7 +215,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar cardiologo
 
   -----
-- Carre: Fruta | PortSalut | Agua | Queso Cremoso | 
+- Carre: Fruta | PortSalut | Agua | 
   -----
 
 
