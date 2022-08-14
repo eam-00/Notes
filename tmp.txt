@@ -152,7 +152,7 @@ MAR:
 
 
 - P: A: SEP revert logs
-- P: ED: CHG Logrotate [????]
+
 - Telecom: Chk Facturas
 - T60p: Change/ oil fan
 - P: Syslog zip & delete [????]
