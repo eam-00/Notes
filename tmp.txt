@@ -30,7 +30,7 @@ El Bocado:
 - Queso
 - Salchicha
 - Pollo
-- Pan rallado
+
 
 ---
 LUN:
