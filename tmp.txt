@@ -28,7 +28,7 @@ El Bocado:
 ---------
 - Jamon
 - Queso
-- Salchicha
+
 
 
 
