@@ -36,7 +36,7 @@ Verduleria:
 LUN:
 ---
 Get:
- - Chocotorta
+
  - Lasagna
 
 - TRRTs
