@@ -8,7 +8,7 @@
 - Jugos en polvo [??????]
 - Ver Subs
 - Test cursors @Chromebook (https://custom-cursor.com)
-- Lappie HP: Backups ->
+
 Start > Control Panel > System and Maintenance > Backup and Restore > Set up backup
 
 
