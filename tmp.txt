@@ -141,7 +141,7 @@ JUE:
 ---
 
 - P: A: INC -> SWAP -> WTF [????]
-- P: RH: sysstat -> swap issue
+- P: RH: sysstat -> SOS Report + answers
 
 
 
