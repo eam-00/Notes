@@ -156,7 +156,7 @@ JUE:
 
 
 
-
+- P: Syslogs -> Push [????]
 - P: A: SEP revert logs
 - Telecom: Chk Facturas
 - T60p: Change/ oil fan
