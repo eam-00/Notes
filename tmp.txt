@@ -139,7 +139,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
-
+- C: TS
 - P: A: INC -> SWAP -> WTF [????]
 - P: RH: sysstat -> SOS Report + answers
 
