@@ -179,6 +179,7 @@ VIE:
 - Tapa licuadora
 - Batt: X140E
 - M: Tuppers
+- Get diarios
 - ATM
 - Comprar tierra
 
