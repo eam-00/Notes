@@ -180,7 +180,7 @@ VIE:
 - Batt: X140E
 - M: Tuppers
 - Get diarios
-- ATM
+
 - Comprar tierra
 
 
