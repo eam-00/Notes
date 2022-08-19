@@ -179,7 +179,7 @@ VIE:
 - Tapa licuadora
 
 - ATM
-- M: Tuppers
+
 - Get diarios
 
 - Comprar tierra
