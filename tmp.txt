@@ -179,7 +179,7 @@ VIE:
 - Tapa licuadora
 - M: Tuppers
 - ATM
-- Batt: X220's
+
 
 VIE:
 - N: T. de Credito
