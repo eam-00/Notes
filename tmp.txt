@@ -180,6 +180,7 @@ VIE:
 - Batt: X140E
 - M: Tuppers
 - ATM
+- Comprar tierra
 
 
 VIE:
