@@ -180,7 +180,7 @@ VIE:
 
 - ATM
 
-- Get diarios
+
 
 - Comprar tierra
 
