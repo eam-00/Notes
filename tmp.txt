@@ -140,7 +140,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 
-- P: ChK if SEP updates
+
 - P: ChK Eddy old CHG status 
 - P: A: INC -> SWAP -> WTF [????]
 
