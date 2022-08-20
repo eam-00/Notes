@@ -185,7 +185,7 @@ LUN:
 
 
 VIE:
-- N: T. de Credito
+
 
 
 
