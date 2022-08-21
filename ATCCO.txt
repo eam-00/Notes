@@ -9,6 +9,8 @@ Dos servicios
 Internet:
 --------
 
+Dos tipos de servicio:
+
 Prepago:
 -------
 8.900 Pesos Instalacion
