@@ -11,8 +11,8 @@ Internet:
 
 Dos tipos de servicio:
 
-Prepago:
--------
+- Prepago:
+  -------
 8.900 Pesos Instalacion
 y luego se recarga
 
