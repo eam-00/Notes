@@ -32,6 +32,7 @@ El Bocado:
 - Get:
   - Bolsas compras
   - Pizza
+  - Guiso [?]
 
 
 
