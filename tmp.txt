@@ -31,7 +31,7 @@ Start > Control Panel > System and Maintenance > Backup and Restore > Set up bac
 
 - Get:
   - Bolsas compras
-  - Pizza
+
 
 
 
