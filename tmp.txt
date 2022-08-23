@@ -147,7 +147,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MAR:
 ---
 - P: ChK nohup @syslog
-- P: ChK Eddy status CHG patch & reboot last week
+
 - P: A: INC -> SWAP -> WTF [????]
 
 
