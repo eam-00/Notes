@@ -142,8 +142,6 @@ MIE:
 - P: Add SMARTs -> Ask Dom
 
 
-
-
 - P: Syslogs -> Push [????]
 - P: A: SEP revert logs
 - Telecom: Chk Facturas
