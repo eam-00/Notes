@@ -139,7 +139,7 @@ MIE:
 - P: A: test script update
 - P: Setup Hours Tuesday
 - P: Decom w/o deleted sever
-- P: A: Court -> SEPM OK [?????]
+
 - P: Test Instance Metadata: curl http://169.254.169.254/latest/meta-data/ 
 - P: Add SMARTs -> Ask Dom
 
