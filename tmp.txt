@@ -207,7 +207,6 @@ JUE:
 
 Backup pendrive -> Sneakernet Files
 T43: Install Minimal XFCE 
-
 ---------------
 Dell Studio XPS: RAM | Install Debian 11 -> LXQT
 ---------------
