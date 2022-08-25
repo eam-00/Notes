@@ -193,7 +193,7 @@ JUE:
 
 
 - M: Monit AWS
-
+- Calm, Cool & Confident [Concerned]
 
 
 Backup pendrive -> Sneakernet Files
