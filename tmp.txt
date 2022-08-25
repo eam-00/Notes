@@ -126,6 +126,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
+- C: TS
 - P: SEP -> containers | 
 - P: ChK nohup @syslog
 - P: A: INC -> SWAP -> WTF [????]
