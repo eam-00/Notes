@@ -155,7 +155,7 @@ VIE:
 - Starbucks [?]
 - P: TS
 - Setup GNOME @T420
-
+- M: Kernel reboot
 
 
 
