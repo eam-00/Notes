@@ -125,6 +125,7 @@ VIE:
 
 - P: SEP -> containers | 
 - P: SEP: stopping everything
+- P: SEP: determine if the Linux client is listed on SEPM
 - P: ChK nohup @syslog
 - P: A: INC -> SWAP -> WTF [????]
 - P: A: test script update
