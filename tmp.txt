@@ -154,7 +154,7 @@ VIE:
 - ATM
 - Starbucks [?]
 - P: TS
-
+- Setup GNOME @T420
 
 
 
