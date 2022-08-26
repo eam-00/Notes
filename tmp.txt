@@ -124,6 +124,7 @@ VIE:
 ---
 
 - P: SEP -> containers | 
+- P: SEP: stopping everything
 - P: ChK nohup @syslog
 - P: A: INC -> SWAP -> WTF [????]
 - P: A: test script update
