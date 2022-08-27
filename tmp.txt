@@ -158,7 +158,7 @@ LUN:
 
 
 - Setup GNOME @T420
-- M: Kernel reboot
+
 
 
 
