@@ -19,7 +19,7 @@ DOM:
 ---
 
 - Batts:
-  - Kindle vieja
+
 
 
 
