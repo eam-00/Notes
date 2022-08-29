@@ -154,6 +154,7 @@ LUN:
 - Cargar: Kindle vieja
 - Chino [?]
 - ATM
+- Velas | botellitas
 - M: Fechas vacas
 
 - Setup GNOME @T420
