@@ -20,7 +20,7 @@ DOM:
 - Cumples: Paula
 - Batts:
   - Kindle vieja
-  - X201t
+
 
 
 
