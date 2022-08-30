@@ -137,7 +137,7 @@ MAR:
 - P: Syslog swap file
 - P: Syslog: Disable Audit
 - P: ChK syslogs
-- P: RH: Chk SSL
+
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
 - P: A: Decom pentest server [???]
