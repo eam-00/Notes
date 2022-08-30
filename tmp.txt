@@ -122,6 +122,7 @@ MAR:
 ---
 - P: Miss G time calc
 - P: A: no CB nor FE
+- P: A: which dev server
 
 - P: SEP: stopping everything
 - P: SEP: determine if the Linux client is listed on SEPM
