@@ -154,7 +154,7 @@ MIE:
 - Chino [?]
 - ATM
 - Velas | botellitas
-- M: Fechas vacas
+
 
 - Setup GNOME @T420
 
