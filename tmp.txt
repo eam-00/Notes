@@ -120,7 +120,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MIE:
 ---
-- P: Miss G time calc
+- P: Miss G time calc [URG!!!!!!!!!]
 - P: A: no CB nor FE
 - P: A: which dev server
 - P: compress old logs on /u002
