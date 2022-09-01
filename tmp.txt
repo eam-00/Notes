@@ -123,7 +123,7 @@ JUE:
 - P: Miss G time calc [URG!!!!!!!!!]
 
 
-- P: compress old logs on /u002
+
 
 - P: SEP: stopping everything
 - P: SEP: determine if the Linux client is listed on SEPM
