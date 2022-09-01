@@ -122,7 +122,7 @@ JUE:
 
 - P: Miss G time calc [URG!!!!!!!!!]
 
-- P: A: which dev server
+
 - P: compress old logs on /u002
 
 - P: SEP: stopping everything
