@@ -121,7 +121,7 @@ VIE:
 ---
 - C: TS
 - P: Miss G time calc [URG!!!!!!!!!]
-
+- P: D: A: review CHGs -> Assmnt
 
 
 - P: SEP: stopping everything
