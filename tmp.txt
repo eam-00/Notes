@@ -159,7 +159,7 @@ VIE:
 
 - Setup GNOME @T420
 
-
+---
 LUN:
 ---
 - P: Test Conex D
