@@ -122,7 +122,7 @@ VIE:
 
 - P: Miss G time calc [URG!!!!!!!!!]
 
-- P: D: A: Push PR CHGs
+
 
 - P: SEP: stopping everything
 - P: SEP: determine if the Linux client is listed on SEPM
