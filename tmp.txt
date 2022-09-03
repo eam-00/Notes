@@ -125,7 +125,7 @@ LUN:
 - P: Test Conex D
 - P: Test Conex DRAC
 - P: canvas Syslogs
-
+- C: Courses
 
 - P: SEP: stopping everything
 - P: SEP: determine if the Linux client is listed on SEPM
