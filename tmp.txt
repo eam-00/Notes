@@ -157,7 +157,7 @@ VIE:
 - Chino [?]
 - ATM
 - Velas | botellitas
-- P: TS
+
 
 - Setup GNOME @T420
 
