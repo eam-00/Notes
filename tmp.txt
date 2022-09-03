@@ -137,7 +137,7 @@ LUN:
 - P: Syslogs -> Push [????]
 - P: A: SEP revert logs
 - Telecom: Chk Facturas
-- T60p: Change/ oil fan
+
 - P: Syslog zip & delete [????]
 - P: Syslog swap file
 - P: Syslog: Disable Audit
@@ -160,6 +160,7 @@ LUN:
 
 
 - Setup GNOME @T420
+- T60p: Change/ oil fan
 
 ---
 LUN:
