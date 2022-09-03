@@ -2,7 +2,7 @@
   N:
 -----
 - Blue Lights: Charge
-- Diarios
+
 - Whisky
 - Leche
 - Barbijos para arreglar [???]
