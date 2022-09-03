@@ -124,7 +124,7 @@ LUN:
 ---
 - P: Test Conex D
 - P: Test Conex DRAC
-
+- P: canvas Syslogs
 
 
 - P: SEP: stopping everything
