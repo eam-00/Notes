@@ -161,7 +161,7 @@ LUN:
 - ATM
 - Velas | botellitas
 - Lavanderia
-
+- Pancakes
 
 - Setup GNOME @T420
 - T60p: Change/ oil fan
