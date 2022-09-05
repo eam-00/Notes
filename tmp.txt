@@ -160,6 +160,7 @@ LUN:
 
 - ATM
 - Velas | botellitas
+- Lavanderia
 
 
 - Setup GNOME @T420
