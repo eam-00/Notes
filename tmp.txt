@@ -157,7 +157,7 @@ LUN:
 
 
 
-- Chino [?]
+
 - ATM
 - Velas | botellitas
 
