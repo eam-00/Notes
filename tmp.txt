@@ -124,7 +124,7 @@ MAR:
 ---
 
 
-- M-65 -> balcon
+
 - P: Setup Solaris patching
 - P: Test Conex D
 - P: Test Conex DRAC -> Locals Only
