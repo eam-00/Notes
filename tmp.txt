@@ -122,7 +122,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MAR:
 ---
-- Charge batts AA
+
 - Charge N7
 - M-65 -> balcon
 - P: Setup Solaris patching
