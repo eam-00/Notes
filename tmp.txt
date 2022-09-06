@@ -135,8 +135,6 @@ MIE:
 - P: Decom w/o deleted sever
 - P: Test Instance Metadata: curl http://169.254.169.254/latest/meta-data/ 
 - P: Add SMARTs -> Ask Dom
-
-
 - P: A: SEP revert logs
 - Telecom: Chk Facturas
 - P: Syslog zip & delete [????]
