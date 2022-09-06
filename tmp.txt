@@ -123,8 +123,9 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MAR:
 ---
 - M-65 -> balcon
+- P: Setup Solaris patching
 - P: Test Conex D
-- P: Test Conex DRAC - Locals Only
+- P: Test Conex DRAC -> Locals Only
 - P: canvas Syslogs -> Finished [?????]
 - C: Courses
 - P: SEP: stopping everything
