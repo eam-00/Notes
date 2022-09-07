@@ -196,7 +196,6 @@ MIE:
 - M: Monit AWS
 - Calm, Cool & Confident [Concerned]
 
-
 Backup pendrive -> Sneakernet Files
 T43: Install Minimal XFCE 
 ---------------
