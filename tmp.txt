@@ -123,8 +123,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
-
-
 - P: Send doc DRACs
 - P: Send doc remove podman
 - P: Solaris patc: debrief
