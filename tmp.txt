@@ -129,7 +129,7 @@ MIE:
 - P: Send doc remove podman
 - P: Solaris patc: debrief
 - P: Test Conex D
-- P: Test Conex DRAC -> Locals Only
+
 - P: canvas Syslogs -> Finished [?????]
 - C: Courses
 - P: SEP: stopping everything
