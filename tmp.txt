@@ -123,6 +123,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MIE:
 ---
+- P: Send doc remove podman
 - P: Setup Solaris patching
 - P: Test Conex D
 - P: Test Conex DRAC -> Locals Only
