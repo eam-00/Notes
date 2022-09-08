@@ -122,7 +122,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 - Flame out
 - Drink Yogurt
-
+- Sperry
 
 ---
 JUE:
