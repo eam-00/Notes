@@ -129,7 +129,6 @@ JUE:
 - P: Send doc DRACs
 - P: Send doc remove podman
 - P: Solaris patc: debrief
-
 - P: canvas Syslogs -> Finished [?????]
 - C: Courses
 - P: SEP: stopping everything
