@@ -122,7 +122,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 
-- Sperry
 
 ---
 JUE:
