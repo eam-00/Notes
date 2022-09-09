@@ -133,7 +133,6 @@ VIE:
 - C: Courses
 - P: SEP: stopping everything
 - P: SEP: determine if the Linux client is listed on SEPM
-
 - P: A: test script update
 - P: Decom w/o deleted sever
 - P: Test Instance Metadata: curl http://169.254.169.254/latest/meta-data/ 
