@@ -162,7 +162,7 @@ VIE:
 - Setup GNOME @T420
 - T60p: Change/ oil fan
 - Plex -> Roku
-- S10 -> FMovies -> Chromecast
+
 
 
 
