@@ -157,6 +157,7 @@ VIE:
 - Batts: W530 | X140E
 
 - ATM Gal -> Exp
+- ChK Val -> Exp OK [?]
 - ATM
 - Velas | botellitas
 
