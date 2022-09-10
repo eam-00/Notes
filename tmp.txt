@@ -159,7 +159,7 @@ LUN:
 
 
 - ATM Gal -> Exp
-- ChK Val -> Exp OK [?]
+
 - ATM
 - Velas | botellitas
 
