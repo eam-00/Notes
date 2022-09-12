@@ -19,7 +19,7 @@ Start > Control Panel > System and Maintenance > Backup and Restore > Set up bac
 - El Bocado:
   - 150 J
   - 100 Q
-  - Salchicha
+ 
 
 - La Bolognesa:
   - 2 Ricotta
