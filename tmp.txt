@@ -29,7 +29,7 @@ Start > Control Panel > System and Maintenance > Backup and Restore > Set up bac
 
 DOM:
 - Get: Chocotorta
-- Get: Croquetas
+
 - Modem: ChK USB | Model |
 
 
