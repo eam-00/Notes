@@ -160,7 +160,7 @@ JUE:
 
 
 - ATM
-- Velas | botellitas
+
 - Batts: X220 -> X2202 | 11e
 - resize Windows [????]
 
