@@ -161,7 +161,7 @@ MIE:
 
 - ATM
 - Velas | botellitas
-- Batts: X220 -> X2202
+- Batts: X220 -> X2202 | 11e
 
 
 
