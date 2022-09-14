@@ -164,7 +164,6 @@ MIE:
 - ATM
 - Velas | botellitas
 
-- M: Dejar Tupper
 
 
 
