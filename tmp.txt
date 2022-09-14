@@ -222,7 +222,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar cardiologo
 
   -----
-- Carre: Azucar |  Cerealitas | Manteca | Queso Cremoso | Bolsitas
+- Carre: Azucar |  Cerealitas | Manteca | Queso Cremoso | Bolsitas | Fruta
   -----
 
 
