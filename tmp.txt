@@ -137,6 +137,7 @@ VIE:
 ---
 - C: TS
 - P: A: ChK SEP VD -> Force update before running updater -> get log
+- P: A: Get latest list
 - P: Will -> Call
 - P: Send doc remove podman
 - P: Solaris patc: debrief
