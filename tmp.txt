@@ -163,7 +163,7 @@ JUE:
 
 
 - ATM
-
+- ATM: Dep -> Pinto [?]
 
 - resize Windows [????]
 
