@@ -134,6 +134,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
+- P: Will -> Call
 - P: Send doc remove podman
 - P: Solaris patc: debrief
 - P: canvas Syslogs -> Finished [?????]
