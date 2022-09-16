@@ -140,7 +140,7 @@ VIE:
 - P: A: Get latest list
 
 - P: Will -> Call
-- P: Setup CHGs for ID leftover + re-install
+
 - P: SL: no messages [??] -> ChK hosts
 - P: Send doc remove podman
 - P: Solaris patc: debrief
