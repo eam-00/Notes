@@ -135,7 +135,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
-- C: TS
+
 - P: A: ChK SEP VD -> Force update before running updater -> get log
 - P: A: Get latest list
 - P: update status OB [?????]
