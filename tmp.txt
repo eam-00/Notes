@@ -147,6 +147,7 @@ VIE:
 - P: canvas Syslogs -> Finished [?????]
 - C: Courses
 - P: A: test script update
+- P: Test script -> cat files || zip files
 - P: Decom w/o deleted sever
 - P: Test Instance Metadata: curl http://169.254.169.254/latest/meta-data/ 
 - P: Add SMARTs -> Ask Dom
