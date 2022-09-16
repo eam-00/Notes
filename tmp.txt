@@ -138,7 +138,7 @@ VIE:
 
 - P: A: ChK SEP VD -> Force update before running updater -> get log
 - P: A: Get latest list
-- P: update status OB [?????]
+
 - P: Will -> Call
 - P: Setup CHGs for ID leftover + re-install
 - P: SL: no messages [??] -> ChK hosts
