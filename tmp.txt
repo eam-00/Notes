@@ -140,7 +140,7 @@ LUN:
 
 - P: A: Get latest list
 
-- P: Will -> Call
+- P: A: Will -> RAM | -> SEP
 
 - P: SL: no messages [??] -> ChK hosts
 - P: Send doc remove podman
