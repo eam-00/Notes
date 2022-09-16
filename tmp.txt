@@ -140,6 +140,7 @@ VIE:
 - P: A: Get latest list
 - P: update status OB [?????]
 - P: Will -> Call
+- P: Setu CHGs for ID leftover + re-install
 - P: Send doc remove podman
 - P: Solaris patc: debrief
 - P: canvas Syslogs -> Finished [?????]
