@@ -140,7 +140,6 @@ LUN:
 
 - P: A: Get latest list
 - P: A: Will -> RAM | -> SEP
-
 - P: SL: no messages [??] -> ChK hosts
 - P: Send doc remove podman
 - P: Solaris patc: debrief
