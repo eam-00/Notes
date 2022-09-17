@@ -139,7 +139,6 @@ LUN:
 
 
 - P: A: Get latest list
-
 - P: A: Will -> RAM | -> SEP
 
 - P: SL: no messages [??] -> ChK hosts
