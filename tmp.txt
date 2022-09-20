@@ -153,7 +153,6 @@ MIE:
 
 
 - P: A: Get latest list
-
 - P: SL: no messages [??] -> ChK hosts
 - P: Send doc remove podman
 - P: Solaris patc: debrief
