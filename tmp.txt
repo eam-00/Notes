@@ -168,8 +168,6 @@ MIE:
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
 - P: A: Decom pentest server [???]
-
-
 - P: PDF Symantec
 - P: Follow up John - Install NetWorker
 - Tienda Outdoor - Godoy Cruz 2958 - 3149 9051 - Sab: Hasta 15 hrs - Lun Vie: Hasta 19 hrs >> LLAMAR <<
