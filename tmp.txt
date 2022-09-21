@@ -168,7 +168,7 @@ MIE:
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
 - P: A: Decom pentest server [???]
-- P: SEP Repository Note
+
 - P: A / E: SEP Repo no matter what
 - P: PDF Symantec
 - P: Follow up John - Install NetWorker
