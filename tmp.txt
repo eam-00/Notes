@@ -177,7 +177,7 @@ JUE:
 - ATM
 
 - Batt: 11e
-- Charge: Kindles | Samsung S8 | Samsung S10
+- Charge: Kindles | Samsung S8 | 
 
 
 
