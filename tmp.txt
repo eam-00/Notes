@@ -151,6 +151,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
+- P: Court -> SEP [PUSH]
 - P: A: Get latest list
 - P: SL: no messages [??] -> ChK hosts
 - P: Send doc remove podman
