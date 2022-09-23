@@ -150,7 +150,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
-
 - P: RH -> ACK
 - P: A: Get latest list
 - P: SL: no messages [??] -> ChK hosts
