@@ -177,7 +177,7 @@ VIE:
 
 - ATM
 - M: Tuppers | Card | 
-- P: TS
+
 - Test subs -> USB 128
 
 
