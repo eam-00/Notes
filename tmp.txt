@@ -177,7 +177,7 @@ VIE:
 - ATM
 - P: TS
 
-- Batt: 11e
+
 - Charge: KDB Bluetooth
 
 
