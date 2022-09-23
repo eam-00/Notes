@@ -178,7 +178,7 @@ VIE:
 - P: TS
 
 
-- Charge: KDB Bluetooth
+
 
 
 
