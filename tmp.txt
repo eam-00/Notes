@@ -156,7 +156,7 @@ VIE:
 - P: SL: no messages [??] -> ChK hosts
 - P: Send doc remove podman
 - P: Solaris patc: debrief
-- P: canvas Syslogs -> Finished [?????]
+
 - C: Courses
 - P: Test script -> cat files || zip files
 - P: Decom w/o deleted sever
