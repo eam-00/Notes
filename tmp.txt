@@ -149,7 +149,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 ---
-VIE:
+LUN:
 ---
 
 - P: RH -> ACK
