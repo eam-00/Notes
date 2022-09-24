@@ -158,7 +158,6 @@ LUN:
 - P: SL: no messages [??] -> ChK hosts
 - P: Send doc remove podman
 - P: Solaris patc: debrief
-
 - C: Courses
 
 - P: Decom w/o deleted sever
