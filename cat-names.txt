@@ -7,3 +7,5 @@ Possible cat names:
 - huájei - Azabache Suave
 - Fidelio
 - Antlers
+- Murray
+
