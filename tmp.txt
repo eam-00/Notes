@@ -156,6 +156,7 @@ LUN:
 ---
 - P: A: SEP: CHG: Change date -> PUSH
 - P: A: SEP: List -> Excel
+- P: A: SEP: List Swap
 - P: A: SEP: Test EICAR
 - P: RH -> ACK
 - P: A: Get latest list
