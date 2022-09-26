@@ -196,7 +196,7 @@ LUN:
 
 
 
-- T60p: Change/ oil fan
+
 
 
 
