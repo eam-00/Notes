@@ -197,7 +197,7 @@ LUN:
 
 
 - T60p: Change/ oil fan
-- Plex -> Roku
+
 
 
 
