@@ -156,7 +156,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 LUN:
 ---
 - C: L: -> Resource Out
-- P: A: SEP: CHG: Change date -> PUSH
+
 - P: A: SEP: List -> Excel
 - P: A: SEP: List Swap
 - P: A: SEP: Test EICAR
