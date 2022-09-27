@@ -155,7 +155,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MAR:
 ---
-
+- P: Miss G -> DRAC stuff [?]
 
 - P: A: SEP: List -> Excel
 - P: A: SEP: List Swap
