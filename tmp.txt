@@ -155,7 +155,7 @@ MAR:
 ---
 
 - P: Test Glue Logs live
-- P: A: SEP install
+
 - P: A: SEP: List -> Excel
 - P: A: SEP: List Swap
 - P: A: SEP: Test EICAR
