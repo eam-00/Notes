@@ -153,7 +153,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MAR:
 ---
-- P: Miss G -> DRAC stuff [?]
+
 - P: Test Glue Logs live
 - P: A: SEP install
 - P: A: SEP: List -> Excel
