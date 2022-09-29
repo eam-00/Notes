@@ -157,7 +157,7 @@ VIE:
 
 
 - P: A: SEP: List Swap
-- P: A: SEP: Test EICAR
+
 - P: Send AR Holidays
 - P: RH -> ACK
 - P: A: Get latest list
