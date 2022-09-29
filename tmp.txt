@@ -158,7 +158,7 @@ VIE:
 
 - P: A: SEP: List Swap
 
-- P: Send AR Holidays
+
 - P: RH -> ACK
 - P: A: Get latest list
 - P: SL: no messages [??] -> ChK hosts
