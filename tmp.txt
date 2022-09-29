@@ -149,6 +149,9 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
+- P: John DRAC
+
+
 - P: A: Swappiness -> Email
 - P: Test Glue Logs live
 
