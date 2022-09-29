@@ -153,7 +153,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MIE:
 ---
-
 - P: A: Swappiness -> Email
 - P: Test Glue Logs live
 
