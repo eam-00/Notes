@@ -153,7 +153,7 @@ VIE:
 - P: Court
 
 - P: A: Swappiness -> Email
-- P: Test Glue Logs live
+
 
 
 - P: A: SEP: List Swap
