@@ -151,7 +151,7 @@ VIE:
 ---
 - P: John DRAC -> Test with IE
 - P: Court
-- M: SSL Cert
+
 - P: A: Swappiness -> Email
 - P: Test Glue Logs live
 
