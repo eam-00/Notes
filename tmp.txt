@@ -150,7 +150,7 @@ LUN:
 - P: DRAC CHG extend
 - P: John DRAC -> Test with IE
 - P: Court
-- P: A: Swappiness -> Email
+- P: A: Swappiness -> Email [PUSH]
 
 
 
