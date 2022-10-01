@@ -158,7 +158,7 @@ LUN:
 - P: A: SEP: List Swap
 
 
-- P: RH -> ACK
+
 - P: A: Get latest list
 - P: SL: no messages [??] -> ChK hosts
 - P: Send doc remove podman
