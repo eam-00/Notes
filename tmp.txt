@@ -154,9 +154,6 @@ LUN:
 - P: Court
 - P: A: Swappiness -> Email [PUSH]
 - P: A: SEP: List Swap
-
-
-
 - P: A: Get latest list
 - P: SL: no messages [??] -> ChK hosts
 - P: Send doc remove podman
