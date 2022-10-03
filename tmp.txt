@@ -149,7 +149,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MAR:
 ---
-- P: DRAC CHG extend
+- P: DRAC CHG -> Hosts [?]
 - P: John DRAC -> Test with IE
 - P: Court
 - P: A: Swappiness -> Email [PUSH]
