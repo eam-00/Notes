@@ -147,7 +147,7 @@ MIE:
 - P: DRAC CHG -> Hosts [?]
 - P: John DRAC -> Test with IE
 - P: Court
-- P: A: Swappiness -> Setup CHG
+
 - P: A: SEP: List Swap
 - P: A: Get latest list
 - P: SL: no messages [??] -> ChK hosts
