@@ -144,6 +144,7 @@ MIE:
 ---
 - P: DRAC -> Reboot [???]
 - P: A: install SEP on 3 servers [????]
+- P: A: Servers MongoDB List -> Reboot Proc
 - P: John DRAC -> Test with IE
 - P: A: SEP Auto updates -> [???????]
 - P: Court
