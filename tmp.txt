@@ -166,7 +166,7 @@ JUE:
 - P: Follow up John - Install NetWorker
 - Tienda Outdoor - Godoy Cruz 2958 - 3149 9051 - Sab: Hasta 15 hrs - Lun Vie: Hasta 19 hrs >> LLAMAR <<
 
-- Batts: 11e | S8 | S10 
+- Batts: 11e | S8
 - ATM
 - XRBS
 - Check Carrefour
