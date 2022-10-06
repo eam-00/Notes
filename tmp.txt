@@ -159,7 +159,6 @@ JUE:
 - P: Add SMARTs -> Ask Dom
 - P: A: SEP revert logs
 - Telecom: Chk Facturas
-
 - P: Syslog swap file
 - P: Syslog: Disable Audit
 - P: ChK OLVM video
