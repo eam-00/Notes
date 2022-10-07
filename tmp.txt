@@ -170,7 +170,7 @@ VIE:
 - XRBS
 - Check Carrefour
 - Tuppers
-- Blog
+
 
 - ChK Bcos
 
