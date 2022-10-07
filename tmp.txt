@@ -172,6 +172,7 @@ VIE:
 - Check Carrefour
 - Tuppers
 - Blog
+- $
 - ChK Bcos
 
 
