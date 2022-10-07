@@ -173,7 +173,7 @@ VIE:
 - XRBS
 - Check Carrefour
 - Tuppers
-- Setup OOO
+
 
 
 
