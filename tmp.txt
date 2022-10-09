@@ -1,9 +1,6 @@
 -----
   N:
 -----
-
-
-
 - Bolsitas
 - Mermeladas
 - Tierra [???]
