@@ -21,7 +21,7 @@ El Bocado:
 Verduleria:
  - Papas
  - Mandarinas
- - Carbon [??]
+
 
 - Print Carrefour
  
