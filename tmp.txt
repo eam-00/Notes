@@ -175,7 +175,7 @@ MAR:
 - PF
 - ATM
 - XRBS
-- Check Carrefour
+
 - Tuppers
 
 
