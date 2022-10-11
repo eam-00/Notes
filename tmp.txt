@@ -154,7 +154,7 @@ MAR:
 - P: A: Servers MongoDB List -> Reboot Proc
 - P: John DRAC -> Test with IE
 - P: A: SEP Auto updates -> [???????]
-- P: Court
+- P: Court -> Access SEPM
 - P: A: SEP: List Swap
 - P: A: Get latest list
 - P: SL: no messages [??] -> ChK hosts
