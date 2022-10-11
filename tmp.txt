@@ -178,7 +178,7 @@ MAR:
 - PF
 - Print Carrefour
 - ATM
-
+- Lavanderia
 
 
 - Tuppers
