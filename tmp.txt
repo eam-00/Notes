@@ -176,7 +176,7 @@ MIE:
 
 - Print Carrefour
 - ATM
-- Lavanderia
+
 
 
 - Tuppers
