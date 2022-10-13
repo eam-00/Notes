@@ -179,6 +179,7 @@ JUE:
 
 - Print Carrefour
 - ATM
+- Tuppers
 
 
 
