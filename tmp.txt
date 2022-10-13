@@ -150,7 +150,7 @@ JUE:
 - P: QA
 - P: D: Patch & Reboot
 - P: A: Setup CHG swappiness
-- P: CHGs -> SEP install -> 3 missing -> Prod
+- P: CHGs -> SEP install extend or whatever the fuck
 - P: A: install SEP on 3 servers [????]
 - P: A: Servers MongoDB List -> Reboot Proc
 - P: John DRAC -> Test with IE
