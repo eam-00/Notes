@@ -148,7 +148,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 - P: QA
-- P: D: Patch & Reboot
+
 
 
 - P: A: install SEP on 3 servers [????]
