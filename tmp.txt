@@ -156,7 +156,7 @@ LUN:
 - P: A: Servers MongoDB List -> Reboot Proc
 - P: John DRAC -> Test with IE
 
-- P: Court -> Access SEPM -> VD updates
+- P: A: Court -> Access SEPM -> VD updates
 - P: A: SEP: List Swap
 - P: A: Get latest list
 - P: SL: no messages [??] -> ChK hosts
