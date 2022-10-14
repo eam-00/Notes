@@ -149,7 +149,7 @@ VIE:
 ---
 - C; TS
 - P: QA
-
+- P: Kevin: ChK vaina Syslog
 
 
 - P: A: install SEP on 3 servers [????]
