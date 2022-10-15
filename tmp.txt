@@ -258,7 +258,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar cardiologo
 
   -----
-- Carre: Fosforos | Azucar | Leches | Yogurts | Pan | 
+- Carre: Fosforos | Azucar | Leches | Yogurts |
   -----
 
 
