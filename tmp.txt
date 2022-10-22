@@ -182,7 +182,7 @@ LUN:
 
 - Llamar inet SCDT
 - ATM
-- Tuppers
+
 
 
 
