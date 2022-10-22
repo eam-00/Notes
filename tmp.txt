@@ -153,7 +153,7 @@ LUN:
 ---
 - P: QA
 - P: Syslog
-
+- P: A: ChK compress logs -> CHG
 
 - P: A: install SEP on 3 servers [????]
 - P: A: Servers MongoDB List -> Reboot Proc
