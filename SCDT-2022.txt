@@ -4,8 +4,8 @@
 + P. Higienico
 + J. Barra
 
-. Alcohol
-. Algodon
++ Alcohol
++ Algodon
 
 -----
 ATCCO
