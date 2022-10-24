@@ -29,7 +29,7 @@ Dos tipos de servicio:
 
  - Prepago:
    -------
-8.900 Pesos Instalacion
+9.900 Pesos Instalacion
 y luego se recarga
 
 
@@ -43,6 +43,7 @@ y luego se recarga
 7  dias 2.000 Pesos
 30 dias 5.000 Pesos
 
+App: Mi ATTCO / Prepago
 
 -----
 Cable:
