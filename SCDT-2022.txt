@@ -30,7 +30,7 @@ Dos tipos de servicio:
 
  - Prepago:
    -------
-9.900 Pesos Instalacion
+9.900 Pesos Instalacion -> Update 25 Oct 2022 [Era 8.900 Pesos]
 y luego se recarga
 
 
