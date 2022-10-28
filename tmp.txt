@@ -179,6 +179,7 @@ LUN:
 - Fravega:
   -------
   SAB - 20 hrs
+  DOM - 18 hrs
   
 - Llamar inet SCDT
 - ATM
