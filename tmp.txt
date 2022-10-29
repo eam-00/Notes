@@ -150,6 +150,8 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
+- Edenor
+
 - P: QA -> SMARTS
 - P: Syslog
 - P: A: install SEP on 3 servers [????]
