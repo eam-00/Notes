@@ -23,6 +23,7 @@ _ BDUs
 . Fosforos
 . Diarios
 . Espirales
+- Spray aracnido
 - Zapatilla electrica
 
 -----
