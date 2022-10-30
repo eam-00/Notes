@@ -4,6 +4,11 @@ NAT:
 - Palita/ Atizador -> Asado
 - Guantes
 
+_ Pantalones
+_ Calzones
+_ Medias
+
+
 - Azucar
 - Leches
 - Jugos [?]
