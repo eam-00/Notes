@@ -1,5 +1,6 @@
-__ YUM:
-On Red Hat Enterprise Linux 8, installing software is ensured by the new version of the YUM tool, which is based on the DNF technology (YUM v4).
+__ YUM:  
+On Red Hat Enterprise Linux 8, installing software is ensured by the new version of the YUM tool, which is based on the DNF technology (YUM v4).  
+Usage of YUM has not been changed when handling individual RPM packages. For handling the modular content, the yum module command has been added
 
 
 __ RHEL 8 Module:
@@ -7,6 +8,8 @@ A module is a set of RPM packages that represent a component and are usually ins
 
 
 __ Application streams:
+
+
 
 Python 3.6 is the default Python implementation in RHEL 8
 
