@@ -1,7 +1,7 @@
 NAT:
 ---
 - Hacha
-- 
+- Palita/ Atizador -> Asado
 
 - Azucar
 - Leches
