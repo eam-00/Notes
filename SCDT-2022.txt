@@ -2,6 +2,7 @@ NAT:
 ---
 - Hacha
 - Palita/ Atizador -> Asado
+- Guantes
 
 - Azucar
 - Leches
