@@ -3,6 +3,7 @@ NAT:
 - Hacha
 - Palita/ Atizador -> Asado
 - Guantes
+- Roku | HDMIO | Transformador
 
 _ Pantalones
 _ Calzones
