@@ -96,10 +96,10 @@ Sabado hasta
 Pintura:
 
 - Interior
-- Patio: Hidrolavado, revoque y pintura
-- Pintura madera abajo de los tanques de agua
-- Rejas
+- Exterior: Patio y estacionamiento: Hidrolavado, revoque y pintura
+ - Pintura madera abajo de los tanques de agua en el patio
+ - Rejas
 
 - Habitacion frente:
-- Persiana
-- Arreglo tejas
+ - Persiana
+ - Arreglo tejas
