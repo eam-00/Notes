@@ -93,3 +93,4 @@ Pintura:
 
 - Interior
 - Patio: Hidrolavado
+- Rejas
