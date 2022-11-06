@@ -193,7 +193,7 @@ LUN:
 
 SCDT:
  - Cuchillos
- 
+ - Ollas
 
 
 
