@@ -103,3 +103,7 @@ Pintura:
 - Habitacion frente:
  - Persiana
  - Arreglo tejas
+
+------------------------------------------------------
+
+
