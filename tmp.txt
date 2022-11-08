@@ -194,6 +194,7 @@ LUN:
 ---
 JUE:
 ---
+- Tonga -> Setup para Lunes 14 Nov
 
 SCDT:
  - Cuchillos
