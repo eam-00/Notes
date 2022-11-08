@@ -201,7 +201,7 @@ JUE:
 SCDT:
  - Cuchillos
  - Ollas -> Check
-
+ - Precintos
 
 
 
