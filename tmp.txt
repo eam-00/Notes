@@ -203,6 +203,7 @@ SCDT:
  - Ollas -> Check
  - Precintos
  - Porta Papel H
+ - Switcharoo de Cortinas
 
 
 
