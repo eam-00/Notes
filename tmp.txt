@@ -202,6 +202,7 @@ SCDT:
  - Cuchillos
  - Ollas -> Check
  - Precintos
+ - Porta Papel H
 
 
 
