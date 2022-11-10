@@ -209,6 +209,7 @@ SCDT:
  - Switcharoo de Cortinas -> Cortina Rosa
  - Harpic
  - Vallerina
+ - Poxiran -> Mesa de luz cuarto de ninos
 
 
 
