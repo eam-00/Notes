@@ -1,8 +1,8 @@
 -----
   N:
 -----
-- Guita
-
+- -> Guita
+- <- Imprimir TdC
 
 
 - Blue Lights: Charge
