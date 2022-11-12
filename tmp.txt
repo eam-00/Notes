@@ -158,7 +158,7 @@ LUN:
 - M: -> ZOEF
 - Enroll & Start Courses
 - T60p -> Minimal XFCE
-
+- Kindle: sync Kim Stanley Robinson
 
 
 
