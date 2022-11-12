@@ -12,7 +12,7 @@ El Bocado:
 eddi:
 
 - lightdm -> batt %
-
+- GNOME -> Remove games
 
 - Blue Lights: Charge
 - Jugos en polvo [??????]
