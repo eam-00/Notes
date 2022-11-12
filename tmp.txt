@@ -11,6 +11,7 @@ El Bocado:
 
 eddi:
 
+- lightdm -> batt %
 
 
 - Blue Lights: Charge
