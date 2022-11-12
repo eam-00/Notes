@@ -193,7 +193,7 @@ LUN:
 
 - Fravega:
   -------
-  SAB - 20 hrs
+
 
   
 
