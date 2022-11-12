@@ -16,7 +16,7 @@ El Bocado:
 
 eddi:
 
-- lightdm -> batt %
+- XFCE: Lightdm -> batt %
 - GNOME -> Remove games
 
 - Blue Lights: Charge
