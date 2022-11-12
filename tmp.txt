@@ -157,7 +157,7 @@ LUN:
 
 - M: -> ZOEF
 - Enroll & Start Courses
-
+- T60p -> Minimal XFCE
 
 
 
