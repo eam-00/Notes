@@ -2,7 +2,7 @@
   N:
 -----
 
-- -> Guita
+
 - <- Imprimir TdC
 
 El Bocado:
