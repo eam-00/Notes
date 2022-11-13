@@ -4,6 +4,7 @@
 
 
 - <- Imprimir TdC
+- <- Ropa
 
 El Bocado:
  - 1/4 Mozzarella Barrsa
