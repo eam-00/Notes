@@ -16,6 +16,7 @@
 eddi:
 
 - XFCE: Lightdm -> batt %
+- XFCE: Disable touchpad
 - GNOME -> Remove games
 
 - Blue Lights: Charge
