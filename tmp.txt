@@ -166,6 +166,7 @@ LUN:
 - Kindle: sync Kim Stanley Robinson
 - Print TdC
 - ATM
+- Laundry
 
 
 
