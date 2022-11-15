@@ -166,7 +166,7 @@ LUN:
 - Kindle: sync Kim Stanley Robinson
 
 - ATM
-- Laundry
+
 
 
 
