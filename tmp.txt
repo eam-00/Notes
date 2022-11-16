@@ -163,7 +163,7 @@ MIE:
 - M: -> ZOEF
 - Enroll & Start Courses
 - T60p -> Minimal XFCE
-- Kindle: sync Kim Stanley Robinson
+- Kindle: sync Kim Stanley Robinson | The Gold Coast -> 1389
 - ATM
 - ATM
 
