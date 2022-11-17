@@ -20,7 +20,7 @@ eddi:
 - GNOME -> Remove games
 
 - Blue Lights: Charge
-- Jugos en polvo [??????]
+
 
 - Test cursors @Chromebook (https://custom-cursor.com)
 
