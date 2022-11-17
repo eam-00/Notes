@@ -161,6 +161,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 - C: TS
+- Charge Moto G4 Plus
 - M: -> ZOEF
 - Enroll & Start Courses
 
