@@ -9,8 +9,6 @@
 
 
 
-
-
 eddi:
 
 - XFCE: Lightdm -> batt %
