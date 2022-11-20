@@ -2,7 +2,7 @@
   N:
 -----
 
-- Get; broches metalicos
+- Get: broches metalicos
 
 SAB:
 - A. Camacho: Materiales
