@@ -3,6 +3,8 @@
 -----
 
 - Take:
+    Olla
+    
 - Get: broches metalicos
 - Get: servicios p/ pagar
 
