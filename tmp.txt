@@ -176,7 +176,7 @@ MAR:
 
 
 
-- P: QA -> SMARTS
+
 - P: Syslog
 - P: A: install SEP on 3 servers [????]
 - P: A: Servers MongoDB List -> Reboot Proc
