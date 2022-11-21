@@ -4,7 +4,7 @@
 
 - Take:
     Olla
-    
+    Vincha
 - Get: broches metalicos
 - Get: servicios p/ pagar
 
