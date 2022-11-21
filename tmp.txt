@@ -1,7 +1,6 @@
 -----
   N:
 -----
-
 - Take:
     Olla
     Vincha
