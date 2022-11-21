@@ -7,7 +7,7 @@
     Vincha
     Madera [s]
 - Get: broches metalicos
-- Get: servicios p/ pagar
+- Get: Impresion servicios p/ pagar
 
 SAB:
 - A. Camacho: Materiales
