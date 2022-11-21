@@ -2,6 +2,7 @@
   N:
 -----
 
+- Take:
 - Get: broches metalicos
 - Get: servicios p/ pagar
 
