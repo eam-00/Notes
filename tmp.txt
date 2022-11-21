@@ -5,6 +5,7 @@
 - Take:
     Olla
     Vincha
+    Madera [s]
 - Get: broches metalicos
 - Get: servicios p/ pagar
 
