@@ -185,7 +185,7 @@ MAR:
 - P: A: SEP: List Swap
 - P: A: Get latest list
 
-- P: Send doc remove podman
+
 
 - C: Courses
 - P: Decom w/o deleted sever
