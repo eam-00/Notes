@@ -15,7 +15,6 @@ SAB:
 
 
 
-eddi:
 
 - XFCE: Lightdm -> batt %
 - XFCE: Disable touchpad
