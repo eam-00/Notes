@@ -167,7 +167,7 @@ MIE:
 
 
 ---
-MAR:
+MIE:
 ---
 - M: -> ZOEF
 - Enroll & Start Courses
