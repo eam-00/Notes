@@ -180,7 +180,7 @@ MIE:
 
 
 - P: John DRAC -> Test with IE
-- P: A: Court -> Access SEPM -> VD updates
+
 - P: A: SEP: List Swap
 - P: A: Get latest list
 
