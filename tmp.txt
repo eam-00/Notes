@@ -2,7 +2,7 @@
   N:
 -----
 - Take:
-    Olla
+    Olla [?]
     Vincha
     Madera [s]
     Turrones
