@@ -164,6 +164,7 @@ VIE:
 - Enroll & Start Courses
 
 - ATM
+- ChK Bcos
 - Batt: T420 | T410
 
 
