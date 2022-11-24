@@ -165,7 +165,7 @@ VIE:
 
 - ATM
 - ChK Bcos
-- Batt: T420 | T410
+- Batt: T420 | T410 | W530
 
 
 
