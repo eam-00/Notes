@@ -5,7 +5,7 @@
     TdC
     Olla [?]
     Vincha
-    Madera [s]
+    Maderas [?]
     Turrones
 - Get: broches metalicos
 - Get: Impresion servicios p/ pagar
