@@ -20,7 +20,6 @@ SAB:
 
 - Blue Lights: Charge
 
-
 - Test cursors @Chromebook (https://custom-cursor.com)
 
 Start > Control Panel > System and Maintenance > Backup and Restore > Set up backup
