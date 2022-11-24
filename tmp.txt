@@ -167,7 +167,7 @@ JUE:
 - M: -> ZOEF
 - Enroll & Start Courses
 - ATM
-- Batt: T420
+- Batt: T420 | T410
 
 
 
