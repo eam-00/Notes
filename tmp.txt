@@ -172,7 +172,7 @@ JUE:
 
 
 
-- P: John DRAC -> Test with IE
+
 
 - P: A: SEP: List Swap
 - P: A: Get latest list
