@@ -156,6 +156,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
+- TS
 - M: ChK AWS ticket
 - M: Monit -> PyME site
 - M: Rcksp -> Backup -> PyME site
