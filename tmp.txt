@@ -160,7 +160,7 @@ JUE:
 - M: Rcksp -> Backup -> PyME site
 - M: -> ZOEF
 - Enroll & Start Courses
-- Print: TdC
+
 - ATM
 - Batt: T420 | T410
 
