@@ -3,6 +3,7 @@
 -----
 - Take:
     Boleta TdC
+    Tarjeta deb
     Olla [?]
     Vincha
     Maderas [?]
