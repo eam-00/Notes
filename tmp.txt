@@ -159,6 +159,9 @@ VIE:
 - M: Rcksp -> Backup -> PyME site
 - M: -> ZOEF
 - Enroll & Start Courses
+- M:
+ > Tupper
+ 
 - ATM
 - ChK Bcos
 - Batt: T420 | T410 | W530
