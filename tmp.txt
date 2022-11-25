@@ -2,7 +2,7 @@
   N:
 -----
 - Take:
-    TdC
+    Boleta TdC
     Olla [?]
     Vincha
     Maderas [?]
