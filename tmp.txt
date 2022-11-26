@@ -156,7 +156,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
-
+- G: Remove extra account [?]
 - M: ChK AWS ticket
 - M: Monit -> PyME site
 - M: Rcksp -> Backup -> PyME site
