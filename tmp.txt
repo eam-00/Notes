@@ -181,7 +181,7 @@ LUN:
 
 
 - P: A: SEP: List Swap
-- P: A: Get latest list
+
 
 
 
