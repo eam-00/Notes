@@ -14,6 +14,7 @@
 
 SAB:
 - A. Camacho: Materiales
+- El Bocado:
 
 - XFCE: Lightdm -> batt %
 - XFCE: Disable touchpad
