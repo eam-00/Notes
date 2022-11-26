@@ -5,7 +5,7 @@
 
     Tarjeta deb
     Olla [?]
-    Vincha
+
     Maderas [?]
 
 - Get: broches metalicos
