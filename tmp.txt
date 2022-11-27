@@ -152,6 +152,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 DOM:
 ---
 - TD Gal: instructions
+- Get: SCDT: contract + keys -> Jan 2023
 - TRRTs:
         - The Rachel Papers
         - Goodnight Oppie
