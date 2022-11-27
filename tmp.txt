@@ -151,6 +151,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 DOM:
 ---
+- Pic Singer -> PhaserBook
 - TD Gal: instructions
 - Get: SCDT: contract + keys -> Jan 2023
 - Get: Impresion servicios p/ pagar
