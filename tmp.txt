@@ -153,6 +153,7 @@ DOM:
 ---
 - TD Gal: instructions
 - Get: SCDT: contract + keys -> Jan 2023
+- Get: Impresion servicios p/ pagar
 - TRRTs:
         - The Rachel Papers
         - Goodnight Oppie
