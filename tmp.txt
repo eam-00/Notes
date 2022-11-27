@@ -7,7 +7,7 @@
 
     Maderas [?]
 
-- Get: broches metalicos
+
 - Get: Impresion servicios p/ pagar
 - Get: SCDT: contract + keys -> Jan 2023
 
