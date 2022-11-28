@@ -171,7 +171,7 @@ LUN:
 
 - M: Lavanderia.
 
-
+- PagoFacil -> Nati +
 - ATM
 - Batt: T420 | T410 | W530
 
