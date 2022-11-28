@@ -2,7 +2,7 @@
   N:
 -----
 - Take:
-
+  - Boletas pagas
 
 - Get:
    - SCDT: contract + keys -> Jan 2023
