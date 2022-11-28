@@ -168,7 +168,8 @@ LUN:
 - M: Rcksp -> Backup -> PyME site
 - M: -> ZOEF
 - Enroll & Start Courses
-- M:
+
+- M: Lavanderia.
 
 
 - ATM
