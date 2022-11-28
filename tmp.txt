@@ -155,7 +155,7 @@ DOM:
 - Pic Singer -> PhaserBook
 
 
-- Get: Impresion servicios p/ pagar
+
 
 
 
