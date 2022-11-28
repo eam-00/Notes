@@ -174,6 +174,7 @@ LUN:
 - PagoFacil -> Nati +
 - ATM
 - C: German -> Meet tomorrow [?]
+- C: Re-submit TS
 - Batt: T420 | T410 | W530
 
 
