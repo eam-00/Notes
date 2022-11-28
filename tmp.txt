@@ -170,7 +170,7 @@ LUN:
 - M: -> ZOEF
 - Enroll & Start Courses
 
-- M: Lavanderia.
+
 
 - PagoFacil -> Nati +
 - ATM
