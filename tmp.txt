@@ -4,7 +4,7 @@
 - Take:
 
 
-
+- Get: SCDT: contract + keys -> Jan 2023
     Maderas [?]
 
 
@@ -153,7 +153,7 @@ DOM:
 ---
 - Pic Singer -> PhaserBook
 
-- Get: SCDT: contract + keys -> Jan 2023
+
 - Get: Impresion servicios p/ pagar
 - TRRTs:
         - The Rachel Papers
