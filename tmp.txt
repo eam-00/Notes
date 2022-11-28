@@ -157,7 +157,7 @@ DOM:
 - Get: Impresion servicios p/ pagar
 - TRRTs:
         - The Rachel Papers
-        - Goodnight Oppie
+
 
 ---
 LUN:
