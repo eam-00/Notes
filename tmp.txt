@@ -4,7 +4,8 @@
 - Take:
 
 
-- Get: SCDT: contract + keys -> Jan 2023
+- Get:
+   - SCDT: contract + keys -> Jan 2023
     Maderas [?]
 
 
