@@ -176,7 +176,7 @@ MAR:
 
 
 
-- PagoFacil -> Nati +
+
 - ATM
 - C: German -> Meet tomorrow [?]
 - C: Re-submit TS
