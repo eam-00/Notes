@@ -167,7 +167,7 @@ DOM:
 ---
 MAR:
 ---
-- G: Remove extra account [?]
+
 - M: ChK AWS ticket
 - M: Monit -> PyME site
 - M: Rcksp -> Backup -> PyME site
