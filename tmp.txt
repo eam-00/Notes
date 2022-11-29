@@ -179,7 +179,7 @@ MAR:
 
 - ATM
 - M: Tupper
-- C: Re-submit TS
+
 - Batt: T420 | T410 | W530
 
 
