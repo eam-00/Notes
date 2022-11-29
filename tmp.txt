@@ -22,7 +22,6 @@ SAB:
 
 
 
-
 - XFCE: Lightdm -> batt %
 - XFCE: Disable touchpad
 - GNOME -> Remove games
@@ -167,7 +166,6 @@ DOM:
 ---
 MIE:
 ---
-
 - M: ChK AWS ticket
 - M: Monit -> PyME site
 - M: Rcksp -> Backup -> PyME site
