@@ -4,6 +4,7 @@
 ----
 SAB:
 ----
+
 - Take:
   - Boletas pagas
   - Maderas [?]
@@ -19,7 +20,7 @@ SAB:
 
 - A. Camacho: Materiales
 
-- Emi: Queso Cremoso
+
 
 - XFCE: Lightdm -> batt %
 - XFCE: Disable touchpad
