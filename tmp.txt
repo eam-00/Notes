@@ -3,10 +3,11 @@
 -----
 - Take:
   - Boletas pagas
+  - Maderas [?]
 
 - Get:
    - SCDT: contract + keys -> Jan 2023
-    Maderas [?]
+
 
 
 
