@@ -177,7 +177,7 @@ MIE:
 - ATM
 
 
-- Batt: T420 | T410 | W530
+- Batt: T420  | W530
 
 
 
