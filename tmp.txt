@@ -8,6 +8,7 @@ SAB:
 
 - Take:
   - Boletas pagas
+  - Bolsitas
   - Maderas [?]
 
 - Get:
