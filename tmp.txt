@@ -163,7 +163,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ---
 - Pic Singer -> PhaserBook
-- M: ChK AWS ticket
+- M: Migrate emails [?]
 - M: Monit -> PyME site
 - M: Rcksp -> Backup -> PyME site
 - M: -> ZOEF
