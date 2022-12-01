@@ -5,6 +5,7 @@
 SAB:
 ----
 - A. Camacho: Materiales [?]
+- Blue Lights: Charge
 
 - Take:
   - Boletas pagas
@@ -26,7 +27,7 @@ SAB:
 - XFCE: Disable touchpad
 - GNOME -> Remove games
 
-- Blue Lights: Charge
+
 
 - Test cursors @Chromebook (https://custom-cursor.com)
 
