@@ -10,6 +10,7 @@ SAB:
 
 - Take:
   - Boletas pagas
+  - Desodorante ineficiente
   - Bolsitas
   - Maderas [?]
 
