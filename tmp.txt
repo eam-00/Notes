@@ -176,7 +176,7 @@ JUE:
 
 - ATM
 
-
+- Limpiar casita
 - Batt: T420  | W530
 
 
