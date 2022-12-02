@@ -166,7 +166,7 @@ VIE:
 ---
 - ATM
 - ChK Bcos
-- Pic Singer -> PhaserBook
+
 - M: Migrate emails [?]
 - M: Shutdown server [?]
 - M: Monit -> PyME site
