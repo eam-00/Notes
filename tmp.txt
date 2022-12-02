@@ -181,7 +181,7 @@ VIE:
 
 
 
-- Batt: 11e | T410 [Large]
+- Batt: 11e | T410 [Large] | AA batts | 
 
 
 
