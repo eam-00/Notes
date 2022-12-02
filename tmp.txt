@@ -11,6 +11,7 @@ SAB:
 
 - Take:
   - Pechugas
+  - Manies
   - Boletas pagas
   - Desodorante ineficiente
   - Bolsitas
