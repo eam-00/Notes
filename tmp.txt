@@ -164,6 +164,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
+- ChK Bcos
 - Pic Singer -> PhaserBook
 - M: Migrate emails [?]
 - M; Shutdown server [?]
