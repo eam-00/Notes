@@ -6,6 +6,7 @@ SAB:
 ----
 - Pics: Paint job
 - Pics: Singer -> PhaserBook
+- Print Edenor
 - SCDT: A. Camacho -> Materiales [?]
 - Blue Lights: Charge
 
