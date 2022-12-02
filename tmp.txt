@@ -167,7 +167,7 @@ VIE:
 - ChK Bcos
 - Pic Singer -> PhaserBook
 - M: Migrate emails [?]
-- M; Shutdown server [?]
+- M: Shutdown server [?]
 - M: Monit -> PyME site
 - M: Rcksp -> Backup -> PyME site
 - M: -> ZOEF
@@ -176,7 +176,7 @@ VIE:
 
 
 
-- ATM
+
 
 
 - Batt: 11e | T410 [Large]
