@@ -177,7 +177,7 @@ VIE:
 
 - ATM
 
-- Limpiar casita
+
 - Batt: 11e | T410 [Large]
 
 
