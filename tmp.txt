@@ -4,7 +4,7 @@
 ----
 SAB:
 ----
-- Take Pics
+- Pics: Paint job
 - Pics: Singer -> PhaserBook
 - SCDT: A. Camacho -> Materiales [?]
 - Blue Lights: Charge
