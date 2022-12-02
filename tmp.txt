@@ -171,7 +171,7 @@ VIE:
 - M: Migrate emails [?]
 - M: Shutdown server [?]
 - M: Monit -> PyME site
-- M: Rcksp -> Backup -> PyME site
+
 - M: -> ZOEF
 - Enroll & Start Courses
 
