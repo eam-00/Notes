@@ -313,9 +313,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
   -----
 - Carre: Dentifrico | Agua | PortSalut | 
-
   -----
-
 
 
 
