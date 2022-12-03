@@ -26,7 +26,7 @@ El Bocado:
 ---------
 
 Verduleria:
-
+----------
 
 
 - XFCE: Lightdm -> batt %
@@ -188,7 +188,7 @@ LUN:
 
 
 
-- Batt: T410 [Large] | AA batts | S8 | S
+- Batt: T410 [Large] | AA batts | 
 
 
 
