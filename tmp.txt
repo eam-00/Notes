@@ -182,6 +182,7 @@ VIE:
 
 - Laundry
 - city stuffs
+- Get ATM
 
 
 - Batt: T410 [Large] | AA batts | S8 | S
