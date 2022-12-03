@@ -182,9 +182,7 @@ LUN:
 
 - PF [?]
 - w530: install Debian
-- Laundry
-- city stuffs
-- Get ATM
+
 
 
 - Batt: T410 [Large] | AA batts | S8 | S
