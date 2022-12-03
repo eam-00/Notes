@@ -312,7 +312,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar cardiologo
 
   -----
-- Carre: Dentifrico | Agua | 
+- Carre: Dentifrico | Agua | PortSalut | 
 
   -----
 
