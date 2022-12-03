@@ -171,7 +171,9 @@ LUN:
 ---
 
 - ATM
-
+- Laundry
+- city stuffs
+- Get ATM
 
 - M: Migrate emails [?]
 - M: Shutdown server [?]
