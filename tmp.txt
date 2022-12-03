@@ -179,7 +179,7 @@ VIE:
 - Enroll & Start Courses
 
 
-
+- w530: install Debian
 - Laundry
 - city stuffs
 - Get ATM
