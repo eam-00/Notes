@@ -169,7 +169,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 - ATM
-- ChK Bcos
+
 
 - M: Migrate emails [?]
 - M: Shutdown server [?]
