@@ -11,7 +11,7 @@ SAB:
 - Blue Lights: Charge
 
 - Take:
-  - Pechugas
+
   - Manies
   - Boletas pagas
   - Desodorante ineficiente
@@ -19,6 +19,7 @@ SAB:
   - Maderas [?]
 
 - Get:
+   - Pechugas
    - SCDT: contract + keys -> Jan 2023
    - Empanadas
 
