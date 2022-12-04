@@ -27,7 +27,7 @@ SAB:
 
 
 Verduleria:
-----------
+
 
 
 - XFCE: Lightdm -> batt %
