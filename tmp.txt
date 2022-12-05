@@ -23,7 +23,7 @@ SAB:
    - Pechugas
    - SCDT: contract + keys -> Jan 2023
    - Empanadas
-   - Tarta
+
 
 
 
