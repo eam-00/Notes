@@ -172,7 +172,7 @@ DOM:
 ---
 LUN:
 ---
-- WP: Inq Jan 2023 SCDT
+
 - ATM
 - Laundry
 - Desodorante
