@@ -175,7 +175,7 @@ LUN:
 
 - ATM
 
-- Desodorante
+
 - city stuffs
 - Get ATM
 - M: Cert SSL -> RdP
