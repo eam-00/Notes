@@ -174,7 +174,7 @@ LUN:
 ---
 
 - ATM
-- Laundry
+
 - Desodorante
 - city stuffs
 - Get ATM
