@@ -14,7 +14,7 @@ SAB:
   - TSG
 
 
-  - Boletas pagas
+
   - Desodorante ineficiente
 
   - Maderas [?]
