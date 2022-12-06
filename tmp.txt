@@ -13,7 +13,7 @@ SAB:
 - Take:
   - TSG
 
-  - Manies
+
   - Boletas pagas
   - Desodorante ineficiente
   - Bolsitas
