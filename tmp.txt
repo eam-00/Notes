@@ -189,7 +189,7 @@ JUE:
 LUN:
 
 - PF
-
+- Push V -> Expensas
 
 
 
