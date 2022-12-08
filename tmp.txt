@@ -172,7 +172,7 @@ JUE:
 - city stuffs
 - Pics: Singer -> PhaserBook
 
-- M: Migrate emails [?]
+
 - M: Shutdown server [?]
 - M: Monit -> PyME site
 - M: -> ZOEF
