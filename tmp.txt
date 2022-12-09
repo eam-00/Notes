@@ -5,7 +5,8 @@
 SAB:
 ----
 
-
+El Bocado:
+ - Chorizos
 
 - SCDT: A. Camacho -> Materiales [?]
 
