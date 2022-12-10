@@ -11,7 +11,8 @@ El Bocado:
 
  - Chorizos
 
-- Pan
+Demilune:
+  - 1/2 Kg Pan
 - Yogurt
 
 - SCDT: A. Camacho -> Materiales [?]
