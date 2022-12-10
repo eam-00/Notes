@@ -173,7 +173,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
-
+- PF
 
 - ATM
 - Ferreteria: Topetin silla | Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
