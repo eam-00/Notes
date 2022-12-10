@@ -190,7 +190,7 @@ LUN:
 
 
 
-- Batt: | AA batts | 
+
 
 
 
