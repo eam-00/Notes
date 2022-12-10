@@ -190,7 +190,7 @@ LUN:
 
 
 
-- Batt: T410 [Large] | AA batts | 
+- Batt: | AA batts | 
 
 
 
