@@ -196,7 +196,7 @@ LUN:
 ---
 LUN:
 ---
-- PF
+
 - Push V -> Expensas
 
 
