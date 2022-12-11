@@ -48,7 +48,7 @@ Leave:
 - Ebook Poe
 
 Get:
-
+  - Pechugas
 
 
 - XFCE: Lightdm -> batt %
