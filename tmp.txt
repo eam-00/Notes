@@ -4,6 +4,8 @@
 ----
 SAB:
 ----
+Take:
+ - Boonie Hat p/ Nati
 
 ---------
 El Bocado:
