@@ -49,6 +49,7 @@ Leave:
 
 Get:
   - Pechugas
+  - Carne/ Papas
 
 
 - XFCE: Lightdm -> batt %
