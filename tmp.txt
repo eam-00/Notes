@@ -46,7 +46,7 @@ Take:
 
 
 Get:
-  - Pechugas
+
 
 
 
