@@ -190,6 +190,7 @@ LUN:
 ---
 - PF
 - Push V -> Expensas
+- Print TC Nati
 - ATM
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 - city stuffs
