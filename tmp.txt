@@ -19,7 +19,7 @@ Chino:
   - Yogurt
   - Cerveza [?]
 
-Verduleria:
+
 
 
 - SCDT: A. Camacho -> Materiales [?]
