@@ -42,7 +42,7 @@ DOM:
 Take:
 - Portraits
 
-Leave:
+
 
 
 Get:
