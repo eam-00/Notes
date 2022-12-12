@@ -43,7 +43,7 @@ Take:
 - Portraits
 
 Leave:
-- Ebook Poe
+
 
 Get:
   - Pechugas
