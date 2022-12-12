@@ -191,7 +191,7 @@ LUN:
 - PF
 - Push V -> Expensas
 - ATM
-- Ferreteria: Topetin silla | Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
+- Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 - city stuffs
 - Pics: Singer -> PhaserBook
 
