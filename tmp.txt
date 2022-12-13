@@ -189,7 +189,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MAR:
 ---
 - PF
-- Push V -> Expensas
+
 - Print TC Nati
 - ATM
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
