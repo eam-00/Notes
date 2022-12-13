@@ -27,7 +27,7 @@ Take:
 
 - Take:
 
-  - Chrome extension -> test
+
   - Nucrem
   - Leche
   - Ebook Poe
