@@ -28,7 +28,7 @@ Take:
 - Take:
 
 
-  - Nucrem
+
   - Leche
 
   - Diarios
