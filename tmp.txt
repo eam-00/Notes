@@ -190,7 +190,6 @@ MAR:
 ---
 - PF
 
-- Print TC Nati
 - ATM
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 - city stuffs
