@@ -193,7 +193,7 @@ MAR:
 - ATM
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
-- Pics: Singer -> PhaserBook
+
 
 
 - M: Shutdown server [?]
