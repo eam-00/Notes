@@ -12,7 +12,7 @@ Take:
  - Boleta TdC
  - Nucrem
  - Leche
-
+ - Diarios
 
   
 
