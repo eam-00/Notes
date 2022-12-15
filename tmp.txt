@@ -186,9 +186,9 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ---
 
-
 - ATM
-- M: Bolsitas
+- ATM
+- M: Bolsitas 
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
 
