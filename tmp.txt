@@ -188,7 +188,7 @@ JUE:
 
 - ATM
 - ATM
-- M: Bolsitas 
+- M: Bolsitas | Presilla
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
 
