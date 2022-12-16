@@ -185,7 +185,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 - Mani salado
-- SRio -> Pinto
+
 - ATM
 - ATM
 - M: Presilla
