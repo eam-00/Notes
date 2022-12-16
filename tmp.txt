@@ -5,6 +5,7 @@
 SAB:
 ----
 - Portraits [?]
+- Virtual Wallet
 
 Take:
  - Boonie Hat p/ Nati
