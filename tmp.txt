@@ -29,6 +29,7 @@ Verdura:
 -------
  - Papas
  - Tomate
+ - Limones
  
  Bazaar:
  ------
