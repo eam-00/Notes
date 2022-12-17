@@ -47,8 +47,6 @@ El Bocado:
 
 
 
-
-
 - XFCE: Lightdm -> batt %
 - XFCE: Disable touchpad
 - GNOME -> Remove games
