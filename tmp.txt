@@ -30,6 +30,9 @@ Verdura:
  - Papas
  - Tomate
  
+ Bazaar:
+ ------
+ 
 
 - SCDT: A. Camacho -> Materiales [?]
 
