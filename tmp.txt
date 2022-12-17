@@ -191,7 +191,7 @@ VIE:
 - ATM
 - M: Presilla
 
-- Batts: T420 | W530
+- Batts: W530
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 - ChK Bcos
 
