@@ -28,6 +28,7 @@ El Bocado:
 Verdura:
 -------
  - Papas
+ - Tomate
  
 
 - SCDT: A. Camacho -> Materiales [?]
