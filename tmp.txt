@@ -6,6 +6,7 @@ SAB:
 ----
 - Portraits [?]
 - Virtual Wallet
+- Chromebook Pro: test extension
 
 Take:
  - Tuppers
