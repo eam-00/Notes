@@ -42,6 +42,7 @@ Verdura:
 DOM:
 ---
 Get:
+  - Pechugas
 
 - Proteccion rascador [?]
 - TRRTs: Docs
