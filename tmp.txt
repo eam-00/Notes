@@ -27,7 +27,7 @@ El Bocado:
 
 Verdura:
 -------
- - Papas
+
  - Tomate
 
  
