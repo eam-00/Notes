@@ -43,6 +43,7 @@ DOM:
 ---
 Get:
   - Pechugas
+  - J / Q
 
 - Proteccion rascador [?]
 - TRRTs: Docs
