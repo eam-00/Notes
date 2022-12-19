@@ -45,7 +45,7 @@ Get:
   - J / Q
   - Boletas
 
-- Proteccion rascador [?]
+
 - TRRTs: Docs | Ebook p/ Nati
 - S10: test PahserBook -> MarketPlace
 
