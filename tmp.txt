@@ -40,7 +40,7 @@ El Bocado:
 DOM:
 ---
 Get:
-  - Pechugas
+
   - J / Q
   - Boletas
 
