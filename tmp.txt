@@ -33,7 +33,7 @@ Take:
 
 
 
-- SCDT: A. Camacho -> Materiales [?]
+
 
 
 DOM:
