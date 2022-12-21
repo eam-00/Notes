@@ -198,7 +198,7 @@ MIE:
 
 - ATM
 - ATM
-- N: TdC
+
 
 - Batts: W530
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
