@@ -235,7 +235,7 @@ MIE:
 
 - Telecom: Chk Facturas
 
-- P: Syslog: Disable Audit
+
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
 - P: A: Decom pentest server [???]
