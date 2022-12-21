@@ -237,7 +237,7 @@ MIE:
 - P: Add SMARTs -> Ask Dom
 
 - Telecom: Chk Facturas
-- P: Syslog swap file
+
 - P: Syslog: Disable Audit
 - P: ChK OLVM video
 - P: ChK ansible doc -> Z
