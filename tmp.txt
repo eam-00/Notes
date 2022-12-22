@@ -262,7 +262,7 @@ SCDT:
  - Cuchillos
  - Ollas -> Check
  - Precintos
- - Porta Papel H
+
  - Switcharoo de Cortinas -> Cortina Rosa
  - Harpic
 
