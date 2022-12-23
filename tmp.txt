@@ -265,7 +265,7 @@ SCDT:
  - Ollas -> Check
  - Precintos
 
- - Switcharoo de Cortinas -> Cortina Rosa
+
  - Harpic
 
 
