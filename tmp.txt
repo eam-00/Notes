@@ -212,7 +212,7 @@ VIE:
 - M: Monit -> PyME site
 - M: -> ZOEF
 - Enroll & Start Courses
-
+- Batts: X140E | 
 - w530: install Debian
 
 
