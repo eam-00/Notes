@@ -239,7 +239,7 @@ VIE:
 
 
 
-- P: ChK ansible doc -> Z
+
 - P: A: Decom pentest server [???]
 - P: PDF Symantec
 - P: Follow up John - Install NetWorker
