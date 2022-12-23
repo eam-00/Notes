@@ -201,7 +201,7 @@ VIE:
 - Luis: ChK T420 [?]
 - ATM
 - ATM
-- M: -> Tupper | <- Laundry
+
 
 
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
