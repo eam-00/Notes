@@ -262,7 +262,7 @@ SAB:
 
 SCDT:
 
- - Ollas -> Check
+
  - Precintos
 
 
