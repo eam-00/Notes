@@ -196,6 +196,7 @@ SAB:
 - Keller's
 - Pepsi
 - Luis: ChK T420 [?]
+- X201T -> Push
 - ATM
 - ATM
 
