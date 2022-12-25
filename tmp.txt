@@ -188,7 +188,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 SAB:
 ---
 
-- Pepsi
+
 - Luis: ChK T420 [?]
 - X201T -> Push
 - ATM
