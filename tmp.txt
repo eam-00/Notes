@@ -192,7 +192,7 @@ SAB:
 - X201T -> Push
 - ATM
 - ATM
-- Batts: 11e | X140E
+
 
 
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
