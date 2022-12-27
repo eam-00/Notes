@@ -189,6 +189,7 @@ MAR:
 
 - Print ABL [?]
 - M: Get USB HDD
+- SCDT: Setup meet for today
 - Chromebook Dell - 30 mil Pesos - 11 3471 1569
 
 - Luis: ChK T420 [?]
