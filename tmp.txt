@@ -187,6 +187,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MAR:
 ---
 
+- Chromebook Dell - 30 mil Pesos - 11 3471 1569
 
 - Luis: ChK T420 [?]
 - X201T -> Push
