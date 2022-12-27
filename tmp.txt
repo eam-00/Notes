@@ -195,6 +195,7 @@ MAR:
 - Luis: ChK T420 [?]
 - X201T -> Push
 - C: G: G: disk usage logs [?]
+- C: G: G: no copy paste [?]
 
 
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
