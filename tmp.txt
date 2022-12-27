@@ -190,8 +190,6 @@ MAR:
 
 - Luis: ChK T420 [?]
 - X201T -> Push
-- ATM
-- ATM
 - C: G: G: disk usage logs [?]
 
 
