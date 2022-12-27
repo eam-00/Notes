@@ -192,7 +192,7 @@ SAB:
 - X201T -> Push
 - ATM
 - ATM
-
+- C: G: G: disk usage logs [?]
 
 
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
@@ -213,7 +213,7 @@ LUN:
 ---
 
 
-- C: G: G: disk usage logs [?]
+
 
 
 
