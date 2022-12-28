@@ -191,6 +191,7 @@ MAR:
 - Print Edenor [?]
 - M: Leave USB HDD
 - M: Take laundry
+- M: Take card
 
 - Chromebook Dell - 30 mil Pesos - 11 3471 1569
 
