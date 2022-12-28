@@ -188,6 +188,7 @@ MAR:
 ---
 
 - Print ABL [?]
+- Print Edenor [?]
 - M: Take USB HDD
 - M: Take laundry
 
