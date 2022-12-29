@@ -181,7 +181,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ---
 
-- Print ABL [?]
+
 - Print Edenor [?]
 
 - M: Take laundry
