@@ -205,7 +205,7 @@ JUE:
 - M: Monit -> PyME site
 - M: -> ZOEF
 - Enroll & Start Courses
-- Batts: X140E | T420
+
 - w530: install Debian
 
 
