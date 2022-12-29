@@ -187,7 +187,7 @@ JUE:
 
 - Print ABL [?]
 - Print Edenor [?]
-- M: Leave USB HDD
+
 - M: Take laundry
 - M: Take card
 
