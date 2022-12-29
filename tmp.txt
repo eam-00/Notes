@@ -182,7 +182,7 @@ JUE:
 ---
 
 
-- Print Edenor [?]
+
 
 - M: Take laundry
 - M: Leave cards
