@@ -189,7 +189,7 @@ JUE:
 - Print Edenor [?]
 
 - M: Take laundry
-- M: Take card
+- M: Leave cards
 
 - Chromebook Dell - 30 mil Pesos - 11 3471 1569
 
