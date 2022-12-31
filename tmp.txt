@@ -197,6 +197,7 @@ SAB:
 - M: Rackspace Email billing
 - M: Shutdown server [?]
 - M: Monit -> PyME site | -> Franc .net | -> Franc .com w/o SSL
+- M: Franc -> Ch hostname .net
 - M: -> ZOEF
 - Enroll & Start Courses
 
