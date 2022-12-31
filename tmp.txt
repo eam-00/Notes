@@ -196,7 +196,7 @@ SAB:
 - M: Franc -> Setup backups
 - M: Rackspace Email billing
 - M: Shutdown server [?]
-- M: Monit -> PyME site
+- M: Monit -> PyME site | -> Franc .net | -> Franc .com w/o SSL
 - M: -> ZOEF
 - Enroll & Start Courses
 
