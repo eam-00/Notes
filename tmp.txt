@@ -9,7 +9,7 @@ Take:
 
 DOM:
 - Setup Wallet
-
+- Depo CVU
 
  - N: convert Ebooks -> Send
 
