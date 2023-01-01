@@ -8,6 +8,7 @@ Take:
 ----
 
 DOM:
+- Setup Wallet
 
 
  - N: convert Ebooks -> Send
