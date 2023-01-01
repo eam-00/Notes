@@ -11,7 +11,7 @@ DOM:
 - Setup Wallet
 - Depo CVU
 - Test Phaserbook -> MarketPlace
- - N: convert Ebooks -> Send
+
 
 
 
