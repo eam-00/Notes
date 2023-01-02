@@ -9,7 +9,6 @@ Take:
 
 DOM:
 - Setup Wallet
-- Depo CVU
 - Test Phaserbook -> MarketPlace
 
 
