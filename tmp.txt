@@ -167,7 +167,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 LUN:
-- PF
+
 
 - M: Get: Pepsi | Gal card |
 
