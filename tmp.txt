@@ -185,7 +185,7 @@ LUN:
 - M: Franc -> Ch hostname .net
 - M: -> ZOEF
 - Enroll & Start Courses
-- The Goald Coast: 1403
+- The Goald Coast: Chap 15
 - w530: install Debian
 
 
