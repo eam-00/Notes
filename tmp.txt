@@ -165,7 +165,8 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MIE:
 
 
-- M: Gal card |
+- M: Gal card
+- M: Tupper
 
 - Chromebook Dell - 30 mil Pesos - 11 3471 1569
 
