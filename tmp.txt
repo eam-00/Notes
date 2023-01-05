@@ -172,7 +172,7 @@ JUE:
 ---
 - Chk Facturas: Telecom | Edenor
 - PagoFacil: Telecom[s]
-
+- M: get yogurts | 
 - M: Gal card
 
 
