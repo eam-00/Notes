@@ -308,7 +308,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar cardiologo
 
   -----
-- Carre: Desodorante Dove | Esponjas | Bolsitas | 
+- Carre: Desodorante Dove | Esponjas |
   -----
 
 
