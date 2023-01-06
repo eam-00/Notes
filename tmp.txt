@@ -176,7 +176,7 @@ Movistar: 0800 999 1872 - Lun a Vie - 08:00 a 21:00 hrs
 - Chk Facturas: Telecom | Edenor
 - PagoFacil: Telecom[s]
 - Expensas
-- ChK Bcos
+
 - M: Gal card
 
 
