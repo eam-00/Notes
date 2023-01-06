@@ -195,7 +195,7 @@ VIE:
 - M: Franc -> Ch hostname .net
 - M: -> ZOEF
 - Enroll & Start Courses
-- The Gold Coast: Chap 15
+- The Gold Coast: Chap 18
 - w530: install Debian
 
 
