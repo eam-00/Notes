@@ -170,6 +170,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
+Movistar: 0800 999 1872 - Lun a Vie - 08:00 a 21:00 hrs
 - w530: install Debian
 - Batt: HP Envy
 - Chk Facturas: Telecom | Edenor
