@@ -173,7 +173,7 @@ VIE:
 - Chk Facturas: Telecom | Edenor
 - PagoFacil: Telecom[s]
 - Expensas
- 
+- ChK Bcos
 - M: Gal card
 
 
