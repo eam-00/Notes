@@ -170,6 +170,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
+- Batt: HP Envy
 - Chk Facturas: Telecom | Edenor
 - PagoFacil: Telecom[s]
 - Expensas
