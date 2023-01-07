@@ -188,7 +188,7 @@ VIE:
 ---
 LUN:
 ---
-
+- Freezer
 - Cargar Kindle
 - ChK expensas
 - PagoFacil: Telecom[s]
