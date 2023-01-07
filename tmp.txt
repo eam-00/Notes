@@ -185,7 +185,9 @@ Movistar: 0800 999 1872 - Lun a Vie - 08:00 a 21:00 hrs
 - Luis: ChK T420 [?]
 - X201T -> Push
 
-
+---
+LUN:
+---
 
 
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
