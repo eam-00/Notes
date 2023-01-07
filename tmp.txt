@@ -192,7 +192,7 @@ LUN:
 - Cargar Kindle
 - ChK expensas
 - PagoFacil: Telecom[s]
-- M: Gal card
+- M: get Gal card | Get jeans
 - Pics Jeans -> MarketP
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
