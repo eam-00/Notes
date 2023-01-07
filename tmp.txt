@@ -196,7 +196,7 @@ LUN:
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
 
-- M: Franc -> Setup backups
+- M: Franc -> Setup backups | Kernel reboot [?]
 - M: Rackspace Email billing
 - M: Shutdown server [?]
 - M: Monit -> PyME site | -> Franc .net | -> Franc .com w/o SSL
