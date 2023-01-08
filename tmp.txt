@@ -176,7 +176,7 @@ VIE:
 
 - w530: install Debian
 
-- Chk Facturas: Telecom | Edenor
+
 
 
 
