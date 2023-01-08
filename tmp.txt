@@ -191,6 +191,7 @@ VIE:
 ---
 LUN:
 ---
+- Chk Facturas: Telecom | Edenor
 - Freezer
 - Cargar Kindle
 - ChK expensas
