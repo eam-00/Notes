@@ -192,7 +192,7 @@ LUN:
 - Chk Facturas: Telecom | Edenor
 - w530: install Debian
 - Freezer
-- Cargar Kindle
+- Cargar Kindle | Sync new ebooks
 - ChK expensas
 - PagoFacil: Telecom[s]
 - M: take pechugas
