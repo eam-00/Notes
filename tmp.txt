@@ -196,7 +196,7 @@ MAR:
 - ChK expensas
 - PagoFacil: Telecom[s]
 
-- M: get Gal card | Get jeans
+- M: Get jeans
 - Pics Jeans -> MarketP
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
