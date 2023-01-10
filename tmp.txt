@@ -17,9 +17,7 @@ Take:
 
 
 
----
-DOM:
----
+
 - Get: pizza | pechugas | salsa
 
 
