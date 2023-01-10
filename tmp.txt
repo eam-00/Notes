@@ -188,6 +188,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MAR:
 ---
 - Batts: LRRP | 11e
+- Shop: Desodorante | TV | Rack | Zapas
 - Chk Facturas: Telecom | Edenor
 - w530: install Debian
 - Freezer
