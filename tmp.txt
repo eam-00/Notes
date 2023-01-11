@@ -193,7 +193,7 @@ MAR:
 - w530: install Debian
 
 
-- ChK expensas
+
 - PagoFacil: Telecom[s]
 
 
