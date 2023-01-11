@@ -195,8 +195,6 @@ MIE:
 
 
 - PagoFacil: Telecom[s]
-
-
 - Pics Jeans -> MarketP
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
