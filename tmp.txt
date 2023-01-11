@@ -191,7 +191,7 @@ MAR:
 - Shop: TV | Rack
 - Chk Facturas: Telecom | Edenor
 - w530: install Debian
-- Freezer
+
 
 - ChK expensas
 - PagoFacil: Telecom[s]
