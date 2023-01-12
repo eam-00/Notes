@@ -192,7 +192,7 @@ JUE:
 - Chk Facturas: Telecom | Edenor
 - w530: install Debian
 
-- Dr Elbow
+
 - ATM
 - PagoFacil: Telecom[s]
 - Pics Jeans -> MarketP
