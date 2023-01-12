@@ -207,7 +207,7 @@ JUE:
 - M: Franc -> Ch hostname .net
 - M: -> ZOEF
 - Enroll & Start Courses
-- The Gold Coast: Chap 19
+- The Gold Coast: Chap 20
 
 
 
