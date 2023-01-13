@@ -187,7 +187,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
-- ChK Bcos
+
 - ATM
 - Shop: TV | Rack
 - Chk Facturas: Telecom | Edenor
