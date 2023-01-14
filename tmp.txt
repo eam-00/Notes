@@ -8,6 +8,7 @@ Take:
 - Leche
 - Limones
 - Pechugas
+- Diarios
 
 ---
 SAB:
