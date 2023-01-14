@@ -185,7 +185,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 - X201T -> Push
 
 ---
-VIE:
+LUN:
 ---
 
 
