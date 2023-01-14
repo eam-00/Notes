@@ -16,6 +16,7 @@ SAB:
 - El Bocado:
   100 Gr Jamon cocido La Octava
   100 Gr Queso de maquina La Paulina
+  1 Salchicha de viena
 
 ---
 DOM:
