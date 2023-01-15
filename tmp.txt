@@ -23,7 +23,7 @@ SAB:
 ---
 DOM:
 ---
-- WP: Romina salida SCDT [URG!!!]
+
 - Guardar maderas
 - Get: hotdog | Pechugas
 - Cargar AA
