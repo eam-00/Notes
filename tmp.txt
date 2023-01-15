@@ -18,7 +18,7 @@ SAB:
   100 Gr Queso de maquina La Paulina
   1 Salchicha de viena
   1 Provoleta
-  Panceta ahumada 1 cm
+
 
 ---
 DOM:
