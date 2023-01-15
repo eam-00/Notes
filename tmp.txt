@@ -24,7 +24,7 @@ SAB:
 DOM:
 ---
 - WP: Romina salida SCDT [URG!!!]
-- Get: hotdog
+- Get: hotdog | Pechugas
 - Cargar AA
 
 
