@@ -197,7 +197,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
-
+- PF
 - Turno Derm -> Switch
 - Shop: TV | Rack
 - Chk Facturas: Telecom | Edenor
