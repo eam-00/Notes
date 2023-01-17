@@ -195,7 +195,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 - X201T -> Push
 
 ---
-LUN:
+MAR:
 ---
 - PF
 - Turno Derm -> Switch
