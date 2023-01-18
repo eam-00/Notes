@@ -191,7 +191,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MAR:
 ---
-- 11e T
+
 - PF
 - Turno Derm -> Switch
 - Shop: TV | Rack
