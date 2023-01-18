@@ -194,9 +194,10 @@ MIE:
 - Oftalmologo
 - Pinto
 - PF
-- Turno Derm -> Switch
+- Turno Derm -> Switch [?]
 - Shop: TV | Rack
 - Chk Facturas: Telecom | Edenor
+- 11eT: install Debian
 - w530: install Debian
 - PagoFacil: Telecom[s]
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
