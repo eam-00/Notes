@@ -193,7 +193,7 @@ MIE:
 ---
 - Cargar Moto G6
 - Oftalmologo
-- Pinto
+
 - PF
 - Limpiar casita
 - Turno Derm -> Switch [?]
