@@ -194,7 +194,7 @@ JUE:
 
 - N: Rack TV
 
-- PF
+
 
 - Turno Derm -> Switch [?]
 - Shop: TV | Rack
