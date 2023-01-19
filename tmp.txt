@@ -192,7 +192,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ---
 - Cargar Moto G6
-
+- N: Rack TV
 
 - PF
 
