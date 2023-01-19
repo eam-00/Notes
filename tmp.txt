@@ -189,7 +189,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 - X201T -> Push
 
 ---
-MIE:
+JUE:
 ---
 - Cargar Moto G6
 - Oftalmologo
