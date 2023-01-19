@@ -195,7 +195,7 @@ MIE:
 - Oftalmologo
 
 - PF
-- Limpiar casita
+
 - Turno Derm -> Switch [?]
 - Shop: TV | Rack
 - Chk Facturas: Telecom | Edenor
