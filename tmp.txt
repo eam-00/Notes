@@ -191,6 +191,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
+- PagoFacil: Telecom[s]
 - N: Rack TV
 
 
