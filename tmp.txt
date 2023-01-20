@@ -191,12 +191,13 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
+- Turno Derm -> Switch [?]
 - PagoFacil: Telecom[s]
 - N: Rack TV
 
 
 
-- Turno Derm -> Switch [?]
+
 - Shop: TV | Rack
 - Chk Facturas: Telecom | Edenor
 
