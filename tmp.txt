@@ -191,6 +191,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
+- Limpiar casita
 - Turno Derm -> Switch [?]
 - PagoFacil: Telecom[s]
 - Chk Facturas: Telecom | Edenor
