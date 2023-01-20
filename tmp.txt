@@ -199,7 +199,7 @@ VIE:
 
 
 - Shop: TV | Rack
-- Chk Facturas: Telecom | Edenor
+
 
 - w530: install Debian
 
