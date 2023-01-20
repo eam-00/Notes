@@ -193,7 +193,7 @@ VIE:
 ---
 - Limpiar casita
 - Turno Derm -> Switch [?]
-- PagoFacil: Telecom[s]
+
 - Chk Facturas: Telecom | Edenor
 - N: Rack TV
 
