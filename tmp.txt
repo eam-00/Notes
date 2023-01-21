@@ -194,7 +194,7 @@ DOM:
 
 - Shop: TV | Rack
 
-- Batt: X140e
+- Batt: X140e | 11e
 - w530: install Debian
 
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
