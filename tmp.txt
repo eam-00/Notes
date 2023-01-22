@@ -319,7 +319,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 
 - Cell: Auto brightness | Auto Switch to Data | Auto Volume
-- Spreadsheet Cell
+
 - LLamar modista
 
 
