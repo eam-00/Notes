@@ -185,7 +185,7 @@ LUN:
 - N: Fibertel
 
 - ATM
-- Lavanderia
+
 - Carre: Shots [?????]
 - Chk Facturas: Telecom | Edenor
 
