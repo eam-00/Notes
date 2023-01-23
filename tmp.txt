@@ -186,7 +186,7 @@ LUN:
 - ATM
 - Lavanderia
 - Carre: Shots [?????]
-
+- Chk Facturas: Telecom | Edenor
 
 
 - Shop: TV | Rack
