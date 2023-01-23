@@ -192,7 +192,7 @@ LUN:
 
 - Shop: TV | Rack
 
-- Batt: 11e | LRRPs | 
+- Batt: 11e | LRRPs | T420
 - w530: install Debian
 
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
