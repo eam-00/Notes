@@ -182,7 +182,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MAR:
 ---
 
-- N: Fibertel
+
 - FarmaCity: Systane
 - ATM
 - M: Cert SSL - Analytics: Sunday, February 5, 2023 at 2:22:10 PM
