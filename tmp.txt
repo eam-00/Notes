@@ -192,7 +192,7 @@ MAR:
 
 - Shop: TV | Rack
 
-- Batt: LRRPs | T420
+- Batt: T420
 - w530: install Debian
 
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
