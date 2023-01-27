@@ -291,7 +291,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar cardiologo
 
   -----
-- Carre: Bolsitas | Balde | 
+- Carre: Bolsitas | Balde | Perfume ropa | 
   -----
 
 
