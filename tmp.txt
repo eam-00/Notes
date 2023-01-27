@@ -177,7 +177,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
-
 - Combis A La Costa
 - ATM [x2]
 - ChK Bcos
