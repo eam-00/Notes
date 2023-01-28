@@ -173,7 +173,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 ---
-VIE:
+LUN:
 ---
 - Carre
 - Oftalmologo: Lun - Mar - Jue : 14 a 17:30 hrs
