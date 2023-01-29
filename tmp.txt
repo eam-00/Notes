@@ -206,7 +206,7 @@ MAR:
 - FarmaCity: Systane
 
 - Shop: TV | Rack
-
+- X140E: install Debian XFCE
 - w530: install Debian
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
