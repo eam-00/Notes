@@ -191,7 +191,7 @@ LUN:
 - Carre
 - Oftalmologo: Lun - Mar - Jue : 14 a 17:30 hrs
 - Combis A La Costa
-- ATM [x2]
+
 
 - M: Cert SSL - Analytics: Sunday, February 5, 2023 at 2:22:10 PM
 - Chk Facturas: Telecom | Edenor
