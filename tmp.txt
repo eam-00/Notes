@@ -203,7 +203,7 @@ MAR:
 ---
 - Manies
 - FarmaCity: Systane
-
+- ATM [x3]
 - Shop: TV | Rack
 - X140E: install Debian XFCE
 - W530: install Debian XFCE
