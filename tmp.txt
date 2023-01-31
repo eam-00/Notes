@@ -198,7 +198,7 @@ LUN:
 MAR:
 ---
 
-- FarmaCity: Systane
+
 - ATM [x3]
 - Shop: TV | Rack
 - X140E: install Debian XFCE
