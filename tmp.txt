@@ -197,7 +197,7 @@ LUN:
 ---
 MAR:
 ---
-- Manies
+
 - FarmaCity: Systane
 - ATM [x3]
 - Shop: TV | Rack
