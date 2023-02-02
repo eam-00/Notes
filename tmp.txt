@@ -200,6 +200,7 @@ JUE:
 - Cargar batts AA
 - TRRTs [?] -> Ebook N
 - ATM [x3]
+- Carre: Shot
 - Shop: TV | Rack
 - X140E: install Debian XFCE
 - W530: install Debian XFCE
