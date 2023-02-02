@@ -207,6 +207,7 @@ JUE:
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
 VIE:
+- Starbucks
 - Metrogas
 - ChK Bcos
 
