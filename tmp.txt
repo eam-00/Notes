@@ -206,6 +206,7 @@ JUE:
 - W530: install Debian XFCE
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
+- Metrogas
 
 - M: Franc -> Setup backups | Kernel reboot [?]
 - M: Rackspace Email billing
