@@ -197,7 +197,7 @@ JUE:
 ---
 - Combis A La Costa
 - Limpiar casita
-
+- Cargar batts AA
 - TRRTs [?] -> Ebook N
 - ATM [x3]
 - Shop: TV | Rack
