@@ -214,7 +214,7 @@ VIE:
 
 - M: Franc -> Setup backups | Kernel reboot [?]
 - M: Rackspace Email billing
-- M: Shutdown server [?]
+
 - M: Monit -> PyME site | -> Franc .net | -> Franc .com w/o SSL
 - M: Franc -> Ch hostname .net
 - M: -> ZOEF
