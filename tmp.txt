@@ -204,7 +204,9 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 - W530: install Debian XFCE
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
+---
 VIE:
+---
 - Starbucks
 - Metrogas
 - ChK Bcos
