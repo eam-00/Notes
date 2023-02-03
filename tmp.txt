@@ -277,8 +277,6 @@ VIE:
 
 
 
-
-
 - M: Monit AWS
 - Calm, Cool & Confident [Concerned]
 - There is an old saying that airplanes and spacecrafts won't fly until the paper equals their weight.
