@@ -209,7 +209,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 - Starbucks
-- Metrogas
+
 - ChK Bcos
 
 - M: Franc -> Setup backups | Kernel reboot [?]
