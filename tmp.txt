@@ -196,6 +196,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 - Combis A La Costa
 
 - Cargar batts AA
+- M: articulo jardineria
 - TRRTs [?] -> Ebook N
 - ATM [x3]
 - Carre: Shot
