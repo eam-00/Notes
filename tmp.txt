@@ -12,7 +12,7 @@ SAB:
 - M:
    Tupper
    Articulo
-   Setup payments
+
 
 
 
