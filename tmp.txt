@@ -21,7 +21,7 @@ Take:
 DOM:
 ---
 - Limpiar parrilla
-- 
+- Guardar maderas
 - Pechugas
 
 
