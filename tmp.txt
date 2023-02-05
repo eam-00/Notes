@@ -221,6 +221,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 LUN:
 ---
 - ATM [x3]
+- Laundry
 - Carre: Shot [???]
 - Combis A La Costa
 - C: M: cert timeline
