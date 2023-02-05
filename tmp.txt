@@ -23,7 +23,7 @@ DOM:
 - Limpiar parrilla
 - Guardar maderas
 - Pechugas
-
+- Cargar batts AA
 
 
 
@@ -207,7 +207,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 
-- Cargar batts AA
+
 - M: articulo jardineria
 - TRRTs [?] -> Ebook N
 
