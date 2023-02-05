@@ -205,7 +205,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 - Chk Facturas: Telecom | Edenor
 
 
-- Combis A La Costa
+
 
 - Cargar batts AA
 - M: articulo jardineria
@@ -222,7 +222,7 @@ LUN:
 ---
 - ATM [x3]
 - Carre: Shot [???]
-
+- Combis A La Costa
 - C: M: cert timeline
 - O: Derm
 - M: Franc -> Setup backups | Kernel reboot [?]
