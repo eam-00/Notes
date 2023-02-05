@@ -20,7 +20,7 @@ Take:
 ---
 DOM:
 ---
-- Limpiar parrilla
+
 - Guardar maderas
 - Pechugas
 - Cargar batts AA
