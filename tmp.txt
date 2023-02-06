@@ -222,6 +222,7 @@ LUN:
 ---
 - ATM [x3]
 - Laundry
+- Pechugas
 - Carre: Shot [???]
 - Combis A La Costa
 - C: M: cert timeline
