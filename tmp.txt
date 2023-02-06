@@ -220,7 +220,7 @@ LUN:
 - TRRTs [?] -> Ebook N
 - ATM [x3]
 
-- Pechugas
+
 - Carre: Shot [???]
 - Combis A La Costa
 - C: M: cert timeline
