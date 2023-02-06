@@ -36,7 +36,6 @@ DOM:
 
 
 
-
 - XFCE: Lightdm -> batt %
 - XFCE: Disable touchpad
 - GNOME -> Remove games
@@ -258,7 +257,6 @@ LUN:
 
 
 - "Progresismo: El octavo pasajero" - 2.000 Pesos - WhatsApp 11 3054 3110
-
 
 
 
