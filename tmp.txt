@@ -221,7 +221,7 @@ LUN:
 - ATM [x3]
 
 
-- Carre: Shot [???]
+
 - Combis A La Costa
 - C: M: cert timeline
 - O: Derm
