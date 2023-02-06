@@ -225,7 +225,7 @@ LUN:
 - Combis A La Costa
 - C: M: cert timeline
 - O: Derm
-- Batts: 11e | 
+- Batts: 11e | LRRPs
 - M: Franc -> Setup backups | Kernel reboot [?]
 - M: Rackspace Email billing
 - M: Monit -> PyME site | -> Franc .net | -> Franc .com w/o SSL
