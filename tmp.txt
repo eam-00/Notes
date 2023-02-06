@@ -219,7 +219,7 @@ LUN:
 ---
 - TRRTs [?] -> Ebook N
 - ATM [x3]
-- Laundry
+
 - Pechugas
 - Carre: Shot [???]
 - Combis A La Costa
