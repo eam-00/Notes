@@ -22,7 +22,7 @@ DOM:
 ---
 
 
-- Pechugas
+
 - Cargar batts AA
 
 
