@@ -223,7 +223,7 @@ MIE:
 
 
 
-- C: M: cert timeline
+
 - O: Derm
 
 - M: Franc -> Setup backups | Kernel reboot [?]
