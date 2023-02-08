@@ -215,7 +215,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
 ---
-MAR:
+MIE:
 ---
 - TRRTs [?] -> Ebook N
 - ATM [x3]
