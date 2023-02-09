@@ -219,7 +219,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ---
 - TRRTs [?] -> Ebook N
-- ATM [x3]
+- ATM [x3] -> get receipt
 
 - M: Ver tema C
 - M: ver tema Ans
