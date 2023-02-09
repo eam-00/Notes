@@ -226,7 +226,7 @@ JUE:
 
 
 - O: Derm
-- M: Franc -> Setup backups | Kernel reboot [?]
+- M: Franc -> Setup backups 
 - M: Monit -> PyME site | -> Franc .net | -> Franc .com w/o SSL
 - M: Franc -> Ch hostname .net
 - M: -> ZOEF
