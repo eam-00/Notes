@@ -221,7 +221,7 @@ VIE:
 - TRRTs [?] -> Ebook N
 - ATM [x3] -> get receipt
 - PF
-- M: Ver tema C
+
 - M: ver tema Ans
 
 
