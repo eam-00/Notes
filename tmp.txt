@@ -9,7 +9,7 @@ Take:
 - Remedios
 - Cargador cel
 - Azucar
-
+- 
 
 
 
@@ -221,6 +221,7 @@ VIE:
 - Confirmar Francisco
 - TRRTs [?] -> Ebook N
 - ATM [x3] -> get receipt
+- ChK Bcos
 - PF
 
 - M: ver tema Ans
