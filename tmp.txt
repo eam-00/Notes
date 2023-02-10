@@ -218,6 +218,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
+- Confirmar Francisco
 - TRRTs [?] -> Ebook N
 - ATM [x3] -> get receipt
 - PF
