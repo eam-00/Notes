@@ -218,7 +218,7 @@ VIE:
 ---
 
 - TRRTs [?] -> Ebook N
-- ATM [x3] -> get receipt
+
 
 
 
