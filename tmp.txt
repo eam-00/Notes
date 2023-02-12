@@ -5,6 +5,8 @@
 Take:
 ----
 
+Get:
+---
 
 - Remedios
 - Azucar
