@@ -219,6 +219,7 @@ MAR:
 - Manies
 - ATM
 - Laundry stuff
+- Tuppers
 - Keller's
 - G: Jumpbox -> pip
 - G: test conex stg
