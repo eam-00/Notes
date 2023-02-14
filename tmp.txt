@@ -219,7 +219,7 @@ MAR:
 - Manies
 - ATM
 - Laundry stuff
-- Tuppers
+
 - T. Orange
 - Keller's
 - G: Jumpbox -> pip
