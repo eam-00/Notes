@@ -226,7 +226,7 @@ MIE:
 - G: test conex stg
 
 ---
-MIE:
+
 ---
 
 - O: Derm
