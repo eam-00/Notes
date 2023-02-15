@@ -220,7 +220,6 @@ MIE:
 - ATM
 - Pinto
 
-- T. Orange
 
 - M: PF
 - G: test conex stg
