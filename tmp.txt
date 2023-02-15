@@ -225,9 +225,7 @@ MIE:
 - G: Jumpbox -> pip
 - G: test conex stg
 
----
 
----
 
 - O: Derm
 - M: Franc -> Setup backups 
