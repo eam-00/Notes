@@ -218,7 +218,7 @@ JUE:
 - TRRTs [?] -> Ebooks N
 - Manies
 - ATM
-- Pinto
+
 
 
 - M: PF
