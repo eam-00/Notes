@@ -28,8 +28,6 @@ Get:
 
 
 
-
-
 - XFCE: Lightdm -> batt %
 - XFCE: Disable touchpad
 - GNOME -> Remove games
