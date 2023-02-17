@@ -189,8 +189,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 
-
-
 - Chk Facturas: Telecom | Edenor
 
 
