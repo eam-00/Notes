@@ -228,7 +228,7 @@ VIE:
 - The Gold Coast: Chap 20
 
 LUN:
-
+- N: 1st class
 
 
 
