@@ -6,7 +6,7 @@
 Get:
 ---
 - Rayador
-- Tablatia para cortar
+- Tablita para cortar
 
 
 
