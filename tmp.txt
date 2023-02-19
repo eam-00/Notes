@@ -221,7 +221,7 @@ DOM:
 - G: test conex stg
 find PATH -type -f -mtime +14 -name FILE -print0 | xargs -r0 rm -- >/dev/null 2>&1
 - Batts: 
-- Cargar Ks
+
 
 
 - O: Derm
