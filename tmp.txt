@@ -232,7 +232,7 @@ LUN:
 ---
 - N: 1st class
 - M: DHL stuff [!!!!]
-
+- Laundry [???]
 
 
 - P: Test Instance Metadata: curl http://169.254.169.254/latest/meta-data/ 
