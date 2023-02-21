@@ -199,7 +199,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 - Shop: Celular | TV | Rack
 - X140E: install Debian XFCE
-- Moto G20: Test external monitor
+
 - W530: install Debian XFCE
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
