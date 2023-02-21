@@ -343,7 +343,7 @@ T10: 25 x 16 cms
 N10: 27 cm | 18 cm
 KBD: 24 cm | 13 cm
 
-Romeo Mayday  DASH Romeo Foxtrot
+Romeo Mayday DASH Romeo Foxtrot
 Romeo Mayday Delta Alpha Sierra Hospital Romeo Foxtrot Sierra Lima Alpha Sierra Hospital ENTER
 
 MBP
