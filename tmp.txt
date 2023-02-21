@@ -230,6 +230,7 @@ find PATH -type -f -mtime +14 -name FILE -print0 | xargs -r0 rm -- >/dev/null 2>
 ---
 MIE:
 ---
+- N: Print TC
 - M: DHL stuff [!!!!]
 - M: Regar plantas
 - Laundry [???]
