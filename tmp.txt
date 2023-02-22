@@ -293,7 +293,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar cardiologo
 
   -----
-- Carre: bolsitas | tablita para corte | Fruta | 
+- Carre: bolsitas | tablita para corte | 
   -----
 
 
