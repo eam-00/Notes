@@ -230,7 +230,7 @@ MIE:
 ---
 
 
-- M: DHL stuff [!!!!]
+
 - M: Regar plantas
 
 - Carre
