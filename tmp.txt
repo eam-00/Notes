@@ -206,6 +206,7 @@ JUE:
 - ATM
 - M: Leave papers
 - comprar tablita de corte
+- C: TS
 
 - TRRTs [?] -> Ebooks N
 - Manies
