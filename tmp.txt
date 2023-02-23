@@ -208,6 +208,7 @@ JUE:
 - comprar tablita de corte
 - C: TS
 - Cargar: Nikon | Luces bici
+- Limpiar casita
 
 - TRRTs [?] -> Ebooks N
 - Manies
