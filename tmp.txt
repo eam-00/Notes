@@ -208,7 +208,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 - C: TS
 - Cargar: Nikon | Luces bici
 - Limpiar casita
-- X140e
+
 
 - TRRTs [?] -> Ebooks N
 
