@@ -202,7 +202,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 
-- ATM
+
 
 - comprar tablita de corte
 - C: TS
