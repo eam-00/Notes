@@ -206,7 +206,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 - comprar tablita de corte
 
-- Cargar: Nikon 
+
 
 
 
