@@ -212,6 +212,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 DOM:
 ---
  - Charge cellphones
+ - Setup pickup
 Take:
   - Water
 
