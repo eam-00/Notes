@@ -211,6 +211,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 - TRRTs [?] -> Ebooks N
 
 DOM:
+Take:
 
 
 
