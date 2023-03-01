@@ -220,7 +220,7 @@ find PATH -type -f -mtime +14 -name FILE -print0 | xargs -r0 rm -- >/dev/null 2>
 
 
  
-- Laundry
+
 - O: Derm
 - M: Franc -> Setup backups 
 - M: Monit -> PyME site | -> Franc .net | -> Franc .com w/o SSL
@@ -233,6 +233,7 @@ find PATH -type -f -mtime +14 -name FILE -print0 | xargs -r0 rm -- >/dev/null 2>
 MIE:
 ---
 - M: PF
+- Laundry
 - Carre:
 
 
