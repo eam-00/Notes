@@ -234,7 +234,7 @@ MIE:
 - M: PF
 - Laundry -> Towel
 - Carre:
-- Bus
+
 - Cell
 - Pants
 
