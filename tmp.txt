@@ -230,8 +230,8 @@ JUE:
 ---
 - N: Boys Over Flowers
 - Laundry -> Towel
-- Cell
-- Pants
+- Cell [?]
+- Pants [?]
 - Limpiar casita
 
 
