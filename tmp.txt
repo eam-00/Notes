@@ -234,6 +234,7 @@ JUE:
 - Laundry -> Towel
 - Cell
 - Pants
+- Limpiar casita
 
 
 - P: Test Instance Metadata: curl http://169.254.169.254/latest/meta-data/ 
