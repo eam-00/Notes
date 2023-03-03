@@ -14,8 +14,6 @@ https://support.hp.com/au-en/document/c06493966
 
 
 
-
-
 - XFCE: Lightdm -> batt %
 - XFCE: Disable touchpad
 - GNOME -> Remove games
