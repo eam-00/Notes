@@ -231,7 +231,7 @@ JUE:
 ---
 - N: Boys Over Flowers
 - Setup USB Live
-- Laundry -> Towel
+
 - Cell [?]
 - Pants [?]
 - Limpiar casita
