@@ -178,8 +178,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 
-
-
 - Shop: Celular | TV | Rack
 - X140E: install Debian XFCE
 - W530: install Debian XFCE
