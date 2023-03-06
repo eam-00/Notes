@@ -208,7 +208,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
   
 - Get:
-  - Comida
+
 
 
 - G: test conex stg
