@@ -206,7 +206,7 @@ DOM:
 ---
 - Coco:
   - Tierra
-  - Carbon [?]
+
   
 - Get:
   - Comida
