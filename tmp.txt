@@ -165,7 +165,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
-
 - SCDT: El Vasco
 - ChK Vallo Expensas
 - M: Tupper ->
@@ -195,7 +194,6 @@ JUE:
 
 
 - comprar tablita de corte
-
 - TRRTs [?] -> Ebooks N
 
 
