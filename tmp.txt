@@ -167,7 +167,7 @@ VIE:
 ---
 - SCDT: El Vasco
 
-- M: Tupper ->
+
 - M Setup FEMEDICA
 
 
