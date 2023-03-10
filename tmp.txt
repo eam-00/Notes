@@ -312,8 +312,6 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 
 
-
-
 Happy Hacking: 30 cm x 12 cm
 
 CobroExpress:
