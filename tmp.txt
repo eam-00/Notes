@@ -182,8 +182,6 @@ VIE:
 
 - Chk Facturas: Telecom | Edenor
 
-
-
 - Shop: Celular | TV | Rack
 - X140E: install Debian XFCE
 - W530: install Debian XFCE
