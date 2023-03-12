@@ -4,7 +4,7 @@
 Get:
 ---
 
-- Boletas pagas
+
 - MicroSD
 
 https://www.youtube.com/watch?v=DDN8Vn1Sy2s
