@@ -162,7 +162,7 @@ LUN:
 - SCDT: El Vasco
 - ATM
 - Metrogas
-- Pay meet -> Ok date
+
 
 - G: test conex stg
 
