@@ -163,7 +163,7 @@ MAR:
 ---
 - SCDT: El Vasco
 - ATM [x2]
-- G: test conex stg
+- G: continue conex stg
 
 
 ---
