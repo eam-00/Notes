@@ -176,7 +176,7 @@ JUE:
 
 
 - Chk Facturas: Telecom | Edenor
-- Shop: Celular | TV | Rack
+- Shop: TV | Rack
 - X140E: install Debian XFCE
 - W530: install Debian XFCE
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
