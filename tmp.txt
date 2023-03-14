@@ -160,7 +160,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MAR:
 ---
 - SCDT: El Vasco
-- ATM
+- ATM [x2]
 
 
 
