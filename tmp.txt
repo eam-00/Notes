@@ -164,7 +164,7 @@ MAR:
 - Pinto
 
 
-- G: test conex stg
+
 ---
 JUE:
 ---
