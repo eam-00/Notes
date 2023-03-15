@@ -145,6 +145,7 @@ badassdownloader.com
 9xbuddy.com
 Jdownloader
 youtubepp.com/watch/
+https://spotify-downloader.com/
 
 ------------------
 
