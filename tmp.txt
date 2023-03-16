@@ -169,7 +169,7 @@ JUE:
 ---
 - SCDT: El Vasco
 - ATM [x3]
-- Carre:
+
 - M: Tuppers | Get: T. Naranja
 - G: continue conex stg
 
