@@ -170,6 +170,7 @@ JUE:
 - SCDT: El Vasco
 - ATM [x2]
 - Carre:
+- M: Tuppers | 
 - G: continue conex stg
 
 
