@@ -172,7 +172,7 @@ VIE:
 
 - M: -> T. Naranja | T. classic
 - G: continue conex stg
-- ChK Bcos
+
 - Sync X140E
 
 
