@@ -169,8 +169,6 @@ VIE:
 ---
 - SCDT: El Vasco
 - ATM [x3]
-
-
 - G: continue conex stg
 
 
