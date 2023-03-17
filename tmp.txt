@@ -173,7 +173,7 @@ VIE:
 
 - G: continue conex stg
 
-- Sync X140E
+
 
 
 
