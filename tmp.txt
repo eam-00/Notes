@@ -168,7 +168,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 - SCDT: El Vasco
-
 - G: continue conex stg
 
 
