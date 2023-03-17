@@ -170,7 +170,7 @@ VIE:
 - SCDT: El Vasco
 - ATM [x3]
 
-- M: -> T. Naranja | T. classic
+
 - G: continue conex stg
 
 - Sync X140E
