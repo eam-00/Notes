@@ -170,6 +170,7 @@ VIE:
 - SCDT: El Vasco
 - G: continue conex stg
 
+LUN:
 
 - Verify
 
