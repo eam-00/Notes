@@ -179,7 +179,7 @@ VIE:
 ----
 LUN:
 ----
-- Verify
+- G: Verify
 - G: continue conex stg
 
 
