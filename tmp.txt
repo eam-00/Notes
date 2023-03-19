@@ -153,6 +153,9 @@ https://docs.tenable.com/tenablecore/Nessus/Content/TenableCore/CreateAdminAccou
 Manually Configure a Static IP Address
 https://docs.tenable.com/tenablecore/SecurityCenter/Content/TenableCore/ConfigureIPAddress.htm
 
+How to share Wi-Fi on Android using USB tethering
+https://www.tomsguide.com/how-to/how-to-share-wi-fi-on-android-using-usb-tethering
+
 Josefina Poroli - Light Wallpapers
 https://www.saatchiart.com/account/artworks/1746677
 
