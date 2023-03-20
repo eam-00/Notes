@@ -200,6 +200,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ----
 LUN:
 ----
+- M: ChK USB @Chromebook | 
 - G: Verify
 - G: continue conex stg
 
