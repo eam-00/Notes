@@ -202,6 +202,7 @@ MIE:
 ----
 - ATM [x2]
 - M: ChK USB @Chromebook | ChK cell charger
+- G: VMWare stuff
 - G: Verify
 - G: continue conex stg
 - Cbio SBS
