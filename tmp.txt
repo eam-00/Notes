@@ -209,6 +209,7 @@ VIE:
 - M: Tuppers | Card | Clips
 - M: ChK USB @Chromebook | ChK cell charger
 - G: continue conex stg
+- ChK Bcos
 
 
 
