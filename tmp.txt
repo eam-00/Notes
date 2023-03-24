@@ -4,6 +4,7 @@
 Get:
 ---
 - Discarded bottle [?]
+- Milk [?]
 
 ----
 SAB:
