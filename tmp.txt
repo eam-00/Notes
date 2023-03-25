@@ -207,7 +207,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ----
 - ATM [x2]
-- M: Tuppers
+
 - M: ChK USB @Chromebook | ChK cell charger
 - G: continue conex stg
 
