@@ -3,7 +3,7 @@
 -----
 Get:
 ---
-- Discarded bottle [?]
+
 - Milk [?]
 
 ----
