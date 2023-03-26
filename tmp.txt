@@ -11,7 +11,7 @@ SAB:
 ---
 - Pan | Fruta
 - Remove user: Usuario
-- Setup weekly backups
+
 - Print Edenor
 
 https://www.youtube.com/watch?v=DDN8Vn1Sy2s
