@@ -5,8 +5,7 @@ Take:
 ----
  - Tupper
 
-Get:
----
+
 
 ----
 SAB:
