@@ -119,7 +119,7 @@ Spotify:
 
 
 
-- Lovers in a dangerous time - Bruce Cockburn
+
 
 Replace:
 -------
