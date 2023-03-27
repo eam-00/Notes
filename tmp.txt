@@ -210,7 +210,7 @@ DOM:
 LUN:
 ----
 - ATM [x2]
-- M: Tupper | 
+- M: Tupper | Bulbos
 - G: continue conex stg
 - PF
 
