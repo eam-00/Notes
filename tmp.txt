@@ -9,7 +9,7 @@ Get:
 ----
 SAB:
 ---
-- Pan | Fruta
+
 - Remove user: Usuario
 
 - Print Edenor
