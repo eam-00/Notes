@@ -208,7 +208,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 LUN:
 ----
 - ATM [x2]
-- M: Bulbos 
+
 - G: continue conex stg
 
 
