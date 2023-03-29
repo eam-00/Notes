@@ -6,8 +6,6 @@ Take:
  - Tupper
  - Diarios
 
-
-
 ----
 SAB:
 ---
