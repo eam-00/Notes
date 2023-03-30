@@ -203,7 +203,7 @@ JUE:
 - ATM --Lejos-- [x2]
 - Depo CC
 - ChK Telecom
-- M: Tupper |
+
 - C: TS
 - G: continue conex stg
 
