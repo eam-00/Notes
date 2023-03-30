@@ -208,6 +208,7 @@ JUE:
 - Depo CC
 - ChK Telecom
 - M: Tupper | Folleto vivero
+- C: TS
 - G: continue conex stg
 
 
