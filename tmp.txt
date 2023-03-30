@@ -207,6 +207,7 @@ JUE:
 - ATM --Lejos-- [x2]
 - Depo CC
 - ChK Telecom
+- M: Tupper | Folleto vivero
 - G: continue conex stg
 
 
