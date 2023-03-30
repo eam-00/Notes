@@ -320,7 +320,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar cardiologo
 
   -----
-- Carre: Agua | Bolsitas | 
+- Carre: Agua | Bolsitas | Leches | 
   -----
 
 
