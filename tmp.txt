@@ -205,7 +205,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ----
 - ATM --Lejos-- [x2]
-
+- Depo CC
 - G: continue conex stg
 
 
