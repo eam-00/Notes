@@ -202,7 +202,7 @@ JUE:
 ----
 - ATM --Lejos-- [x2]
 - Depo CC
-- ChK Telecom
+
 
 
 - G: continue conex stg
