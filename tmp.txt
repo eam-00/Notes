@@ -204,7 +204,7 @@ JUE:
 - Depo CC
 - ChK Telecom
 
-- C: TS
+
 - G: continue conex stg
 
 
