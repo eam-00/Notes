@@ -3,7 +3,7 @@
 -----
 Take:
 ----
- - Tupper
+ - Tupper [s]
  - Diarios
  - Marcadores
 
