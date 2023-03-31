@@ -6,6 +6,7 @@ Take:
  - Tupper [s]
  - Diarios
  - Marcadores
+ - Boleta Edenor
 
 ----
 SAB:
