@@ -207,7 +207,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ----
 VIE:
 ----
-- ATM --Lejos-- [x2]
+
 
 
 
