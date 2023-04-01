@@ -214,7 +214,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 - G: continue conex stg
-
+- Cambio repasador
 
 
 
