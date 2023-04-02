@@ -13,8 +13,7 @@ SAB:
 ---
 - Remove user: Usuario
 
-El Bocado:
----------
+
 
 
 
