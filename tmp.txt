@@ -206,6 +206,7 @@ LUN:
 ---
 - ATMs
 - M: Pechugas | Tupper
+- M: Get card
 
 
 - G: continue conex stg
