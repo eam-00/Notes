@@ -205,7 +205,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 LUN:
 ---
 - ATMs
-- M: Pechugas | Tupper
+- M: Tupper
 - M: Get card
 
 
