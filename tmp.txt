@@ -202,9 +202,6 @@ LUN:
 ---
 - ATMs
 - M: Tupper
-
-
-
 - G: continue conex stg
 - Cambio repasador
 
