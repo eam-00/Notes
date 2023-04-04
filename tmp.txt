@@ -313,7 +313,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar cardiologo
 
   -----
-- Carre: Agua | Bolsitas | Leches | Galles Dulces | Queso Cremoso |
+- Carre: Agua | Bolsitas | Leches | Galles Dulces | Queso Cremoso | Fruta | 
   -----
 
 
