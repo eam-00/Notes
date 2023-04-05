@@ -193,7 +193,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MIE:
 ---
 - ATMs [x3]
-- Carre
 - G: continue conex stg
 
 
