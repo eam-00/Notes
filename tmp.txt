@@ -194,7 +194,7 @@ JUE:
 ---
 - ATMs [x3]
 - G: continue conex stg
-
+- Limpiar casita
 
 
 
