@@ -198,8 +198,6 @@ JUE:
 - Wash 501
 - Pics M65
 
-
-
 - Chk Facturas: Telecom
 - Shop: TV | Rack | Pants
 - X140E: install Debian XFCE
