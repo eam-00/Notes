@@ -190,7 +190,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 ---
-MIE:
+JUE:
 ---
 - ATMs [x3]
 - G: continue conex stg
