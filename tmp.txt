@@ -189,7 +189,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ---
 - ATMs [x3]
-- G: H: Setup chain of command
+
 - G: Anathomy of a ticket
 - G: Procedeeng
 - G: continue conex stg
