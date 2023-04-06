@@ -191,7 +191,7 @@ JUE:
 - ATMs [x3]
 - G: H: Setup chain of command
 - G: Anathomy of a ticket
-
+- G: Procedeeng
 - G: continue conex stg
 - ChK Keller's
 - Limpiar casita
