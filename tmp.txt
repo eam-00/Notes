@@ -185,7 +185,7 @@ VIE:
 ---
 - ATMs [x3]
 - Expensas [?]
-- Keller's [??]
+
 
 - Limpiar freezer
 - G: Anathomy of a ticket
