@@ -186,7 +186,7 @@ VIE:
 - ATMs [x3]
 - Expensas [?]
 - Keller's [??]
-- ChK Bcos
+
 - Limpiar freezer
 - G: Anathomy of a ticket
 - G: Procedeeng
