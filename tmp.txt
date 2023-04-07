@@ -184,7 +184,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 - ATMs [x3]
-- Expensas [?]
+
 
 
 - Limpiar freezer
@@ -202,7 +202,7 @@ VIE:
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
 LUN:
-
+- Expensas [?]
 
 
 
