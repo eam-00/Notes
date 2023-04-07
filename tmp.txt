@@ -201,7 +201,9 @@ VIE:
 - W530: install Debian XFCE
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
+---
 LUN:
+---
 - Expensas [?]
 
 
