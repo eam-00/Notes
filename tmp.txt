@@ -192,7 +192,7 @@ VIE:
 - G: Procedeeng
 - G: continue conex stg
 
-- Wash 501
+
 - Pics M65
 
 - Chk Facturas: Telecom
