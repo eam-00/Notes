@@ -193,7 +193,6 @@ VIE:
 - G: Anathomy of a ticket
 - G: Procedeeng
 - G: continue conex stg
-- ChK Keller's
 
 - Wash 501
 - Pics M65
