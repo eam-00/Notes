@@ -189,7 +189,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 - ATMs [x3]
-
+- ChK Bcos
 - G: Anathomy of a ticket
 - G: Procedeeng
 - G: continue conex stg
