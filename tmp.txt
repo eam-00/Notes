@@ -1,8 +1,7 @@
 ----
   N:
 -----
-Take:
-----
+
 - Remove Usuario
 - Backup
 
