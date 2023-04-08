@@ -198,7 +198,7 @@ LUN:
 - Pics M65
 
 - Chk Facturas: Telecom
-- Shop: TV | Rack | Pants
+- Shop: TV | Rack | Pants | MR: HDDs + RAM
 - X140E: install Debian XFCE
 - W530: install Debian XFCE
 - MBW2: install Debian LXQT
