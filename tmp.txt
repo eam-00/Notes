@@ -188,6 +188,7 @@ LUN:
 - M: Tupper | Laundry
 - Expensas [?]
 - Limpiar freezer
+- Lavar Trucker M [?]
 - G: Anathomy of a ticket
 - G: continue conex stg
 
