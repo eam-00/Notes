@@ -185,7 +185,7 @@ LUN:
 ---
 - ATMs [x3]
 - M: Presion -> ML
-- M: Tupper | 
+- M: Tupper | Laundry
 - Expensas [?]
 - Limpiar freezer
 - G: Anathomy of a ticket
