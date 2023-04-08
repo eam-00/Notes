@@ -185,8 +185,6 @@ LUN:
 ---
 - ATMs [x3]
 - Expensas [?]
-
-
 - Limpiar freezer
 - G: Anathomy of a ticket
 - G: continue conex stg
