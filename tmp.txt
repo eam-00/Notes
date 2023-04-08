@@ -189,7 +189,6 @@ LUN:
 
 - Limpiar freezer
 - G: Anathomy of a ticket
-
 - G: continue conex stg
 
 
