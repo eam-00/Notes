@@ -196,7 +196,6 @@ LUN:
 
 
 - Pics M65
-
 - Chk Facturas: Telecom
 - Shop: TV | Rack | Pants | Push MR: HDDs + RAM [!!!!!!]
 - X140E: install Debian XFCE
