@@ -192,8 +192,6 @@ LUN:
 - Lavar Trucker M [?]
 - G: Anathomy of a ticket
 - G: continue conex stg
-
-
 - Pics M65
 - Chk Facturas: Telecom
 - Shop: TV | Rack | Pants | Push MR: HDDs + RAM [!!!!!!]
