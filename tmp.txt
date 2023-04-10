@@ -185,7 +185,7 @@ LUN:
 - ATMs [x3]
 
  
-- Expensas [?]
+- Expensas: ChK mail Vall
 - Limpiar freezer
 - Lavar Trucker M [?]
 - G: Anathomy of a ticket
