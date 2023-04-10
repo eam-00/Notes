@@ -184,7 +184,7 @@ LUN:
 ---
 - ATMs [x3]
 
-- M: Tupper | Laundry
+- M: Tupper 
 - Expensas [?]
 - Limpiar freezer
 - Lavar Trucker M [?]
