@@ -195,7 +195,7 @@ LUN:
 - Shop: TV | Rack | Pants | Push MR: HDDs + RAM [!!!!!!]
 - X140E: install Debian XFCE
 - W530: install Debian XFCE
-- MBW2: install Debian LXQT
+
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
 
