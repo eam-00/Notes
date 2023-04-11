@@ -180,7 +180,7 @@ MAR:
 - ATMs [x3]
 
 - Lavar Trucker M [?]
-- G: Anathomy of a ticket
+
 - G: continue conex stg
 - Pics M65
 - Chk Facturas: Telecom
