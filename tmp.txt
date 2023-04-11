@@ -178,7 +178,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MAR:
 ---
 - ATMs [x3]
-- Expensas: ChK mail Vall
 - Limpiar freezer
 - Lavar Trucker M [?]
 - G: Anathomy of a ticket
