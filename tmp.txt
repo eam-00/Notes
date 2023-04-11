@@ -179,7 +179,7 @@ MAR:
 ---
 - ATMs [x3]
 
-- Lavar Trucker M [?]
+
 
 - G: continue conex stg
 - Pics M65
