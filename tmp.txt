@@ -1,7 +1,7 @@
 ----
   N:
 -----
-- Remove Usuario
+- Remove "Usuario"
 - Backup
 - 09 - April - 2023: C:\ - Used: 129 GB
 - ChK P. Photo
