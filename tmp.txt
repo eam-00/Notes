@@ -2,7 +2,7 @@
   N:
 -----
 - Remove "Usuario"
-- Backup
+- Weekly Backup
 - 09 - April - 2023: C:\ - Used: 129 GB
 - ChK P. Photo
 - ChK Florita Pics
