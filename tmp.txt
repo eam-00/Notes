@@ -179,7 +179,6 @@ MIE:
 ---
 - ATMs [x3]
 - G: continue conex stg
-
 - Chk Facturas: Telecom
 - Shop: TV | Rack | Pants | Push MR: HDDs + RAM [!!!!!!]
 - X140E: install Debian XFCE
