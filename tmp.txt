@@ -179,7 +179,7 @@ MIE:
 ---
 - ATMs [x3]
 
-- Carre
+
 - G: continue conex stg
 - Chk Facturas: Telecom
 - Shop: TV | Rack | Pants | Push MR: HDDs + RAM [!!!!!!]
