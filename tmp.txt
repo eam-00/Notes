@@ -178,9 +178,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MAR:
 ---
 - ATMs [x3]
-
-
-
 - G: continue conex stg
 - Pics M65
 - Chk Facturas: Telecom
