@@ -17,6 +17,7 @@ SAB:
  El Bocado:
    - 100 Gr J
    - 100 Gr Q
+   - 1 Salchicha
   
 https://www.youtube.com/watch?v=DDN8Vn1Sy2s
 https://support.hp.com/au-en/document/c06493966
