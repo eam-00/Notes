@@ -184,7 +184,7 @@ VIE:
 ---
 - ATMs [x3]
 
-- ChK Bs
+
 - G: continue conex stg
 - Chk Facturas: Telecom
 - Shop: TV | Rack | Pants | Push MR: HDDs + RAM [!!!!!!]
