@@ -183,7 +183,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 - ATMs [x3]
-- M: TUppers | Ropa Inv 
+- M: TUppers 
 - ChK Bs
 - G: continue conex stg
 - Chk Facturas: Telecom
