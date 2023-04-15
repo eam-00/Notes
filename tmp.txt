@@ -339,7 +339,7 @@ X140E
 X220i
 X60
 T430
-T4102
+
 
 
 r/LiminalSpace:
