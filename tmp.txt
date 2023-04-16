@@ -82,7 +82,7 @@ Cogni:
 Solaris patching
 Satellite
 LDAP
-NFS
+
 
 
 Encuentro Pavillion: 18 hrs - Franco - 1138789949
