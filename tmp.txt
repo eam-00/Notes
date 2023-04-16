@@ -81,7 +81,7 @@ Cogni:
 -----
 Solaris patching
 Satellite
-LDAP
+
 
 
 
