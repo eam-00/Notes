@@ -183,7 +183,8 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MIE:
 ---
 - ATMs
-- Tupper
+- M: Tupper
+
 - G: RCA LED [???????]
 - G: continue conex stg
 - Chk Facturas: Telecom
