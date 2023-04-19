@@ -185,6 +185,7 @@ MIE:
 - ATMs
 - M: Tupper
 - Carre
+- G: test join BD Cass [????]
 - G: RCA LED [???????]
 - G: continue conex stg
 - Chk Facturas: Telecom
