@@ -184,7 +184,7 @@ MAR:
 ---
 - ATMs
 - Tupper
-- Cbio Toallin | Repasador
+
 - G: RCA LED [???????]
 - G: continue conex stg
 - Chk Facturas: Telecom
