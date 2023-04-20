@@ -184,7 +184,7 @@ JUE:
 ---
 - ATMs
 
-- Carre
+
 - G: test join BD Cass [????]
 - G: continue conex stg
 - Cbio pantalones
