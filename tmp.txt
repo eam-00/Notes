@@ -188,6 +188,7 @@ JUE:
 - G: continue conex stg
 - Cbio pantalones
 - Botinero
+- TRRTs [?]
 - Chk Facturas: Telecom
 - Shop: TV | Rack | Pants | Push MR: HDDs + RAM [!!!!!!]
 - X140E: install Debian XFCE
