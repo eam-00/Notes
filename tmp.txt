@@ -183,7 +183,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ---
 - ATMs
-- M: ChK carta Ciudad |
+
 - Carre
 - G: test join BD Cass [????]
 - G: continue conex stg
