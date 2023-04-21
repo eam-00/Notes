@@ -190,7 +190,7 @@ VIE:
 - Charge: S8 | S10 | N10 | 
 - G: test join BD Cass [????]
 - G: continue conex stg
-- Cbio pantalones
+
 - Botinero
 - TRRTs [?]
 - Chk Facturas: Telecom
