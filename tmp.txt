@@ -185,7 +185,7 @@ VIE:
 ---
 - N: Hidrogeno
 - ATMs
-
+- ChK Bcos
 
 - G: test join BD Cass [????]
 - G: continue conex stg
