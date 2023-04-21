@@ -186,7 +186,7 @@ VIE:
 - N: Hidrogeno
 - ATMs
 - ChK Bcos
-
+- Charge: 
 - G: test join BD Cass [????]
 - G: continue conex stg
 - Cbio pantalones
