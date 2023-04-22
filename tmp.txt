@@ -2,7 +2,7 @@
   N:
 -----
  Take:
-   - Remera
+
 
 
 - Print Carre
