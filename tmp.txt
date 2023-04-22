@@ -195,6 +195,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
+- N: Pagar TC
 - N: Hidrogeno
 - ATMs
 
