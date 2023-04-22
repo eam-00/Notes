@@ -14,6 +14,7 @@
 El Bocado:
  - 100 Gr jamon cocido
  - 100 Gr queso
+ - 100 Gr panceta ahumada
 
 ---
 DOM:
