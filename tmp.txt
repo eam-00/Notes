@@ -201,7 +201,7 @@ LUN:
 - ATMs
 
 
-- Charge: S8 | S10 | N10 | 
+- Charge: S8 | S10  
 - G: test join BD Cass [????]
 - G: continue conex stg
 - Botinero
