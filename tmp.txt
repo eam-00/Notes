@@ -6,7 +6,7 @@
 
 
 
-- Cammo pants
+
 - Remove "Usuario"
 - Weekly Backup
 - 09 - April - 2023: C:\ - Used: 129 GB
@@ -22,6 +22,7 @@
 DOM:
 ---
 - Print Carre
+- Cammo pants
 GET:
  - Milanesas
  - TRRTs [???]
