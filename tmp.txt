@@ -196,7 +196,7 @@ LUN:
 - N: Pagar TC
 - N: Hidrogeno
 - ATMs
-M: Get card
+
 
 
 - G: test join BD Cass [????]
