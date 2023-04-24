@@ -200,7 +200,7 @@ LUN:
 - N: Hidrogeno
 - ATMs
 M: Get card
-
+M: Take Tuppers
 - Charge: S8
 - G: test join BD Cass [????]
 - G: continue conex stg
