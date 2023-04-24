@@ -23,7 +23,7 @@ DOM:
 ---
 
 - Cammo pants
-GET:
+
 
 
   
