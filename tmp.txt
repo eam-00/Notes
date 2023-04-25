@@ -193,7 +193,7 @@ MAR:
 ---
 - ML -> Compra
 - N: Pagar TC
-- N: Hidrogeno
+
 - ATMs -> Recibo
 - Manies sin sal
 - Mant. de Mani
