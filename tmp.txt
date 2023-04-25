@@ -197,7 +197,7 @@ MAR:
 - N: Pagar TC
 - N: Hidrogeno
 - ATMs -> Recibo
-
+- Manies sin sal
 
 
 - G: test join BD Cass [????]
