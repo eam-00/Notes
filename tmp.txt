@@ -195,7 +195,7 @@ LUN:
 ---
 - N: Pagar TC
 - N: Hidrogeno
-- ATMs
+- ATMs -> Recibo
 
 
 
