@@ -196,7 +196,7 @@ MAR:
 
 - ATMs -> Recibo
 - Manies sin sal
-- Mant. de Mani
+
 - Optica
 - G: test join BD Cass [????]
 - G: continue conex stg
