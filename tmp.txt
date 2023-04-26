@@ -192,6 +192,7 @@ MIE:
 - Optica
 - PFs
 - Corte pelo
+- Limpiar casita
 - G: test join BD Cass [????]
 - G: continue conex stg
 
