@@ -191,6 +191,7 @@ MIE:
 - Manies sin sal
 - Optica
 - PFs
+- Corte pelo
 - G: test join BD Cass [????]
 - G: continue conex stg
 
