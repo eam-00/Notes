@@ -191,7 +191,6 @@ MIE:
 ---
 - ML -> Compra
 - N: Pagar TC
-
 - ATMs -> Recibo
 - Manies sin sal
 
