@@ -188,7 +188,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MIE:
 ---
 - ML -> Compra
-
 - ATMs -> Recibo
 - Manies sin sal
 - Optica
