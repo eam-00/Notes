@@ -3,6 +3,7 @@
 -----
 Take:
  - Bolsitas
+ - Tupper
 
 - Remove "Usuario"
 - Weekly Backup
