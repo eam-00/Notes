@@ -187,6 +187,8 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
+
+- Optica
 - ChK Bcos
 - G: close tickets Pre EFS
 - Manies sin sal
