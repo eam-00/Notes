@@ -195,7 +195,7 @@ VIE:
 - G: Hugo Stuffs
 - Manies sin sal
 
-- Batts: 11e | X140E
+- Batts: 11e | X140E -> Sync
 - RCKPS: borrar mierda
 
 
