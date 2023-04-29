@@ -185,7 +185,7 @@ VIE:
 ---
 - G: Hugo: test script sw
 - G: check edges @s2h
-
+- G: send notif @s2h
 
 - ChK Bcos
 
