@@ -185,7 +185,7 @@ LUN:
 ---
 - G: Hugo: test script sw
 - G: check edges @s2h
-- G: send notif @s2h
+- G: if date Ok then send notif @s2h
 
 
 
