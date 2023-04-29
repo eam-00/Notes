@@ -187,7 +187,7 @@ VIE:
 - G: check edges @s2h
 - G: send notif @s2h
 
-- ChK Bcos
+
 
 
 - Manies sin sal
