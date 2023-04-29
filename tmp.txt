@@ -195,7 +195,7 @@ VIE:
 
 - Manies sin sal
 
-- Batts: 11e | X140E -> Sync
+- Batts:  X140E -> Sync
 - RCKPS: borrar mierda
 
 
