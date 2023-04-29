@@ -191,7 +191,7 @@ LUN:
 
 
 - Manies sin sal
-- Batts:  X140E -> Sync
+
 - RCKPS: borrar mierda
 
 
