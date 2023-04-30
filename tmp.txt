@@ -198,7 +198,7 @@ LUN:
 - G: test join BD Cass [????]
 - G: continue conex stg
 - Chk Facturas: Telecom
-- Shop: TV | Rack | Pants | Push MR: HDDs + RAM [!!!!!!]
+- Shop: TV | Rack | Pants | 
 - X140E: install Debian XFCE
 - W530: install Debian XFCE
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
