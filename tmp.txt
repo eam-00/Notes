@@ -195,7 +195,7 @@ LUN:
 - RCKPS: borrar mierda
 
 
-- G: test join BD Cass [????]
+
 
 - Chk Facturas: Telecom
 - Shop: TV | Rack | Pants | 
