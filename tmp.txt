@@ -189,7 +189,7 @@ LUN:
 - G: continue conex stg
 - G: test join BD Cass [????]
 - G: gnome-terminal --title "Docs"
-
+- G: gnome-terminal --title "Commands"
 
 - Manies sin sal
 
