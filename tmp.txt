@@ -184,7 +184,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 LUN:
 ---
 - M: Tuppers | Lavanderia
-- Batts: 11e2 | 
+- Batts: 11e2 | HP Envy
 - G: Hugo: test script sw
 - G: check edges @s2h
 - G: if date Ok then send notif @s2h
