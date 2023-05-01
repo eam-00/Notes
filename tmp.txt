@@ -185,6 +185,7 @@ LUN:
 ---
 - M: Tuppers | Lavanderia
 - Batts: 11e2 | HP Envy
+- Recovery T430
 - G: Hugo: test script sw
 - G: check edges @s2h
 - G: if date Ok then send notif @s2h
