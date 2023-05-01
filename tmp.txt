@@ -183,6 +183,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
+- M: Tuppers | 
 - G: Hugo: test script sw
 - G: check edges @s2h
 - G: if date Ok then send notif @s2h
