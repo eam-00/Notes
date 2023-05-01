@@ -188,6 +188,7 @@ LUN:
 - G: if date Ok then send notif @s2h
 - G: continue conex stg
 - G: test join BD Cass [????]
+- G: gnome-terminal --title "Docs"
 
 
 - Manies sin sal
