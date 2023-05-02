@@ -209,7 +209,7 @@ LUN:
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
 ---
-MAR:
+MIE:
 ---
 - PFs [????]
 - Movistar
