@@ -205,7 +205,7 @@ MIE:
 - PF
 
 
-- M: Tuppers | tangerines
+- M: tangerines
 
 - G: verify: HDD 
 - G: continue conex stg
