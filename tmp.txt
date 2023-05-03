@@ -185,13 +185,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 - Recovery T430
 
-- G: verify: HDD 
-- G: continue conex stg
-- G: test join BD Cass [????]
-- G: gnome-terminal --title "Docs"
-- G: gnome-terminal --title "Commands"
-- G: gnome-terminal --title "Cassandra"
-- G: gnome-terminal --title "Jumpbox"
+
 
 - Manies sin sal
 - RCKPS: borrar mierda
