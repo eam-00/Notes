@@ -196,7 +196,6 @@ LUN:
 - G: gnome-terminal --title "Jumpbox"
 
 - Manies sin sal
-
 - RCKPS: borrar mierda
 
 
