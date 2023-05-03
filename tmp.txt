@@ -186,7 +186,7 @@ LUN:
  
 
 - Recovery T430
-- G: Hugo: test script sw
+
 
 - G: continue conex stg
 - G: test join BD Cass [????]
