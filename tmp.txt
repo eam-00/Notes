@@ -207,6 +207,7 @@ JUE:
 - C: TS
 - G: verify: HDD
 - Batt: 11e | X140E
+- Plex @M1330
 - G: continue conex stg
 - G: test join BD Cass [????]
 - G: gnome-terminal --title "Docs"
