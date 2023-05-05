@@ -203,7 +203,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ---
 
-- M: tangerines
+
 - C: TS
 - G: verify: HDD
 - Batt: 11e | X140E
