@@ -205,7 +205,7 @@ VIE:
 
 
 
-
+- ChK Bcos
 - Batt: 11e | X140E
 - Plex @M1330
 - G: continue conex stg
