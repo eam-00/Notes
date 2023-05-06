@@ -4,6 +4,7 @@
 Take:
   - Tupper
 
+GET:
 
 
 - Remove "Usuario"
