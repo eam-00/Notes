@@ -5,6 +5,7 @@ Take:
   - Tupper
 
 GET:
+  - Almendras c/ choco
 
 
 - Remove "Usuario"
