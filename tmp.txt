@@ -6,6 +6,7 @@ Take:
 
 GET:
   - Almendras c/ choco
+  - Manies
 
 
 - Remove "Usuario"
