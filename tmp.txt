@@ -2,7 +2,7 @@
   N:
 -----
 Take:
-  - Tupper
+
 
 GET:
   - Almendras c/ choco
