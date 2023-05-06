@@ -23,6 +23,7 @@ El Bocado:
 
 -- Plex:
  - Access
+ - Plugins [?????]
 
   
 https://www.youtube.com/watch?v=DDN8Vn1Sy2s
