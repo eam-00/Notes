@@ -181,8 +181,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 
-
-
 - Manies sin sal
 - RCKPS: borrar mierda
 
