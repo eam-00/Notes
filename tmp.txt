@@ -206,7 +206,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
 ---
-VIE:
+LUN:
 ---
 - 578 1947 2300 - 1.740 Pesos - Pago Facil
 
