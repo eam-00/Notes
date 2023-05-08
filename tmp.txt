@@ -7,7 +7,6 @@
 GET:
   - Almendras c/ choco
   - Manies
-  - Muzarella
 
 
 - Remove "Usuario"
