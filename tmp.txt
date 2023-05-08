@@ -5,7 +5,7 @@
 
 
 GET:
-  - Almendras c/ choco
+
 
 
 - Remove "Usuario"
