@@ -198,7 +198,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
-- 578 1947 2300 - 1.740 Pesos - Pago Facil
+
 
 
 
