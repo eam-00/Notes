@@ -3,6 +3,7 @@
 -----
 - Take:
   - Tuppers
+  - Edenor
 
 
 - Remove "Usuario"
