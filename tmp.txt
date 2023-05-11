@@ -198,7 +198,7 @@ MIE:
 
 - C: curso de mierda
 - C: ver otro curso de mierda
-- ChK Exp -> OK
+
 - Limpiar casita
 - Cambio toallin / repasador
 
