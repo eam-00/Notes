@@ -196,6 +196,7 @@ JUE:
 - Pinto
 - C: TS
 - G: TS del orto | Add to daily stuffs
+- G: ChK edges [!!!!!!]
 - C: curso de mierda
 - C: ver otro curso de mierda
 - Batt: 11e
