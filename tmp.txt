@@ -196,7 +196,7 @@ JUE:
 - Depositar Tul -> ML [???]
 - ATM [?]
 - C: TS
-- G: TS del orto
+- G: TS del orto | Add to daily stuffs
 - C: curso de mierda
 - C: ver otro curso de mierda
 
