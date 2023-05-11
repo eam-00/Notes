@@ -200,7 +200,7 @@ JUE:
 - G: TS del orto | Add to daily stuffs
 - C: curso de mierda
 - C: ver otro curso de mierda
-
+- Batt: 11e
 - Limpiar casita
 
 
