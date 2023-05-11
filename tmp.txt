@@ -194,7 +194,8 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ---
 - Depositar Tul -> ML [???]
-- ATM [?]
+- ATM
+- Pinto
 - C: TS
 - G: TS del orto | Add to daily stuffs
 - C: curso de mierda
