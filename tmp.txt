@@ -196,6 +196,7 @@ JUE:
 - Depositar Tul -> ML [???]
 - ATM [?]
 - C: TS
+- G: TS del orto
 - C: curso de mierda
 - C: ver otro curso de mierda
 
