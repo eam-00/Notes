@@ -195,7 +195,7 @@ MIE:
 ---
 - Depositar Tul -> ML [???]
 - ATM [?]
-- M: Tuppers
+
 - C: curso de mierda
 - C: ver otro curso de mierda
 - ChK Exp -> OK
