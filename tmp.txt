@@ -201,8 +201,6 @@ VIE:
 - Batt: 11e
 - Limpiar casita
 
-
-
 - G: continue conex stg
 - G: test join BD Cass [????]
 - G: gnome-terminal --title "Docs"
