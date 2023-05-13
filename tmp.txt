@@ -182,8 +182,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 - RCKPS: borrar mierda
 
 
-
-
 - Chk Facturas: Telecom
 - Shop: TV | Rack | Pants | 
 - X140E: install Debian XFCE
