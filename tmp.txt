@@ -208,7 +208,7 @@ LUN:
 - C: curso de mierda
 - C: ver otro curso de mierda
 - Batt: 11e
-- Limpiar casita
+
 
 - G: continue conex stg
 - G: test join BD Cass [????]
