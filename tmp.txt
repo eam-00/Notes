@@ -15,6 +15,7 @@
 ---
 DOM:
 ----
+- Laundry drop
 - Limpiar casita
  - Charge:
     - K [2]
