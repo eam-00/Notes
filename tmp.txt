@@ -16,6 +16,7 @@
 DOM:
 ----
 - Laundry drop
+- Long sleeve t-shirts
 - Limpiar casita
  - Charge:
     - K [2]
