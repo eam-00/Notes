@@ -23,6 +23,7 @@ DOM:
     - S8 -> Updates -> Reboot
     - S10 -> Updates -> Reboot
  - Bread
+ - C: curso de mierda
   
 https://www.youtube.com/watch?v=DDN8Vn1Sy2s
 https://support.hp.com/au-en/document/c06493966
