@@ -299,7 +299,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar cardiologo
 
   -----
-- Carre: Agua | Bolsitas | CIF | Pan | Queso Cremoso | 
+- Carre: Agua | Bolsitas | CIF | Pan | Queso Cremoso | Yogurt
   -----
 
 
