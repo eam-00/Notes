@@ -202,9 +202,10 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
-- Tarjeta Naranja -> Saldo
+- M: Fever [???]
+- Tarjeta Naranja -> Saldo [????]
 - Depositar Tul -> ML [???]
-- ATM
+
 
 
 
