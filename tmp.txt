@@ -18,7 +18,6 @@
  - Charge:
     - K [2]
       -> Upload "Paul Kennedy - Engineers of Victory"
-    - S8 -> Updates -> Reboot
 
  
 
