@@ -212,7 +212,7 @@ MIE:
 - G: test join BD Cass [????]
 
 - G: gnome-terminal --title "Commands"
-- G: gnome-terminal --title "Cassandra"
+
 
 
 
