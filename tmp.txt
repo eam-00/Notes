@@ -3,6 +3,7 @@
 -----
 -- Take:
    - Leche[s]
+   - Bolsitas
 
 - Remove "Usuario"
 - Weekly Backup
