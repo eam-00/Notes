@@ -205,7 +205,7 @@ MIE:
 
 - C: curso de mierda
 - C: ver otro curso de mierda
-- Batt: 11e
+- Batt: 11e | X140E | 
 
 
 - G: continue conex stg
