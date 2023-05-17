@@ -213,7 +213,7 @@ MIE:
 - G: gnome-terminal --title "Docs"
 - G: gnome-terminal --title "Commands"
 - G: gnome-terminal --title "Cassandra"
-- G: gnome-terminal --title "Jumpbox"
+
 
 
 
