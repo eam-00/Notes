@@ -203,6 +203,7 @@ MIE:
 - C: curso de mierda
 - C: ver otro curso de mierda
 - Batt: 11e | X140E | W530 | 
+- Lavar: toallin | repasador | 
 
 
 - G: continue conex stg
