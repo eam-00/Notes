@@ -197,6 +197,7 @@ JUE:
 
 - M: Long sleeve t-shirts [??]
 - M: Tupper
+- M: Pics
 - Depositar Tul -> ML [???]
 - C: curso de mierda
 - C: ver otro curso de mierda
