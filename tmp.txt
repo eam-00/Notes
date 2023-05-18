@@ -204,7 +204,7 @@ JUE:
 - C: curso de mierda
 - C: ver otro curso de mierda
 - Batt: X140E 
-- Lavar: toallin | repasador | 
+
 
 
 - G: continue conex stg
