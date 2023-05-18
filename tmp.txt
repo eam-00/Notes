@@ -194,7 +194,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
-
+- C: TS
 - M: Long sleeve t-shirts [??]
 - M: Tupper
 - M: Pics
