@@ -194,7 +194,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
-- M: -> Card | <- Tarta
+
 - M: Long sleeve t-shirts [??]
 - M: Pics
 - Depositar Tul -> ML [Push]
