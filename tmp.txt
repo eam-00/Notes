@@ -204,8 +204,6 @@ VIE:
 - Batt: X140E | S10
 - Chk Facturas: Telecom
 - Trim M65
-
-
 - G: continue conex stg
 - G: test join BD Cass [????]
 
