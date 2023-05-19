@@ -204,7 +204,7 @@ JUE:
 - Batt: X140E | S10
 - Chk Facturas: Telecom
 - Trim M65
-- Regar plantas
+
 
 - G: continue conex stg
 - G: test join BD Cass [????]
