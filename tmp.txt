@@ -197,7 +197,7 @@ VIE:
 - M: -> Card | <- Tarta
 - M: Long sleeve t-shirts [??]
 - M: Pics
-- Depositar Tul -> ML [???]
+- Depositar Tul -> ML [Push]
 - ChK Bcos
 - C: curso de mierda
 - C: ver otro curso de mierda
