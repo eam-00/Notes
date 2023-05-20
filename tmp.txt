@@ -7,8 +7,8 @@
 
 - El Bocado:
 
-1/2 Kg de milanesa de bola de lomo
-si no hay de nalga
+  - 1/2 Kg de milanesa de bola de lomo
+    [si no hay de nalga]
 
 - Remove "Usuario"
 - Weekly Backup
