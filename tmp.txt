@@ -209,7 +209,7 @@ VIE:
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
-- Limpiar casita
+
 - cp TRRTs Du Jour -> TB HDDs -> Trim
 
 
