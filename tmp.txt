@@ -201,9 +201,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
-
-
-
 - Depositar Tul -> ML [Push]
 
 - C: curso de mierda
