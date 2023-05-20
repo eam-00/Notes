@@ -208,7 +208,7 @@ VIE:
 
 - C: curso de mierda
 - C: ver otro curso de mierda
-- Batt: X140E | S10
+
 - Chk Facturas: Telecom
 - Trim M65
 - G: continue conex stg
