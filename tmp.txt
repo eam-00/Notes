@@ -195,6 +195,7 @@ DOM:
 
  - GET:
     - Milanesas
+    - Pizza
 
 ---
 LUN:
