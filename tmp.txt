@@ -199,10 +199,8 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 LUN:
 ---
 - ML: [Push] Info p/ deposito Tul
-
 - C: curso de mierda
 - C: ver otro curso de mierda
-
 - Chk Facturas: Telecom
 - Trim M65
 - G: continue conex stg
