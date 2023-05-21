@@ -7,7 +7,7 @@
   - 100 Gr J
   - 100 Gr Q
   - Salchicha
-  - 1/2 Kg de milanesa de bola de lomo
+
 
 
 - Remove "Usuario"
