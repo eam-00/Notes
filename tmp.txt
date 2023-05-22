@@ -200,7 +200,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
-- M: Laundry
+
 - ML: [Push] Info p/ deposito Tul
 - C: curso de mierda
 - C: ver otro curso de mierda
