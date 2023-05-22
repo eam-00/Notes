@@ -204,7 +204,7 @@ LUN:
 - ML: [Push] Info p/ deposito Tul
 - C: curso de mierda
 - C: ver otro curso de mierda
-- Chk Facturas: Telecom
+- Chk Facturas: Telecom -> Montos
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
