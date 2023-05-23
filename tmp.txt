@@ -210,7 +210,7 @@ MAR:
 - G: test join BD Cass [????]
 - Lavar: toallin | repasador | 
 - Limpiar cocima
-
+- M: reboots
 
 
 
