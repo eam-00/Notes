@@ -208,7 +208,7 @@ MIE:
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
-- Lavar: toallin | repasador | 
+
 - Limpiar cocima
 - M: reboots
 
