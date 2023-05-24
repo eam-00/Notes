@@ -210,7 +210,7 @@ MIE:
 - G: test join BD Cass [????]
 
 - Limpiar cocima
-- M: reboots
+
 
 
 
