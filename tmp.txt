@@ -200,6 +200,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MIE:
 ---
+- ATMs
 - C: ChK info [URG!!!!]
 - ML: [Push] Info p/ deposito Tul
 - C: curso de mierda
