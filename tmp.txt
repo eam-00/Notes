@@ -206,7 +206,7 @@ MIE:
 - G: continue conex stg
 - G: test join BD Cass [????]
 - Limpiar cocima
-- MBW2: Re-install Debian [?????]
+
 
 
 
