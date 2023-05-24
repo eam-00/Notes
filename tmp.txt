@@ -206,7 +206,6 @@ MIE:
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
-
 - Limpiar cocima
 
 
