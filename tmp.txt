@@ -3,7 +3,7 @@
 -----
  - Take:
    - Tupper
-
+   - $
 
 - Remove "Usuario"
 - Weekly Backup
