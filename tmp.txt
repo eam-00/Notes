@@ -200,7 +200,7 @@ JUE:
 ---
 - ATMs
 
-- C: ChK info [URG!!!!]
+
 - C: passwd
 - ML: [Push] Info p/ deposito Tul
 - C: curso de mierda
