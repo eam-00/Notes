@@ -195,7 +195,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
-- ATMs
+- ATMs -> Saldo [????]
 
 - C: ChK info [URG!!!!]
 - ML: [Push] Info p/ deposito Tul
