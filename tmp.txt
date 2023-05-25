@@ -209,7 +209,7 @@ JUE:
 - G: continue conex stg
 - G: test join BD Cass [????]
 - Corte de pelo
-- Limpiar casita a full
+
 
 
 
