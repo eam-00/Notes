@@ -208,6 +208,7 @@ JUE:
 - G: test join BD Cass [????]
 - Corte de pelo
 - Limpiar casita a full
+- Reboot VPN
 
 
 
