@@ -199,7 +199,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 - ATMs
-
 - Fini -> Gnochis
 - ChK Bcos
 - ML: [Push] Info p/ deposito Tul
