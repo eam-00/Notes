@@ -200,7 +200,7 @@ VIE:
 ---
 - ATMs
 
-
+- Fini -> Gnochis
 - ChK Bcos
 - ML: [Push] Info p/ deposito Tul
 - C: curso de mierda
