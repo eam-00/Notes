@@ -209,7 +209,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 LUN:
 ---
 - ATMs
-
+- G: add P fixed s Friday
 
 - ML: [Push] Info p/ deposito Tul
 - C: curso de mierda
