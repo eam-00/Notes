@@ -1,4 +1,4 @@
-__ YUM:  
+**YUM**:  
 On Red Hat Enterprise Linux 8, installing software is ensured by the new version of the YUM tool, which is based on the DNF technology (YUM v4).  
 Usage of YUM has not been changed when handling individual RPM packages. For handling the modular content, the yum module command has been added
 
