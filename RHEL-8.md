@@ -10,8 +10,6 @@ A typical module contains packages with an application, packages with the applic
 
 **Application streams**:
 
-
-
 Python 3.6 is the default Python implementation in RHEL 8
 
 
