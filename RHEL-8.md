@@ -8,7 +8,7 @@ A module is a set of RPM packages that represent a component and are usually ins
 A typical module contains packages with an application, packages with the application-specific dependency libraries, packages with documentation for the application, and packages with helper utilities.
 
 
-__ Application streams:
+**Application streams**:
 
 
 
