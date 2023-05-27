@@ -4,7 +4,8 @@ Usage of YUM has not been changed when handling individual RPM packages. For han
 
 
 **RHEL 8 Module**:
-A module is a set of RPM packages that represent a component and are usually installed together. A typical module contains packages with an application, packages with the application-specific dependency libraries, packages with documentation for the application, and packages with helper utilities.
+A module is a set of RPM packages that represent a component and are usually installed together.  
+A typical module contains packages with an application, packages with the application-specific dependency libraries, packages with documentation for the application, and packages with helper utilities.
 
 
 __ Application streams:
