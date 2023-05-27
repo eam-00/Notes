@@ -17,7 +17,7 @@ Python 3.6 is the default Python implementation in RHEL 8
 The GNOME session and the GNOME Display Manager use Wayland as their default display server.  
 The X.Org server, which is the default display server in RHEL 7, is available as well.
 
-__ DBs:
+**DBs**:  
 The following database servers are distributed with RHEL 8: MariaDB 10.3, MySQL 8.0, PostgreSQL 10, PostgreSQL 9.6, and Redis 5
 
 __ Webservers:
