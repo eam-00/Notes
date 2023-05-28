@@ -8,7 +8,6 @@
 ---
 SAB:
 ---
- - Print Edenor
  - Remove "Usuario"
  - Weekly Backup
  - 09 - April - 2023: C:\ - Used: 129 GB
