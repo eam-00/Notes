@@ -25,7 +25,7 @@ DOM:
 
     
   - Test Plex Off
-  - TRRTs
+
   - Batts: Nikon
   
 https://www.youtube.com/watch?v=DDN8Vn1Sy2s
