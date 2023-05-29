@@ -17,7 +17,7 @@ SAB:
    - 100 Gr Jamon
    - 100 Gr Queso
    - Salchicha
-   - Panceta - 100 GR - No muy finita 
+
 
 
 ---
