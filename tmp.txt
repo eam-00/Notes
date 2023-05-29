@@ -24,7 +24,7 @@ DOM:
   - Get:
 
     
-  - Test Plex Off
+ 
 
   - Batts: Nikon
   
