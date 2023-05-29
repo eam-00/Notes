@@ -18,7 +18,7 @@ SAB:
    - 100 Gr Queso
    - Salchicha
    - Panceta - 100 GR - No muy finita 
-   - Pan
+
 
 ---
 DOM:
