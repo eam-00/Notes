@@ -203,7 +203,7 @@ MIE:
 ---
 
 - ATMs
-- Tempered Glass
+
 - Ibu / Paracetamol
 - ML: [Push] Info p/ deposito Tul
 - C: curso de mierda
