@@ -201,7 +201,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MAR:
 ---
-- G: Req CCB
+
 - ATMs
 - Tempered Glass
 - Ibu / Paracetamol
