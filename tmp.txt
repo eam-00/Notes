@@ -202,7 +202,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ---
 - ATMs
-- Tupper
+
 
 - ML: [Push] Info p/ deposito Tul
 - C: curso de mierda
