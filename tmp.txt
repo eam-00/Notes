@@ -210,6 +210,7 @@ JUE:
 - G: continue conex stg
 - G: test join BD Cass [????]
 - Batt: T420 [x2] | X140E | W530
+- G: add notif sent to s2h
 
 
 
