@@ -209,7 +209,7 @@ JUE:
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
-- Batt: T420 [x2]
+- Batt: T420 [x2] | X140E | 
 
 
 
