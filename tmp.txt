@@ -207,7 +207,7 @@ VIE:
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
-- Batt: T420 [x2] | W530
+- Batt: W530
 - G: add notif sent to s2h
 
 
