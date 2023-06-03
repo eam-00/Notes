@@ -125,6 +125,9 @@ Remove:
 
 https://www.film1k.com/heartbreakers-1984.html
 
+Errors: grub-efi-amd64-signed & shim-signed
+https://stackoverflow.com/questions/53203528/errors-grub-efi-amd64-signed-shim-signed
+
 More efficient way to find content of files within millions of files
 https://askubuntu.com/questions/1207041/more-efficient-way-to-find-content-of-files-within-millions-of-files
 
