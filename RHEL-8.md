@@ -20,7 +20,7 @@ The X.Org server, which is the default display server in RHEL 7, is available as
 **DBs**:  
 The following database servers are distributed with RHEL 8: MariaDB 10.3, MySQL 8.0, PostgreSQL 10, PostgreSQL 9.6, and Redis 5
 
-__ Webservers:
+**Webservers**:  
 RHEL 8 provides the Apache HTTP Server 2.4 and introduces a new web server, nginx 1.14.
 
 __ LEAPP:
