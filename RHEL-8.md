@@ -23,7 +23,7 @@ The following database servers are distributed with RHEL 8: MariaDB 10.3, MySQL 
 **Webservers**:  
 RHEL 8 provides the Apache HTTP Server 2.4 and introduces a new web server, nginx 1.14.
 
-__ LEAPP:
+**LEAPP**:  
 Upgrade from RHEL 7 to RHEL 8 -> Leapp
 
 The nftables framework replaces iptables in the role of the default network packet filtering facility.
