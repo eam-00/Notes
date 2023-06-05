@@ -12,7 +12,7 @@ DOM:
 - Take:
   - Pizza
   - Salsa Napolitana
-  - Salsa de Hongos
+
   - Taza
   
 - TRRTs
