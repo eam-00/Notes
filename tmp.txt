@@ -225,7 +225,7 @@ MAR:
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
-- Batt: W530 | LRRP
+- Batt: W530
 - TRRTs
 
 
