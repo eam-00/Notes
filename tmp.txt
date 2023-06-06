@@ -213,7 +213,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 ---
-LUN:
+MAR:
 ---
 - G: Send CCB
 - Imprimir FEMEDICA
