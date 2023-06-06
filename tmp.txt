@@ -216,7 +216,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MAR:
 ---
 - G: Send CCB
-- Imprimir FEMEDICA
+
 - ATMs
 - SUBE
 - C: curso de mierda
