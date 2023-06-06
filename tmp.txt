@@ -228,7 +228,7 @@ MAR:
 - G: continue conex stg
 - G: test join BD Cass [????]
 - Batt: W530
-- TRRTs
+
 
 
 
