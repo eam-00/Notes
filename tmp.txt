@@ -220,7 +220,7 @@ JUE:
 - SUBE
 - C: curso de mierda
 - C: ver otro curso de mierda
-- Chk Facturas: Telecom -> Montos
+
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
