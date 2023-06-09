@@ -212,7 +212,6 @@ VIE:
 - SUBE
 - C: curso de mierda
 - C: ver otro curso de mierda
-
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
