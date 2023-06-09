@@ -215,7 +215,7 @@ VIE:
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
-- Batt: W530 | 11e
+- Batt: W530 | 11e | X140E
 
 
 
