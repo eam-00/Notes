@@ -42,7 +42,7 @@ To administer Stratis storage, use the stratis utility, which communicates with 
 Stratis is provided as a Technology Preview.
 
 
-__ Containers:  
+**Containers**:  
 
 Linux containers are the key component of DevOps and microservices. RHEL 8 now includes container tools like; Buildah(container-building), Podman(running-container), Skopeo(sharing/finding containers) help developers to run and manage containerized applications more quickly and efficiently.
 Docker is not included in RHEL 8.0. For working with containers, use the podman, buildah, skopeo, and runc tools.
