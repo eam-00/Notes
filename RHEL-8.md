@@ -10,7 +10,6 @@ A typical module contains packages with an application, packages with the applic
 
 Python 3.6 is the default Python implementation in RHEL 8
 
-
 **Wayland**:  
 The GNOME session and the GNOME Display Manager use Wayland as their default display server.  
 The X.Org server, which is the default display server in RHEL 7, is available as well.
