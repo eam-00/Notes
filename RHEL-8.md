@@ -29,7 +29,6 @@ Upgrade from RHEL 7 to RHEL 8 -> Leapp
 The nftables framework replaces iptables in the role of the default network packet filtering facility.
 The firewalld daemon now uses nftables as its default backend.
 
-
 **File Systems and Storage**:  
 The XFS file system now supports shared copy-on-write data extend functionality that allows sharing a common set of data blocks. It means everyone has a single shared copy of the file that links the same data blocks. This functionality allows minimizing the number of data blocks.
 
