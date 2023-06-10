@@ -17,6 +17,7 @@ SAB:
 - Limpiar casita
 - La Bolognesa: 10 Sorrentinos mozarella y jamon
 - ATMs
+- SUBE
 - solucion fisiologica
 - Levi's
 
@@ -225,7 +226,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 - ATMs
-- SUBE
+
 - C: curso de mierda
 - C: ver otro curso de mierda
 - Trim M65
