@@ -6,6 +6,7 @@
     - Botellitas
     - Bolsitas
     - Remedio p/ tos
+    - Ibuprofeno
 
 ---
 SAB:
