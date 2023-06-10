@@ -226,7 +226,7 @@ VIE:
 ---
 - ATMs
 - SUBE
-- ChK Bcos
+
 - C: curso de mierda
 - C: ver otro curso de mierda
 - Trim M65
