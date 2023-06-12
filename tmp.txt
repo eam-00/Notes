@@ -24,7 +24,7 @@ DOM:
     - Turrones
     - Separadores
     
-- TRRTs
+
 - Palta
 
 
