@@ -221,7 +221,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 LUN:
 ---
 - ATMs
-
 - C: curso de mierda
 - C: ver otro curso de mierda
 - Trim M65
