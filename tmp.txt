@@ -227,7 +227,7 @@ MIE:
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
-- Batt: T430 | X140E
+- Batt: T430 | T420 | X140E
 
 
 
