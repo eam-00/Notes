@@ -221,7 +221,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MIE:
 ---
 - ATMs
-- M: Tuppers
+
 - Cbio: Toallin | 
 - C: curso de mierda
 - C: ver otro curso de mierda
