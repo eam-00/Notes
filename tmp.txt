@@ -221,7 +221,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MAR:
 ---
 - ATMs
-- M:  PF
+
 - C: curso de mierda
 - C: ver otro curso de mierda
 - Trim M65
