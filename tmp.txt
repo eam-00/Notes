@@ -224,7 +224,7 @@ JUE:
 ---
 - ATMs
 
-- M: Bolsitas
+
 
 
 - C: curso de mierda
