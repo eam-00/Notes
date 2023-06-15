@@ -225,7 +225,7 @@ JUE:
 - ATMs
 
 - M: Bolsitas
-     Count $
+
      Fix Lamp
 - C: TS
 - C: curso de mierda
