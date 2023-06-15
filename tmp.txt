@@ -224,7 +224,8 @@ JUE:
 ---
 - ATMs
 - Pinto
-- M: Bolsitas 
+- M: Bolsitas
+     Count $
 - C: curso de mierda
 - C: ver otro curso de mierda
 - Trim M65
