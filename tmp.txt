@@ -223,7 +223,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ---
 - ATMs
-
+- Pinto
 
 - C: curso de mierda
 - C: ver otro curso de mierda
