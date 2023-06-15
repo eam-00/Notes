@@ -227,7 +227,7 @@ JUE:
 - M: Bolsitas
 
      Fix Lamp
-- C: TS
+
 - C: curso de mierda
 - C: ver otro curso de mierda
 - Trim M65
