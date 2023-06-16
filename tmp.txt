@@ -223,7 +223,7 @@ VIE:
 - ATMs
 
 
-- CB
+
 
 
 - C: curso de mierda
