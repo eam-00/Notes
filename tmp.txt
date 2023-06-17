@@ -10,6 +10,7 @@ Take:
   - Boleta de Gas
 
 - Papas
+- Zanahorias
 
 - El Bocado:
   - Jamon Cocido
