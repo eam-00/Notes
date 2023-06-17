@@ -21,7 +21,7 @@ Take:
 
 - ChK Dropboxes
 - Sync USBs
-
+- Test http://debian.org/
 
 
 
