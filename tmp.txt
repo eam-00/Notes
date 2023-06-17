@@ -18,7 +18,7 @@ Take:
 
 
 - ChK Dropboxes
-
+- Sync USBs
 
 
 
