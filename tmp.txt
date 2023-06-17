@@ -3,7 +3,7 @@
 -----
 Take:
   - Bolsitas
-  - Tupper
+  - Tupper[s]
   - Boleta de Gas
 
 
