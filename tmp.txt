@@ -6,7 +6,7 @@ SAB:
 ---
 Take:
   - Bolsitas
-  - Tupper[s]
+
 
 
 - Papas
