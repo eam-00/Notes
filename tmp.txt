@@ -7,7 +7,7 @@ SAB:
 Take:
   - Bolsitas
   - Tupper[s]
-  - Boleta de Gas
+
 
 - Papas
 - Zanahorias
