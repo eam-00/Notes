@@ -19,7 +19,7 @@ SAB:
   - 2 Salchichas
 
 
-- Mandarinas
+
 
 - ChK Dropboxes
 - Sync USBs
