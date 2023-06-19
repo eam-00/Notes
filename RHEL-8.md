@@ -50,6 +50,6 @@ The podman tool has been released as a fully supported feature.
 
 The podman tool manages pods, container images, and containers on a single node. It is built on the libpod library, which enables management of containers and groups of containers, called pods.
 
-Virtual machines can now be created and managed using the RHEL 8 web console, also known as Cockpit.
+Virtual machines can now be created and managed using the RHEL 8 web console, also known as *Cockpit*.
 
 
