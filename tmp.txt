@@ -225,6 +225,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 - X140E: install Debian XFCE
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
+LUN:
 
 
 ---
