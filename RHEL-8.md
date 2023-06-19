@@ -45,7 +45,8 @@ Stratis is provided as a Technology Preview.
 **Containers**:  
 
 Linux containers are the key component of DevOps and microservices. RHEL 8 now includes container tools like; Buildah(container-building), Podman(running-container), Skopeo(sharing/finding containers) help developers to run and manage containerized applications more quickly and efficiently.  
-Docker is not included in RHEL 8.0. For working with containers, use the podman, buildah, skopeo, and runc tools.
+Docker is not included in RHEL 8.0.  
+For working with containers, use the podman, buildah, skopeo, and runc tools.
 The podman tool has been released as a fully supported feature.
 
 The podman tool manages pods, container images, and containers on a single node. It is built on the libpod library, which enables management of containers and groups of containers, called pods.
