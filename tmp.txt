@@ -241,7 +241,7 @@ VIE:
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
-- Batt:  X140E
+
 - Test Live Debian @ht
 
 
