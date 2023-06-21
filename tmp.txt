@@ -208,7 +208,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MIE:
 ---
-- Batts: 11e | HP Envy | 
+- Batts: 11e | HP Envy | T420 [t4102]
 
 
 
