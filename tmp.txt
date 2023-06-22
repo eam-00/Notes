@@ -219,7 +219,7 @@ JUE:
 - G: continue conex stg
 - G: test join BD Cass [????]
 
-- Batts: W530 | 
+- Batts: W530 | T430 | 
 
 
 
