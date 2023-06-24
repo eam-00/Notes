@@ -2,6 +2,7 @@
   N:
 -----
 - M: Tuppers
+- M: Supplies
 
  - Take:
    - $
