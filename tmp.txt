@@ -30,6 +30,7 @@ DOM:
  -- Get:
     - Bandana
     - Peanuts
+    - Tea Bags
 
   - Palta
   
