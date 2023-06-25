@@ -29,6 +29,7 @@ DOM:
  - Print EDENOR
  -- Get:
     - Bandana
+    - Peanuts
 
   - Palta
   
