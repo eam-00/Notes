@@ -19,7 +19,7 @@ DOM:
 
 
     - Bandana
-    - Peanuts
+
     - Tea Bags
     - Milanesas
 
