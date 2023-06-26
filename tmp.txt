@@ -21,7 +21,7 @@ DOM:
     - Bandana
 
 
-    - Milanesas
+
 
   - Palta
   
