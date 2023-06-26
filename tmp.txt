@@ -17,7 +17,7 @@
 DOM:
 ---
 
- -- Get:
+
     - Bandana
     - Peanuts
     - Tea Bags
