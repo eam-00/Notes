@@ -20,7 +20,7 @@ DOM:
 
     - Bandana
 
-    - Tea Bags
+
     - Milanesas
 
   - Palta
