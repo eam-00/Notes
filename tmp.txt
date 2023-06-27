@@ -283,7 +283,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar cardiologo
 
   -----
-- Carre: Azucar | Cif | Pan
+- Carre: Azucar | Cif | Pan | Bolsitas | 
   -----
 
 
