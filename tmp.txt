@@ -205,7 +205,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ---
 - ATM
-- M: Soup | 
+- M: Soup | Tupper
 - C: TS
 - C: curso de mierda
 - C: ver otro curso de mierda
