@@ -2,7 +2,9 @@
   N:
 -----
 
-- M: Tuppers | Lavanderia
+- M:
+
+Tuppers | Lavanderia
 
 Take:
  - Tupper
