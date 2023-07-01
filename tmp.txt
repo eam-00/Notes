@@ -205,7 +205,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 LUN:
 ---
 - ATM
-- Batts: X140E | T420 | W530 | 
+- Batts: T420 | W530 | 
 - C: curso de mierda
 - C: ver otro curso de mierda
 - Trim M65
