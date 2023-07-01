@@ -6,7 +6,7 @@
   Take: 
     Tuppers | Lavanderia
   Get:
-
+    Chicken
 
 Take:
  - Tupper
