@@ -5,6 +5,8 @@
 - M:
   Take: 
     Tuppers | Lavanderia
+  Get:
+
 
 Take:
  - Tupper
