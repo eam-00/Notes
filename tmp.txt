@@ -17,7 +17,7 @@ Take:
 El Bocado:
 
 
- - Salchicha
+
 
  - Remove "Usuario"
  - Weekly Backup
