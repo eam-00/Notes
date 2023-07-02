@@ -222,8 +222,6 @@ LUN:
 - G: continue conex stg
 - G: test join BD Cass [????]
 
-
-
 find PATH -type -f -mtime +14 -name FILE -print0 | xargs -r0 rm -- >/dev/null 2>&1
  
 - O: Derm
