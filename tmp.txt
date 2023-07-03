@@ -207,6 +207,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 - Shop: TV | Rack |  
 - X140E: install Debian XFCE
+- MBW: test new install
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
 
