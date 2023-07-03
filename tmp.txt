@@ -256,7 +256,7 @@ find PATH -type -f -mtime +14 -name FILE -print0 | xargs -r0 rm -- >/dev/null 2>
 - There is an old saying that airplanes and spacecrafts won't fly until the paper equals their weight.
 
 Backup pendrive -> Sneakernet Files
-T43: Install Minimal XFCE
+
 T60p: Install Debian i3-gaps
 ---------------
 Dell Studio XPS: RAM | Install Debian 11 -> LXQT
