@@ -205,7 +205,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 ---
-MAR:
+MIE:
 ---
 - ChK pago expensas
 - Batts: T420 | 
