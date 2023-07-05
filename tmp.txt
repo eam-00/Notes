@@ -210,7 +210,7 @@ MIE:
 - Expensas
 - Batts: T420 | 
 - Batts: AA
-- M: Tuppers | 
+
 - C: curso de mierda
 - C: ver otro curso de mierda
 - Trim M65
