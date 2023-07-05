@@ -208,10 +208,8 @@ MIE:
 
 
 - ATM[s]
-
 - Batts: T420 | 
 - Batts: AA
-
 - C: curso de mierda
 - C: ver otro curso de mierda
 - Trim M65
