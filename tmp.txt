@@ -208,7 +208,7 @@ MIE:
 
 
 - ATM[s]
-- M: Tuppers
+
 - Batts: T420 | 
 - Batts: AA
 
