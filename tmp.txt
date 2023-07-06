@@ -206,7 +206,9 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ---
 - DT
+
 - Print FEMEDICA
+- ATM[s]
 - C: TS
 
 - Batts: T420 | 
