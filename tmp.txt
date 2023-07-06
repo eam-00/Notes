@@ -210,7 +210,7 @@ JUE:
 
 - Print FEMEDICA
 - ATM[s]
-- C: TS
+
 
 - Batts: T420 | T430
 
