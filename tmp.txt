@@ -208,7 +208,7 @@ JUE:
 - DT
 - Print FEMEDICA
 - C: TS
-- ATM[s]
+
 - Batts: T420 | 
 - Batts: AA
 - C: curso de mierda
