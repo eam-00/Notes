@@ -211,7 +211,7 @@ JUE:
 - ATM[s]
 - C: TS
 
-- Batts: T420 | 
+- Batts: T420 | T430
 - Batts: AA
 - C: curso de mierda
 - C: ver otro curso de mierda
