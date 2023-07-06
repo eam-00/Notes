@@ -267,7 +267,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar cardiologo
 
   -----
-- Carre:  Cif | Bolsitas | Panes | Esponjas | 
+- Carre:  Cif | Bolsitas | Panes | Esponjas | Medias [?]
   -----
 
 
