@@ -210,7 +210,7 @@ VIE:
 - ATM[s]
 
 
-- Batts: T420
+
 - ChK Bcos
 - C: curso de mierda
 - C: ver otro curso de mierda
