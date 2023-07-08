@@ -5,7 +5,8 @@
 - M:
      - Take:
              Tuppers
-     - Get Laundry
+     - Get:
+             Laundry
 
 -0- Take:
     -- Galles Opera
