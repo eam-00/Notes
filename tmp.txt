@@ -2,7 +2,8 @@
   N:
 -----
 
-- M: Take: Tuppers
+- M:
+     - Take: Tuppers
      - Get Laundry
 
 -0- Take:
