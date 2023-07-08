@@ -211,7 +211,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
-
 - M: T. Naranja
 
 - C: curso de mierda
