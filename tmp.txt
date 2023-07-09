@@ -24,6 +24,7 @@ DOM:
 
 - Get:
      - Guiso
+     - Comic Book[s]
 
  - Remove "Usuario"
  - Weekly Backup
