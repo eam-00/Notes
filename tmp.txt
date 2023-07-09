@@ -23,6 +23,7 @@ DOM:
 ---
 
 - Get:
+     - Guiso
 
  - Remove "Usuario"
  - Weekly Backup
