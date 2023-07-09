@@ -7,7 +7,7 @@
 
 
      - Get:
-             Laundry
+
 
 -0- Take:
     -- Galles Opera
