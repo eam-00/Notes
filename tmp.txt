@@ -216,6 +216,7 @@ MAR:
 ---
 - M:
     -- Get: T. Naranja
+    -- Tupper
 - M: ChK oryx-01 -> SPAM [?]
 - C: curso de mierda
 - C: ver otro curso de mierda
