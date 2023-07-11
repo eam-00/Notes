@@ -220,7 +220,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 LUN:
 ---
 - M:
-    -- Take: Comic Book
+
     -- Get: T. Naranja
 - M: ChK oryx-01 -> SPAM [?]
 - C: curso de mierda
