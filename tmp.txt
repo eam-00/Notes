@@ -201,6 +201,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ---
 - M:
+    -- PF
     -- Get: T. Naranja
     -- Take: Tuppers
 - C: curso de mierda
