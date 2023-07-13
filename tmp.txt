@@ -187,8 +187,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 - RCKPS: borrar mierda
 
-
-
 - Shop: TV | Rack |  
 - X140E: install Debian XFCE
 - MBW: test new install
