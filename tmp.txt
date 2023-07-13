@@ -202,7 +202,7 @@ JUE:
     -- PF
     -- Get: T. Naranja
     -- Take: Tuppers
-- C: curso de mierda
+
 
 - Trim M65
 - G: continue conex stg
