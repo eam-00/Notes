@@ -200,7 +200,7 @@ VIE:
 ---
 - M:
 
-    -- Get: T. Naranja
+    -- Take: T. Naranja
 
 
 
