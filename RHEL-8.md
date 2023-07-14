@@ -31,8 +31,7 @@ The XFS file system now supports shared copy-on-write data extend functionality 
 
 **Stratis is now available**:  
 Stratis is a new local storage manager.  
-It provides managed file systems on top of pools of storage with additional features to the user.
-
+It provides managed file systems on top of pools of storage with additional features to the user.  
 Stratis enables you to more easily perform storage tasks such as:
 
 Manage snapshots and thin provisioning
