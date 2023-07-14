@@ -30,7 +30,8 @@ The firewalld daemon now uses nftables as its default backend.
 The XFS file system now supports shared copy-on-write data extend functionality that allows sharing a common set of data blocks. It means everyone has a single shared copy of the file that links the same data blocks. This functionality allows minimizing the number of data blocks.
 
 **Stratis is now available**:  
-Stratis is a new local storage manager. It provides managed file systems on top of pools of storage with additional features to the user.
+Stratis is a new local storage manager.  
+It provides managed file systems on top of pools of storage with additional features to the user.
 
 Stratis enables you to more easily perform storage tasks such as:
 
