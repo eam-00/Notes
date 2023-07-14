@@ -203,7 +203,7 @@ VIE:
     -- Take: T. Naranja
 
 
-
+- ChK Bcos
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
