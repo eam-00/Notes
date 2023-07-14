@@ -200,7 +200,7 @@ VIE:
 ---
 - M:
 
-    -- Take: T. Naranja
+
 
 - ChK Bcos
 - Trim M65
