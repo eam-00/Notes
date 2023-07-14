@@ -34,7 +34,7 @@ Stratis is a new local storage manager.
 It provides managed file systems on top of pools of storage with additional features to the user.  
 Stratis enables you to more easily perform storage tasks such as:
 
-Manage snapshots and thin provisioning
+- Manage snapshots and thin provisioning
 Automatically grow file system sizes as needed
 Maintain file systems
 To administer Stratis storage, use the stratis utility, which communicates with the stratisd background service.
