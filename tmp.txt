@@ -15,7 +15,7 @@
    - Cable audio [?]
 
 La Bolognesa:
-              -- Lasagna
+              -- Lasagna: para cuatro personas
 
  - Remove "Usuario"
  - Weekly Backup
