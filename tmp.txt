@@ -4,6 +4,7 @@
 
 -- M:
      Tuppers
+     Card
 
 -- Take:
    - Tuppers
