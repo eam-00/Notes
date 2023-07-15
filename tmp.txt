@@ -19,6 +19,7 @@ La Bolognesa:
               -- Lasagna: para cuatro personas
 
 El Bocado:
+          -- 100 Gr J
 
  - Remove "Usuario"
  - Weekly Backup
