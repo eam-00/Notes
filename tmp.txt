@@ -12,6 +12,7 @@
    - Tuppers
    - Leche
    - USB - WiFi[s]
+   - Cable audio [?]
 
 
  - Remove "Usuario"
