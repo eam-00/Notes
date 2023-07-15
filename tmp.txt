@@ -11,6 +11,7 @@
 -- Take:
    - Tuppers
    - Leche
+   - USB - WiFi[s]
 
 
  - Remove "Usuario"
