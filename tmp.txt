@@ -14,6 +14,8 @@
    - USB - WiFi[s]
    - Cable audio [?]
 
+La Bolognesa:
+              -- Lasagna
 
  - Remove "Usuario"
  - Weekly Backup
