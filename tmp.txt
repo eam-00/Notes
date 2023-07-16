@@ -10,7 +10,6 @@
 
 
 -- Take:
-   - Tuppers
 
    - USB - WiFi[s]
    - Cable audio [?]
