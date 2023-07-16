@@ -7,7 +7,7 @@
 -- M:
      Tuppers
      Card
-     Lavanderia
+
 
 -- Take:
    - Tuppers
