@@ -218,8 +218,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 LUN:
 ---
 
-
-
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
