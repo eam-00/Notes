@@ -4,9 +4,6 @@
 
 
 
-
-
-
 -- Take:
    - USB - WiFi[s]
    - Cable audio [?]
