@@ -201,7 +201,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
-- C: TS
+
 - M: Tuppers | Bolsitas
 - Transfer logs [?????]
 - Trim M65
