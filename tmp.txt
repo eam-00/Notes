@@ -205,7 +205,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
-- Lavar ropa
+
 
 - Batt: 11e
 
