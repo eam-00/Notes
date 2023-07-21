@@ -208,7 +208,7 @@ VIE:
 - Lavar ropa
 - ChK Bcos
 - Batt: 11e
-- Transfer logs [?????]
+
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
