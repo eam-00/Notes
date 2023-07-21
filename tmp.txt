@@ -204,6 +204,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
+- ChK Bcos
 - Batt: 11e
 
 - Transfer logs [?????]
