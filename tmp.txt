@@ -207,7 +207,7 @@ VIE:
 ---
 
 
-- Batt: 11e
+
 
 - Trim M65
 - G: continue conex stg
