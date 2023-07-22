@@ -18,6 +18,7 @@
  - Sync USBs
 
 El Bocado:
+  - 100 Gr J
 
 ---
 DOM:
