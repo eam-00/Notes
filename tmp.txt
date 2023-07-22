@@ -2,7 +2,6 @@
   N:
 -----
 
-
 -- Take:
    - Bolsitas
    - Cable audio [?]
