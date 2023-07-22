@@ -4,7 +4,7 @@
 
 -- M:
   - Tuppers
-  - Lavanderia
+
 
 -- Take:
    - Bolsitas
