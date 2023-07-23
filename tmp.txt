@@ -33,6 +33,7 @@ DOM:
 ---
     -- Get:
            - Panqueques
+           - Pollo
            - Manies
            - Manies con Choco
     -- Un-freeze pan
