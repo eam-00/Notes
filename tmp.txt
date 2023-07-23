@@ -32,7 +32,7 @@ El Bocado:
 DOM:
 ---
     -- Get:
-           -- Milanesas --
+           - Panqueques
            - Manies
            - Manies con Choco
     -- Un-freeze pan
