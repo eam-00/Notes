@@ -220,7 +220,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
-
+-- M: Panqueques
 -- G: RCA: -> Chat
 -- G: Dell
 -- Batts: MBP | LRRPs
