@@ -222,7 +222,8 @@ LUN:
 ---
 -- M: datos para votar
 -- G: RCA: -> Chat
--- G: Dell 
+-- G: Dell
+-- Batts: MBP | 
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
