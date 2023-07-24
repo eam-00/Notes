@@ -36,7 +36,7 @@ DOM:
            - Pollo
            - Manies
            - Manies con Choco
-    -- Un-freeze pan
+
     -- M: datos para votar
 
 
