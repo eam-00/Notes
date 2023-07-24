@@ -35,7 +35,7 @@ DOM:
            - Panqueques
            - Pollo
            - Manies
-           - Manies con Choco
+
 
 
 
