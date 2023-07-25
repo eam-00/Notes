@@ -222,7 +222,7 @@ LUN:
 
 -- G: RCA: -> Chat
 -- G: Dell
--- Batts: MBP | LRRPs
+-- Batts: MBP
 -- G: CloudTop -> Reboot
 - Trim M65
 - G: continue conex stg
