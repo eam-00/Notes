@@ -214,8 +214,6 @@ MIE:
 -- C: TS
 -- G: RCA: -> Chat
 -- G: Dell
-
-
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
