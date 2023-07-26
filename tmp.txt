@@ -223,7 +223,7 @@ MIE:
 -- G: RCA: -> Chat
 -- G: Dell
 
--- G: CloudTop -> Reboot
+
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
