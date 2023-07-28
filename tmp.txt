@@ -212,6 +212,7 @@ VIE:
 ---
 -- G: ChK c/ G -> Notifi [???]
 -- ATM
+-- Carre: Horario Domingo
 -- X140E | 
 -- ChK Bcos
 - Trim M65
