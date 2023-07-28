@@ -214,7 +214,7 @@ VIE:
 -- ATM
 -- Carre: Horario Domingo
 -- X140E | 
--- ChK Bcos
+
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
