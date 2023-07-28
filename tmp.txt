@@ -212,6 +212,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
+-- G: ChK c/ G -> Notifi [???]
 -- ATM
 -- ChK Bcos
 - Trim M65
