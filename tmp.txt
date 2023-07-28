@@ -213,7 +213,7 @@ VIE:
 -- G: ChK c/ G -> Notifi [???]
 -- ATM
 -- Carre: Horario Domingo
--- X140E | 
+-- X140E | W530 | 
 
 - Trim M65
 - G: continue conex stg
