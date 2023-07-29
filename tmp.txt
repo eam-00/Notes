@@ -3,6 +3,7 @@
 -----
 
 -- M:
+  - Lavanderia
 
 -- Take:
    - Cable audio [?]
