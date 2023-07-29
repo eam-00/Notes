@@ -213,7 +213,7 @@ VIE:
 
 
 
--- X140E | W530 | T430
+-- X140E | W530
 
 - Trim M65
 - G: continue conex stg
