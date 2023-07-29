@@ -210,7 +210,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
--- G: ChK c/ G -> Notifi [???]
+
 -- ATM
 -- Carre: Horario Domingo
 -- X140E | W530 | T430
