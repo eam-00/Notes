@@ -212,7 +212,7 @@ VIE:
 ---
 
 -- ATM
--- Carre: Horario Domingo
+
 -- X140E | W530 | T430
 
 - Trim M65
