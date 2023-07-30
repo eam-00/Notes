@@ -17,7 +17,7 @@
           - EDENOR
           - Carre
 
--- Edge: extensions
+
 
  - Remove "Usuario"
  - Weekly Backup
