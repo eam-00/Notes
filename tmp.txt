@@ -218,7 +218,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 LUN:
 ---
 -- M: ChK Movistar | Telecom ||  -> Tartas ||  ChK Netflix || Netflix -> Comics
--- Batts: 
+-- Batts: 11e | 
 -- ATM
 -- Carre
 - Trim M65
