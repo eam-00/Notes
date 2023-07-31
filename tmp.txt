@@ -215,7 +215,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 LUN:
 ---
--- M: 
+-- M: ChK Movistar | Telecom || 
 -- ATM
 -- Carre
 - Trim M65
