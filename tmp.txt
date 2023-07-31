@@ -59,6 +59,7 @@ Hard drive cable L23889-001
 - XFCE: Lightdm -> batt %
 - XFCE: Disable touchpad
 - GNOME -> Remove games -> X140E
+- MBW2 -> MBW -> switcharoo SSD
 
 Start > Control Panel > System and Maintenance > Backup and Restore > Set up backup
 
