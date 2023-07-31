@@ -266,7 +266,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar cardiologo
 
   -----
-- Carre: Bolsitas | Panes | Agua | Leches | Galles 
+- Carre: Bolsitas | Panes | Agua | Leches | Galles | Chocos 
   -----
 
 - Cell: Auto brightness | Auto Switch to Data | Auto Volume
