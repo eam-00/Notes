@@ -60,6 +60,7 @@ Hard drive cable L23889-001
 - XFCE: Disable touchpad
 - GNOME -> Remove games -> X140E
 - MBW2 -> MBW -> switcharoo SSD
+- Debian 12 -> GNOME core install test
 
 Start > Control Panel > System and Maintenance > Backup and Restore > Set up backup
 
