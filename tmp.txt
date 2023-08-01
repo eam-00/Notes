@@ -215,7 +215,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 MAR:
 ---
-_ M: Edenor
+-- M: ChK Edenor
 -- M: ChK Movistar | Telecom ||  -> Tartas ||  ChK Netflix || Netflix -> Comics
 -- Batts: 11e | X220 [Large] | T4102 | MBP | 
 -- ATM
