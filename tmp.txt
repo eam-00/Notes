@@ -217,7 +217,7 @@ MAR:
 ---
 -- M: ChK Edenor
 -- M:  | Telecom ||   ||  ChK Netflix || Netflix -> Comics
--- Batts: 11e |    
+-- Batts: 11e |  T410 | 
 -- ATM
 -- Carre
 - Trim M65
