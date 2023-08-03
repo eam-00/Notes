@@ -215,7 +215,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 JUE:
 ---
 
--- M:  | Telecom | ChK Netflix | Netflix -> Comics
+-- M:  | Telecom | ChK Netflix |
 -- Batts: 11e |  T410 | 
 -- ATM
 
