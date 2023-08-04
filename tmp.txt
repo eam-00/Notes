@@ -204,7 +204,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 VIE:
 ---
 -- ChK Bcos
--- Batts:  
+
 -- ATM
 -- M: Tupper
 - Trim M65
