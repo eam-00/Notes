@@ -207,7 +207,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 ---
-JUE:
+VIE:
 ---
 -- Batts: 11e |  T410 | 
 -- ATM
