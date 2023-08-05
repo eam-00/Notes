@@ -15,6 +15,7 @@ El Bocado:
   - Panceta ahumada
 
 - Papas
+- Mandarinas
 
  - Remove "Usuario"
  - Weekly Backup
