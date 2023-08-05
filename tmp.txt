@@ -15,7 +15,7 @@ El Bocado:
   - Panceta ahumada
   - Pan de Papas
 
-- Papas
+
 
 
  - Remove "Usuario"
