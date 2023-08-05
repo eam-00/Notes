@@ -16,7 +16,7 @@ El Bocado:
   - Pan de Papas
 
 - Papas
-- Mandarinas
+
 
  - Remove "Usuario"
  - Weekly Backup
