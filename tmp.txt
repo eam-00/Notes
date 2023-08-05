@@ -12,6 +12,7 @@ El Bocado:
   - 100 Gr j
   - 100 Gr Q
   - Salchicha
+  - Panceta ahumada
 
  - Remove "Usuario"
  - Weekly Backup
