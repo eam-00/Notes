@@ -323,6 +323,6 @@ Interview:
 - Disaster recovery
 - NFS
 - Working on nested environments - [Citrix]
-- Ingles
+
 
 
