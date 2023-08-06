@@ -183,6 +183,8 @@ https://www.tomsguide.com/how-to/how-to-share-wi-fi-on-android-using-usb-tetheri
 - [GNOME] Part 2 on my Gnome rice. I followed people’s advice and used xrandr to make my screen 720x1080 on just the usable part on the monitor. Simple and clean gnome interface, and I didn’t need 2/3 of the screen for the terminal anyway!
 https://www.reddit.com/r/unixporn/comments/117upu1/gnome_part_2_on_my_gnome_rice_i_followed_peoples/
 
+https://unix.stackexchange.com/questions/472459/xrandr-problem-trying-to-avoid-broken-display
+
 Josefina Poroli - Light Wallpapers
 https://www.saatchiart.com/account/artworks/1746677
 
