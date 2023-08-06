@@ -180,7 +180,7 @@ https://docs.tenable.com/tenablecore/SecurityCenter/Content/TenableCore/Configur
 How to share Wi-Fi on Android using USB tethering
 https://www.tomsguide.com/how-to/how-to-share-wi-fi-on-android-using-usb-tethering
 
-
+- [GNOME] Part 2 on my Gnome rice. I followed people’s advice and used xrandr to make my screen 720x1080 on just the usable part on the monitor. Simple and clean gnome interface, and I didn’t need 2/3 of the screen for the terminal anyway!
 https://www.reddit.com/r/unixporn/comments/117upu1/gnome_part_2_on_my_gnome_rice_i_followed_peoples/
 
 Josefina Poroli - Light Wallpapers
