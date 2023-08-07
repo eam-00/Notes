@@ -219,7 +219,7 @@ LUN:
 ---
 -- G: Push Chat VMW [URG!]
 -- ATM
--- Batts: LRRPs
+-- Batts: LRRPs | T430 | 
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
