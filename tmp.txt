@@ -220,7 +220,7 @@ LUN:
 -- ATM
 -- Expensas
 -- Batts: LRRPs | T430 | T420 | W530
--- TRRTs
+
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
