@@ -222,7 +222,7 @@ LUN:
 -- G: Push Chat VMW [URG!]
 -- ATM
 
--- Batts: | T430 | T420 
+-- Batts: | T430
 
 - Trim M65
 - G: continue conex stg
