@@ -221,7 +221,7 @@ LUN:
 ---
 -- G: Push Chat VMW [URG!]
 -- ATM
--- Expensas
+
 -- Batts: | T430 | T420 | W530
 
 - Trim M65
