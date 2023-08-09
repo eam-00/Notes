@@ -218,7 +218,7 @@ MIE:
 ---
 -- G: Push Chat VMW [URG!]
 -- ATM
-
+-- ChK Expensas OK
 
 
 - Trim M65
