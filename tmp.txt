@@ -218,7 +218,7 @@ MIE:
 ---
 -- G: Push Chat VMW [URG!]
 -- ATM
--- ChK Expensas OK
+-- Push Expensas OK
 - Trim M65
 - G: continue conex stg
 - G: test join BD Cass [????]
