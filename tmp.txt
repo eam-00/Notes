@@ -334,7 +334,7 @@ Interview:
 - Troubleshooting - [Wireshark], [TCP Dump]
 - Disaster recovery
 - NFS
-- Working on nested environments - [Citrix]
+
 
 
 
