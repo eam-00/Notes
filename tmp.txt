@@ -214,7 +214,7 @@ JUE:
 -- C: TS
 -- G: Push Chat VMW [URG!]
 -- ATM
--- Push Expensas OK
+
 - Trim M65
 - G: continue conex stg
 
