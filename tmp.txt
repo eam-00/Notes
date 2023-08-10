@@ -209,6 +209,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 JUE:
 ---
+-- G: ChK Verify | 
 -- C: TS
 -- G: Push Chat VMW [URG!]
 -- ATM
