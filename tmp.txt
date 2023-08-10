@@ -211,7 +211,7 @@ JUE:
 ---
 -- G: ChK Verify
 -- G: Keep alive Hugo
--- C: TS
+
 -- G: Push Chat VMW [URG!]
 -- ATM
 
