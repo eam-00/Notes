@@ -323,7 +323,7 @@ Interview:
 - SSH exercise
 - Troubleshooting - [Wireshark], [TCP Dump]
 - Disaster recovery
-- NFS
+
 
 
 
