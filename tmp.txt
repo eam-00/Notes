@@ -321,7 +321,7 @@ Interview:
 - Cloud - [AWS]
 - Scripting
 - SSH exercise
-- Troubleshooting - [Wireshark], [TCP Dump]
+
 
 
 
