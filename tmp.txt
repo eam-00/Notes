@@ -206,6 +206,7 @@ SAB:
 ---
 - Inodoro
 - Medias
+- Debian 12 GNOME:
 
 ---
 LUN:
