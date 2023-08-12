@@ -316,7 +316,7 @@ Interview:
 - Experiencias
 - Cloud - [AWS]
 - Scripting
-- SSH exercise
+
 
 
 
