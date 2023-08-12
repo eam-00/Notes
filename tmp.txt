@@ -209,6 +209,7 @@ SAB:
 - Debian 12 GNOME:
   - x220i
   - x140e
+- Batts: Tablets | 11e
 
 ---
 LUN:
