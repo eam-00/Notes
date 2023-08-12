@@ -322,7 +322,6 @@ Interview:
 - Scripting
 - SSH exercise
 - Troubleshooting - [Wireshark], [TCP Dump]
-- Disaster recovery
 
 
 
