@@ -208,6 +208,7 @@ SAB:
 - Medias
 - Debian 12 GNOME:
   - x220i
+  - x140e
 
 ---
 LUN:
