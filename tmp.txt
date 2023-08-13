@@ -207,7 +207,7 @@ SAB:
 ---
 - Inodoro
 - Medias
-- Debian 12 GNOME:
+`
 
   - x140e
 - Batts: Tablets | 11e | BT keyboard
