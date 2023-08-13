@@ -209,7 +209,7 @@ SAB:
 - Medias
 `
 
-  - x140e
+`
 - Batts: Tablets | 11e | BT keyboard
 
 ---
