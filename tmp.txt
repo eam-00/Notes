@@ -40,7 +40,7 @@ Hard drive cable L23889-001
   info@latinparts.com
   http://www.latinparts.com
 
-- X220i | X140e | x201t -> Debian 12 GNOME
+- X140e | x201t -> Debian 12 GNOME
 - XFCE: Lightdm -> batt %
 - XFCE: Disable touchpad
 - GNOME -> Remove games -> X140E
