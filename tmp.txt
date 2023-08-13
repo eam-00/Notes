@@ -43,7 +43,7 @@ Hard drive cable L23889-001
 
 - XFCE: Lightdm -> batt %
 - XFCE: Disable touchpad
-- GNOME -> Remove games -> X140E
+`
 
 
 Settings > Privacy and Security > Cookies and other site data > Cookies and other site data
