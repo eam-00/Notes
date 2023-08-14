@@ -219,6 +219,7 @@ LUN:
 -- G: ChK Verify
 -- Batts:
  - 11e2
+ - 11e
 
 -- ATM
 
