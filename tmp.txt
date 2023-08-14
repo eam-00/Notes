@@ -218,6 +218,7 @@ LUN:
 -- G: Push Chat VMW [URG!]
 -- G: ChK Verify
 -- Batts:
+ - 11e2
 
 -- ATM
 
