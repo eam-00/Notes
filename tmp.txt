@@ -219,7 +219,7 @@ LUN:
 
  - 11e
 
- - X220 [Large]
+
 
 -- ATM
 -- Medias
