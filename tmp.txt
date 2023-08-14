@@ -222,7 +222,7 @@ LUN:
  - X220 [Large]
 
 -- ATM
-- Medias
+-- Medias
 - Trim M65
 - G: continue conex stg
 
