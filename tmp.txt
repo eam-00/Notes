@@ -328,7 +328,7 @@ Interview:
 - Nacionalidad
 - Experiencias
 - Cloud - [AWS]
-- Scripting
+
 
 
 
