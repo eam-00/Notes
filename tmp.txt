@@ -206,7 +206,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 ---
 `
-- Medias
+
 `
 
 `
@@ -224,7 +224,7 @@ LUN:
  - X220 [Large]
 
 -- ATM
-
+- Medias
 - Trim M65
 - G: continue conex stg
 
