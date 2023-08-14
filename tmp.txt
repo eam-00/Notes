@@ -208,7 +208,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 `
 
 
-- Batts: Tablets | 11e | BT keyboard
+- Batts: Tablets  | BT keyboard
 
 ---
 LUN:
