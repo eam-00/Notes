@@ -211,7 +211,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 - Batts: Tablets 
 
 ---
-LUN:
+MAR:
 ---
 -- G: Push Chat VMW [URG!]
 -- G: ChK Verify
