@@ -326,7 +326,7 @@ Interview:
 ---------
 - Nacionalidad
 - Experiencias
-- Cloud - [AWS]
+
 
 
 
