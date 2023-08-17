@@ -211,6 +211,7 @@ JUE:
 -- G: Push Chat VMW [URG!]
 -- G: ChK Verify
 -- C: TS
+-- C: Ch Psswd
 
 
 -- ATM
