@@ -213,6 +213,7 @@ JUE:
 -- C: TS
 -- C: Ch Psswd
 -- G: ChK Ben stuff
+-- G: reboot Chrome
 
 -- ATM
 -- Medias
