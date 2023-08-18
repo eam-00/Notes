@@ -219,6 +219,9 @@ VIE:
 -- M: <- lavanderia
       -> Tuppers
       -> Empanadas
+
+-- G: reboot Cloudtop
+
 -- Medias
 - Trim M65
 - G: continue conex stg
