@@ -210,7 +210,6 @@ VIE:
 ---
 -- G: Push Chat VMW [URG!]
 -- G: ChK Verify
-
 -- C: Ch Psswd
 -- Pastafrola
 
