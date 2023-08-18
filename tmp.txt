@@ -218,6 +218,7 @@ VIE:
 -- ATM
 -- M: <- lavanderia
       -> Tuppers
+      -> Empanadas
 -- Medias
 - Trim M65
 - G: continue conex stg
