@@ -213,7 +213,7 @@ JUE:
 
 -- C: Ch Psswd
 -- Pastafrola
--- G: ChK Ben stuff
+
 -- G: reboot Chrome
 
 -- ATM
