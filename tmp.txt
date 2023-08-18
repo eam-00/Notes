@@ -214,7 +214,7 @@ JUE:
 -- C: Ch Psswd
 -- Pastafrola
 
--- G: reboot Chrome
+
 
 -- ATM
 -- Medias
