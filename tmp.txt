@@ -217,7 +217,7 @@ VIE:
 
 -- ATM
 -- M: <- lavanderia
-      -> Tuppers
+
       -> Empanadas
 
 -- G: reboot Cloudtop
