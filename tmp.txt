@@ -235,7 +235,7 @@ find PATH -type -f -mtime +14 -name FILE -print0 | xargs -r0 rm -- >/dev/null 2>
 - The Gold Coast: Location 2550  Chap 24
 - Engineers of Victory: Location 572
 
-- P: Test Instance Metadata: curl http://169.254.169.254/latest/meta-data/ 
+- AWS: Test Instance Metadata: curl http://169.254.169.254/latest/meta-data/ 
 
 - "Progresismo: El octavo pasajero" - 2.000 Pesos - WhatsApp 11 3054 3110
 
