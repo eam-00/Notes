@@ -10,7 +10,7 @@
 
 El Bocado:
 
-- Mozzarella
+- 1/4 Mozzarella
 
  - Remove "Usuario"
  - Weekly Backup
