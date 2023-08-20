@@ -12,7 +12,7 @@ El Bocado:
 ---------
 
 
-- 100 Gr Queso
+
 
 
  - Remove "Usuario"
