@@ -13,7 +13,7 @@ El Bocado:
 
 - 150 Gr Jamon
 - 100 Gr Queso
-- Salchicha de Viena
+
 
  - Remove "Usuario"
  - Weekly Backup
