@@ -199,6 +199,8 @@ sudo apt purge gnome-2048 aisleriot atomix gnome-chess five-or-more hitori iagno
 - Remove gnome games
 https://www.reddit.com/r/debian/comments/15888xj/remove_gnome_games/
 
+sudo apt remove gnome-games && sudo apt autoremove
+
 ------------------
 
 gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
