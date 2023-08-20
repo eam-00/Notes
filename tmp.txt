@@ -217,7 +217,8 @@ LUN:
 ---
 -- G: Push Chat VMW [URG!]
 -- G: ChK Verify
-
+Edit: 
+https://github.com/eam-00/Util-scripts/blob/master/check-proc.sh
 
 -- ATM
 
