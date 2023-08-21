@@ -234,6 +234,9 @@ https://github.com/eam-00/Util-scripts/blob/master/check-proc.sh
 - Trim M65
 - G: continue conex stg
 
+MAR:
+
+
 find PATH -type -f -mtime +14 -name FILE -print0 | xargs -r0 rm -- >/dev/null 2>&1
  
 - O: Derm
