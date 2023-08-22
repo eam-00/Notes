@@ -224,7 +224,7 @@ https://github.com/eam-00/Util-scripts/blob/master/check-proc.sh
 -- M:
 
    - T. Naranja
-- Lavar:
+
 
 
 
