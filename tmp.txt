@@ -216,7 +216,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 MAR:
 ---
 
--- G: ChK Verify
+
 Edit: 
 https://github.com/eam-00/Util-scripts/blob/master/check-proc.sh
 
