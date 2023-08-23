@@ -48,6 +48,7 @@ Hard drive cable L23889-001
 - XFCE: Lightdm -> batt %
 - XFCE: Disable touchpad
 - Pendrive Backups > Sneakernet Files
+- T60p > Debian 12
 
 Settings > Privacy and Security > Cookies and other site data > Cookies and other site data
 Start > Control Panel > System and Maintenance > Backup and Restore > Set up backup
