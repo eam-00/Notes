@@ -235,7 +235,7 @@ https://github.com/eam-00/Util-scripts/blob/master/check-proc.sh
 - G: continue conex stg
 
 ---
-MAR:
+MIE:
 ---
 -- Batt: test -> 11e2 | x220i | 
 
