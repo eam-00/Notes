@@ -217,8 +217,7 @@ MAR:
 ---
 
 
-Edit: 
-https://github.com/eam-00/Util-scripts/blob/master/check-proc.sh
+
 
 -- ATM
 -- M:
