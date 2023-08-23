@@ -237,6 +237,7 @@ https://github.com/eam-00/Util-scripts/blob/master/check-proc.sh
 MIE:
 ---
 -- G: Push Chat VMW [URG!]
+-- G: ChK Verify
 -- Batt: test -> 11e2 | x220i | 11e |
 
 find PATH -type -f -mtime +14 -name FILE -print0 | xargs -r0 rm -- >/dev/null 2>&1
