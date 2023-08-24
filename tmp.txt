@@ -234,6 +234,7 @@ JUE:
 ---
 -- G: Push Chat VMW [URG!]
 -- G: ChK Verify
+-- C: TS
 -- M:
    - T. Naranja
 -- Batt: test -> 11e2 | x220i | 11e |
