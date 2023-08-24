@@ -322,7 +322,7 @@ X220 Small
 X140E
 X220i
 X60
-T430
+
 
 r/LiminalSpace:
 --------------
