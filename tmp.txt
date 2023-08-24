@@ -237,6 +237,7 @@ MIE:
 -- G: ChK Verify
 -- M:
    - T. Naranja
+   - Tuppers
 -- Batt: test -> 11e2 | x220i | 11e |
 Edit: 
 https://github.com/eam-00/Util-scripts/blob/master/check-proc.sh
