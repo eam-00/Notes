@@ -276,7 +276,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
   -----
 - Carre: Agua | Panes | Galles Merengadas |  Queso Cremoso |  Cif | Yogurts | 
   -----
-Desodorante | Cif | 
+Desodorante | Cif | Chocos | 
 
 - Cell: Auto brightness | Auto Switch to Data | Auto Volume
 - LLamar modista
