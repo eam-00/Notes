@@ -240,6 +240,7 @@ VIE:
 
 -- M:
    - T. Naranja
+   - Laundry
 -- Batt: test -> 11e2 | x220i | 11e |
 -- ATM
 
