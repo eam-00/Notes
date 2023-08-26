@@ -13,6 +13,7 @@ SAB:
 ---
 M: 
    - -> Bolsitas
+   - -> Laundry
 
   - Print: EDENOR
 
