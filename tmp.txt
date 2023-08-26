@@ -234,7 +234,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ---
 VIE:
 ---
--- G: Push Chat VMW [URG!] -> thread
+
 
 
 -- ATM
