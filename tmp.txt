@@ -243,7 +243,7 @@ VIE:
    - Bolsitas
    - Get: Laundry
 -- Batt: test -> 11e2 | x220i | 11e |
--- ATM
+
 
 
 find PATH -type -f -mtime +14 -name FILE -print0 | xargs -r0 rm -- >/dev/null 2>&1
