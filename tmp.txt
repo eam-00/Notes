@@ -16,7 +16,7 @@ M:
    - -> Laundry
 
   - Print: EDENOR
-  - Test: Micro Emacs
+  - Test: Micro Emacs | Sneakernet Crypt
 
 
 
