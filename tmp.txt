@@ -236,7 +236,7 @@ VIE:
 ---
 -- G: Push Chat VMW [URG!] -> thread
 
--- G: Push undeleted
+
 -- ATM
 -- M:
    - T. Naranja
