@@ -16,7 +16,7 @@ M:
 
 
 El Bocado:
-  -- 150 Gr J
+
 
   - Print: EDENOR
   - Test: Micro Emacs | Sneakernet Crypt
