@@ -13,7 +13,7 @@ SAB:
 ---
 M: 
 
-   - -> Laundry
+
 
 El Bocado:
   -- 150 Gr J
