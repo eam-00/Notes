@@ -225,9 +225,9 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 
-
+----
 LUN:
-
+---
 -- Cumple Pao/ Pau
 -- M: PF
 
