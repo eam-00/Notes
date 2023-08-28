@@ -21,7 +21,7 @@
   - Test: Micro Emacs | Sneakernet Crypt
   - GET: 
         -- Milanesa
-        -- Mozarella
+
 
 ---
 DOM:
