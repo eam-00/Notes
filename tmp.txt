@@ -259,6 +259,7 @@ LUN:
 
 
 -- Batt:  x220i | 11e |
+         - LRRPs
 
 
 
