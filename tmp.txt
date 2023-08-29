@@ -231,7 +231,7 @@ LUN:
 
 -- M:
     - PF
-    - Telecom
+
     - Setup payments
 -- TB HDD:
         - The Thin Red Line
