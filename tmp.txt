@@ -232,7 +232,7 @@ LUN:
 -- M:
     - PF
 
-    - Setup payments
+
 -- TB HDD:
         - The Thin Red Line
         - Black Rain
