@@ -240,6 +240,7 @@ LUN:
 -- G:
    - Veri: Memory -> silence -> F
    - reboot: why
+   - silence port
 
 
 
