@@ -238,6 +238,7 @@ LUN:
         - Black Rain
 
 -- G:
+   - Veri: Memory -> silence -> F
 
 
 
