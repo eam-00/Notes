@@ -230,7 +230,7 @@ LUN:
 ---
 
 -- M:
-    - PF
+
     - ChK J
 
 -- TB HDD:
