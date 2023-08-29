@@ -231,7 +231,7 @@ LUN:
 
 -- M:
 
-    - ChK J
+
 
 -- TB HDD:
         - The Thin Red Line
