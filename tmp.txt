@@ -241,7 +241,7 @@ JUE:
 
 -- G:
    - cabling stuff
-   - reboot: why
+
 
 
 
