@@ -345,7 +345,7 @@ Romeo Mayday Delta Alpha Sierra Hospital Romeo Foxtrot Sierra Lima Alpha Sierra 
 
 X220 Large
 X220 Small
-X140E
+
 
 
 
