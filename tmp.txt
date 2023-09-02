@@ -242,7 +242,7 @@ VIE:
         - Black Rain
 
 -- G:
-   - cabling stuff
+
 
 
 
