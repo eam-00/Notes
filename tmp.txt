@@ -13,7 +13,8 @@
 DOM:
 ---
 -- TW: Deposit
--- Batt:  x220i | T430 | X140E | W530 
+-- Batt:  x220i | T430 | X140E | W530
+         - x201t
 
 
 
