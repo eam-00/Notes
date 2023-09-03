@@ -13,6 +13,7 @@
 DOM:
 ---
 -- TW: Deposit
+-- ChK cat distance bath window
 -- Tupper
 -- Batt:  x220i | T430 | X140E | W530
          - x201t
