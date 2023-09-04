@@ -18,7 +18,7 @@ DOM:
 -- Batt:  T430 |  W530
          - x201t
 -- TRRTs
--- Kindles
+  
 
 
 
