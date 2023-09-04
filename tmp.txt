@@ -237,6 +237,7 @@ LUN:
      - USB
      - Lavanderia
      - Tupper
+     - Clip
 
 -- Kindles
 -- LRRPs
