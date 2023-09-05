@@ -239,7 +239,7 @@ MAR:
      - Boletas
 -- Batt:  T430 |  MBP | W530
 -- Kindles
--- LRRPs
+
 
 
 -- TB HDD:
