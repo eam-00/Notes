@@ -237,7 +237,7 @@ MAR:
 
 
      - Boletas
--- Batt:  T430 |  MBP | W530
+-- Batt:  T430 | MBP | W530
 -- Kindles
 
 
