@@ -234,7 +234,7 @@ MAR:
 -- M:
      - USB
 
-     - Tupper
+
      - Clip
      - Boletas
 -- Batt:  T430 |  MBP | W530
