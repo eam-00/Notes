@@ -233,7 +233,7 @@ MAR:
 
 -- M:
      - USB
-     - Lavanderia
+
      - Tupper
      - Clip
      - Boletas
