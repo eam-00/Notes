@@ -237,7 +237,7 @@ MAR:
      - Tupper
      - Clip
      - Boletas
-
+-- Batt:  T430 |  MBP | W530
 -- Kindles
 -- LRRPs
 
