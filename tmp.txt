@@ -236,7 +236,7 @@ MAR:
 
 
 
-
+-- Cargar pilas
 -- Batt:  T430 | MBP | W530
 -- Kindles
 
