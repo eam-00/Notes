@@ -239,7 +239,7 @@ JUE:
 
 
 
--- Cargar pilas
+
 -- Batt:  T430 | MBP | W530
 
 
