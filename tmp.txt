@@ -234,6 +234,7 @@ JUE:
 -- G:
      - Push Answers Dell
      - Push NR single N
+     - Push delete Temp N
 -- C:
      TS
 
