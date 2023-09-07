@@ -236,7 +236,7 @@ JUE:
      - Push NR single N
 
 -- C:
-     TS
+
 
 
 -- Batt:  T430 | MBP | W530
