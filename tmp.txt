@@ -1,7 +1,6 @@
 ----
   N:
 -----
-
 -- Take:
    - Cable audio [?]
    - Champagne [?]
