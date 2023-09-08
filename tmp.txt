@@ -239,7 +239,7 @@ VIE:
 
 
 
--- Batt:  T430 | MBP |
+-- Batt:  T430 | 
 
 
 
