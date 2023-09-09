@@ -240,7 +240,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 ----
 VIE:
 ---
--- ChK Bcos
+
 -- G:
      - Push NR single N
 
