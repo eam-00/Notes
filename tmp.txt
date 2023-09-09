@@ -28,7 +28,7 @@ DOM:
   -- Charge:
           - S8
           - S10
-
+  -- Sacar Champagne heladera
 
   - Test: Micro Emacs | Sneakernet Crypt
  
