@@ -233,7 +233,7 @@ VIE:
 -- ChK Bcos
 -- M:
 -- G:
-     - Push Answers Dell
+
      - Push NR single N
      - Review all silences
 
