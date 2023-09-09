@@ -27,6 +27,7 @@ DOM:
 ---
   -- Charge:
           - S8
+          - S10
 
 
   - Test: Micro Emacs | Sneakernet Crypt
