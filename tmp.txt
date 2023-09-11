@@ -248,7 +248,7 @@ LUN:
 
 
 -- G:
-     - Push NR single N
+
 
 
 -- Batts: LRRPs
