@@ -252,7 +252,7 @@ LUN:
 
 
 -- Batts: LRRPs
-
+-- T420: Test HDMI -> Sound out
 
 
 
