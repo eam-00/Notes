@@ -252,7 +252,7 @@ MAR:
 
 
 -- Batts: 11e |
--- T420: Test HDMI -> Sound out
+
 
 
 
