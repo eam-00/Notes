@@ -251,7 +251,7 @@ MAR:
 
 
 
--- Batts: LRRPs
+-- Batts:
 -- T420: Test HDMI -> Sound out
 
 
