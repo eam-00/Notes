@@ -327,7 +327,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar cardiologo
 
   -----
-- Carre: Agua | Panes | Queso Cremoso |  Yogurts | Manteca | PortSalut | 
+- Carre: Agua | Panes | Queso Cremoso | Yogurts | Manteca | PortSalut | 
   -----
   --
 - FC: Desodorante | Cif | Chocos | 
