@@ -251,7 +251,7 @@ MIE:
 
 
 
--- Batts: 11e | AAA
+-- Batts: 11e
 
 
 
