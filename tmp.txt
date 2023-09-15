@@ -248,7 +248,7 @@ VIE:
 
 
 
--- Batts: 11e | T430 | 
+-- Batts: 11e | T430 | X140E
 
 
 
