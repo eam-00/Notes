@@ -36,6 +36,7 @@ DOM:
 ---
 
   -- Get:
+         - Jamon
          - Desodorantes
 
   -- Charge:
