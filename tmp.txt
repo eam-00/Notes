@@ -36,7 +36,7 @@ DOM:
 ---
 
   -- Get:
-         - Jamon
+         - Fetas de Jamon
          - Desodorantes
 
   -- Charge:
