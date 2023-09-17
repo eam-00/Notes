@@ -41,6 +41,8 @@ DOM:
   -- Charge:
           - S10
   
+ - Lavar:
+
 
   - Test: Micro Emacs | Sneakernet Crypt
  
