@@ -36,6 +36,7 @@ DOM:
 ---
 
   -- Get:
+         - Desodorantes
 
   -- Charge:
           - S10
