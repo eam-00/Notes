@@ -37,7 +37,7 @@ DOM:
 
   -- Get:
          - Fetas de Jamon
-         - Desodorantes
+
 
   -- Charge:
           - S10
