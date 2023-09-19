@@ -43,7 +43,7 @@ DOM:
           - S10
   
  - Lavar:
-         - bolsas de compras
+
 
   - Test: Micro Emacs | Sneakernet Crypt
  
