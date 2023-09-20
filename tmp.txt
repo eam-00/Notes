@@ -44,7 +44,7 @@
 
   - Test: Micro Emacs | Sneakernet Crypt
  
-tar czvpf - SOME_DIR | gpg -a --symmetric --cipher-algo aes256 -o SOME_OTHER_DIR
+
 tar czvpf - ~/Local | gpg -a --symmetric --cipher-algo aes256 -o /tmp/Local.gpg.tgz
 tar czvpf - ~/Dropbox | gpg -a --symmetric --cipher-algo aes256 -o /tmp/Dropbox.gpg.tgz
 
