@@ -86,7 +86,7 @@ Hard drive cable L23889-001
 
 - XFCE: Lightdm -> batt %
 - XFCE: Disable touchpad
-- Pendrive Backups > Sneakernet Files
+
 
 
 Settings > Privacy and Security > Cookies and other site data > Cookies and other site data
