@@ -256,6 +256,7 @@ VIE:
 -- ChK Bcos
 -- Batts:
           - moto g22
+          - S8
 
 
 
