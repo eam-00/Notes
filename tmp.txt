@@ -254,7 +254,9 @@ VIE:
 ---
 
 -- ChK Bcos
--- Batts: moto g22 | 
+-- Batts:
+          - moto g22
+
 
 
 
