@@ -257,6 +257,7 @@ VIE:
 -- Batts:
           - moto g22
           - S8
+          - S10
 
 
 
