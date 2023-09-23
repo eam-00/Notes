@@ -255,7 +255,7 @@ VIE:
 
 
 -- Batts:
-          - moto g22
+
 
 
 
