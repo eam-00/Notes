@@ -258,7 +258,7 @@ VIE:
 -- Batts:
           - moto g22
 
-          - S10
+
 
 -- G: Reboot CT
 
