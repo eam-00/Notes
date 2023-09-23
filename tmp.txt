@@ -257,7 +257,7 @@ VIE:
 -- ChK Bcos
 -- Batts:
           - moto g22
-          - S8
+
           - S10
 
 -- G: Reboot CT
