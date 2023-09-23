@@ -9,6 +9,8 @@ SAB:
    - Leche
 
 El Bocado:
+         - Pollo 3 KG - trozado en cuatro - sin menudos
+
 
 -- Print EDENOR
 
