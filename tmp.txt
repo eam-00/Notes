@@ -32,7 +32,7 @@ LUN:
 ---
 
 -- Debian 12 -- GNOME -> W530 | T430
-
+-- G: Setup AWS
 
 
 
