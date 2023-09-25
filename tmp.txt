@@ -24,7 +24,6 @@ DOM:
 ---
 
 -- TRRTs
--- Charge Kindle
 
 ---
 LUN:
