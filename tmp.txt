@@ -1,7 +1,6 @@
 ----
  SAB:
 -----
----
 
 -- Take:
    - Cable audio [?]
