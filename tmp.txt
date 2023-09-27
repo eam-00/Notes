@@ -10,7 +10,7 @@ MIE:
 -- G: Setup AWS
 
 
-
+Take:
 
 
 
