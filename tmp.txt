@@ -7,7 +7,7 @@ JUE:
 -- G: Setup AWS
 
 
--- C: TS
+
 -- M: PF
 
 Take:
