@@ -342,7 +342,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Carre: Agua | Panes | PortSalut | 
   -----
   --
-- FC: Desodorante | Cif | Chocos | 
+- FC: Desodorante | Cif |  
   --
 
 - Cell: Auto brightness | Auto Switch to Data | Auto Volume
