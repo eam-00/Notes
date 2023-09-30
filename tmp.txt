@@ -10,7 +10,7 @@ VIE:
 ---
 SAB:
 ---
--- M: Tuppers | Lavanderia
+-- M: Tuppers
 
 
 Take:
