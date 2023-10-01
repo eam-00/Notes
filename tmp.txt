@@ -53,6 +53,7 @@ tar czvpf - ~/Dropbox | gpg -a --symmetric --cipher-algo aes256 -o /tmp/Dropbox.
     -- Documents
     -- Downloads
     -- Music
+    -- Pictures
 
  
 http://blog.davidron.com/2016/12/i-have-benefit-of-working-in.html
