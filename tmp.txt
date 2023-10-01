@@ -49,6 +49,7 @@ tar czvpf - ~/Dropbox | gpg -a --symmetric --cipher-algo aes256 -o /tmp/Dropbox.
  - Weekly Backup
  - 09 - April - 2023: C:\ - Used: 129 GB
  - D:\filehistory\natalia\lacompudenati\data\c\users\natalia
+    -- Desktop
 
  
 http://blog.davidron.com/2016/12/i-have-benefit-of-working-in.html
