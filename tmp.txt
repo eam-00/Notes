@@ -7,8 +7,6 @@
 ---
 LUN:
 ---
-
-
 -- ChK NIC int
 -- G: Setup AWS
 -- Debian 12 -- GNOME -> W530 | T430
