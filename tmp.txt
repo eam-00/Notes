@@ -19,6 +19,7 @@ LUN:
 -- Batt:
    - MBP
    - LRRPs
+   - 11e
 
 -- Dload: Electroma [Youtube]
 
