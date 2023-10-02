@@ -16,6 +16,7 @@ LUN:
 -- G: Setup AWS
 -- Debian 12 -- GNOME -> W530 | T430
 
+-- Batt: 
 
 -- Dload: Electroma [Youtube]
 
