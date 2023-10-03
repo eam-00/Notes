@@ -5,7 +5,7 @@
 
 
 ---
-LUN:
+MAR:
 ---
 -- ChK NIC int
 -- G: Setup AWS
