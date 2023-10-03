@@ -326,7 +326,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar cardiologo
 
   -----
-- Carre: Agua | Panes | PortSalut | Jugo en Polvo | 
+- Carre: Agua | Panes | PortSalut |
   -----
   --
 - FC: Desodorante |
