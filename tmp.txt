@@ -5,7 +5,7 @@ MIE:
 ---
 -- ATM
 -- ChK NIC int
--- Silence
+
 -- G: Setup AWS
 -- Debian 12 -- GNOME -> W530 | T430
 -- Batts: Moto G6 | 
