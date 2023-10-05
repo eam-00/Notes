@@ -6,7 +6,6 @@ JUE:
 -- C: TS
 -- C: 15:00 hrs Call
 -- ChK NIC int
-
 -- G: Setup AWS
 -- Debian 12 -- GNOME -> W530 | T430
 
