@@ -1,6 +1,7 @@
 ---
 VIE:
 ---
+-- G: 
 -- ATM
 -- ChK Bcos
 -- Limpiar casita
