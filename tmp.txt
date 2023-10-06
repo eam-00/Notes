@@ -1,7 +1,7 @@
 ---
 VIE:
 ---
--- G: 
+-- G: ChK N state
 -- ATM
 -- ChK Bcos
 -- Limpiar casita
