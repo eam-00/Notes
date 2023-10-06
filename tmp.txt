@@ -2,6 +2,7 @@
 VIE:
 ---
 -- G: ChK N state
+-- C: detalle direccion
 -- ATM
 -- ChK Bcos
 -- Limpiar casita
