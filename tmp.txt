@@ -22,6 +22,7 @@ SAB:
 
 -- El Bocado:
               - 2 Kgs pechuga
+              - 2 Kgs milanesas
 
 
 -- Tupper
