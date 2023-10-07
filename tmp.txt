@@ -4,7 +4,7 @@ VIE:
 
 
 
--- ChK Bcos
+
 
 -- ChK NIC int
 -- G: Setup AWS
