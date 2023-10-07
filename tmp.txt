@@ -17,7 +17,7 @@ SAB:
      - Tuppers
      - Laundry
      - ATM
-     - Cosas para pagar
+
 
 -- El Bocado:
               - 2 Kgs pechuga
