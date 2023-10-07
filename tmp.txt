@@ -1,7 +1,7 @@
 ---
 VIE:
 ---
--- G: ChK N state
+
 
 -- ATM
 -- ChK Bcos
