@@ -21,6 +21,7 @@ SAB:
      - Cosas para pagar
 
 -- El Bocado:
+              - 2 Kgs pechuga
 
 
 -- Tupper
