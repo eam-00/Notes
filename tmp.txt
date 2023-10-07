@@ -8,6 +8,7 @@ LUN:
 
 -- ChK NIC int
 -- G: Setup AWS
+-- G: UE4 - Test
 -- Debian 12 -- GNOME -> W530 | T430
 
 
