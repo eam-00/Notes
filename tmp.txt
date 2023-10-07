@@ -16,6 +16,7 @@ SAB:
 ---
 -- M:
      - Tuppers
+     - Laundry
 
 -- Tupper
 
