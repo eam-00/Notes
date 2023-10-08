@@ -19,7 +19,7 @@ LUN:
 
 -- El Bocado:
 
-              - 2 Kgs milanesas
+
 
 
               - 1 Salchicha
