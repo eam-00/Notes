@@ -22,7 +22,7 @@ LUN:
 
 
 
-              - 1 Salchicha
+
 
 
 
