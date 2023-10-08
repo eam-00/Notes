@@ -20,7 +20,7 @@ LUN:
 -- El Bocado:
 
               - 2 Kgs milanesas
-              - 100 Gr Jamon
+
               - 100 Gr Qqueso
               - 1 Salchicha
 
