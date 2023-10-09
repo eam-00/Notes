@@ -28,7 +28,6 @@ LUN:
 
 
 -- Movistar: Gigas
-
 -- Dload: Electroma [Youtube]
 
 ---
