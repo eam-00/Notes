@@ -34,7 +34,7 @@ LUN:
 ---
 DOM:
 ---
-    -- Take:
+
 
             -- Fries
 
