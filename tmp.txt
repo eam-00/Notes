@@ -4,7 +4,7 @@ MAR:
 
 
 
--- ChK NIC int
+-- ChK NIC int -> PUSH
 -- G: Setup AWS
 -- G: UE4 - Test
 -- Debian 12 -- GNOME -> W530 | T430
