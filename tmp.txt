@@ -5,6 +5,7 @@ MAR:
 
 -- G: TSR
 -- ChK NIC int -> PUSH
+- G: continue conex stg
 -- G: Setup AWS
 
 -- Debian 12 -- GNOME -> W530 | T430
