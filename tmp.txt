@@ -2,7 +2,6 @@
 MAR:
 ---
 
-
 -- G: ChK NIC int -> PUSH
 -- G: continue conex stg
 -- G: Setup AWS
