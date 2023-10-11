@@ -5,7 +5,7 @@ MAR:
 -- G: ChK NIC int -> PUSH
 -- G: continue conex stg
 -- G: Setup AWS
--- Batts:  | MBP | 11e
+-- Batts:  MBP | 11e
 -- M: PF
 -- Debian 12 -- GNOME -> W530 | T430
 -- Legalizar Titulo Secundario - Ministerio de Educacion de PBA - Direccion de Educacion de Gestion Privada
