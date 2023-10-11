@@ -2,7 +2,7 @@
 MIE:
 ---
 
--- G: ChK NIC int -> PUSH
+-- G: ChK NIC int -> PUSH [URG!!!!!]
 -- G: continue conex stg
 -- G: Setup AWS
 -- Batts:  MBP | 11e
