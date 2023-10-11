@@ -3,6 +3,7 @@ MIE:
 ---
 
 -- G: ChK NIC int -> PUSH [URG!!!!!]
+-- G: ChK Verify Fam del orto
 -- G: continue conex stg
 -- G: Setup AWS
 -- Batts:  MBP | 11e
