@@ -1,7 +1,7 @@
 ---
 JUE:
 ---
--- N: Sleep | SCDT
+
 -- C: TS
 -- G: ChK NIC asia
 -- G: continue conex stg
