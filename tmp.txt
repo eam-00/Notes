@@ -1,8 +1,6 @@
 ---
 JUE:
 ---
-
-
 -- G: ChK NIC asia -> Mac [?????]
 -- G: continue conex stg
 -- G: Setup AWS
