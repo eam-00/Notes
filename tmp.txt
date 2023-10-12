@@ -2,7 +2,7 @@
 JUE:
 ---
 
--- G: ChK Verify Fam del orto
+-- G: 
 -- G: continue conex stg
 -- G: Setup AWS
 -- Batts:  MBP | 11e
