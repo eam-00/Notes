@@ -6,7 +6,7 @@ JUE:
 -- G: ChK NIC asia
 -- G: continue conex stg
 -- G: Setup AWS
--- Batts:  MBP | 11e
+-- Batts:  MBP | 11e | Motorola Moto g22
 
 -- Debian 12 -- GNOME -> W530 | T430
 -- Legalizar Titulo Secundario - Ministerio de Educacion de PBA - Direccion de Educacion de Gestion Privada
