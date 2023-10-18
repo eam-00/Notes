@@ -5,7 +5,7 @@ MIE:
 -- G: NR -> WTF [????]
 -- G: continue conex stg
 -- G: Setup AWS
--- Batts: 11e | 
+-- Batts: 11e | W530 | 
 -- Debian 12 -- GNOME -> W530 | T430
 -- Legalizar Titulo Secundario - Ministerio de Educacion de PBA - Direccion de Educacion de Gestion Privada
 
