@@ -3,6 +3,7 @@ MIE:
 ---
 -- N: TC [???]
 -- G: NR -> WTF [????]
+-- G: i not reach -> DHCP -> PUSH
 -- G: continue conex stg
 -- G: Setup AWS
 -- Batts: 11e | W530 | T430 | 
