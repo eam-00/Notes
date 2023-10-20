@@ -1,6 +1,7 @@
 ---
 VIE:
 ---
+-- ChK Bcos
 -- G: NR -> WTF [????]
 -- G: i not reach -> DHCP -> PUSH
 -- G: continue conex stg
