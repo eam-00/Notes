@@ -3,6 +3,8 @@ VIE:
 ---
 -- ChK Bcos
 -- G: NR -> WTF [????]
+-- G: add comment NIC tckts
+
 -- G: i not reach -> DHCP -> PUSH
 -- G: continue conex stg
 -- G: Setup AWS
