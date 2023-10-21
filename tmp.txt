@@ -5,7 +5,7 @@ VIE:
 -- G: NR -> WTF [????]
 
 -- G: Saji -> Push NICs [?]
-
+-- G: PUSH comment Dell BS thread
 -- G: continue conex stg
 -- G: Setup AWS
 -- Batts: 11e | W530 | T430 | 11e2 | 
