@@ -20,6 +20,7 @@ LUN:
      - PF
      - Laundry
      - ChK Cell
+     - Get USB Ext HDD
 
 
 ---
