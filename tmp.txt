@@ -13,7 +13,7 @@ MAR:
 -- G: PUSH comment Dell BS thread
 -- G: continue conex stg
 -- G: Setup AWS
--- Batts: 11e | W530 | T430 | 
+-- Batts: W530 | T430 | 
 -- Debian 12 -- GNOME -> W530 | T430
 -- ChK Webmails
 -- M:
