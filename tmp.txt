@@ -15,7 +15,7 @@ MAR:
 -- G: Setup AWS
 -- Batts: W530 | T430 | 
 -- Debian 12 -- GNOME -> W530 | T430
--- ChK Webmails
+
 -- M:
      - PF
 
