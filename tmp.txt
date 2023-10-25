@@ -17,7 +17,7 @@ MIE:
 -- Debian 12 -- GNOME -> W530 | T430
 
 -- M:
-     - PF
+
 
 
      - Get USB Ext HDD
