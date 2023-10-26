@@ -22,7 +22,7 @@ JUE:
 
 -- C: TS
 -- M: T. Naranja
--- Batt: X140E | 
+-- Batt: X140E | S8 | 
 
 
 
