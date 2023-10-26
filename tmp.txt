@@ -16,7 +16,7 @@ MIE:
   
 -- Debian 12 -- GNOME -> W530 | T430
 
-
+JUE:
 
 -- C: TS
 
