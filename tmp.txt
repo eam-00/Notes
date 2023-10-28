@@ -25,7 +25,7 @@ SAB:
      - Tuppers
 
 -- El Bocado:
-             - Muzarella
+             - 1/4 muzarella
              - Jamon Cocido
 
 
