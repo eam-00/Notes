@@ -27,6 +27,7 @@ SAB:
 -- El Bocado:
              - 1/4 muzarella
              - 150 gr jamon cocido
+             - 100 gr queso de maquina
 
 
 -- Print:
