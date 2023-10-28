@@ -17,7 +17,7 @@ VIE:
 
 -- ChK Bcos
 
--- Batt: X140E | 
+
 
 SAB:
 -- M: T. Naranja
