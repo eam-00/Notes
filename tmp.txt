@@ -8,7 +8,7 @@ LUN:
 -- G: continue conex stg
 -- G: Setup AWS
 -- Debian 12 -- GNOME -> W530 | T430
--- Batt: Moto g6 | x2202 | 
+-- Batt: Moto g6 |  | 
 
 
 
