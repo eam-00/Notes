@@ -9,7 +9,8 @@ LUN:
 -- G: Setup AWS
 -- Debian 12 -- GNOME -> W530 | T430
 -- Batt:
-         - Moto g6 
+         - Moto g6
+         - x2202
 
 
 
