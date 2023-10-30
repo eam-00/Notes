@@ -12,6 +12,7 @@ LUN:
          - Moto g6
          - x2202
          - x220 [Small]
+         - x 60
 
 
 
