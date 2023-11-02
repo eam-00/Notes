@@ -51,7 +51,6 @@ tar czvpf - ~/Dropbox | gpg -a --symmetric --cipher-algo aes256 -o /tmp/Dropbox.
 
 
 
-
  - Remove "Usuario"
  - Weekly Backup
  - 09 - April - 2023: C:\ - Used: 129 GB
