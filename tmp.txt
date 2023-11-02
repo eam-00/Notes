@@ -2,7 +2,7 @@
 ---
 JUE:
 ---
--- G: NR -> WTF [????]
+
 -- G: Saji -> Push NICs [?]
 -- G: PUSH comment Dell BS thread
 -- G: continue conex stg
