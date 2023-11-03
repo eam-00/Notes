@@ -10,6 +10,7 @@ VIE:
 -- Debian 12 -- GNOME -> W530 | T430
 -- Batt:  MBP | T430 
 -- G: reboot Chrome
+-- ChK Bcos
 
     -- La Bolognesa:
                     - 10 Sorrentinos de jamon & muzarella
