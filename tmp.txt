@@ -8,9 +8,7 @@ VIE:
 -- Debian 12 -- GNOME -> W530 | T430
 -- Batt:  MBP | T430 
 
----
 
----
     -- La Bolognesa:
                     - 10 Sorrentinos de jamon & muzarella
 
