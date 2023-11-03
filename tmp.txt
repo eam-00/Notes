@@ -9,7 +9,7 @@ VIE:
 -- G: Setup AWS
 -- Debian 12 -- GNOME -> W530 | T430
 -- Batt:  MBP | T430 
-
+-- G: reboot Chrome
 
     -- La Bolognesa:
                     - 10 Sorrentinos de jamon & muzarella
