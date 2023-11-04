@@ -19,6 +19,7 @@ SAB:
 ---
 -- ATM
 -- M:
+     - Tarjeta
      - Tuppers
      - Lavanderia
 
