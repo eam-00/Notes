@@ -12,7 +12,7 @@ VIE:
 -- G: reboot Chrome
 -- ChK Bcos
 
-    -- La Bolognesa:
+
                     - 10 Sorrentinos de jamon & muzarella
 
 ---
