@@ -28,7 +28,7 @@ en su defecto
 
 -- El Bocado:
 
--- Backup lappie
+
 
 ---
 DOM:
