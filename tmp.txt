@@ -20,7 +20,7 @@ SAB:
 
 -- M:
      - Tarjeta
-     - Tuppers
+
      - Lavanderia
 
  -- La Bolognesa:
