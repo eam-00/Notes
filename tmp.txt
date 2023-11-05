@@ -23,7 +23,7 @@ LUN:
 
  -- La Bolognesa:
                    - 10 Sorrentinos de jamon & muzarella
-en su defecto
+
 
 
 -- El Bocado:
