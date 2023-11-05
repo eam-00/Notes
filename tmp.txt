@@ -19,7 +19,7 @@ SAB:
 ---
 
 -- M:
-     - Tarjeta
+
 
      - Lavanderia
 
