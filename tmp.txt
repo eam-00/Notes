@@ -11,7 +11,7 @@ LUN:
 -- Batt:  MBP | T430 
 -- M: TC
 -- SCDT: Ver precios
--- Cargar Moto G6
+
 -- Cargar KBD BT
 
 
