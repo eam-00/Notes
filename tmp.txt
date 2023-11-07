@@ -9,7 +9,7 @@ MAR:
 -- G: Setup AWS
 -- Debian 12 -- GNOME -> W530 | T430
 -- Batt:  MBP | T430 
-
+-- M-65 Desert
 -- SCDT: Ver precios
 
 -- Cargar KBD BT
