@@ -12,7 +12,7 @@ MAR:
 -- M-65 Desert
 -- SCDT: Ver precios
 
--- Cargar KBD BT
+
 
 
 
