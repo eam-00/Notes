@@ -16,6 +16,7 @@ MIE:
 -- M-65 Desert
 -- SCDT: Ver precios
 -- G: Reboot Cloudtop
+-- C: ChG passwd
 
 
 
