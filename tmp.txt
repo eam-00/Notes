@@ -13,7 +13,7 @@ MIE:
 -- G: Setup AWS
 -- Debian 12 -- GNOME -> W530 | T430
 -- Batt:  MBP | T430 | 11e 
--- M-65 Desert
+
 -- SCDT: Ver precios
 -- G: Reboot Cloudtop
 -- C: ChG passwd
