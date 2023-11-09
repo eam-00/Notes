@@ -15,7 +15,6 @@ JUE:
 -- M: USB
 -- SCDT: Ver precios
 -- C: ChG passwd
-
 -- C: Notif 20/11 Sr S
 
 
