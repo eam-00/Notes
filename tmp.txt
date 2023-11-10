@@ -11,7 +11,6 @@ JUE:
 -- G: Setup AWS
 -- G: Reboot Cloudtop
 -- Debian 12 -- GNOME -> W530 | T430
-
 -- SCDT: Ver precios
 -- C: ChG passwd
 -- C: Notif 20/11 Sr S
