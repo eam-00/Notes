@@ -9,7 +9,7 @@ VIE:
 -- G: PUSH comment Dell BS thread
 -- G: continue conex stg
 -- G: Setup AWS
--- G: Reboot Cloudtop
+
 -- Debian 12 -- GNOME -> W530 | T430
 -- SCDT: Ver precios
 -- M: Tuppers | ATM card
