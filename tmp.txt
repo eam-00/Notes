@@ -1,7 +1,7 @@
 
 
 ---
-JUE:
+VIE:
 ---
 -- ATM
 -- Telecom: 8B - 500 Pesos
