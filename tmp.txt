@@ -13,7 +13,6 @@ JUE:
 -- Debian 12 -- GNOME -> W530 | T430
 -- SCDT: Ver precios
 -- C: ChG passwd
-
 -- ChK Bcos
 
 
