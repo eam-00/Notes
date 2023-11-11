@@ -8,7 +8,7 @@ M:
 
 -- Moto G6
 -- SCDT: Ver precios
-
+-- Old Cellphone
 
 ---
 VIE:
