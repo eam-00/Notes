@@ -6,6 +6,7 @@ M:
   -- ATM
   -- Tuppers
 
+-- Moto G6
 -- SCDT: Ver precios
 
 
