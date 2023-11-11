@@ -1,7 +1,7 @@
 ---
 VIE:
 ---
--- Telecom: 8B - 500 Pesos
+
 -- G: Saji -> Push NICs [?]
 -- G: PUSH comment Dell BS thread
 -- G: continue conex stg
