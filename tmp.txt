@@ -1,7 +1,7 @@
 
 M: 
   -- Telecom: 8B - 500 Pesos
-  -- M:  ATM card
+  -- ATM card
 
 ---
 VIE:
