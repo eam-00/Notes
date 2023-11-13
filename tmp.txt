@@ -10,7 +10,6 @@
 
 
 
--- Old Cellphone -> Format -> Charger
 
 ---
 LUN:
