@@ -9,7 +9,7 @@
 
 
 -- Moto G6 -> Format
--- SCDT: Ver precios
+
 -- Old Cellphone -> Format -> Charger
 
 ---
