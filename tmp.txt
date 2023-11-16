@@ -10,7 +10,6 @@
 ---
 JUE:
 ---
-
 -- G: Saji -> Push NICs [?]
 -- G: continue conex stg
 -- G: Setup AWS
