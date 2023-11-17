@@ -16,7 +16,6 @@ JUE:
 ---
 VIE:
 ---
--- G: CT -> Reboot [???]
 
 -- ChK Bcos
 
