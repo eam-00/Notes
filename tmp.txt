@@ -17,7 +17,7 @@ JUE:
 VIE:
 ---
 -- G: CT -> Reboot [???]
--- G: EFS Nic
+
 -- ChK Bcos
 
 LUN:
