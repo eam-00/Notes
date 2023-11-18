@@ -4,9 +4,7 @@
 
 
 
----
 
----
 
 -- G: continue conex stg
 -- G: Setup AWS
