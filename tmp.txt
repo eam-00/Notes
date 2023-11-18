@@ -18,7 +18,7 @@ MAR:
 SAB:
 ---
 -- Tuppers
--- Batts: MBP2 | 
+-- Batts: MBP2 | Kindle vieja | 
 
 ---
 LUN:
