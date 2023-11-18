@@ -4,7 +4,9 @@
 
 
 
+---
 
+---
 
 -- G: continue conex stg
 -- G: Setup AWS
@@ -12,7 +14,7 @@
 
 
 ---
-VIE:
+
 ---
 
 
@@ -366,12 +368,6 @@ DSCN0167.JPG
 DSCN0131.JPG
 DSCN0135.JPG
 DSCN0163.JPG
-
-
-
-
-
-
 
 
 
