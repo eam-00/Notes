@@ -270,7 +270,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
 
 -- Medias
-- Trim M65
+-- Trim M65
 
 
 
