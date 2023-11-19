@@ -7,7 +7,7 @@
 MAR:
 ---
 -- G: continue conex stg
--- G: Setup AWS
+-- G: AWS [???]
 -- Debian 12 -- GNOME -> W530 | T430
 
 
