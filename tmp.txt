@@ -21,6 +21,7 @@ SAB:
 -- Precios:
            Felinidos:
                      - Comida
+                     - Piedras
 
 
 
