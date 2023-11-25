@@ -8,7 +8,7 @@ VIE:
 -- M:
      Laundry
      Pechuga
-     Zanahoria rallada
+
      Pasfrola
 
 
