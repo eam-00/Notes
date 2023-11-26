@@ -23,8 +23,9 @@ SAB:
                      - Comida
                      - Piedras
 
-
+---
 DOM:
+---
 -- Limpiar casita
 
 
