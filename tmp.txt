@@ -300,7 +300,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar cardiologo
 
   -----
-- Carre:  Panes | Yogurts | Leches | Bolsitas | 
+- Carre:  Panes | Yogurts | Leches | Bolsitas | Comida Felinidos | 
   -----
  
 
