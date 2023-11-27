@@ -24,7 +24,7 @@ LUN:
                      - Piedras
 
 ---
-DOM:
+
 ---
 
 -- Print Edenor
