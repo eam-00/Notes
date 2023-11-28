@@ -19,7 +19,7 @@ Farmacity:
 
 
 
--- Batts: 11e | HP Envy
+-- Batts: 11e 
 -- Precios:
            Felinidos:
                      - Comida
