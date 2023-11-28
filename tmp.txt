@@ -23,7 +23,7 @@ Farmacity:
 -- Precios:
            Felinidos:
 
-                     - Piedras
+
 
 
 
