@@ -22,7 +22,7 @@ Farmacity:
 
 -- Precios:
            Felinidos:
-                     - Comida
+
                      - Piedras
 
 
