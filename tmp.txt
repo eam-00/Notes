@@ -1,6 +1,6 @@
 
 
----
+
 -- G: STG
 -- G: AWS [???]
 -- Debian 12 -- GNOME -> W530 | T430
