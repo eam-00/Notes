@@ -10,7 +10,7 @@ MIE:
 MAR:
 ---
 Farmacity: 
-          -- Ibuprofeno
+
           -- Recugel
 
 
