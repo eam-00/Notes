@@ -7,7 +7,7 @@ LUN:
 
 
 ---
-VIE:
+
 ---
 -- ChK Bcos
 -- Batt: N10
