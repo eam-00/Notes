@@ -7,7 +7,7 @@ MIE:
 -- Kindles
 -- ATM
 -- FarmaCity:
-             - Recugel
+
 
 
 
