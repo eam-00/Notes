@@ -9,7 +9,7 @@ MIE:
 
 
 - Jenkins
-- ChK Verify
+
 
 
 
