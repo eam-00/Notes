@@ -7,7 +7,7 @@ MIE:
 
 -- ATM
 
-- ChK approval CR
+
 - Jenkins
 - ChK Verify
 
