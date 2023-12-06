@@ -8,7 +8,7 @@ MIE:
 -- ATM
 -- FarmaCity:
              - Recugel
-             - S. Ultra
+
 
 
 
