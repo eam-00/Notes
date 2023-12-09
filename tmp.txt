@@ -6,6 +6,18 @@ LUN:
 -- Debian 12 -- GNOME -> W530 | T430
 
 
+Mie 3
+Jue 4
+Vie 5
+
+Lun 8
+Mar 9
+Mie 10
+Jue 11
+Vie 12
+
+Lun 15
+Mar 16
 
 
 
