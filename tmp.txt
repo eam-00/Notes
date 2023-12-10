@@ -25,6 +25,7 @@ Mar 16
 DOM:
 ---
 -- LC
+-- Basura
 -- M:
      - L
      - USB -> Imprimir
