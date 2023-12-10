@@ -27,6 +27,7 @@ DOM:
 -- LC
 -- M:
      - L
+     - USB -> Imprimir
 -- Batts: 
 
 
