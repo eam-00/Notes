@@ -28,6 +28,7 @@ DOM:
 -- M:
      - L
      - USB -> Imprimir
+     - Info: Ctas
 -- Batts: 
 
 
