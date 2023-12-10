@@ -26,6 +26,7 @@ DOM:
 ---
 -- LC
 -- Basura
+-- ATMs
 -- M:
      - L
      - USB -> Imprimir
