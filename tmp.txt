@@ -31,7 +31,7 @@ DOM:
      - L
      - USB -> Imprimir
      - Info: Ctas
--- Batts: 
+-- Batts: LRRPs | 
 
 
 
