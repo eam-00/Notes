@@ -28,7 +28,7 @@ DOM:
 
 -- ATMs
 -- M:
-     - L
+
      - USB -> Imprimir
 
 -- Batts: MBP2 | 
