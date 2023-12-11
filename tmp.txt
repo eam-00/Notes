@@ -31,7 +31,7 @@ DOM:
      - L
      - USB -> Imprimir
 
--- Batts: LRRPs | MBP2 | 
+-- Batts: MBP2 | 
 
 
 
