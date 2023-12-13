@@ -1,7 +1,6 @@
 ---
 MIE:
 ---
-
 -- Reboot Chromebook
 
 -- G: STG
