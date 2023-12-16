@@ -9,7 +9,7 @@ VIE:
      - Tuppers
      - Bolsas
      - Get L
--- Reboot Chromebook
+
 
 
 -- ChK Bcos
