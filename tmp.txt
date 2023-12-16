@@ -6,8 +6,9 @@ LUN:
 -- Debian 12 -- GNOME -> W530 | T430
 -- Cors
 
-
+---
 SAB:
+---
 -- Persiana
 -- N: locate Bco
 -- Limpiar casita
