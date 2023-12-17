@@ -10,7 +10,7 @@ LUN:
 ---
 DOM:
 ---
--- Persiana
+
 -- Tirar caja Vans
 -- M:
      - ATM
