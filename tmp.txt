@@ -11,7 +11,9 @@ DOM:
 ---
 -- Persiana
 -- Tirar caja Vans
--- M: 
+-- M:
+     - ATM
+
 -- N: locate Bco
 
 
