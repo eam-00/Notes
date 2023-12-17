@@ -7,7 +7,7 @@ LUN:
 -- Cors
 
 ---
-SAB:
+
 ---
 -- Persiana
 -- N: locate Bco
