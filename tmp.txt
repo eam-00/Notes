@@ -11,7 +11,7 @@ LUN:
 DOM:
 ---
 
--- Tirar caja Vans
+
 -- M:
      - ATM
      - Tupper
