@@ -94,7 +94,6 @@ Click en "MasterCard"
 
 -- Dload: Electroma [Youtube]
 
-
 - Test: Micro Emacs 
  
 tar czvpf - ~/Local | gpg -a --symmetric --cipher-algo aes256 -o /tmp/Local.gpg.tgz
