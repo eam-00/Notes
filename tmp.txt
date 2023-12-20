@@ -6,7 +6,7 @@ MIE:
 -- Persiana
 
 -- M:
-     - ChK Bco
+
      - Telecom
 -- Telecom mio
 -- Afeitarme
