@@ -7,6 +7,7 @@ JUE:
 -- Persiana
 -- Pepsis
 -- M:
+     - Tupper
      - Telecom
 
 -- Telecom mio
