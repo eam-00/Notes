@@ -6,7 +6,6 @@ JUE:
 -- Debian 12 -- GNOME -> W530 | T430
 -- Persiana
 -- M:
-
      - Telecom
 -- Telecom mio
 
