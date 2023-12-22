@@ -4,7 +4,7 @@ VIE:
 -- G: AWS [???]
 -- Debian 12 -- GNOME -> W530 | T430
 -- Persiana
--- Pepsis
+
 -- M:
 
 
