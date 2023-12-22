@@ -8,7 +8,6 @@ VIE:
 -- M:
      - Tupper
      - Telecom
-
 -- Telecom mio
 -- ChK Bcos
 
