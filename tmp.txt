@@ -8,7 +8,6 @@ VIE:
 ---
 SAB:
 ---
-
 - Limpiar casita
 - Comida Michis
 - Setup Monitor
