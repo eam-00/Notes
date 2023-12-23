@@ -11,6 +11,7 @@ SAB:
 - Pepsi -> Heladera
 - Limpiar casita
 - Comida Michis
+- Setup Monitor
 -- Telecom mio
 
 
