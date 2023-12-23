@@ -6,7 +6,7 @@ VIE:
 -- Persiana
 -- M:
      - Tuppers
-     - Get: L
+
      - Check Ice Cream
 -- Telecom mio
 -- ChK Bcos
