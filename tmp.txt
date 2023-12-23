@@ -10,7 +10,7 @@ VIE:
      - Check Ice Cream
 
 
-     - Telecom
+
 -- Telecom mio
 -- ChK Bcos
 
