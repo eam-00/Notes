@@ -8,7 +8,6 @@ VIE:
      - Tuppers
      - Get: L
      - Check Ice Cream
-
 -- Telecom mio
 -- ChK Bcos
 
