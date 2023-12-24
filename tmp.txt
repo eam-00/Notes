@@ -8,7 +8,7 @@ VIE:
 ---
 SAB:
 ---
-- Limpiar casita
+
 
 - Setup Monitor
 -- Telecom mio
