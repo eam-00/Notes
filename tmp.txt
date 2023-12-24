@@ -2,7 +2,6 @@
 VIE:
 ---
 -- G: AWS [???]
-
 -- Persiana
 
 ---
