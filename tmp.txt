@@ -8,7 +8,7 @@ VIE:
 ---
 DOM:
 ---
--- Batts
+-- Batts: 11e | 
 -- Sync TB HDDs
 
 
