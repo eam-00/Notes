@@ -10,6 +10,7 @@ DOM:
 ---
 -- Batts: 11e | 
 -- Sync TB HDDs
+-- Debian 12 -- GNOME -> W530 | T430
 
 
 -- Telecom mio
