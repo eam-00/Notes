@@ -11,7 +11,7 @@ MAR:
 -- Persiana
 
 ---
-DOM:
+
 ---
 
 -- Debian 12 -- GNOME -> W530 | MBP
