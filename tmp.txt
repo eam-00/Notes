@@ -14,7 +14,7 @@ MAR:
 DOM:
 ---
 
--- Debian 12 -- GNOME -> W530 | T430 | MBP
+-- Debian 12 -- GNOME -> W530 | MBP
 
 
 
