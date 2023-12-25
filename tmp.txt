@@ -1,5 +1,5 @@
 ----
-LUN:
+
 ---
 
 - Comida Michis [??]
