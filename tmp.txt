@@ -7,7 +7,7 @@ MAR:
 ---
 -- G: AWS [???]
 -- Persiana
-
+-- Comida Michis
 
 
 -- Debian 12 -- GNOME -> W530 | MBP
