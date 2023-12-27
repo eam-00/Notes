@@ -3,7 +3,7 @@ MIE:
 ---
 -- G: AWS [???]
 -- Persiana
--- G: Reset passwd
+
 
 
 -- Debian 12 -- GNOME -> W530 | MBP
