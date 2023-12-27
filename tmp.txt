@@ -2,6 +2,7 @@
 MIE:
 ---
 -- G: AWS [???]
+-- G: Reset passwd
 -- Persiana
 
 
