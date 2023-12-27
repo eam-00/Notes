@@ -4,7 +4,7 @@ MIE:
 -- G: AWS [???]
 -- G: Reset passwd
 -- Persiana
-
+-- Batt: X140E | 
 
 
 -- Debian 12 -- GNOME -> W530 | MBP
