@@ -3,7 +3,7 @@ MIE:
 ---
 -- G: AWS [???]
 -- G: Reset passwd
--- Persiana
+
 -- Batt: X140E | 
 -- Corte pelo
 -- Reboot CT
