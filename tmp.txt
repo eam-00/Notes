@@ -5,7 +5,7 @@ MIE:
 -- G: Reset passwd
 
 -- Batt: X140E | 
--- Corte pelo
+
 -- Reboot CT
 
 
