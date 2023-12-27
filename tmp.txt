@@ -7,6 +7,7 @@ MIE:
 -- Batt: X140E | 
 -- Corte pelo
 -- Reboot CT
+-- ATM
 
 -- Debian 12 -- GNOME -> W530 | MBP
 
