@@ -8,7 +8,7 @@ MIE:
 -- Corte pelo
 -- Reboot CT
 -- ATM
-
+-- Tupper
 -- Debian 12 -- GNOME -> W530 | MBP
 
 
