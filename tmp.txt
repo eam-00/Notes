@@ -5,6 +5,7 @@ MIE:
 -- G: Reset passwd
 -- Persiana
 -- Batt: X140E | 
+-- Corte pelo
 
 
 -- Debian 12 -- GNOME -> W530 | MBP
