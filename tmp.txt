@@ -6,7 +6,6 @@ JUE:
 -- C: TS
 -- Batt: X140E | MBP | S8 | S10 
 -- M: PF [????]
-
 -- Debian 12 -- GNOME -> W530 | MBP
 
 
