@@ -3,7 +3,6 @@ MIE:
 ---
 -- G: AWS [???]
 -- G: Reset passwd
-
 -- Batt: X140E | 
 
 -- Reboot CT
