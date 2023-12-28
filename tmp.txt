@@ -4,7 +4,7 @@ MIE:
 -- G: AWS [???]
 -- G: Reset passwd
 -- Batt: X140E | 
--- Reboot CT
+
 
 
 -- Debian 12 -- GNOME -> W530 | MBP
