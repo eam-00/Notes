@@ -8,6 +8,7 @@ SAB:
 -- Debian 12 -- GNOME -> W530 | MBP
 -- M:
      - MetroGas | Aguas
+     - Cbio Lamparita
 
 
 ---
