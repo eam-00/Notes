@@ -12,6 +12,7 @@ SAB:
      - MetroGas | Aguas
      - Cbio Lamparita
 -- ChK Hyprland
+-- VLC -> Random
 
 ---
 MAR:
