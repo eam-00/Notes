@@ -1,7 +1,7 @@
 ---
 SAB:
 ---
--- Lavar cosas de los Sabados
+
 -- Limpiar casita
 -- Cbio Sabanas
 -- Batt: X140E | MBP | S8 | S10 
