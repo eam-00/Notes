@@ -7,6 +7,7 @@ SAB:
 -- Batt: X140E | MBP | S8 | S10 
 -- Debian 12 -- GNOME -> W530 | MBP
 -- Felinidos: Urinaria
+-- Alma Mia
 -- M:
      - MetroGas | Aguas
      - Cbio Lamparita
