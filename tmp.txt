@@ -11,7 +11,7 @@ DOM:
 - Pepsi
 
 
--- ChK Hyprland
+
 -- VLC -> Random
 
 ---
