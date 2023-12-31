@@ -9,7 +9,7 @@ SAB:
 
 
 -- M:
-     - MetroGas | Aguas
+     - MetroGas 
 
 -- ChK Hyprland
 -- VLC -> Random
