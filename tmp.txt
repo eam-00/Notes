@@ -10,7 +10,7 @@ SAB:
 -- Alma Mia
 -- M:
      - MetroGas | Aguas
-     - Cbio Lamparita
+
 -- ChK Hyprland
 -- VLC -> Random
 
