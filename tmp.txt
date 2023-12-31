@@ -8,7 +8,7 @@ SAB:
 -- Debian 12 -- GNOME -> W530 | MBP
 
 
--- M:
+
 
 
 -- ChK Hyprland
