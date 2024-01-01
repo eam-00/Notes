@@ -6,7 +6,7 @@
 -- Debian 12 -- GNOME -> MBP | MBP2
 
 
-- Pepsi
+
 - Helado
 
 
