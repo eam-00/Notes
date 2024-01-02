@@ -13,7 +13,7 @@
 ---
 MAR:
 ---
--- G: CCB [?????] | Silence 2 PM EST
+-- G: CCB Needed [?????] | Silence 2 PM EST
 -- G: AWS [???]
 -- G: Reset passwd
 -- Comida Michis
