@@ -13,7 +13,7 @@
 MAR:
 ---
 -- M: Havannet [????]
--- G: CCB Needed [?????] | Silence 2 PM EST
+-- G: CCB Needed [?????] |
 -- G: AWS [???]
 -- G: Reset passwd
 -- Comida Michis
