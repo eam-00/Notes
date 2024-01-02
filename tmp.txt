@@ -12,7 +12,7 @@
 ---
 MAR:
 ---
--- M: Havannet [????]
+
 
 -- G: AWS [???]
 -- G: Reset passwd
