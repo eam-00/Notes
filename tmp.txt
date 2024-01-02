@@ -19,7 +19,7 @@ MAR:
 -- G: Reset passwd
 -- Comida Michis
 -- 18:30 hrs Cors
-
+-- Batt: X140E | MBP | S8 | S10 
 
 
 
