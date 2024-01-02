@@ -16,7 +16,7 @@ MAR:
 -- G: CCB [?????] | Silence 2 PM EST
 -- G: AWS [???]
 -- G: Reset passwd
--- 19:30 hrs  Cors
+-- 18:30 hrs  Cors
 
 
 
