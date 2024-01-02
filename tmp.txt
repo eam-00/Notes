@@ -17,7 +17,7 @@ MAR:
 -- G: AWS [???]
 -- G: Reset passwd
 -- Comida Michis
--- 18:30 hrs  Cors
+-- 18:30 hrs Cors
 
 
 
