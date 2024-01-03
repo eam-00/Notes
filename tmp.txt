@@ -9,7 +9,7 @@ MIE:
 ---
 -- G: AWS [???]
 -- G: Reset passwd
--- G: CCB Appro
+
 -- Comida Michis
 
 -- Batt: X140E | MBP | S8 | S10 
