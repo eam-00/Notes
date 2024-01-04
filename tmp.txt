@@ -3,7 +3,7 @@
 ---
 JUE:
 ---
--- C: TS -> Feriado [!!!!!]
+
 -- Starbucks
 -- G: AWS [???]
 -- G: Reset passwd
