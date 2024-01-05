@@ -11,7 +11,7 @@ VIE:
 -- M: 
      - USB FEMEDICA
      - Direccion print
-     - Count $
+
 
 
 
