@@ -1,7 +1,7 @@
 
 
 ---
-JUE:
+VIE:
 ---
 -- G: AWS [???]
 -- G: Reset passwd
