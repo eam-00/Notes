@@ -66,8 +66,6 @@ Click en "MasterCard"
 
 
 
-
-
 -- Dload: Electroma [Youtube]
 
 - Test: Micro Emacs 
