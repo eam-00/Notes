@@ -4,7 +4,7 @@ VIE:
 -- G: AWS [???]
 -- G: Reset passwd
 
--- Batt: X140E | MBP | S8 | S10 
+
 -- Debian 12 -- GNOME -> MBP | MBP2
 
 
