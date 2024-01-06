@@ -8,9 +8,9 @@ VIE:
 -- Debian 12 -- GNOME -> MBP | MBP2
 
 
-
+---
 SAB:
-
+---
 -- Limpiar casita
 -- Cbio Sabanas
 -- Batts: X140E | MBP | S8 | S10 
