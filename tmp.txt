@@ -12,6 +12,7 @@ SAB:
 -- Cbio Sabanas
 -- Oido izq
 -- Batts: X140E | MBP | S8 | S10 
+-- Tornillo puerta balcon
 
 
 
