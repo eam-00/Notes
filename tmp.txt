@@ -9,7 +9,7 @@ LUN:
 SAB:
 ---
 
--- Cbio Sabanas
+
 -- Oido izq
 -- Batts: X140E | MBP 
 -- Tornillo puerta balcon
