@@ -14,7 +14,7 @@ DOM:
      _ Cta. Cte.
 
 -- Oido izq
--- Batts: MBP 
+-- Batts: MBP | 11e2
 
 
 
