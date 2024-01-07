@@ -11,7 +11,7 @@ SAB:
 
 
 -- Oido izq
--- Batts: X140E | MBP 
+-- Batts: MBP 
 
 
 
