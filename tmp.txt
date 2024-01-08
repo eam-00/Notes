@@ -15,7 +15,7 @@ DOM:
 
 
 -- Oido izq
--- Batts: MBP | 11e2
+-- Batts: MBP 
 
 
 
