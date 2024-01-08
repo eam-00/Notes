@@ -11,7 +11,7 @@ DOM:
 -- M:
      - Disco
      - Tupper
-     _ Cta. Cte.
+
 
 -- Oido izq
 -- Batts: MBP | 11e2
