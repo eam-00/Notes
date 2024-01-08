@@ -7,7 +7,7 @@ LUN:
 -- Llamar por recetas/ turnos
 
 ---
-DOM:
+
 ---
 -- M:
      - Disco
