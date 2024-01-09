@@ -10,7 +10,6 @@ MAR:
 -- M:
      -- PF [?????????]
      -- -> Tuppers
-     -- <- Lavanderia
 
 -- V: Recibo expensas
 
