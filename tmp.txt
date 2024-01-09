@@ -313,7 +313,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar cardiologo
 
   -----
-- Carre:  Bolsitas | Comida Michis [Sabrositos] | Check if Coffee | Agua | Piedras Michis | Pan | 
+- Carre:  Bolsitas | Comida Michis [Sabrositos] | Check if Coffee | Agua | Piedras Michis | Pan | Jamon
   -----
  
 - Cell: Auto brightness | Auto Switch to Data | Auto Volume
