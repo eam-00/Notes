@@ -11,7 +11,7 @@ MAR:
      -- PF [?????????]
      -- -> Tuppers
 
--- V: Recibo expensas
+-- V: ChK Recibo expensas
 
 
 -- Oido izq
