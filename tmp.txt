@@ -7,7 +7,7 @@ MIE:
 
 
 -- M:
-     -- PF [?????????]
+
      -- -> Tupper
 
 -- V: ChK Recibo expensas
