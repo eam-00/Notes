@@ -9,7 +9,7 @@ MIE:
 -- M:
      -- -> Tupper
 
--- V: ChK Recibo expensas
+-- V: [Push] ChK Recibo expensas
 
 -- Oido izq
 -- Batts: MBP | LRRPs
