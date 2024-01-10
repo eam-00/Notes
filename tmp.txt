@@ -3,7 +3,7 @@ MIE:
 ---
 -- G: AWS [???]
 -- G: Reset passwd
--- G: DVS
+
 -- Debian 12 -- GNOME -> MBP | MBP2
 
 
