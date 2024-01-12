@@ -12,6 +12,7 @@ VIE:
 
 -- Oido izq
 -- Batts: MBP | LRRPs
+-- G: Reboot Chrome
 -- ChK Bcos
 -- TRRTs
 
