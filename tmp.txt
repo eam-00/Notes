@@ -13,7 +13,6 @@ JUE:
 -- Oido izq
 -- Batts: MBP | LRRPs
 -- Corte de pelo
-
 -- TRRTs
 
 ---
