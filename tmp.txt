@@ -30,7 +30,8 @@ SAB:
 - ATM
 - Disco ATM
   - Check Piedras/ Sabrositos
-- Carrefour Express
+- Carrefour Express:
+  -  Check Piedras/ Sabrositos
 -- M:
      - Tuppers
      - Laundry
