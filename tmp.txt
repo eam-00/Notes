@@ -9,7 +9,6 @@ VIE:
 -- Debian 12 -- GNOME -> MBP | MBP2
 
 
-
 -- Oido izq
 -- Batts: MBP | LRRPs
 -- G: Reboot Chrome
