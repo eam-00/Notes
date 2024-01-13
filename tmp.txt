@@ -13,7 +13,6 @@ VIE:
 -- Oido izq
 -- Batts: MBP | LRRPs
 -- G: Reboot Chrome
-
 -- M:
      - Tuppers
      - Boletas N
