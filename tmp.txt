@@ -29,6 +29,8 @@ SAB:
 ---
 -- M:
      - Tuppers
+     - Laundry
+     
 -- Lavar Lona Felinida
 -- Lavar mochila
 
