@@ -27,7 +27,7 @@ LUN:
 SAB:
 ---
 - ATM
-- Disco ATM
+
   - Check Piedras/ Sabrositos
 - Carrefour Express:
   -  Check Piedras/ Sabrositos
