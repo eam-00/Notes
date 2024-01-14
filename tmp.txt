@@ -33,7 +33,7 @@ SAB:
 - Carrefour Express:
   -  Check Piedras/ Sabrositos
 -- M:
-     - Tuppers
+
 
      - Test cable
      - Activar Ciudad Foranea
