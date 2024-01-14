@@ -34,7 +34,7 @@ SAB:
   -  Check Piedras/ Sabrositos
 -- M:
      - Tuppers
-     - Laundry
+
      - Test cable
      - Activar Ciudad Foranea
 -- Lavar Lona Felinida
