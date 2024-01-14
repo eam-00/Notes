@@ -37,7 +37,7 @@ SAB:
 
      - Test cable
      - Activar Ciudad Foranea
--- Lavar Lona Felinida
+
 -- Lavar mochila
 -- TRRTs
 - S10
