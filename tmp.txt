@@ -31,7 +31,7 @@ SAB:
   - Check Piedras/ Sabrositos
 - Carrefour Express:
   -  Check Piedras/ Sabrositos
--- M:
+
 
 
      - Test cable
