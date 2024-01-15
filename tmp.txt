@@ -38,7 +38,7 @@ LUN:
 - S10
   - Install: Line | HBOMax
 - S8
-  - Install: Kiwi Browser
+
 
 
 
