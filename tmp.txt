@@ -34,7 +34,7 @@ SAB:
 
 
 
-     - Test cable
+
      - Activar Ciudad Foranea
 
 -- Lavar mochila
