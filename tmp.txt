@@ -10,7 +10,7 @@ LUN:
 
 
 
--- Batts: x220 [ Small ] | MBP2 | 
+-- Batts:  | MBP2 | 
 
 
 
