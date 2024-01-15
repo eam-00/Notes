@@ -10,7 +10,7 @@ LUN:
 
 
 
--- Batts: 11e | x220 [ Small ]
+-- Batts: 11e | x220 [ Small ] | MBP2 | 
 
 
 
