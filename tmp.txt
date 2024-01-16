@@ -4,6 +4,7 @@ Click en "MasterCard"
 ---
 MAR:
 ---
+-- G: OMS shit
 -- G: AWS [???]
 -- G: Reset passwd
 -- Debian 12 -- GNOME -> MBP | MBP2
