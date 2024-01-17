@@ -10,7 +10,6 @@ MAR:
 -- Debian 12 -- GNOME -> MBP | MBP2
 
 
-
 -- Batts:  | MBP2 | T430 | 
 
 
