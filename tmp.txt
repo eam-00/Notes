@@ -9,8 +9,6 @@ JUE:
 -- G: AWS [???]
 -- G: Reset passwd
 -- Debian 12 -- GNOME -> MBP | MBP2
-
-
 -- Batts:  | MBP2 | T430 | 
 -- R: ChK Mini PC
 
