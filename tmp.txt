@@ -12,7 +12,6 @@ JUE:
 
 
 -- Batts:  | MBP2 | T430 | 
-
 -- R: ChK Mini PC
 
 
