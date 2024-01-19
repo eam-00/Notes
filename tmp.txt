@@ -8,7 +8,7 @@ VIE:
 -- G: AWS [???]
 -- G: Reset passwd
 -- Debian 12 -- GNOME -> MBP | MBP2
--- Batts:  MBP2 
+
 -- R: ChK Mini PC
 
 -- ChL Telecoms
