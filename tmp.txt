@@ -10,7 +10,7 @@ VIE:
 -- Debian 12 -- GNOME -> MBP | MBP2
 -- Batts:  | MBP2 | T430 |  T420 | 
 -- R: ChK Mini PC
-
+-- ChK Bcos
 
 
 
