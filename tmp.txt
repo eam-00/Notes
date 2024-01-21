@@ -16,7 +16,7 @@ SAB:
 ---
 
 - ATMs
-- Pinto
+
 -- N: Exp
 -- M:
     - L
