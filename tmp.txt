@@ -21,7 +21,7 @@ LUN:
 ---
 DOM:
 ---
--- Batts: HP Envy | 11e | 
+-- Batts: HP Envy | 11e | LRRPs
 -- ChL Telecoms
 
 
