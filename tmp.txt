@@ -22,7 +22,7 @@ LUN:
 DOM:
 ---
 
--- ChL Telecoms
+-- ChK Telecoms
 
 
 
