@@ -10,7 +10,7 @@ LUN:
 -- G: Cert SSL Doc
 -- Debian 12 -- GNOME -> MBP | MBP2
 -- R: ChK Mini PC
-
+-- PF [????????]
 
 
 
