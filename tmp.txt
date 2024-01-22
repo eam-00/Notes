@@ -21,7 +21,7 @@ LUN:
 ---
 DOM:
 ---
--- Batts: HP Envy
+
 -- ChL Telecoms
 
 
