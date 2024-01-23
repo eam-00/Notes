@@ -2,7 +2,7 @@ https://secure.bancocolumbia.com.ar/web/10111-Cupon-de-Pago.note.aspx
 Click en "MasterCard"
 
 ---
-LUN:
+MAR:
 ---
 -- G: OMS shit -> PUSH
 -- G: AWS [???]
