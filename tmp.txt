@@ -22,7 +22,7 @@ MIE:
 
 
 
--- N: Columbia
+
 -- Telecom casita: 1 Feb 2024: 3.912,24 Pesos
 -- Arenales: 1 Feb 2024: 5.545,50 Pesos
 
