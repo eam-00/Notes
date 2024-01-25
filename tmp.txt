@@ -11,7 +11,7 @@ JUE:
 -- G: Reset passwd
 -- Debian 12 -- GNOME -> MBP | MBP2
 -- R: ChK Mini PC
--- M: PF [????]
+
 
 
 
