@@ -20,9 +20,11 @@ SAB:
 -- Cbio Sabanas
 -- Toallin
 -- Repasador
+-- Laundry
 -- Batts
 -- ATM
 -- Starbucks
+
 
 
 
