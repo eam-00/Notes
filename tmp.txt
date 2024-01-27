@@ -16,7 +16,7 @@ SAB:
 ---
 -- Lavar comedero/ aguero Felinidos
 -- Limpiar casita
-- Cbio Sabanas
+-- Cbio Sabanas
 -- Toallin
 -- Repasador
 -- Batts
