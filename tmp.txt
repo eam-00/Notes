@@ -16,7 +16,7 @@ SAB:
 ---
 -- R: Chromecast Google TV
 -- Lavar comedero/ aguero Felinidos
--- Limpiar casita
+
 
 -- Toallin
 -- Repasador
