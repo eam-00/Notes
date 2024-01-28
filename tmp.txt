@@ -20,7 +20,7 @@ DOM:
 -- M:
      Zanahoria
 
--- Batts: ht | MBP | T420 | T430 
+-- Batts:  MBP | T420 | T430 
 -- ATM [????]
 
 
