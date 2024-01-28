@@ -19,7 +19,7 @@ SAB:
 -- Repasador
 -- M:
 
-     - Laundry
+
 -- Batts
 -- ATM
 -- Starbucks
