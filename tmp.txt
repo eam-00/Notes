@@ -18,7 +18,7 @@ SAB:
 -- Toallin
 -- Repasador
 -- M:
-     - Boletas
+
      - Laundry
 -- Batts
 -- ATM
