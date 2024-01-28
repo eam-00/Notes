@@ -11,7 +11,7 @@ LUN:
 -- Debian 12 -- GNOME -> MBP | MBP2
 
 ---
-SAB:
+DOM:
 ---
 -- R: Chromecast Google TV
 -- Lavar comedero/ aguero Felinidos
