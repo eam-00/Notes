@@ -5,7 +5,7 @@ Click en "MasterCard"
 ---
 MAR:
 ---
--- M: J
+-- M: J -> ChK
 -- G: OMS shit -> PUSH
 -- G: AWS [???]
 -- G: Reset passwd
