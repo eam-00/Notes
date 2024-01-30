@@ -17,6 +17,7 @@ MAR:
 -- M:
      - Zanahoria
      - Tuppers
+     - USB boletas
 -- Batts:  MBP | T420 | T430 
 
 
