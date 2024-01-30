@@ -5,7 +5,7 @@ Click en "MasterCard"
 ---
 MAR:
 ---
--- M: J -> Saldo
+
 -- ChK Saldos
 -- G: OMS shit -> PUSH
 -- G: AWS [???]
