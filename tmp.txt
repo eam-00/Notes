@@ -21,7 +21,7 @@ MAR:
 
 -- Batts:  MBP | T420 | T430 
 -- ATM [????]
--- Sacudir manta michis
+
 -- Afeitar
 
 
