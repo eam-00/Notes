@@ -20,7 +20,7 @@ MAR:
      Zanahoria
 
 -- Batts:  MBP | T420 | T430 
--- ATM [????]
+
 
 -- Afeitar
 
