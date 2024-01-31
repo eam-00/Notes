@@ -12,7 +12,6 @@ MAR:
 
 -- R: Chromecast Google TV
 
-
 -- M:
      - Zanahoria
      - Tuppers
