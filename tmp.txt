@@ -12,7 +12,6 @@ JUE:
 -- Debian 12 -- GNOME -> MBP | MBP2
 
 
-
 -- M:
      - Tuppers
 
