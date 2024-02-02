@@ -5,7 +5,7 @@ Click en "MasterCard"
 ---
 VIE:
 ---
--- C: passwd
+
 -- G: OMS shit -> PUSH
 -- G: AWS [???]
 -- G: Reset passwd
