@@ -23,7 +23,7 @@ LUN:
 SAB:
 ---
 -- Lavar mochila
--- Toallin
+
 -- Repasador
 -- Sacudir manta felinidos
 -- ATMs
