@@ -14,7 +14,7 @@ VIE:
      - -> Tuppers
      - < - Boletas
 
--- Batts:  MBP | T420 | T430 
+
 
 
 
