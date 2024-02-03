@@ -25,6 +25,7 @@ SAB:
 -- Lavar mochila
 -- Toallin
 -- Repasador
+-- Sacudir manta felinidos
 -- ATMs
 -- S: Cheesecake
 -- TRRTs
