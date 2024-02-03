@@ -25,6 +25,7 @@ SAB:
 -- Lavar mochila
 -- Toallin
 -- Repasador
+-- ATMs
 -- S: Cheesecake
 -- TRRTs
 
