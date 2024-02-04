@@ -28,7 +28,7 @@ DOM:
         - ht
 
 
--- Setup pagos
+
 -- cp TB HDDs
 
 
