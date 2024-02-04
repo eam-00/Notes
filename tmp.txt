@@ -29,7 +29,7 @@ DOM:
 
 -- ATMs
 -- Setup pagos
-
+-- cp TB HDDs
 
 
 
