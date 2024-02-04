@@ -20,7 +20,7 @@ LUN:
 
 
 ---
-SAB:
+DOM:
 ---
 -- Lavar mochila
 -- Buscar Castelar
