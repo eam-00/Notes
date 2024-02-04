@@ -25,6 +25,7 @@ DOM:
 -- Buscar Castelar
 -- Batt:
         - 11e2
+        - ht
 
 -- ATMs
 -- Setup pagos
