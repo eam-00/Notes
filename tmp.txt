@@ -27,7 +27,7 @@ DOM:
         - 11e2
         - ht
 
--- ATMs
+
 -- Setup pagos
 -- cp TB HDDs
 
