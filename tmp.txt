@@ -23,7 +23,8 @@ DOM:
 ---
 -- Lavar mochila
 -- Buscar Castelar
--- Batt: 
+-- Batt:
+        - 11e2
 
 -- ATMs
 -- Setup pagos
