@@ -10,7 +10,7 @@ LUN:
 -- G: Reset passwd
 -- Debian 12 -- GNOME -> MBP | MBP2
 -- Check Weather:
--- Lavar almohadones Felinidos
+                 -- Lavar almohadones Felinidos
 -- Lavar Repasador
 
 
