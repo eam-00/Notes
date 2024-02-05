@@ -12,6 +12,7 @@ LUN:
 -- Check Weather:
                  -- Lavar almohadones Felinidos
                  -- Lavar Repasador
+                 -- Lavar bata
 
 
 
