@@ -6,6 +6,7 @@ Click en "MasterCard"
 LUN:
 ---
 -- G: OMS shit -> PUSH
+-- G: CCB app
 -- G: AWS [???]
 -- G: Reset passwd
 -- Debian 12 -- GNOME -> MBP | MBP2
