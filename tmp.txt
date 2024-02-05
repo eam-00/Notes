@@ -5,6 +5,7 @@ Click en "MasterCard"
 ---
 LUN:
 ---
+-- G: ver fechas para feriado
 -- G: CCB app
 -- G: OMS shit -> PUSH
 -- G: AWS [???]
