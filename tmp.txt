@@ -7,7 +7,6 @@ LUN:
 ---
 -- G: CCB app
 -- G: OMS shit -> PUSH
-
 -- G: AWS [???]
 -- G: Reset passwd
 -- Debian 12 -- GNOME -> MBP | MBP2
