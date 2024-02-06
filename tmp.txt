@@ -6,7 +6,7 @@ Click en "MasterCard"
 MAR:
 ---
 
--- G: CCB app
+
 -- G: OMS shit -> PUSH
 -- G: AWS [???]
 -- G: Reset passwd
