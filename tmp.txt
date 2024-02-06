@@ -3,7 +3,7 @@ https://secure.bancocolumbia.com.ar/web/Cupon-de-pago-10368.note.aspx
 Click en "MasterCard"
 
 ---
-LUN:
+MAR:
 ---
 -- G: ver fechas para feriado
 -- G: CCB app
