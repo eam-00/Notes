@@ -6,6 +6,7 @@ Click en "MasterCard"
 JUE:
 ---
 -- C: TS
+-- C: CV | 
 -- G: OMS shit -> PUSH
 -- G: AWS [???]
 -- G: Reset passwd
