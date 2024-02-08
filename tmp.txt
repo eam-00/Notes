@@ -14,7 +14,6 @@ JUE:
 -- Batts: S10 [?] | Pilas AA | 
 -- TRRTs
 -- M: USB | Tupper
-
 -- Cortar pelo
 
 
