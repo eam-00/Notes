@@ -13,7 +13,7 @@ JUE:
 -- Debian 12 -- GNOME -> MBP | MBP2
 -- Batts: S10 [?] | Pilas AA |
 -- TRRTs
--- M: USB | Tupper
+-- M: Tupper
 -- Cortar pelo
 
 
