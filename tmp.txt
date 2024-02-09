@@ -5,7 +5,6 @@ Click en "MasterCard"
 ---
 JUE:
 ---
-
 -- C: CV | Linkedin
 -- G: OMS shit -> PUSH
 -- G: AWS [???]
