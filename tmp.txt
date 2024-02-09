@@ -11,7 +11,7 @@ VIE:
 -- Debian 12 -- GNOME -> MBP | MBP2
 -- Batts:  Pilas AA |
 -- TRRTs
--- M: Tupper
+-- M: Tuppers
 -- Cortar pelo
 -- ChK Bcos
 
