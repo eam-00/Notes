@@ -19,7 +19,7 @@ VIE:
 
 -- Limpiar casita
 -- Cbio Sabanas
-
+-- sync TB HDDs
 
 
 
