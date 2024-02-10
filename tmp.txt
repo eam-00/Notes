@@ -20,7 +20,7 @@ SAB:
 ---
 
 -- Limpiar casita
--- Cbio Sabanas
+
 -- sync TB HDDs
 -- Kernel reboot ht 
 -- Horarios Super Lun | Mar
