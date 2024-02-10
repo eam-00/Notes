@@ -18,7 +18,7 @@ VIE:
 ---
 SAB:
 ---
--- Limpiar casita
+
 
 -- sync TB HDDs
 -- Kernel reboot ht 
