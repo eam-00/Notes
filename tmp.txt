@@ -24,7 +24,7 @@ SAB:
 -- sync TB HDDs
 -- Horarios Super Lun | Mar
 -- M: Tuppers | Laundry 
--- Batts: 
+-- Batts: [???]
 
 
 
