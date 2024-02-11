@@ -18,7 +18,8 @@ VIE:
 ---
 DOM
 ---
--- Lavar cosas
+-- Lavar cosas:
+- Repasador Blem
 
 -- sync TB HDDs
 
