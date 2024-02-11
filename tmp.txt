@@ -22,7 +22,7 @@ SAB:
 
 -- sync TB HDDs
 -- Kernel reboot ht 
--- Horarios Super Lun | Mar
+
 
 -- Batts: [???] -> Sync Dropbox
 
