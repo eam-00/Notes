@@ -306,7 +306,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 
   -----
-- Carre:  Bolsitas | Chocolates | 
+- Carre:  Bolsitas | Chocolates | Agua -> Botellon [??]| 
   -----
  
 - Cell: Auto brightness | Auto Switch to Data | Auto Volume
