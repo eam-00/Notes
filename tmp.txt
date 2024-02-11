@@ -21,6 +21,7 @@ DOM
 -- Lavar cosas:
 - Repasador Blem
 - Repasador
+- Bolsas de compras
 
 -- sync TB HDDs
 
