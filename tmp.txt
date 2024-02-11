@@ -20,6 +20,7 @@ DOM
 ---
 -- Lavar cosas:
 - Repasador Blem
+- Repasador
 
 -- sync TB HDDs
 
