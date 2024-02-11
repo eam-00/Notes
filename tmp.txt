@@ -18,7 +18,7 @@ VIE:
 ---
 DOM
 ---
-
+-- Lavar cosas
 
 -- sync TB HDDs
 -- Kernel reboot ht 
