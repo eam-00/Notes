@@ -24,7 +24,7 @@ DOM
 - Repasador
 
 
--- sync TB HDDs
+
 
 
 
