@@ -13,7 +13,7 @@ LUN:
 -- Batts: Pilas AA |
 
 
--- Cortar pelo
+
 
 
 ---
