@@ -20,7 +20,6 @@ LUN:
 DOM
 ---
 -- Lavar cosas:
-
 - Repasador
 
 
