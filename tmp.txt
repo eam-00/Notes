@@ -22,7 +22,7 @@ DOM
 -- Lavar cosas:
 
 - Repasador
-- Bolsas de compras
+
 
 -- sync TB HDDs
 
