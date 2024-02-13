@@ -17,7 +17,7 @@ LUN:
 
 
 ---
-DOM
+MAR:
 ---
 -- Lavar cosas:
 -- Repasador
