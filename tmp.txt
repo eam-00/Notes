@@ -21,7 +21,7 @@ MAR:
 ---
 -- Lavar cosas:
 -- Repasador
--- Cortar pelo
+
 
 
 
