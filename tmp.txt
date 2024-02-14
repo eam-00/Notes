@@ -13,6 +13,7 @@ MIE:
 -- Reboot Chrome
 -- M:
     -> Tuppers
+    <- Tarta
 
 -- Afeitarme
 
