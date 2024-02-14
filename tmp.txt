@@ -11,6 +11,8 @@ MIE:
 -- G: Reset passwd
 -- Debian 12 -- GNOME -> MBP | MBP2
 -- Reboot Chrome
+-- M:
+
 -- Afeitarme
 
 
