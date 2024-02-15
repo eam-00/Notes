@@ -5,6 +5,7 @@ Click en "MasterCard"
 ---
 JUE:
 ---
+-- C: TS -> Holiday
 -- G: G: Tickets
 -- G: OMS shit -> PUSH
 -- G: AWS [???]
