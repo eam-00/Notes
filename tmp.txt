@@ -14,7 +14,7 @@ JUE:
 
 -- M:
     -> Tuppers
-    <- Tarta
+
 -- Afeitarme
 
 
