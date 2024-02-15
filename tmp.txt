@@ -15,6 +15,7 @@ JUE:
 -- M:
     -> Tuppers
     <- Bananas
+    <- Lavanderia
 
 
 
