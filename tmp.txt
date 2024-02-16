@@ -22,7 +22,7 @@ VIE:
 MIE:
 ---
 -- Lavar cosas:
--- Repasador
+
 
 
 
