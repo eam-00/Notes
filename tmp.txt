@@ -23,7 +23,7 @@ MIE:
 ---
 -- Lavar cosas:
 -- Repasador
--- Toallin
+
 
 
 
