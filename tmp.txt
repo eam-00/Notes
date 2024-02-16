@@ -14,7 +14,7 @@ JUE:
 -- Batts: 
 -- M:
 
-    <- Bananas
+
     <- Lavanderia
 
 
