@@ -11,7 +11,7 @@ JUE:
 -- G: AWS [???]
 -- G: Reset passwd
 -- Debian 12 -- GNOME -> MBP | MBP2
--- Batts: LRRPs |
+-- Batts: 
 -- M:
 
     <- Bananas
