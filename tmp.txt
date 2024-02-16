@@ -12,8 +12,6 @@ VIE:
 -- Debian 12 -- GNOME -> MBP | MBP2
 -- Batts: 
 -- M:
-
-
     <- Lavanderia
 
 -- ChK Bcos
