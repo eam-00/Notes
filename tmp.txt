@@ -313,7 +313,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 
   -----
-- Carre:  Bolsitas | Galles Dulces | Te [???]
+- Carre:  Bolsitas | Te [???]
   -----
  
 - Cell: Auto brightness | Auto Switch to Data | Auto Volume
