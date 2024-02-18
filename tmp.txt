@@ -12,7 +12,7 @@ LUN:
 -- Debian 12 -- GNOME -> MBP | MBP2
 -- Batts: 
 
-
+-- Shopping
 
 
 
