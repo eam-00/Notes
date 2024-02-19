@@ -12,7 +12,7 @@ LUN:
 -- Batts: 11e2 
 -- Debian 12 -- GNOME -> MBP | MBP2
 -- Movistar: Guardar GBs
-
+-- Batts: LRRPs | MBPs 
 
 
 
