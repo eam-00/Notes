@@ -14,7 +14,8 @@ LUN:
 -- Movistar: Guardar GBs
 
 ---
-DOM:
+
+
 ---
 
 -- Batts: Bluetooth KBD | ht | 
