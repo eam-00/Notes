@@ -9,7 +9,7 @@ LUN:
 -- G: OMS shit -> PUSH
 -- G: AWS [???]
 -- G: Reset passwd
--- Batts: 11e2 
+-- Batts: 11e2 | LRRPs | MBPs
 -- Debian 12 -- GNOME -> MBP | MBP2
 -- Movistar: Guardar GBs
 -- Batts: LRRPs | MBPs 
