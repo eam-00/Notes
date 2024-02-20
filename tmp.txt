@@ -9,7 +9,7 @@ MAR:
 -- G: OMS shit -> PUSH
 -- G: AWS [???]
 -- G: Reset passwd
--- Batts: 11e2 | LRRPs | MBPs
+-- Batts: 11e2 | MBPs
 -- Debian 12 -- GNOME -> MBP | MBP2
 
 
