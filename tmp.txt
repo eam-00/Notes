@@ -11,7 +11,7 @@ MAR:
 -- G: Reset passwd
 -- Batts: 11e2 | LRRPs | MBPs
 -- Debian 12 -- GNOME -> MBP | MBP2
--- Afeitarme
+
 
 
 
