@@ -13,7 +13,7 @@ MIE:
 -- Debian 12 -- GNOME -> MBP | MBP2
 
 -- M: PDFs del orto | guita
--- Afeitarme
+
 
 -- C: TS
 -- Lavar: Fundas almohadones [???]
