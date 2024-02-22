@@ -13,8 +13,6 @@ JUE:
 -- Debian 12 -- GNOME -> MBP | MBP2
 -- Balcon: Mochila
 
-
-
 -- C: TS
 -- Lavar: Fundas almohadones [???]
 
