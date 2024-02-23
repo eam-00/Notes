@@ -5,7 +5,7 @@ Click en "MasterCard"
 ---
 VIE:
 ---
--- G: Add Doc log example
+
 -- G: OMS shit -> PUSH
 -- G: AWS [???]
 -- G: Reset passwd
