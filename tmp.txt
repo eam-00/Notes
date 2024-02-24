@@ -17,7 +17,7 @@ SAB:
 -- M: Saldo
 -- Shopping [????]
 -- TB HDDs:
-
+           - Sync subs First Man
 
 
 
