@@ -313,7 +313,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 
   -----
-- Carre:  Bolsitas | Te [???] | Agua [???] | Sabrositos [???] | Papas fritas | Pepsi | 
+- Carre:  Bolsitas | Te [???] | Agua [???] | Sabrositos [???] | Papas fritas | Pepsi | Yogurts 
   -----
  
 - Cell: Auto brightness | Auto Switch to Data | Auto Volume
