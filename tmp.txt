@@ -11,9 +11,9 @@ VIE:
 -- Batts: 11e | MBPs
 -- Debian 12 -- GNOME -> MBP | MBP2
 
-
+---
 SAB:
-
+---
 -- M: Saldo
 
 
