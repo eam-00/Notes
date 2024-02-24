@@ -21,6 +21,7 @@ SAB:
            - Subs "Devotion"
 
 -- Inventario:
+              -- Zapas
 
 -- Plex:
         - Beyond The Black Rainbow
