@@ -21,7 +21,6 @@ DOM:
 -- TB HDDs:
            - Sync subs "First Man"
            - Subs "Devotion"
-
 -- Inventario:
               -- Zapas
               -- Ropa
