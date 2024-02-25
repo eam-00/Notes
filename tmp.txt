@@ -190,8 +190,6 @@ Remove:
 - Stoned - Lyres
 - The End - Ruins
 
-https://www.film1k.com/heartbreakers-1984.html
-
 Errors: grub-efi-amd64-signed & shim-signed
 https://stackoverflow.com/questions/53203528/errors-grub-efi-amd64-signed-shim-signed
 
