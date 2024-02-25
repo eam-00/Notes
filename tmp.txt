@@ -24,7 +24,6 @@ DOM:
 -- Inventario:
               -- Zapas
               -- Ropa
-
 -- Plex:
         - Beyond The Black Rainbow
 
