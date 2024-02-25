@@ -15,7 +15,7 @@ LUN:
 ---
 DOM:
 ---
--- Batts: HP Envy | 
+-- Batts: HP Envy | LRRPs | 
 
 -- Shopping [????]
 -- TB HDDs:
