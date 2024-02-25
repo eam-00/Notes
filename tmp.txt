@@ -8,7 +8,6 @@ LUN:
 -- G: OMS shit -> PUSH
 -- G: AWS [???]
 -- G: Reset passwd
-
 -- Debian 12 -- GNOME MBP2
 -- ChK Gal Dep
 -- ChK Starbucks
