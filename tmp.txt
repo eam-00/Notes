@@ -19,7 +19,7 @@ DOM:
 
 -- Shopping [????]
 -- TB HDDs:
-           - Sync subs "First Man" | "Babylon" | 
+           - Sync subs "First Man" | "Babylon" | "Morvern Callar"
            - Subs "Devotion"
 -- Inventario:
               -- Zapas
