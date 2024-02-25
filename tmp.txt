@@ -17,7 +17,7 @@ LUN:
 SAB:
 ---
 -- M: Saldo
--- Imprimir boletas -> 8055.29
+
 -- Shopping [????]
 -- TB HDDs:
            - Sync subs "First Man"
