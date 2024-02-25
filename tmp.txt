@@ -8,7 +8,7 @@ LUN:
 -- G: OMS shit -> PUSH
 -- G: AWS [???]
 -- G: Reset passwd
--- Batts: 11e | MBPs
+
 -- Debian 12 -- GNOME -> MBP | MBP2
 
 ---
