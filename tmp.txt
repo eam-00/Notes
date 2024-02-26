@@ -18,6 +18,7 @@ LUN:
 
 
 -- TB HDDs:
+           - Delete subs "Morvern Callar"
            - Sync subs "First Man" | "Babylon" | "Morvern Callar"
            - Subs "Devotion"
 -- Inventario:
