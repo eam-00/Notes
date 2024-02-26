@@ -16,7 +16,7 @@ LUN:
 ---
 DOM:
 ---
--- Batts:  |
+
 
 
 -- TB HDDs:
