@@ -22,7 +22,7 @@ LUN:
            - Subs "Devotion"
 -- Inventario:
               -- Zapas
-              -- Ropa
+
 
 
 
