@@ -15,7 +15,7 @@ LUN:
 ---
 DOM:
 ---
--- Batts:  | LRRPs | 
+-- Batts:  |
 
 
 -- TB HDDs:
