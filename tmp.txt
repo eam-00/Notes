@@ -17,7 +17,7 @@ DOM:
 ---
 -- Batts:  | LRRPs | 
 
--- Shopping [????]
+
 -- TB HDDs:
            - Sync subs "First Man" | "Babylon" | "Morvern Callar"
            - Subs "Devotion"
