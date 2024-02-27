@@ -21,7 +21,7 @@ MAR:
            - Delete subs "Morvern Callar"
            - Sync subs "First Man" | "Babylon" 
            - Subs "Devotion"
-           - Delete "Devotion" | 
+           - Delete "Devotion" | "Bill & Ted Face Teh Music"
 
 
 
