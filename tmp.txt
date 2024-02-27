@@ -21,7 +21,7 @@ LUN:
            - Delete subs "Morvern Callar"
            - Sync subs "First Man" | "Babylon" 
            - Subs "Devotion"
--- Inventario:
+
               -- Zapas
 
 
