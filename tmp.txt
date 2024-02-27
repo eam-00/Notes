@@ -9,7 +9,7 @@ LUN:
 -- G: AWS [???]
 -- G: Reset passwd
 
--- ChK Gal Dep
+
 -- ChK Starbucks
 -- M: ChK PF | -> Tupper
 
