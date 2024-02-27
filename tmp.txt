@@ -22,7 +22,7 @@ LUN:
            - Sync subs "First Man" | "Babylon" 
            - Subs "Devotion"
 
-              -- Zapas
+
 
 
 
