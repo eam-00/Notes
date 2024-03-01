@@ -14,7 +14,7 @@ JUE:
 -- ChK Starbucks
 -- M: Tuppers
       Get:
-          - Zanahorias
+
  
           - Hongos
 
