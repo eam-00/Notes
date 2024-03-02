@@ -10,7 +10,7 @@ VIE:
 -- G: Reset passwd
 -- AySA
 -- Metrogas
--- ChK Telecom
+
 -- ChK Starbucks
 
 
