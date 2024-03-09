@@ -15,7 +15,7 @@ VIE:
 SAB:
 ---
 
--- Limpiar casita
+
 -- Limpiar telas de arana
 -- Podar mandarinero
 -- Transferencia
