@@ -301,7 +301,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 
   -----
-- Carre:  Bolsitas | Te [???] | Sabrositos [???] | Manteca | 
+- Carre:  Bolsitas | Te [???] | Sabrositos [???] | Manteca | Queso Cremoso | 
   -----
  
 - Cell: Auto brightness | Auto Switch to Data | Auto Volume
