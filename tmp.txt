@@ -8,7 +8,7 @@ VIE:
 -- G: OMS shit -> PUSH
 -- G: AWS [???]
 -- G: Reset passwd
--- Batts: 11e | T430 | 
+
 
 
 ---
