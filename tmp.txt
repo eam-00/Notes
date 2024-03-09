@@ -19,6 +19,7 @@ SAB:
 -- Transferencia
 -- Oolong [???]
 -- Batts: 11e | T430 | X201t | 
+-- Backup USB
 
 -- TB HDDs:
            - Delete subs "Morvern Callar"
