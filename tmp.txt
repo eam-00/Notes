@@ -18,6 +18,7 @@ SAB:
 -- Limpiar casita
 -- Transferencia
 -- Oolong [???]
+-- Batts: 11e | T430 | 
 
 -- TB HDDs:
            - Delete subs "Morvern Callar"
