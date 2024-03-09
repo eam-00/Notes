@@ -16,7 +16,7 @@ SAB:
 ---
 
 
--- Limpiar telas de arana
+
 -- Podar mandarinero
 -- Transferencia
 -- Oolong [???]
