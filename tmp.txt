@@ -9,6 +9,7 @@ LUN:
 -- G: AWS [???]
 -- G: Reset passwd
 --- Gal: ChK deposito
+-- Pinto [????]
 
 
 ---
