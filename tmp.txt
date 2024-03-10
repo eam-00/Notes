@@ -19,7 +19,7 @@ SAB:
 -- Podar mandarinero
 
 -- Oolong [???]
--- Batts: 11e | T430 | 
+-- Batts: 11e | 
 -- Backup USB
 
 
