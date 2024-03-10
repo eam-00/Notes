@@ -23,6 +23,7 @@ DOM:
 -- Backup USB
 -- Limpiar: 
            - Frente heladera
+           - Blem mueble
 
 
 -- TB HDDs:
