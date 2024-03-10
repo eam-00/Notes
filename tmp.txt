@@ -26,6 +26,7 @@ DOM:
            - Blem mueble
 
 -- "ATM"
+-- Starbucks
 
 
 -- TB HDDs:
