@@ -21,6 +21,8 @@ DOM:
 -- Oolong [???]
 -- Batts: HP Envy | LRRPs [?] | ht | 
 -- Backup USB
+-- Limpiar: 
+           - Frente heladera
 
 
 -- TB HDDs:
