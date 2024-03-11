@@ -19,7 +19,7 @@ DOM:
 -- Podar mandarinero
 
 -- Oolong [???]
--- Batts: HP Envy | LRRPs [?] | ht | 
+-- Batts: HP Envy | LRRPs [?] |  
 -- Backup USB
 -- Limpiar: 
 
