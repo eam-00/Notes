@@ -23,7 +23,7 @@ DOM:
 -- Backup USB
 -- Limpiar: 
 
-           - Blem mueble
+
 
 -- "ATM"
 -- Starbucks
