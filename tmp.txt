@@ -22,7 +22,7 @@ DOM:
 -- Batts: HP Envy | LRRPs [?] | ht | 
 -- Backup USB
 -- Limpiar: 
-           - Frente heladera
+
            - Blem mueble
 
 -- "ATM"
