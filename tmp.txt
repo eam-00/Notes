@@ -18,7 +18,7 @@ DOM:
 -- Change monitor
 -- Podar mandarinero
 
--- Oolong [???]
+
 -- Batts:
 -- Backup USB
 -- Limpiar: 
