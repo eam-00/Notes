@@ -17,7 +17,7 @@ DOM:
 -- Podar mandarinero
 
 
--- Batts:
+-- Batts: 11e | 
 -- Backup USB
 
 
