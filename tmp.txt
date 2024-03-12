@@ -20,7 +20,7 @@ DOM:
 
 -- Batts:
 -- Backup USB
--- Limpiar: 
+
 
 
 
