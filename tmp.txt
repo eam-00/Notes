@@ -9,7 +9,7 @@ JUE:
 -- G: AWS [???]
 -- G: Reset passwd
 -- C: agenda con P
--- Change monitor
+
 -- Podar mandarinero
 -- Batts: 11e | MBP-00
 -- Backup USB
