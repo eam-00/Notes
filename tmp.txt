@@ -5,7 +5,7 @@ Click en "MasterCard"
 ---
 VIE:
 ---
--- G: OMS shit -> PUSH
+
 -- G: AWS [???]
 -- G: Reset passwd
 -- C: agenda con P
