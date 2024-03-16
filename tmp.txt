@@ -11,7 +11,7 @@ VIE:
 -- Podar mandarinero
 -- Batts: 11e | MBP-00
 -- Backup USB
--- ChK Bcos
+
 
 
 ---
