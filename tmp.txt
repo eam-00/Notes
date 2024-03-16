@@ -18,8 +18,7 @@ SAB:
 ---
 -- Limpiar casita
 -- Pinto
-
-
+-- Gal: Transf
 
 -- TB HDDs:
            - Delete subs "Morvern Callar"
