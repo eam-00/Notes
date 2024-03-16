@@ -17,7 +17,7 @@ LUN:
 ---
 SAB:
 ---
--- Limpiar casita
+
 -- Pinto
 -- Gal: Transf
 -- Print Nati stuff [???]
