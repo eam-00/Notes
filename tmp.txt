@@ -23,6 +23,7 @@ SAB:
 
 -- Cambiar lampara
 -- Cargar AA
+-- Backup USB
 
 -- TB HDDs:
            - Delete subs "Morvern Callar"
