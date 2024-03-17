@@ -10,7 +10,7 @@ LUN:
 -- G: Reset passwd
 -- C: agenda con P
 -- Podar mandarinero
--- Batts: 11e | MBP-00
+
 
 -- ChK Gal
 
