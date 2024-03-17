@@ -10,8 +10,6 @@ LUN:
 -- G: Reset passwd
 -- C: agenda con P
 -- Podar mandarinero
-
-
 -- ChK Gal
 
 
