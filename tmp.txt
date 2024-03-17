@@ -18,7 +18,7 @@ LUN:
 ---
 SAB:
 ---
--- Print Nati stuff [???]
+
 -- Lona F
 
 -- Cambiar lampara
