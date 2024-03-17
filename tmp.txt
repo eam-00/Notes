@@ -19,7 +19,7 @@ LUN:
 SAB:
 ---
 
--- Lona F
+-- Lvar Lona F [???]
 
 -- Cambiar lampara
 -- Cargar AA
