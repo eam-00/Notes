@@ -25,7 +25,7 @@ DOM:
 -- Cargar AA
 -- Backup USB
 -- Batts: 11e | MBP-00
-=- M: Tupper
+-- M: Tupper
 -- TB HDDs:
            - Delete subs "Morvern Callar"
            - Sync subs: "First Man" | "Babylon" 
