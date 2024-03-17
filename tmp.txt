@@ -19,7 +19,7 @@ LUN:
 SAB:
 ---
 -- Pinto
--- Gal: Transf
+
 -- Print Nati stuff [???]
 -- Lona F
 
