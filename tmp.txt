@@ -22,6 +22,7 @@ SAB:
 -- Lona F
 
 -- Cambiar lampara
+-- Cargar AA
 
 -- TB HDDs:
            - Delete subs "Morvern Callar"
