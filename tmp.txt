@@ -11,7 +11,8 @@ LUN:
 -- C: agenda con P
 -- Podar mandarinero
 -- Batts: 11e | MBP-00
--- Backup USB
+-- Backup US
+-- ChK Gal
 
 
 ---
