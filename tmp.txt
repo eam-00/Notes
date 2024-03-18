@@ -23,7 +23,7 @@ LUN:
 -- Cambiar lampara
 -- Cargar AA
 -- Backup USB
--- Batts:  MBP-00 | X140E 
+-- Batts:  MBP-00 | X140E | LRRPs
 
 -- TB HDDs:
            - Delete subs "Morvern Callar"
