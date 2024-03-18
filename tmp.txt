@@ -20,7 +20,7 @@ LUN:
 DOM:
 ---
 
--- Lvar Lona F [???]
+
 
 -- Cambiar lampara
 -- Cargar AA
