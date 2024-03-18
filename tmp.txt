@@ -12,6 +12,7 @@ LUN:
 -- C: agenda con P
 -- Podar mandarinero
 -- ChK Gal
+-- Corte pelo
 
 
 ---
