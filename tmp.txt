@@ -21,7 +21,6 @@ MAR:
 
 
 -- Cambiar lampara
-
 -- Backup USB
 -- Batts:  MBP-00 | X140E 
 
