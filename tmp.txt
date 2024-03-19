@@ -11,7 +11,7 @@ MAR:
 -- G: Reset passwd
 -- C: agenda con P
 -- Podar mandarinero
--- PDF: Nati
+
 -- M: Mobi | 17 K 
 -- ChK Flow [Promo???]
 -- Reboot Chromebook
