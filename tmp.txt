@@ -10,7 +10,7 @@ MAR:
 -- G: AWS [???]
 -- G: Reset passwd
 -- C: agenda con P
--- Podar mandarinero
+
 
 -- M: Mobi | 17 K 
 -- ChK Flow [Promo???]
