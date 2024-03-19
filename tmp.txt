@@ -12,7 +12,7 @@ MAR:
 -- C: agenda con P
 -- Podar mandarinero
 -- PDF: Nati
--- M: USBs PDF | Mobi | 17 K 
+-- M: Mobi | 17 K 
 -- ChK Flow [Promo???]
 -- Reboot Chromebook
 
