@@ -12,7 +12,7 @@ MAR:
 -- C: agenda con P
 
 
--- M: Mobi | 17 K 
+-- M:  17 K 
 -- ChK Flow [Promo???]
 -- Reboot Chromebook
 
