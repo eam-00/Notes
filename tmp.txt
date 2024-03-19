@@ -21,7 +21,7 @@ LUN:
 
 
 -- Cambiar lampara
--- Cargar batts AA
+
 -- Backup USB
 -- Batts:  MBP-00 | X140E 
 
