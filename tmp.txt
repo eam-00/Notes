@@ -12,7 +12,7 @@ MIE:
 -- C: agenda con P
 
 
--- M:  17 K 
+
 -- ChK Flow [Promo???]
 -- Reboot Chromebook
 
