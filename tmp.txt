@@ -5,6 +5,7 @@ Click en "MasterCard"
 ---
 JUE:
 ---
+-- C: TS
 -- G: Post conf if switch log OK
 
 -- G: AWS [???]
