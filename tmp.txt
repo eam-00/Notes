@@ -7,7 +7,6 @@ JUE:
 ---
 -- C: TS
 -- G: Post conf if switch log OK
-
 -- G: AWS [???]
 -- G: Reset passwd
 -- C: agenda con P
