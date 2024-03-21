@@ -6,7 +6,7 @@ Click en "MasterCard"
 MIE:
 ---
 -- G: Post conf if switch log OK
--- G: ChK node EFS manual
+
 -- G: AWS [???]
 -- G: Reset passwd
 -- C: agenda con P
