@@ -17,7 +17,7 @@ JUE:
 
 
 
--- C: TS
+
 
 -- Backup USB
 -- Batts:  MBP-00 | X140E 
