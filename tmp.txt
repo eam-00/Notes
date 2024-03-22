@@ -18,7 +18,7 @@ VIE:
 
 
 -- Backup USB
--- Batts:  MBP-00 
+-- Batts:  MBP-00 | Pilas AAAA
 
 -- TB HDDs:
            - Delete subs "Morvern Callar"
