@@ -16,7 +16,7 @@ VIE:
 
 
 
--- Backup USB
+-- Backup USB [URG!!!!!]
 -- Batts:  MBP-00 | Pilas AAAA
 
 -- TB HDDs:
