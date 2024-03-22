@@ -16,7 +16,7 @@ VIE:
 
 
 -- Poner lamparas chinas
--- Limpiar contenedor de cubiertos
+
 -- Backup USB [URG!!!!!]
 -- Batts:  MBP-00 | Pilas AAAA
 
