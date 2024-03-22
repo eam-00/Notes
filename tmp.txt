@@ -15,7 +15,7 @@ VIE:
 
 
 
-
+-- Poner lamparas chinas
 -- Backup USB [URG!!!!!]
 -- Batts:  MBP-00 | Pilas AAAA
 
