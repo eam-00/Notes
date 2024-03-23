@@ -16,6 +16,7 @@ LUN:
 ---
 SAB:
 ---
+-- Limpiar casita
 -- Nati: exp
 -- Nati: Imprimir boletas
 -- M:
