@@ -16,6 +16,7 @@ VIE:
 -- Lona Felinida
 -- Manta
 
+-- Nati: Imprimir boletas
 
 -- Backup USB [URG!!!!!]
 -- Batts:  MBP-00 | Pilas AAAA
