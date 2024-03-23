@@ -10,13 +10,13 @@ LUN:
 -- G: Reset passwd
 -- C: agenda con P
 
--- ChK Flow [Promo???]
+
 
 
 ---
 SAB:
 ---
--- ChK Flow [Promo???]
+-- Fibertel activar promo
 -- Limpiar casita
 -- Nati: exp
 -- Nati: Imprimir boletas
