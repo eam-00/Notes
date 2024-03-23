@@ -14,7 +14,7 @@ VIE:
 
 
 
--- Manta
+
 
 -- Nati: Imprimir boletas
 
