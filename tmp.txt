@@ -16,6 +16,7 @@ LUN:
 ---
 SAB:
 ---
+-- ChK Flow [Promo???]
 -- Limpiar casita
 -- Nati: exp
 -- Nati: Imprimir boletas
