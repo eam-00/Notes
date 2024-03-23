@@ -24,7 +24,7 @@ SAB:
     -- Boletas
 
 -- Backup USB [URG!!!!!]
--- Batts:  MBP-00 | Pilas AAAA
+-- Batts:  MBP-00 | Pilas AAAA | X201t
 
 -- W530
 -- 11e2: SSD -> Debian 12 GNOME
