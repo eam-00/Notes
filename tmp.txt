@@ -23,7 +23,7 @@ LUN:
 
 
 -- Backup USB [URG!!!!!]
--- Batts:  MBP-00 | Pilas AAAA | X201t
+-- Batts:  MBP-00 | Pilas AAAA
 
 
 -- 11e2: SSD -> Debian 12 GNOME
