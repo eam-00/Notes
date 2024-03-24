@@ -23,7 +23,7 @@ LUN:
 
 
 -- Backup USB [URG!!!!!]
--- Batts:  MBP-00 | Pilas AAAA
+-- Batts:  Pilas AAAA
 
 
 -- 11e2: SSD -> Debian 12 GNOME
