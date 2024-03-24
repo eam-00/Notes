@@ -17,7 +17,7 @@ LUN:
 SAB:
 ---
 -- Fibertel activar promo
--- Limpiar casita
+
 -- Nati: exp
 -- Nati: Imprimir boletas
 -- M:
