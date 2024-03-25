@@ -5,7 +5,6 @@ Click en "MasterCard"
 ---
 LUN:
 ---
-
 -- G: Post conf if switch log OK
 -- G: AWS [???]
 -- G: Reset passwd
