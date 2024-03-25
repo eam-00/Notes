@@ -28,7 +28,7 @@ LUN:
 
 
 -- 11e2: SSD -> Debian 12 GNOME
--- MBP-00: configurar Debian 12 GNOME
+
 
 -- TB HDDs:
            - Delete subs "Morvern Callar"
