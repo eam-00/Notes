@@ -10,6 +10,7 @@ MIE:
 -- G: Reset passwd
 -- C: agenda con P
 - Lona Felinida
+- Regar plantas
 
 - Renovacion licencia de conducir
 https://buenosaires.gob.ar/tramites/renovacion-de-licencia-de-conducir
