@@ -11,6 +11,7 @@ MIE:
 -- C: agenda con P
 - Lona Felinida
 - Regar plantas
+- Afeitarme
 
 - Renovacion licencia de conducir
 https://buenosaires.gob.ar/tramites/renovacion-de-licencia-de-conducir
