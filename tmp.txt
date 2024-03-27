@@ -26,7 +26,6 @@ https://buenosaires.gob.ar/tramites/renovacion-de-licencia-de-conducir
 -- Backup USB [URG!!!!!]
 
 
-
 -- 11e2: SSD -> Debian 12 GNOME
 
 
