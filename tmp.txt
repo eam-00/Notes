@@ -9,7 +9,7 @@ MIE:
 -- G: AWS [???]
 -- G: Reset passwd
 -- C: agenda con P
-- Lona Felinida
+
 - Regar plantas
 - Afeitarme
 - ChK Webmail
