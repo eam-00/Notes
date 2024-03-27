@@ -10,7 +10,7 @@ MIE:
 -- G: Reset passwd
 -- C: agenda con P
 
-- Regar plantas
+
 - Afeitarme
 - ChK Webmail
 
