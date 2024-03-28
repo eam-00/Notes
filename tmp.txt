@@ -10,7 +10,6 @@ JUE:
 -- G: Reset passwd
 -- C: agenda con P
 
-
 - Afeitarme
 - ChK Webmail
 
