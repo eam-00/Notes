@@ -16,7 +16,7 @@ LUN:
 VIE:
 ---
 -- ChK Bcos
--- Limpiar casita
+
 -- Lona Felinida
 -- ATM
 -- Print ABL
