@@ -14,7 +14,7 @@ JUE:
 ---
 VIE:
 ---
--- ChK Bocs
+-- ChK Bcos
 -- Limpiar casita
 
 
