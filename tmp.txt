@@ -3,7 +3,7 @@ https://secure.bancocolumbia.com.ar/web/Cupon-de-pago-10368.note.aspx
 Click en "MasterCard"
 
 ---
-JUE:
+LUN:
 ---
 -- G: Post conf if switch log OK
 -- G: AWS [???]
