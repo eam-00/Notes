@@ -22,7 +22,7 @@ LUN:
 ---
 DOM:
 ---
--- ht: enable ext Load/ RAM
+
 
 
 
