@@ -22,7 +22,7 @@ LUN:
 ---
 SAB:
 ---
--- Lavar: 
+
 
 
 -- 11e2: SSD -> Debian 12 GNOME
