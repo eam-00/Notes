@@ -22,7 +22,7 @@ LUN:
 ---
 SAB:
 ---
-
+-- ht: enable ext Load/ RAM
 
 
 -- 11e2: SSD -> Debian 12 GNOME
