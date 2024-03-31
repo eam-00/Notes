@@ -27,7 +27,7 @@ SAB:
 
 -- 11e2: SSD -> Debian 12 GNOME
 -- Cbio Sabanas
--- Print ABL
+
 -- ATM
 -- Lemon Pies
 
