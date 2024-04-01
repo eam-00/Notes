@@ -9,7 +9,7 @@ LUN:
 -- G: AWS [???]
 -- G: Reset passwd
 -- C: agenda con P
--- Sppotif: "In Search of Tomorrow"
+-- Spotify: "In Search of Tomorrow"
 -- OOO para todo
 
 
