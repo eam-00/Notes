@@ -30,7 +30,7 @@ DOM:
 
 
 -- ATMs
--- M: Tuppers
+
 -- Lona Felinida
 -- Batts: ht
 -- Solo los Huawei no tienen acceso a Google Play
