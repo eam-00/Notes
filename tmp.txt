@@ -10,6 +10,7 @@ LUN:
 -- G: Reset passwd
 -- C: agenda con P
 -- Spotify: "In Search of Tomorrow"
+-- Call 21:00 hrs
 -- OOO para todo
 
 
