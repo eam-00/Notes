@@ -9,7 +9,7 @@ MIE:
 -- G: Reset passwd
 -- C: agenda con P
 -- Spotify: "In Search of Tomorrow"
--- ChK Gal
+
 -- Limpiar cocina
 -- Limpieza camisas
 
