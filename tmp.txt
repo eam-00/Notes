@@ -319,7 +319,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre:  Bolsitas | Sabrositos [???] | Agua | Piedras Michis [????] | Pan | Vainillas | Lamparitas | Manteca | Azucar
+- Carre:  Bolsitas | Sabrositos [???] | Agua | Piedras Michis [????] | Pan | Vainillas | Lamparitas | Manteca | Azucar | Leches
   -----
  
 - Cell: Auto brightness | Auto Switch to Data | Auto Volume
