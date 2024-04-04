@@ -11,7 +11,7 @@ JUE:
 -- ChK Gal
 
 
--- Carre ATM
+
 -- M: Gal Card
 -- cp TRRTs -> TB HDDs
 
