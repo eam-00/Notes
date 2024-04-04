@@ -14,6 +14,7 @@ JUE:
 -- M: Get Beer
 -- M: Gal Card
 -- M: Tarta
+-- Lona Felinida
 -- cp TRRTs -> TB HDDs
 -- Batts: 11e | X220 -> Manjaro
 
