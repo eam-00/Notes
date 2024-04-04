@@ -9,6 +9,8 @@ JUE:
 -- G: Reset passwd
 -- C: agenda con P
 -- ChK Gal
+-- Expensas
+
 -- cp TRRTs -> TB HDDs
 
 
