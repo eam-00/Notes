@@ -14,7 +14,7 @@ JUE:
 -- M: Get Beer
 -- M: Gal Card
 -- cp TRRTs -> TB HDDs
--- Batts: 11e | 
+-- Batts: 11e | X220 -> Manjaro
 
 
 
