@@ -11,7 +11,7 @@ VIE:
 -- ChK Gal
 
 
--- M: Gal Card
+
 
 -- Lavar lona Felinida
 -- cp TRRTs -> TB HDDs
