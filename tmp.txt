@@ -14,7 +14,7 @@ VIE:
 
 -- M: Gal Card
 
--- Lona Felinida
+-- Lavar lona Felinida
 -- cp TRRTs -> TB HDDs
 -- Batts: X220 -> Manjaro
 
