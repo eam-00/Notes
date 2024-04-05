@@ -16,7 +16,7 @@ VIE:
 
 -- Lona Felinida
 -- cp TRRTs -> TB HDDs
--- Batts: 11e | X220 -> Manjaro
+-- Batts:  | X220 -> Manjaro
 
 
 
