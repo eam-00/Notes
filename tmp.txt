@@ -11,7 +11,7 @@ VIE:
 -- ChK Gal
 
 
--- M: Get Beer
+
 -- M: Gal Card
 -- M: Tarta
 -- Lona Felinida
