@@ -9,7 +9,7 @@ VIE:
 -- G: Reset passwd
 -- C: agenda con P
 -- ChK Gal
--- Lavanderia
+
 
 -- M: Gal Card
 
