@@ -16,6 +16,7 @@ SAB:
 -- Lavar lona Felinida
 -- Cbio Sabanas
 -- Afeitarme
+-- Dload TRRTs [??????]
 -- cp TRRTs -> TB HDDs
 -- Batts: X220 -> Manjaro
 
