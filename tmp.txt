@@ -14,7 +14,7 @@ VIE:
 SAB:
 ---
 -- Lavar lona Felinida
--- Cbio Sabanas
+
 -- Afeitarme
 -- Dload TRRTs [??????]
 -- cp TRRTs -> TB HDDs
