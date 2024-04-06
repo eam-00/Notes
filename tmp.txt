@@ -15,7 +15,7 @@ SAB:
 ---
 
 
--- Afeitarme
+
 -- Dload TRRTs [??????]
 -- cp TRRTs -> TB HDDs
 -- Batts: X220 -> Manjaro | X140E | 
