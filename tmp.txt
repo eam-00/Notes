@@ -12,9 +12,10 @@ VIE:
 
 
 SAB:
+-- Lavar lona Felinida
 -- Cbio Sabanas
 -- Afeitarme
--- Lavar lona Felinida
+
 -- cp TRRTs -> TB HDDs
 -- Batts: X220 -> Manjaro
 
