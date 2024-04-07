@@ -15,7 +15,7 @@ DOM:
 ---
 
 
--- Dload TRRTs [??????]
+
 -- cp TRRTs -> TB HDDs
 -- Batts: ht | 11e [get Pics] | HP Envy | 
 
