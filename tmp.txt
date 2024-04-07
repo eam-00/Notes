@@ -17,7 +17,7 @@ DOM:
 
 -- Dload TRRTs [??????]
 -- cp TRRTs -> TB HDDs
--- Batts: 
+-- Batts: ht | 
 
 
 
