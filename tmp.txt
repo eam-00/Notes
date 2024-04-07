@@ -290,7 +290,7 @@ sudo apt remove gnome-games && sudo apt autoremove
 
 gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 
-- Shop: TV | Rack |  
+- Shop:  Rack |  
 - Ferreteria:  Pilas Recargables AAA | Pilas Recargables AA | Caladora p/ madera [??]
 
 -- Trim M65
