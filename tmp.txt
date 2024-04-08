@@ -14,7 +14,7 @@ VIE:
 DOM:
 ---
 -- Lona Felinida
--- Regar todas las plantas
+
 
 -- cp TRRTs -> TB HDDs
 -- Batts: ht | 11e [get Pics] | HP Envy | 
