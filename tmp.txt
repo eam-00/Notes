@@ -15,6 +15,7 @@ LUN:
 ---
 -- ChK Gal
 -- Maderera
+-- USB Ext
 
 
 -- Batts: 11e [get Pics] | HP Envy | 
