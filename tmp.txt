@@ -13,7 +13,7 @@ VIE:
 ---
 MAR:
 ---
--- ChK Gal
+-- ChK Gal -> Gal
 
 -- USB Ext
 -- M:
