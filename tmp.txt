@@ -13,7 +13,7 @@ VIE:
 ---
 MAR:
 ---
--- ChK Gal -> Gal
+
 -- USB Ext
 -- M:
      - Tuppers
