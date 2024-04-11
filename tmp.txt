@@ -21,6 +21,7 @@ JUE:
      - Tarjeta
 
 -- USB Ext
+-- Microwave
 -- MBP.00 > re-install[?]
 -- 11e: Debian 12 GNOME
 
