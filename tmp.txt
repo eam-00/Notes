@@ -22,7 +22,7 @@ MIE:
      < Empanada[s]
 -- USB Ext
 -- MBP.00 > re-install[?]
--- Batts: 11e [get Pics] | 
+-- Batts: | 
 
 -- N:
      - "Only God Forgives"
