@@ -18,8 +18,8 @@ JUE:
 
 
 -- M:
-     - Tarjeta
-     - Tuppers
+     - > Tarjeta
+     - > Tuppers
 
 -- USB Ext
 -- Microwave
