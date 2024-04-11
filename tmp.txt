@@ -19,6 +19,7 @@ JUE:
 
 -- M:
      - Tarjeta
+     - Tuppers
 
 -- USB Ext
 -- Microwave
