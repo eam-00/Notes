@@ -19,7 +19,7 @@ JUE:
 
 -- M:
 
-     < Empanada[s]
+
 -- USB Ext
 -- MBP.00 > re-install[?]
 
