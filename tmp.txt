@@ -22,7 +22,7 @@ JUE:
 
 -- USB Ext
 -- MBP.00 > re-install[?]
-
+-- 11e: Debian 12 GNOME
 
 -- N:
      - "Only God Forgives"
