@@ -21,7 +21,7 @@ VIE:
      - > Tuppers
 
 
--- USB Ext
+-- USB Ext [Push ?]
 -- Microwave
 -- MBP.00 > re-install[?]
 -- 11e: Debian 12 GNOME
