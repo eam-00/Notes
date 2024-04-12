@@ -24,7 +24,7 @@ VIE:
 -- USB Ext [Push ?]
 -- Microwave
 -- MBP.00 > re-install[?]
--- 11e: Debian 12 GNOME
+-- 11e: Debian 12 GNOME -> configurar | instalar stuff
 
 -- N:
      - "Only God Forgives"
