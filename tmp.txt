@@ -20,7 +20,7 @@ VIE:
 -- M:
      - > Tarjeta
      - > Tuppers
-     - < Bananas
+
 
 -- USB Ext
 -- Microwave
