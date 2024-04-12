@@ -346,7 +346,14 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
   -----
 - Carre:  Bolsitas | Sabrositos | Piedras Michis [????] | Lamparitas | Leches | 
   -----
- 
+
+80% 2da unidad:
+Shot | Milka
+Sonrisas
+
+3x2:
+Jugos
+
 - Cell: Auto brightness | Auto Switch to Data | Auto Volume
 - LLamar modista
 
