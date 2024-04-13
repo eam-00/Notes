@@ -31,6 +31,8 @@ SAB:
 -- TB HDDs:
 
 Sync 
+Delete crud
+
 -- N:
      - "Only God Forgives"
      - "Already Tomorrow in Hong Kong"
