@@ -6,6 +6,7 @@ Click en "MasterCard"
 LUN:
 ---
 -- Pinto
+-- Confirar vuelta N c/ AV.
 -- G: AWS [???]
 -- G: Reset passwd
 -- C: agenda con P
