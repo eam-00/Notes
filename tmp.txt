@@ -22,7 +22,7 @@ SAB:
 
 
 
--- USB Ext [Push ?]
+-- USB Ext [Push again ?]
 -- Microwave
 -- MBP.00 > re-install[?]
 -- 11e: Debian 12 GNOME -> configurar | instalar stuff
