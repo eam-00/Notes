@@ -28,7 +28,9 @@ SAB:
 -- Microwave
 -- MBP.00 > re-install [?]
 -- 11e: Debian 12 GNOME -> test borrar stuff
+-- TB HDDs:
 
+Sync 
 -- N:
      - "Only God Forgives"
      - "Already Tomorrow in Hong Kong"
