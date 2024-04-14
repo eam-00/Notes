@@ -16,7 +16,7 @@ LUN:
 SAB:
 ---
 -- Cbio. Sabanas
--- Print N
+
 -- Cotizacion taza
 
 
