@@ -8,6 +8,7 @@ LUN:
 -- Pinto
 -- Confirmar vuelta N c/ AV.
 -- Microwave
+-- ht: del old kernel
 -- G: AWS [???]
 -- G: Reset passwd
 -- C: agenda con P
