@@ -29,7 +29,6 @@ DOM:
 
 
 -- MBP.00 > re-install [?]
-
 -- TB HDDs:
 
 Sync 
