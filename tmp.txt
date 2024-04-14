@@ -18,7 +18,7 @@ LUN:
 DOM:
 ---
 -- M:
-     - Tupper
+
      - Setup p/ cotizacion taza
 
 
