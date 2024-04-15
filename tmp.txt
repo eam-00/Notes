@@ -6,7 +6,7 @@ Click en "MasterCard"
 LUN:
 ---
 
--- Confirmar vuelta N c/ AV.
+
 -- Microwave
 -- ht: del old kernel
 -- Afeitarme
