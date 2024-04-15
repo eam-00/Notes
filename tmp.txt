@@ -5,7 +5,7 @@ Click en "MasterCard"
 ---
 LUN:
 ---
--- Pinto
+
 -- Confirmar vuelta N c/ AV.
 -- Microwave
 -- ht: del old kernel
