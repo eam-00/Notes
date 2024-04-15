@@ -9,6 +9,7 @@ LUN:
 
 -- Microwave
 -- ht: del old kernel
+-- Inflar Blue Thunder
 -- Afeitarme
 -- G: AWS [???]
 -- G: Reset passwd
