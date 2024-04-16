@@ -6,6 +6,7 @@ Click en "MasterCard"
 MAR:
 ---
 dentist
+contact USB Ext HDD
 
 -- Microwave
 -- ht: del old kernel
