@@ -7,7 +7,7 @@ MAR:
 ---
 
 
--- Pinto -> $
+
 -- Connect C
 
 -- Microwave
