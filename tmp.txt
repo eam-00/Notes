@@ -8,6 +8,7 @@ MAR:
 dentist
 contact USB Ext HDD
 deposit Pinto
+Connect C
 
 -- Microwave
 -- ht: del old kernel
