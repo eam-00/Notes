@@ -10,7 +10,7 @@ LUN:
 -- Microwave
 -- ht: del old kernel
 
--- Afeitarme
+
 -- G: AWS [???]
 -- G: Reset passwd
 -- C: agenda con P
