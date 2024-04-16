@@ -6,7 +6,7 @@ Click en "MasterCard"
 MAR:
 ---
 -- Dentista
--- Contact USB Ext HDD
+
 -- Pinto -> $
 -- Connect C
 
