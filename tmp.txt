@@ -12,6 +12,7 @@ Connect C
 
 -- Microwave
 -- ht: del old kernel
+-- Caja TV -> OUT
 
 
 -- G: AWS [???]
