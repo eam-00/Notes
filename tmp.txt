@@ -30,7 +30,7 @@ MAR:
 
 
 
-Delete crud
+
 
 -- N:
      - "Only God Forgives"
