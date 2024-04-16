@@ -5,7 +5,7 @@ Click en "MasterCard"
 ---
 MAR:
 ---
--- Dentista
+
 
 -- Pinto -> $
 -- Connect C
