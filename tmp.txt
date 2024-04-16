@@ -29,7 +29,7 @@ LUN:
 -- MBP.00 > re-install [?]
 -- TB HDDs:
 
-Sync 
+
 Delete crud
 
 -- N:
