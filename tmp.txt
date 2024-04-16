@@ -7,7 +7,7 @@ MAR:
 ---
 -- Dentista
 -- Contact USB Ext HDD
-deposit Pinto
+-- Pinto -> $
 Connect C
 
 -- Microwave
