@@ -27,7 +27,7 @@ MAR:
 
 
 -- MBP.00 > re-install [?]
--- TB HDDs:
+
 
 
 Delete crud
