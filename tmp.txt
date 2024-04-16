@@ -8,7 +8,7 @@ MAR:
 -- Dentista
 -- Contact USB Ext HDD
 -- Pinto -> $
-Connect C
+-- Connect C
 
 -- Microwave
 -- ht: del old kernel
