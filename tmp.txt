@@ -11,7 +11,7 @@ MIE:
 
 
 -- Microwave
--- ht: del old kernel
+-- ht: delete old kernel
 
 
 
