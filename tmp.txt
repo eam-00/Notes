@@ -8,7 +8,7 @@ MIE:
 
 
 
--- Connect C
+
 
 -- Microwave
 -- ht: del old kernel
