@@ -29,7 +29,7 @@ MIE:
 
 
 
-
+-- 11e: Install Debian 12 GNOME
 -- MBP.00 > re-install [?]
 
 
