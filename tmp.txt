@@ -13,7 +13,6 @@ JUE:
 -- ht: delete old kernel
 
 
-
 -- G: AWS [???]
 -- G: Reset passwd
 -- C: agenda con P
