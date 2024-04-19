@@ -12,6 +12,7 @@ VIE:
 -- C: agenda con P
 -- Lavar:
          - T
+         - R
 
 ---
 SAB:
