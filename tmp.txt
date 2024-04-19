@@ -13,6 +13,7 @@ VIE:
 -- Lavar:
          - T
          - R
+         - Bolsas de compras
 
 ---
 SAB:
