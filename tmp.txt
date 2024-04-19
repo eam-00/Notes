@@ -7,9 +7,11 @@ VIE:
 ---
 -- 12 del mediodia: AntiB
 -- ChK Bcos
+-- AVM: cuando hacer lo de la valija?
 -- G: AWS [???]
 -- G: Reset passwd
 -- C: agenda con P
+
 -- Lavar:
          - T
          - R
