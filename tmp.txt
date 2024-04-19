@@ -7,6 +7,9 @@ VIE:
 ---
 -- 12 del mediodia: AntiB
 -- ChK Bcos
+-- G: AWS [???]
+-- G: Reset passwd
+-- C: agenda con P
 
 SAB:
 
