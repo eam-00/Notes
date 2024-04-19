@@ -11,6 +11,7 @@ VIE:
 -- G: Reset passwd
 -- C: agenda con P
 -- Lavar:
+         - T
 
 ---
 SAB:
