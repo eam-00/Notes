@@ -6,7 +6,7 @@ Click en "MasterCard"
 VIE:
 ---
 
--- ChK Bcos
+
 -- AVM: cuando hacer lo de la valija?
 -- G: AWS [???]
 -- G: Reset passwd
