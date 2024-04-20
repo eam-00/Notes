@@ -12,7 +12,7 @@ VIE:
 -- G: Reset passwd
 -- C: agenda con P
 
--- Lavar:
+
 
 
 
