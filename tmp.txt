@@ -14,7 +14,7 @@ LUN:
 DOM:
 ---
 
--- Microwave [???]
+
 -- ht: delete old kernel
 -- Backup USB "Music" [URG!!!!!]
 -- Backup USB "Linux"
