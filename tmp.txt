@@ -6,7 +6,6 @@ Click en "MasterCard"
 LUN:
 ---
 
-
 -- G: AWS [???]
 -- G: Reset passwd
 -- C: agenda con P
