@@ -12,7 +12,7 @@ LUN:
 -- Microwave [???]
 -- Print Nati stuff
 -- M: Tupper
-
+-- Push antigueadades
 
 -- ht: delete old kernel
 -- Backup USB "Music" [URG!!!!!]
