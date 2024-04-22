@@ -10,7 +10,7 @@ LUN:
 -- G: Reset passwd
 -- C: agenda con P
 -- Microwave [???]
-
+-- Print Nati stuff
 
 
 
