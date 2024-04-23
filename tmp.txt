@@ -5,7 +5,6 @@ Click en "MasterCard"
 ---
 MAR:
 ---
-
 -- G: AWS [???]
 -- G: Reset passwd
 -- C: agenda con P
