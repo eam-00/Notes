@@ -5,7 +5,7 @@ Click en "MasterCard"
 ---
 LUN:
 ---
--- Push antigueadades
+
 -- G: AWS [???]
 -- G: Reset passwd
 -- C: agenda con P
