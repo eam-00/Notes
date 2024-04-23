@@ -348,8 +348,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 Shot | Milka
 Sonrisas
 
-3x2:
-Jugos
+
 
 - Cell: Auto brightness | Auto Switch to Data | Auto Volume
 - LLamar modista
