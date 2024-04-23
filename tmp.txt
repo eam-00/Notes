@@ -9,8 +9,6 @@ MAR:
 -- G: Reset passwd
 -- C: agenda con P
 -- Microwave [???]
-
-
 -- Backup USB "Music" [URG!!!!!]
 -- Backup USB "Linux"
 
