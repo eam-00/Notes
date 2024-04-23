@@ -10,7 +10,7 @@ LUN:
 -- G: Reset passwd
 -- C: agenda con P
 -- Microwave [???]
--- Push antigueadades
+
 -- ht: delete old kernel
 -- Backup USB "Music" [URG!!!!!]
 -- Backup USB "Linux"
