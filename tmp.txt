@@ -338,7 +338,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
   -----
 
 
-Shot | Milka
+
 Sonrisas
 
 
