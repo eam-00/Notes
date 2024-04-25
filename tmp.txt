@@ -15,7 +15,7 @@ JUE:
 
 -- M:
      - Internet
-     - Cable
+
      - Tuppers
      - Movistar
      - ABL
