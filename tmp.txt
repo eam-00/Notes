@@ -14,7 +14,7 @@ JUE:
 -- Backup USB "Linux"
 
 -- M:
-     - Internet
+
 
 
 
