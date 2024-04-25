@@ -17,7 +17,7 @@ JUE:
      - Internet
 
      - Tuppers
-     - Movistar
+
      - ABL
 
 -- 11e: Install Debian 12 GNOME
