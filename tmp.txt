@@ -13,7 +13,7 @@ LUN:
 SAB:
 ---
 -- Limpiar casita
--- Cbio. Sabanas
+
 -- Alot: Imprimir
 -- M: $ Edenor 
 
