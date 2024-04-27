@@ -15,7 +15,7 @@ SAB:
 -- Limpiar casita
 
 -- Alot: Imprimir
--- M: $ Edenor 
+-- M: $ Edenor
 
 -- Microwave [???]
 -- Backup USB "Music" [URG!!!!!]
