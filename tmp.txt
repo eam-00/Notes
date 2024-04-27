@@ -15,6 +15,7 @@ SAB:
 -- Limpiar casita
 -- Cbio. Sabanas
 -- Alot: Imprimir
+-- M: $ Edenor 
 
 -- Microwave [???]
 -- Backup USB "Music" [URG!!!!!]
