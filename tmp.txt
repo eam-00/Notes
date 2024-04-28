@@ -12,7 +12,7 @@ LUN:
 ---
 SAB:
 ---
--- Limpiar casita
+
 
 -- Alot: Imprimir
 -- M: $ Edenor
