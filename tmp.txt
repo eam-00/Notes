@@ -349,7 +349,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre:  Bolsitas | Sabrositos | Piedras Michis [????] | Lamparitas | Leches | Yogurts | Queso Crema | PortSalut | Pan | Agua | Vainillas 
+- Carre:  Bolsitas | Sabrositos | Piedras Michis [????] | Lamparitas | Leches | Yogurts | Queso Crema | PortSalut | Pan | Agua |
   -----
 
 
