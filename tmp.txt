@@ -14,7 +14,7 @@ SAB:
 ---
 
 
--- Alot: Imprimir
+
 -- M: $ Edenor
 
 -- Microwave [???]
