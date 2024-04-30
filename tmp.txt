@@ -9,6 +9,7 @@ MAR:
 -- G: Reset passwd
 -- C: agenda con P
 -- M: Saldo
+-- N: STATUS [!!!!!!!!!!!!!!!!!!!!!!]
 -- Batts: x220 | x2202 | t4102 | 
 
 
