@@ -10,7 +10,7 @@ LUN:
 -- C: agenda con P
 -- Batts: x220 | x2202 | t4102 | 
 -- M:
-     - Tuppers
+
      - Carta del Cit
 
 
