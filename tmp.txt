@@ -11,7 +11,7 @@ LUN:
 -- Batts: x220 | x2202 | t4102 | 
 -- M:
 
-     - Carta del Cit
+
 
 
 
