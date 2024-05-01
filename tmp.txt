@@ -9,7 +9,7 @@ MIE:
 -- G: Reset passwd
 -- C: agenda con P
 
--- Lavar lona Felinida
+
 -- Sync TB HDDs
 -- Backup USB "Music" [URG!!!!!]
 -- Backup USB "Linux"
