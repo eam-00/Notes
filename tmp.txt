@@ -10,6 +10,7 @@ MIE:
 -- C: agenda con P
 
 -- Lavar lona Felinida
+-- Sync TB HDDs
 -- Batts: x220 | x2202 | t4102 | MBP-01
 -- M:
      - ATM
