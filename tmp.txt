@@ -8,6 +8,8 @@ MIE:
 -- G: AWS [???]
 -- G: Reset passwd
 -- C: agenda con P
+
+-- Lavar lona Felinida
 -- Batts: x220 | x2202 | t4102 | 
 -- M:
      - ATM
