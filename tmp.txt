@@ -12,7 +12,7 @@ MAR:
 -- M:
      - ATM
 
--- G: Reboot Chromebook
+
 
 
 
