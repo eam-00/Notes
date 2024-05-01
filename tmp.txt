@@ -13,7 +13,7 @@ MIE:
 -- Sync TB HDDs
 -- Backup USB "Music" [URG!!!!!]
 -- Backup USB "Linux"
--- Batts: x220 | x2202 | t4102 
+-- Batts: x220 [Small] | x2202 | t4102 
 
 
 
