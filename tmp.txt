@@ -10,6 +10,7 @@ JUE:
 -- C: agenda con P
 
 -- M:
+     - Tuppers
 
 
 -- Backup USB "Music" [URG!!!!!]
