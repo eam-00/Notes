@@ -9,6 +9,8 @@ JUE:
 -- G: Reset passwd
 -- C: agenda con P
 
+-- Gal:
+
 -- M:
      - Tuppers
      - Aguas
