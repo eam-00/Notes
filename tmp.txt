@@ -20,7 +20,7 @@ LUN:
 SAB:
 ---
 -- Cbio. Sabanas
--- Limpiar casita
+
 -- ATMs
 -- Alot: Print FEMEDICA
 
