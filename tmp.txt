@@ -22,7 +22,7 @@ SAB:
 -- Lavar lona Felinida
 -- Limpiar casita
 -- ATMs
---- Alot: Print FEMEDICA
+-- Alot: Print FEMEDICA
 
 -- Backup USB "Music" [URG!!!!!]
 -- Batts: x220 [Small] | x2202 | t4102 
