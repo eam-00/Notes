@@ -25,7 +25,7 @@ DOM:
 
 
 -- Backup USB "Music" [URG!!!!!]
--- Batts: x220 [Small] | x2202 | t4102 | 
+-- Batts:  | t4102 | 
 
 
 
