@@ -8,7 +8,7 @@ MAR:
 -- G: AWS [???]
 -- G: Reset passwd
 -- C: agenda con P
--- C: Getout June 4th
+-- C: P: Getout June 4th
 -- Ale: PUSH
 
 
