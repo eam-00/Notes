@@ -8,7 +8,7 @@ LUN:
 -- G: AWS [???]
 -- G: Reset passwd
 -- C: agenda con P
--- Valo: PUSH
+
 -- Ale: PUSH
 
 
