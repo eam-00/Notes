@@ -355,7 +355,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre:  Bolsitas | Piedras Michis [????] | Lamparitas | Leches | PortSalut |
+- Carre:  Bolsitas | Piedras Michis [????] | Lamparitas | Leches | PortSalut | Cinta Embalar
   -----
 
 
