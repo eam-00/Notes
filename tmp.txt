@@ -11,6 +11,7 @@ JUE:
 -- C: P: Agenda
 -- C: P: Getout June 4th
 -- Ale: PUSH
+-- C: TS
 
 
 
