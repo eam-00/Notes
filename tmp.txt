@@ -7,7 +7,7 @@ VIE:
 ---
 -- G: AWS [???]
 -- G: Reset passwd
--- G: Setup CCB
+
 -- C: P: Agenda
 -- C: P: Getout June 4th
 
