@@ -7,6 +7,7 @@ VIE:
 ---
 -- G: AWS [???]
 -- G: Reset passwd
+-- G: NR -> S2H
 -- C: P: Agenda
 -- C: P: Getout June 4th
 -- M: PF
