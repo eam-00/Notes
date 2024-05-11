@@ -17,7 +17,7 @@ LUN:
 SAB:
 ---
 -- Michis OUT
--- N: Exp
+
 -- N: Celular
 -- Precios Nike
 
