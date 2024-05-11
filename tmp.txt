@@ -346,7 +346,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre:  Bolsitas | | Lamparitas | Leches | PortSalut | Cinta Embalar | Caja p/ michis
+- Carre:  Bolsitas | | Lamparitas | Leches | PortSalut | Cinta Embalar | Caja p/ michis | Yogurts | 
   -----
 
 
