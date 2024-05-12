@@ -23,7 +23,7 @@ LUN:
 ---
 DOM:
 ---
--- M: Laundry
+
 -- Precios Nike
 -- Michis OUT
 
