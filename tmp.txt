@@ -16,7 +16,7 @@ LUN:
 ---
 SAB:
 ---
--- N: Celular
+
 -- Precios Nike
 -- Limpiar casita
 -- Cbio. Sabanas
