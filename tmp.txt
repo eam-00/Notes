@@ -9,7 +9,8 @@ LUN:
 -- G: Reset passwd
 -- G: NR -> S2H
 -- C: P: Agenda
--- C: Getout June 4th
+
+
 
 
 
