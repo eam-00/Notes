@@ -17,6 +17,7 @@ MAR:
 
 
 
+
 -- Precios Nike
 -- Backup USB "Music" [URG!!!!!]
 
@@ -340,7 +341,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre:  Bolsitas | Lamparitas | Leches | Dentifrico | Eng. Bucal | 
+- Carre:  Bolsitas | Lamparitas | Leches | Dentifrico | Eng. Bucal | Dulces de Leches | 
   -----
 
 
