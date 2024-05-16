@@ -23,7 +23,7 @@ JUE:
 
 
 
-
+SAB:
 
 -- Batts
 -- 11e: Install Debian 12 GNOME
