@@ -12,6 +12,7 @@ VIE:
 -- Limpiar casita
 -- ChK Bcos
 -- M: Tuppers
+-- G: Reboot Chromebook
 
 
 
