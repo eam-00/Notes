@@ -9,6 +9,7 @@ VIE:
 -- G: Reset passwd
 -- G: NR -> S2H
 -- C: P: Agenda
+-- Limpiar casita
 -- ChK Bcos
 
 -- Limpiar casita
