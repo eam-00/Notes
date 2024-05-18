@@ -9,6 +9,7 @@ LUN:
 -- G: Reset passwd
 -- G: NR -> S2H
 -- C: P: Agenda
+      P: Headphones
 
 -- M: Tuppers
 
