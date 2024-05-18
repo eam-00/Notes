@@ -29,7 +29,7 @@ LUN:
 ---
 SAB:
 ---
--- N: Almohadon
+-- N: Almohadon michis
 -- M: Tuppers
 -- Batts
 -- 11e: Install Debian 12 GNOME
