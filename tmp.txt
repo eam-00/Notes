@@ -30,7 +30,7 @@ LUN:
 ---
 SAB:
 ---
--- N: Almohadon michis
+
 -- Cbio. Sabanas
 -- M: Tuppers
 -- Batts
