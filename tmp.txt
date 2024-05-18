@@ -30,6 +30,7 @@ LUN:
 SAB:
 ---
 -- N: Almohadon
+-- M: Tuppers
 -- Batts
 -- 11e: Install Debian 12 GNOME
 -- MBP.00: Remove crud
