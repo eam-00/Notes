@@ -30,6 +30,7 @@ LUN:
 SAB:
 ---
 -- N: Almohadon michis
+-- Cbio. Sabanas
 -- M: Tuppers
 -- Batts
 -- 11e: Install Debian 12 GNOME
