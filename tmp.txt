@@ -35,7 +35,7 @@ DOM:
 
 
 
--- Batts: X140E | 
+-- Batts: X140E | 11e | 
 
 
 -- Momo Shop: Backpack [????]
