@@ -35,7 +35,7 @@ DOM:
 
 
 
--- Batts: X140E | 11e | 
+-- Batts: X140E | 11e | LRRPs 
 
 
 -- Momo Shop: Backpack [????]
