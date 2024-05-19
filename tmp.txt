@@ -30,7 +30,7 @@ LUN:
 DOM:
 ---
 -- Cbio. Sabanas
--- Lavar cosas
+
 
 
 
