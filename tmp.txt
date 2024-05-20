@@ -7,7 +7,7 @@ LUN:
 ---
 -- G: AWS [???]
 -- G: Reset passwd
--- G: NR -> S2H
+
 -- C: P: Agenda
       P: Headphones
 -- N: A. Viajes:
