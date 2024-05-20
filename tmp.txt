@@ -34,7 +34,7 @@ DOM:
 -- M: Tupper | Citi | Laundry
 
 
--- Batts: X140E | 11e | LRRPs 
+
 
 
 -- Momo Shop: Backpack [????]
