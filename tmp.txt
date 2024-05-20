@@ -11,7 +11,7 @@ LUN:
       P: Headphones
 -- N: A. Viajes:
              - Extra suitcase
-             - No flight
+
 -- N: ChK TC
 -- M: Tuppers
 -- Batts: 11e
