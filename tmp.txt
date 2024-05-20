@@ -10,7 +10,7 @@ LUN:
 -- C: P: Agenda
       P: Headphones
 -- N: A. Viajes:
-             - Extra suitcase
+
 
 -- N: ChK TC
 -- M: Tuppers
