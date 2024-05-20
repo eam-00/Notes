@@ -15,7 +15,7 @@ LUN:
              - No flight
 -- N: ChK TC
 -- M: Tuppers
-
+-- Batts: 11e
 
 -- Precios Nike
 -- Backup USB "Music" [URG!!!!!]
