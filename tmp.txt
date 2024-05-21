@@ -12,7 +12,7 @@ MAR:
 
 
 
--- N: Print TC
+-- N: Print TC | $
 
 
 
