@@ -9,8 +9,7 @@ MIE:
 -- G: Reset passwd
 -- C: P: Agenda
       P: Headphones
---M: Card | 40 K | Tuppers
-
+--M: Card | 40 K
 
 
 
