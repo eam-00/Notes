@@ -25,6 +25,7 @@ SAB:
 - Cereales
 - Shampoo
 - Enjuague bucal
+- Dentifrico
 
 -- Print: Edenor | Movistar
 -- Limiar casita
