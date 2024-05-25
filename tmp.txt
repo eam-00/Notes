@@ -18,6 +18,7 @@ SAB:
 
 - Bolsitas
 - Vim
+- Detergente
 - Dulce de Leche - Colonial La Serenísima
 - Cafe
 - Mermelada
