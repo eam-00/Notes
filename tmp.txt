@@ -15,6 +15,14 @@ LUN:
 ---
 SAB:
 ---
+
+- Dulce de Leche - Colonial La Serenísima
+- Cafe
+- Mermelada
+- Cereales
+- Shampoo
+- Enjuague bucal
+
 -- Print: Edenor | Movistar
 -- Limiar casita
 
