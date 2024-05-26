@@ -16,7 +16,7 @@ LUN:
 ---
 DOM:
 ---
--- Lavar polars [?]
+
 -- Alot: Pic Headphones JBL [?]
 -- Precios Nike
 -- Grimoldi [?]
