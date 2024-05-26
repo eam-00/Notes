@@ -17,7 +17,7 @@ LUN:
 DOM:
 ---
 -- Lavar polars [?]
--- Alot; Mouse [?]
+-- Alot: Mouse [?]
 -- Precios Nike
 -- Grimoldi [?]
 -- M: Tupper
