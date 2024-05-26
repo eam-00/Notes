@@ -16,16 +16,7 @@ LUN:
 SAB:
 ---
 
-- Bolsitas
-- Vim
-- Detergente
-- Dulce de Leche - Colonial La Serenísima
-- Cafe
-- Mermelada
-- Cereales
-- Shampoo
-- Enjuague bucal
-- Dentifrico
+
 
 
 
