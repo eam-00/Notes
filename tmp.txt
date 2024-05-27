@@ -5,7 +5,7 @@ Click en "MasterCard"
 ---
 LUN:
 ---
--- Gal: Cards
+
 -- G: AWS [???]
 -- G: Reset passwd
 -- C:
