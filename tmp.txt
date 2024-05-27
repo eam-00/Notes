@@ -18,7 +18,7 @@ LUN:
 -- Precios Nike
 -- Grimoldi [?]
 -- M: Get Gal card
-
+-- ATM: Jubi
 
 ---
 MAR:
