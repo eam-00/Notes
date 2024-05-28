@@ -19,6 +19,7 @@ MAR:
 -- Precios Nike
 -- M: Gal card -> USE
 -- ATM: Jubi
+-- M: Tuppers
 
 
 -- FarmaCity: Paracetamol
