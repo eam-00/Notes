@@ -14,7 +14,7 @@ MAR:
 
 
 
--- Batts: LRRRp
+-- Batts: LRRP
 -- Precios Nike
 -- M: Gal card -> USE
 -- ATM: Jubi
