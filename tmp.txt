@@ -15,7 +15,6 @@ MAR:
 
 
 -- Precios Nike
-
 -- M: Gal card
 -- ATM: Jubi
 
