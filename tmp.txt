@@ -20,7 +20,7 @@ MAR:
 -- ATM: Jubi
 
 ---
-MAR:
+
 ---
 -- FarmaCity: Paracetamol
 
