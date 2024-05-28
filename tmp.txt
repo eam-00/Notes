@@ -19,9 +19,7 @@ MAR:
 -- M: Get Gal card
 -- ATM: Jubi
 
----
 
----
 -- FarmaCity: Paracetamol
 
 
