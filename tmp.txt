@@ -14,7 +14,7 @@ JUE:
 -- Perdida canilla
 -- Puerta balcon
 -- Precios Nike
--- ATM: Jubi
+
 
 
 
