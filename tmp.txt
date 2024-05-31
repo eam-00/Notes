@@ -5,6 +5,9 @@ Click en "MasterCard"
 ---
 VIE:
 ---
+-- G:
+
+
 -- G: AWS [???]
 -- G: Reset passwd
 -- C:
