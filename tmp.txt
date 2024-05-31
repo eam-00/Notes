@@ -6,7 +6,7 @@ Click en "MasterCard"
 VIE:
 ---
 -- G:
-     - Dell: Mial | Update t
+
      - t: chk edges
 
 -- G: AWS [???]
