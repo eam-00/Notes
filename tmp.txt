@@ -6,7 +6,8 @@ Click en "MasterCard"
 VIE:
 ---
 -- G:
-     - t: chk edges
+
+
 
 -- G: AWS [???]
 -- G: Reset passwd
