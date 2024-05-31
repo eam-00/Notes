@@ -6,7 +6,7 @@ Click en "MasterCard"
 VIE:
 ---
 -- G:
-
+     - Dell: Mial | 
 
 -- G: AWS [???]
 -- G: Reset passwd
