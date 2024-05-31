@@ -6,7 +6,6 @@ Click en "MasterCard"
 VIE:
 ---
 -- G:
-
      - t: chk edges
 
 -- G: AWS [???]
