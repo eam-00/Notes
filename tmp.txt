@@ -26,6 +26,7 @@ SAB:
 -- Limpiar casita
 -- ATM
 -- M: ATM
+-- M: Chip
 -- Telecom
 -- Backup USB "Music" [URG!!!!!]
 
