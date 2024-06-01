@@ -7,8 +7,6 @@ LUN:
 ---
 -- G: OOO
 -- C: OOO
-
-
 -- G: AWS [???]
 -- G: Reset passwd
 -- C:
