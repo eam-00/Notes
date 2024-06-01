@@ -5,7 +5,7 @@ Click en "MasterCard"
 ---
 LUN:
 ---
-
+-- G: OOO
 
 
 
