@@ -23,7 +23,7 @@ LUN:
 ---
 SAB:
 ---
--- Limpiar casita
+
 -- ATM
 -- M: ATM
 -- M: Chip
