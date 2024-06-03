@@ -7,7 +7,7 @@ LUN:
 ---
 
 -- Upload G Drive
--- M: PF
+
 -- N: Flow
 -- G: OOO
 -- C: OOO
