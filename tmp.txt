@@ -22,7 +22,7 @@ LUN:
 
 -- M: Bolsitas
       Tuppers
-      Boletas + $
+
 
 
 
