@@ -19,7 +19,7 @@ JUE:
      - Arreglar toma luz habitacion
      - Tapa inodoro
      - Rascador [???]
-
+     - Modem Fibertel
 
 
 
