@@ -17,7 +17,7 @@ JUE:
 -- Moto g22: vidrio gel
 -- N:
 
-     - Tapa inodoro
+
      - Rascador [???]
      - Tommy: bastoncitos de salvado
      - Modem Fibertel
