@@ -16,7 +16,7 @@ JUE:
 ---
 -- Moto g22: vidrio gel
 -- N:
-     - Arreglar toma luz habitacion
+
      - Tapa inodoro
      - Rascador [???]
      - Tommy: bastoncitos de salvado
