@@ -17,6 +17,7 @@ JUE:
 
 -- N:
      - Toma luz habitacion
+     - Tapa inodoro
 
 
 
