@@ -16,7 +16,7 @@ Click en "MasterCard"
 JUE:
 
 -- N:
-
+     - Toma luz habitacion
 
 
 
