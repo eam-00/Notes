@@ -12,9 +12,9 @@ Click en "MasterCard"
 
 -- Perdida canilla
 
-
+---
 JUE:
-
+---
 -- N:
      - Toma luz habitacion
      - Tapa inodoro
