@@ -17,7 +17,7 @@ JUE:
 ---
 -- Moto g22: vidrio gel
 -- N:
-     - Toma luz habitacion
+     - Arreglar toma luz habitacion
      - Tapa inodoro
      - Rascador
 
@@ -40,7 +40,6 @@ JUE:
 -- 11e: Install Debian 12 GNOME
 -- MBP.00: Remove crud
 -- MBP.01: Install Debian
-
 
 -- N:
      - "Only God Forgives"
