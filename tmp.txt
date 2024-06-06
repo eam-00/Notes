@@ -22,7 +22,7 @@ JUE:
      - Tommy: bastoncitos de salvado
      - Modem Fibertel
      - Bananas | Naranjas | Papas | Huevos 
-     - Pollo | 
+
      
 
 
