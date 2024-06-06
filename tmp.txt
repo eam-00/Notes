@@ -19,9 +19,10 @@ JUE:
      - Arreglar toma luz habitacion
      - Tapa inodoro
      - Rascador [???]
+     
      - Modem Fibertel
      - Bananas | Naranjas
-
+     
 
 
 -- Backup USB "Music" [URG!!!!!]
