@@ -12,7 +12,7 @@ Click en "MasterCard"
 -- Perdida canilla
 
 ---
-JUE:
+VIE:
 ---
 -- Moto g22: vidrio gel
 -- N:
