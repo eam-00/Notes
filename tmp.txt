@@ -18,7 +18,7 @@ JUE:
 -- N:
      - Arreglar toma luz habitacion
      - Tapa inodoro
-     - Rascador
+     - Rascador [???]
 
 
 
