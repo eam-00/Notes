@@ -21,7 +21,7 @@ JUE:
      - Rascador [???]
      - Tommy: bastoncitos de salvado
      - Modem Fibertel
-     - Bananas | Naranjas
+     - Bananas | Naranjas | Papas | Huevos 
      - Pollo | 
      
 
