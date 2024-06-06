@@ -19,7 +19,7 @@ JUE:
      - Arreglar toma luz habitacion
      - Tapa inodoro
      - Rascador [???]
-     
+     - Tommy: bastoncitos de salvado
      - Modem Fibertel
      - Bananas | Naranjas
      
