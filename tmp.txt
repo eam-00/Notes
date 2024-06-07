@@ -21,7 +21,7 @@ VIE:
      - Rascador [???]
 
      - Modem Fibertel
-     - Bananas | Naranjas | Papas | Huevos 
+     - Bananas | Naranjas | Papas 
 
      
 
