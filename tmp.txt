@@ -19,8 +19,8 @@ VIE:
 
 
      - Rascador [???]
-     - Modem Fibertel
-     - Ver canilla cerca de la Plaza M -> Comprar
+
+- Ver canilla cerca de la Plaza M -> Comprar
 
      
 
