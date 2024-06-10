@@ -15,7 +15,7 @@ Click en "MasterCard"
 LUN:
 ---
 N: 
-   -- Piedras michis -> Tupper
+   - Piedras michis -> Tupper
    -- Florita garras
      - Rascador [???]
 
