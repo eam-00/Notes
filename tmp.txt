@@ -14,7 +14,7 @@ Click en "MasterCard"
 ---
 MAR:
 ---
-N: 
+N:
    - Piedras michis -> Tupper
    - Florita garras
      - Rascador [???]
