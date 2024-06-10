@@ -17,6 +17,7 @@ MAR:
 N:
    - Piedras michis -> Tupper
    - Florita garras
+   - Descongelar heladera
      - Rascador [???]
 
 
