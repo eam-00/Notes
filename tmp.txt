@@ -42,7 +42,6 @@ N:
 -- MBP.01: Install Debian
 
 -- N:
-
      - "Already Tomorrow in Hong Kong"
 
 Osaka, Japan (Photo : Masahiro Miyagi) [4971 x 3314] - Comments
