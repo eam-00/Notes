@@ -16,7 +16,7 @@ LUN:
 ---
 N: 
    - Piedras michis -> Tupper
-   -- Florita garras
+   - Florita garras
      - Rascador [???]
 
 
