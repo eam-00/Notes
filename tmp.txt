@@ -12,7 +12,7 @@ Click en "MasterCard"
 -- Perdida canilla
 
 ---
-LUN:
+MAR:
 ---
 N: 
    - Piedras michis -> Tupper
