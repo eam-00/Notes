@@ -18,7 +18,7 @@ N:
    - Piedras michis -> Tupper
    - Florita garras
    - Descongelar carne
-     - Rascador [???]
+   - Rascador [???]
 
 
      
