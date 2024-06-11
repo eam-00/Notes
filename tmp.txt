@@ -19,7 +19,7 @@ N:
    - Login Chromebook -> Powerwash
    - Piedras michis -> Tupper
    - Florita garras
-   - Descongelar carne
+
    - Rascador [???]
 
 
