@@ -15,6 +15,7 @@ Click en "MasterCard"
 MAR:
 ---
 N:
+   - Mover mueble
    - Piedras michis -> Tupper
    - Florita garras
    - Descongelar carne
