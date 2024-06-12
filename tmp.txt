@@ -17,7 +17,6 @@ MIE:
 N:
 --
    - Mover mueble
-
    - Piedras michis -> Tupper
    - Florita garras
 
