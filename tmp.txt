@@ -17,7 +17,6 @@ JUE:
 N:
 --
    - Mover mueble
-
    - Florita garras
 
    - Rascador [???]
