@@ -385,6 +385,56 @@ DSCN0224.JPG
 DSCN0167.JPG
 DSCN0131.JPG
 DSCN0135.JPG
+
+-------------------
+
+@Echo Off
+REM https://www.experts-exchange.com/questions/22585579/Robocopy-based-snapshot-backups.html
+REM - DIRECTORY backup script created by Dan Wright on 5/29/07
+REM - This script runs on the SERVER2 to create a series
+REM - of snapshots of the database then mirrors those
+REM - snapshots to SERVER.
+
+REM -
+REM - First we rotate the snapshots
+
+RENAME C:\backups\DIRECTORY.5  DIRECTORY.delete
+RENAME C:\backups\DIRECTORY.4  DIRECTORY.5
+RENAME C:\backups\DIRECTORY.3  DIRECTORY.4
+RENAME C:\backups\DIRECTORY.2  DIRECTORY.3
+RENAME C:\backups\DIRECTORY.1  DIRECTORY.2
+
+REM -
+REM - Now we delete the oldest
+
+DEL /F /S /Q C:\backups\DIRECTORY.delete
+
+REM -
+REM - Call the service stop batch file.
+
+CALL C:\backups\stopsql.bat
+
+REM - Copy then entire D:\DIRECTORY directory to the C: drive.
+
+C:\backups\ROBOCOPY.EXE  D:\DIRECTORY C:\backups\DIRECTORY.1 /COPYALL /MIR /ZB /SEC /R:2 /W:10 /LOG+:C:\backups\LocalBackupLog.txt  /NFL /NDL
+
+REM - Call the service start batch file
+
+CALL C:\backups\startsql.bat
+
+REM - Mirror the entire C:backups to SERVER
+
+C:\backups\ROBOCOPY.EXE  C:\backups\  \\SERVER\d$\mirrors\SERVER2\  /COPYALL /MIR /ZB /SEC /R:2 /W:300 /LOG+:C:\backups\BackupLog.txt /NFL /NDL
+
+-------------------
+
+REM https://serverfault.com/questions/685835/make-incremental-and-differential-backups-with-robocopy
+
+SET source="Type you source path";
+SET dest="Type you destination path";
+robocopy %source% %dest% /S /COPYALL /NP /TEE /R:3 /W:3 /Log:c:\Documents\logs.txt
+
+
 DSCN0163.JPG
 
 
