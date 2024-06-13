@@ -16,7 +16,7 @@ JUE:
 ---
 N:
 --
-   - Mover mueble
+
 
    - Rascador [???]
 
