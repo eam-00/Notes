@@ -14,8 +14,7 @@ Click en "MasterCard"
 ---
 JUE:
 ---
-N:
---
+
 
 
    - Rascador [???]
