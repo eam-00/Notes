@@ -20,7 +20,7 @@ VIE:
      P: Headphones
 -- N: Send Carre PDF -> Print
 -- Limpiar heladera
-
+-- ChK Bcos
    - Rascador [???]
 
 
