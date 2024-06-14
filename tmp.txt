@@ -6,7 +6,7 @@ Click en "MasterCard"
 -- G: AWS [???]
 -- G: Reset passwd
 -- C:
-      P: Agenda
+
 
 
 -- Perdida canilla
