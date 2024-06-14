@@ -7,7 +7,7 @@ Click en "MasterCard"
 -- G: Reset passwd
 -- C:
       P: Agenda
-      P: Headphones
+
 
 -- Perdida canilla
 
