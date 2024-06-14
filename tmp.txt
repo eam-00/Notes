@@ -15,7 +15,7 @@ Click en "MasterCard"
 VIE:
 ---
 -- C:
-     TS
+
      P: Agenda
      P: Headphones
 -- N: Send Carre PDF -> Print
