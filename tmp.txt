@@ -14,7 +14,8 @@ Click en "MasterCard"
 ---
 VIE:
 ---
-
+-- C:
+     TS
 
 
    - Rascador [???]
