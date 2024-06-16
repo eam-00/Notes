@@ -43,6 +43,7 @@ N:
 - Lavar Levi's viejo
 - Cbio Sabanas
 - Lavar ropa de cama:
+                      - Funda almohada
 
 -- Microwave [???]
 -- Rayban    [???]
