@@ -37,6 +37,7 @@ N:
   -> Atun michis [?]
   -> Vasos Dean & Dennys
 
+- MicroSD -> Setup Moto g6
 - Power Wash Chromebook Pro -> Setup new account
 - Lavar Levi's viejo
 
