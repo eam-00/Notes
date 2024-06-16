@@ -41,6 +41,7 @@ N:
 - MicroSD -> Setup Moto g6
 - Power Wash Chromebook Pro -> Setup new account
 - Lavar Levi's viejo
+- Cbio Sabanas
 
 -- Microwave [???]
 -- Rayban    [???]
