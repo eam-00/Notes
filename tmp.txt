@@ -27,7 +27,7 @@ LUN:
 SAB: 
 - Repasador
 - Jean viejo
-- Bolsas de compras
+
 
 
 DOM:
