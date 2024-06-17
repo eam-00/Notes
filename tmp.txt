@@ -35,7 +35,7 @@ DOM:
 N: 
 
 
-  -> Vasos Dean & Dennys
+
   <- Separadores
 
 - MicroSD -> Setup Moto g6
