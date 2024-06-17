@@ -33,7 +33,7 @@ LUN:
 DOM:
 ---
 N: 
-  -> Bolsitas
+
   -> Atun michis [?]
   -> Vasos Dean & Dennys
   <- Separadores
