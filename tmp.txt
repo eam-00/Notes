@@ -34,7 +34,7 @@ DOM:
 ---
 N: 
 
-  -> Atun michis [?]
+
   -> Vasos Dean & Dennys
   <- Separadores
 
