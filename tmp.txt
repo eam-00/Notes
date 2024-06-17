@@ -15,7 +15,6 @@ Click en "MasterCard"
 LUN:
 ---
 -- C:
-
      P: Agenda
      P: Headphones
 
