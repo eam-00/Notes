@@ -18,7 +18,7 @@ MAR:
      P: Agenda
      P: Headphones
 
-
+-- G: Reboot Chromebook
 
    - Rascador [???]
 
