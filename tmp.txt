@@ -26,7 +26,7 @@ JUE:
 ---
 -- C:
      - TS -> Feriados
-- Lavar Levi's viejo
+-- Lavar Levi's viejo
 
 
 
