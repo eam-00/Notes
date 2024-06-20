@@ -28,7 +28,7 @@ JUE:
 
 
   <- Separadores
-
+  <- Instrucciones radio
 
 
 
