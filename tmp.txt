@@ -22,7 +22,7 @@ Click en "MasterCard"
 JUE:
 ---
 -- C:
-     - TS -> Feriados
+
 -- Lavar Levi's viejo
 
 
