@@ -7,7 +7,6 @@ Click en "MasterCard"
 -- G: Reset passwd
 
 
-
 -- Perdida canilla
 
 ---
