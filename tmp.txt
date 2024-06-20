@@ -10,7 +10,7 @@ Click en "MasterCard"
 -- Perdida canilla
 
 ---
-MIE:
+
 ---
 -- C:
      P: Agenda
