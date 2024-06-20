@@ -9,9 +9,7 @@ Click en "MasterCard"
 
 -- Perdida canilla
 
----
 
----
 -- C:
      P: Agenda
      P: Headphones
