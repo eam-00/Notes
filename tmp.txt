@@ -26,6 +26,7 @@ VIE:
 -- Sync TB HDDs
 -- N: Setup movies
 -- Chr Pro:
+           - Spotify
 
 -- Lavar Levi's viejo
 
