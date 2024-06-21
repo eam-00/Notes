@@ -32,6 +32,8 @@ VIE:
 SAB:
 ---
 
+N:
+
   <- Separadores
   <- Instrucciones radio
 
