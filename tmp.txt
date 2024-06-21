@@ -24,6 +24,7 @@ VIE:
 -- ChK Bcos
 
 -- Sync TB HDDs
+-- N: Setup movies
 
 -- Lavar Levi's viejo
 
