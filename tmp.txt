@@ -39,7 +39,7 @@ N:
   <- Instrucciones radio
 
 Demilune:
-
+         - Pan
 
 
 
