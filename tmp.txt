@@ -33,7 +33,7 @@ SAB:
 ---
 
 N:
-
+  -> 200 K
   <- Separadores
   <- Instrucciones radio
 
