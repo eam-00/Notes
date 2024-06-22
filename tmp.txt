@@ -30,7 +30,7 @@ VIE:
 
 
            - Spotify
-           - Lastfm
+
 
 -- Lavar Levi's viejo
 
