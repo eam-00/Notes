@@ -22,7 +22,7 @@ LUN:
    - Rascador [???]
 
 ---
-VIE:
+
 ---
 
 
