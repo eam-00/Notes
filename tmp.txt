@@ -12,6 +12,7 @@ Click en "MasterCard"
 LUN:
 
 -- C:
+     P: Feriados
      P: Agenda
      P: Headphones
 
