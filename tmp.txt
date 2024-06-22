@@ -24,7 +24,7 @@ VIE:
 -- ChK Bcos
 
 -- Sync TB HDDs
--- N: Setup movies
+
 -- Chr Pro:
            - Spotify
            - Lastfm
