@@ -41,7 +41,7 @@ Congelar pollo
 
 N:
   -> 200 K
-  -> CasanCrem Verde
+
   -> Pepsi
   <- Separadores
   <- Instrucciones radio
