@@ -40,7 +40,7 @@ N:
 Congelar pollo
 
 N:
-  -> 200 K
+
 
 
   <- Separadores
