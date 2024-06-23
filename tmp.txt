@@ -45,6 +45,7 @@ N:
 
   <- Separadores
   <- Instrucciones radio
+  <- Tumbler
 
 El Bocado:
           - 150 gr jamon cocido La Octava
