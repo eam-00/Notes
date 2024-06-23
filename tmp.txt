@@ -43,7 +43,7 @@ N:
 
 
 
-  <- Separadores
+
   <- Instrucciones radio
   <- Tumbler
 
