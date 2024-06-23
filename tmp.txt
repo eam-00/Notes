@@ -32,9 +32,7 @@ LUN:
 
 -- Lavar Levi's viejo
 
----
 
----
 
 N:
   -> 200 K
