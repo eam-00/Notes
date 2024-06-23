@@ -42,7 +42,7 @@ Congelar pollo
 N:
   -> 200 K
 
-  -> Pepsi
+
   <- Separadores
   <- Instrucciones radio
 
