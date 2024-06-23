@@ -34,6 +34,9 @@ LUN:
 
 DOM:
 
+N: 
+Congelar pollo
+
 N:
   -> 200 K
   -> CasanCrem Verde
