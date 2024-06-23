@@ -30,9 +30,11 @@ LUN:
 
 
 
--- Lavar Levi's viejo
-
+-- 
+Lavar Levi's viejo
+---
 DOM:
+---
 
 N: 
 Congelar pollo
