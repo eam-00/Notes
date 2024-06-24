@@ -16,7 +16,7 @@ LUN:
      P: Feriados
      P: Agenda
      P: Headphones
-
+-- Batt: t4102 | 11e2
 
 
    - Rascador [???]
