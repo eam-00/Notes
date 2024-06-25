@@ -11,7 +11,7 @@ Click en "MasterCard"
 -- Perdida canilla
 
 ---
-MAR:
+MIE:
 ---
 -- C:
      P: Feriados
