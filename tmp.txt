@@ -18,7 +18,7 @@ MAR:
      P: Agenda
      P: Headphones
 -- X140E:
-
+         - WiFi N
 
 
 
