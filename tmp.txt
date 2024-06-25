@@ -20,7 +20,7 @@ LUN:
 -- Batt: t4102 | 11e2
 -- M: 
 
-     -> Separadores
+
 
    - Rascador [???]
 
