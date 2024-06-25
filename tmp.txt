@@ -19,7 +19,7 @@ LUN:
      P: Headphones
 -- Batt: t4102 | 11e2
 -- M: 
-     -> Tupper
+
      -> Separadores
 
    - Rascador [???]
