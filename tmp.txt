@@ -418,6 +418,7 @@ DSCN0224.JPG
 DSCN0167.JPG
 DSCN0131.JPG
 DSCN0135.JPG
+DSCN0163.JPG
 
 -------------------
 
@@ -468,7 +469,7 @@ SET dest="Type you destination path";
 robocopy %source% %dest% /S /COPYALL /NP /TEE /R:3 /W:3 /Log:c:\Documents\logs.txt
 
 
-DSCN0163.JPG
+
 
 
 
