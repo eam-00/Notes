@@ -16,7 +16,7 @@ MIE:
      P: Feriados
      P: Agenda
      P: Headphones
--- Lavar Levi's viejo
+
 -- X140E:
          - WiFi N
 
