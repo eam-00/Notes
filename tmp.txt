@@ -17,6 +17,7 @@ JUE:
      P: Agenda
      P: Headphones
 
+-- TRRTs Du Jour -> TB HDDs -> USB
 -- X140E:
          - WiFi N
 -- M:
