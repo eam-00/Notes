@@ -21,7 +21,7 @@ JUE:
 -- X140E:
          - WiFi N
 -- M:
-
+     -> card
 
    - Rascador [???]
 
