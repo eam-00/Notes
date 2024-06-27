@@ -16,7 +16,7 @@ JUE:
      P: Feriados
      P: Agenda
      P: Headphones
--- Limpiar casita
+
 -- X140E:
          - WiFi N
 -- M:
