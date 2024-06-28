@@ -19,7 +19,7 @@ VIE:
 
 -- X140E:
          - WiFi N
--- M:
+
 
 
    - Rascador [???]
