@@ -17,7 +17,7 @@ VIE:
      P: Headphones
 -- Telecoms
 -- ChK Bocs
--- X140E:
+
          - WiFi N
 
 
