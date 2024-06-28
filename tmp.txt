@@ -28,7 +28,7 @@ VIE:
 SAB:
 ---
     -> Cereales
-    -> USB print Edenor | Movistar
+    -> USB print 
     -> Pepsi
     -> Pilas AA
 
