@@ -18,7 +18,7 @@ VIE:
 -- Telecoms
 -- ChK Bocs
 
-         - WiFi N
+
 
 
 
