@@ -20,7 +20,7 @@ VIE:
 
 -- Pagar
 -- Print FEMEDICA
--- ATM
+
 -- C: ATM
 -- C: Bay Biscuits
 -- Reboot router
