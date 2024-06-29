@@ -35,6 +35,7 @@ SAB:
     -> Cereales
     -> USB print FEMEDICA [?]
     -> Pepsi
+    -> Shot
     -> Pilas AA
 
 
