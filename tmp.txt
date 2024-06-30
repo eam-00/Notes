@@ -18,6 +18,7 @@ LUN:
 -- Telecoms
 -- Cbio. repasador
 -- Lavar bolsas de compras
+-- ML: chk envio | armado
 
 
 
