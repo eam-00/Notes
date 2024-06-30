@@ -33,7 +33,7 @@ LUN:
 ---
 SAB:
 ---
-    -> Cereales
+
     -> USB print FEMEDICA [?]
     -> Pepsi
     -> Shot
