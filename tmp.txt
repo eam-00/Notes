@@ -18,7 +18,7 @@ LUN:
 -- Telecoms
 -- Cbio. repasador
 -- Lavar bolsas de compras
--- ML: Mueble 164 mil: chk envio | armado
+-- ML: Mueble 164 mil: chk envio | armado | guias colgantes 
 
 
 
