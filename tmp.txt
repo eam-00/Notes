@@ -21,7 +21,7 @@ LUN:
 -- Lavar trapos | panuelo
 -- ML: Mueble 164 mil: chk envio | armado | guias colgantes 
 -- Lampara bano
--- Batts: 
+-- Batts: HP Envy | 
 
 
 
