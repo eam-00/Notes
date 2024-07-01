@@ -18,6 +18,7 @@ LUN:
 -- Telecoms
 -- Cbio. repasador -> Lavar
 -- Lavar bolsas de compras
+-- Lavar trapos | panuelo
 -- ML: Mueble 164 mil: chk envio | armado | guias colgantes 
 -- Lampara bano
 
