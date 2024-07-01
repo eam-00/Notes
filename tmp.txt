@@ -16,7 +16,7 @@ LUN:
      P: Agenda
      P: Headphones
 -- Telecoms
--- Cbio. repasador
+-- Cbio. repasador -> Lavar
 -- Lavar bolsas de compras
 -- ML: Mueble 164 mil: chk envio | armado | guias colgantes 
 -- Lampara bano
