@@ -39,7 +39,6 @@ DOM:
 
 
 
-    -> Pilas AA
 
 
 
