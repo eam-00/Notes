@@ -38,7 +38,7 @@ DOM:
 ---
     -> USB print FEMEDICA [?]
 
-    -> Pan
+
     -> Pilas AA
 
 
