@@ -20,7 +20,7 @@ LUN:
 
 -- Lavar trapos | panuelo
 -- ML: Mueble 164 mil: chk envio | armado | guias colgantes 
--- Lampara bano
+
 -- Batts: HP Envy | X220 | MBP-01 | LRRP | 
 
 
