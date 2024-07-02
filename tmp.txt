@@ -9,7 +9,7 @@ Click en "MasterCard"
 -- Perdida canilla
 
 ---
-LUN:
+MAR:
 ---
 -- C:
      P: Feriados
