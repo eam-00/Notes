@@ -16,6 +16,7 @@ MIE:
      P: Agenda
      P: Headphones
 -- Telecoms
+-- Limpiar telaranas balcon
 -- M: PF
 -- M: bolsitas
 -- M: Cuca
