@@ -17,6 +17,7 @@ MIE:
      P: Headphones
 -- Telecoms
 -- Limpiar telaranas balcon
+-- Cortar pelo
 -- M: PF
 -- M: bolsitas
 -- M: Cuca
