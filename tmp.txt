@@ -16,7 +16,7 @@ MIE:
      P: Agenda
      P: Headphones
 -- Telecoms
--- Limpiar telaranas balcon
+
 -- Cortar pelo
 -- Limpiar casita
 -- M: PF
