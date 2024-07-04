@@ -16,7 +16,7 @@ JUE:
      P: Feriados
      P: Agenda
      P: Headphones
--- Telecoms
+
 
 -- Cortar pelo
 -- Limpiar casita
