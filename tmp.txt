@@ -392,7 +392,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre:  Bolsitas |  |  |  |  | | 
+- Carre:  Bolsitas | Agua |  |  |  | | 
 
 50% en la segunda:
 -----------------
