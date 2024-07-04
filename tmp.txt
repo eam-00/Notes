@@ -20,7 +20,7 @@ MIE:
 -- Cortar pelo
 -- Limpiar casita
 -- M: PF
--- M: bolsitas
+
 -- M: Cuca
 
 
