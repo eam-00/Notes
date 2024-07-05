@@ -12,7 +12,6 @@ Click en "MasterCard"
 JUE:
 ---
 -- C:
-
      P: Feriados
      P: Agenda
      P: Headphones
