@@ -395,7 +395,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 50% en la segunda:
 -----------------
-Mermeladas
+
 
 3x2:
 ---
