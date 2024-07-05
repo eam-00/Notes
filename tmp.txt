@@ -401,7 +401,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 
 70% en la segunda:
------------------
+
 Alfajor Bon o Bon
 Alfajor Cofler
 Tabletas de Chocolate Arcor
