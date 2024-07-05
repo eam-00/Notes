@@ -15,7 +15,7 @@ VIE:
      P: Feriados
      P: Agenda
      P: Headphones
--- ChK Bocs
+-- ChK Bcos
 
 -- Cortar pelo
 -- Limpiar casita
