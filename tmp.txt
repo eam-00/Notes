@@ -24,7 +24,7 @@ LUN:
 SAB:
 ---
 -- ChK Bcos
--- Pagar ABL
+
 -- Havanna: Alfajores nuevos
 -> $
 -> Tupper
