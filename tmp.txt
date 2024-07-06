@@ -36,6 +36,7 @@ El Bocado:
           Jamon cocido
           Queso de maquina
           Panceta Ahumada
+          Salchicha
 
 
 
