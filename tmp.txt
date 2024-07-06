@@ -25,7 +25,7 @@ SAB:
 ---
 -- ChK Bcos
 -- ABL
--- Havanna
+-- Havanna: Alfajores nuevos
 -> Tupper
 -> Yogurt
 -> Pilas
