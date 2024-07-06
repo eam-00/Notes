@@ -418,7 +418,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 Alfajor Bon o Bon
 
-Tabletas de Chocolate Arcor
+
 
 
 
