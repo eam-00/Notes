@@ -23,7 +23,7 @@ LUN:
 ---
 SAB:
 ---
--- ChK Bcos
+
 
 -- Havanna: Alfajores nuevos
 -> $
