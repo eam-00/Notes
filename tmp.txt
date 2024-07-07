@@ -34,7 +34,7 @@ SAB:
 
 
 El Bocado:
-          Jamon cocido
+
           Queso de maquina
 
           Salchicha
