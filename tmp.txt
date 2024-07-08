@@ -16,6 +16,7 @@ LUN:
      P: Agenda
      P: Headphones
 
+-- Limpiar pava
 -- Perdida canilla
 -- Cortar pelo
 
