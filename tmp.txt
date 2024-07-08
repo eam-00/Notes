@@ -17,6 +17,7 @@ LUN:
      P: Headphones
 
 -- Limpiar pava
+-- TRRTs
 -- Perdida canilla
 -- Cortar pelo
 
