@@ -16,6 +16,7 @@ MIE:
      P: Headphones
 -- M: PF
 -- M: Dr
+-- M: Tuppers
 -- Limpiar pava
 -- Perdida canilla
 -- Cortar pelo
