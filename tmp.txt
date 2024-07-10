@@ -9,7 +9,7 @@ Click en "MasterCard"
 
 
 ---
-MAR:
+MIE:
 ---
 -- C:
      P: Feriados
