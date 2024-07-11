@@ -21,7 +21,7 @@ JUE:
 -- Cortar pelo
 -- Batts:
          - S8
-      
+         - S10
 
 
 
