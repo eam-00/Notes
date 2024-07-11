@@ -17,6 +17,7 @@ JUE:
 
 -- M: Tuppers
 -- M: $
+-- M: Card
 -- Perdida canilla
 -- Cortar pelo
 
