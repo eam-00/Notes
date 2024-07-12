@@ -6,7 +6,7 @@ Click en "MasterCard"
 -- G: Reset passwd
 
 ---
-JUE:
+VIE:
 ---
 -- C:
      P: Feriados
