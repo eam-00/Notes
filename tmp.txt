@@ -19,7 +19,7 @@ VIE:
 -- Perdida canilla
 -- Cortar pelo
 -- Batts:
-         - S8
+
          - S10
 
 
