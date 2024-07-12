@@ -16,7 +16,7 @@ JUE:
 
 
 -- M: $
--- M: Card
+
 -- Perdida canilla
 -- Cortar pelo
 -- Batts:
