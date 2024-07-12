@@ -14,7 +14,7 @@ JUE:
      P: Agenda
      P: Headphones
 
--- M: Tuppers
+
 -- M: $
 -- M: Card
 -- Perdida canilla
