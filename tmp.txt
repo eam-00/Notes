@@ -30,7 +30,7 @@ SAB:
      - Casancrem
      - Alfajores
 
--- Sync  -> 11e2
+-- Sync NOTES -> 11e2
 
 
 
