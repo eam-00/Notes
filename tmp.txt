@@ -19,6 +19,7 @@ LUN:
           Toallin
           Repasador
 -- Timbuk2
+-- Mochila Jansport
 
 -- Perdida canilla
 -- Cortar pelo
