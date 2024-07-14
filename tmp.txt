@@ -25,7 +25,7 @@ LUN:
 -- Cortar pelo
 
 
-SAB:
+
 
 -- N:
 
