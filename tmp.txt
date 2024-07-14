@@ -20,6 +20,7 @@ LUN:
           Repasador
 -- Timbuk2
 -- Mochila Jansport
+-- mbp-01 -> Debian 12
 -- Perdida canilla
 -- Cortar pelo
 
