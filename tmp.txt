@@ -27,7 +27,7 @@ LUN:
 SAB:
 
 -- N:
-     - Queso [?]
+
      - Arroz
 
      - Alfajores
