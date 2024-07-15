@@ -17,7 +17,7 @@ LUN:
      P: Headphones
 -- Lavar:
 
-          Repasador
+
 -- Timbuk2
 -- Mochila Jansport
 -- mbp-01 -> Debian 12
