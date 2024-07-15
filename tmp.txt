@@ -28,7 +28,7 @@ LUN:
 ---
 DOM:
 ---
--> Peanuts
+
 -> Milangas
 
 -- T430
