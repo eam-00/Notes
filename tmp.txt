@@ -15,7 +15,7 @@ LUN:
      P: Feriados
      P: Agenda
      P: Headphones
--- Lavar:
+
 
 
 -- Timbuk2
