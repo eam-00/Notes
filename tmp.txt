@@ -16,7 +16,7 @@ LUN:
      P: Agenda
      P: Headphones
 -- Lavar:
-          Toallin
+
           Repasador
 -- Timbuk2
 -- Mochila Jansport
