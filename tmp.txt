@@ -9,7 +9,7 @@ Click en "MasterCard"
 LUN:
 ---
 -- M:
-     -> Tupper
+
 
 -- Pinto: C [URG!!!]
 -- C:
