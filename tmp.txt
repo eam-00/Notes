@@ -403,7 +403,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre:  Bolsitas | Tabletas Cadbury | Tabletas Milka | Snack Lays | | Casancrem | Agua | Turrones |  | 
+- Carre:  Bolsitas | Tabletas Cadbury | Tabletas Milka | Snack Lays | | Casancrem |  | Turrones |  | 
 
 
 
