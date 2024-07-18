@@ -13,6 +13,8 @@ JUE:
 -- Pinto: Depositar [URG!!!] | ChK 8B next month
 -- C:
      - TS
+     - G:
+
      P: Feriados
      P: Agenda
      P: Headphones
