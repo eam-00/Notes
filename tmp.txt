@@ -8,7 +8,7 @@ Click en "MasterCard"
 ---
 JUE:
 ---
--- FarmaCity: Snickers
+-- FarmaCity: Snickers | Turrones
 
 -- Pinto: C [URG!!!]
 -- C:
