@@ -10,7 +10,7 @@ JUE:
 ---
 -- FarmaCity: Snickers | Turrones
 
--- Pinto: C [URG!!!]
+-- Pinto: Depositar [URG!!!]
 -- C:
      - TS
      P: Feriados
