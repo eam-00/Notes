@@ -10,7 +10,7 @@ JUE:
 ---
 -- FarmaCity: Snickers | Turrones
 
--- Pinto: Depositar [URG!!!]
+-- Pinto: Depositar [URG!!!] | ChK 8B next month
 -- C:
      - TS
      P: Feriados
