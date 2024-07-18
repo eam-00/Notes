@@ -12,6 +12,7 @@ JUE:
 
 -- Pinto: C [URG!!!]
 -- C:
+     - TS
      P: Feriados
      P: Agenda
      P: Headphones
