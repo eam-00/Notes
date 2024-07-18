@@ -15,6 +15,7 @@ JUE:
      - TS
      - G:
          - Push Ctrl Cbio app
+         - ChK IST Notif
 
      P: Feriados
      P: Agenda
