@@ -14,7 +14,7 @@ VIE:
 -- C:
 
      - G:
-         - Push Ctrl Cbio app
+         - CHK Ctrl Cbio
          - ChK IST Notif
 
      P: Feriados
