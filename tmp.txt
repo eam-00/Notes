@@ -12,6 +12,7 @@ VIE:
 -- ATM
 -- FarmaCity: Snickers | Turrones
 -- SUBE
+-- Carre
 -- Optica
 -- Pinto: Depositar [URG!!!] | ChK 8B next month
 -- C:
