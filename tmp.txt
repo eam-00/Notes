@@ -12,7 +12,7 @@ VIE:
 -- Optica
 -- Pinto: Depositar [URG!!!] | ChK 8B next month
 -- C:
-     - TS
+
      - G:
          - Push Ctrl Cbio app
          - ChK IST Notif
