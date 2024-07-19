@@ -16,7 +16,7 @@ VIE:
 
      - G:
 
-         - ChK IST Notif
+
 
      P: Feriados
      P: Agenda
