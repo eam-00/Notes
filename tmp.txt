@@ -9,6 +9,7 @@ Click en "MasterCard"
 VIE:
 ---
 -- ATM -> Pinto
+-- ATM
 -- FarmaCity: Snickers | Turrones
 -- SUBE
 -- Optica
