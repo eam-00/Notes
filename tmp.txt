@@ -15,7 +15,7 @@ VIE:
 -- Carre
 -- M:
      -> Toallin
-     <- Lavanderia
+
 -- Optica
 -- Pinto:  | ChK 8B next month
 -- G:
