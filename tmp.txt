@@ -17,7 +17,7 @@ VIE:
      -> Toallin
      <- Lavanderia
 -- Optica
--- Pinto: Depositar [URG!!!] | ChK 8B next month
+-- Pinto:  | ChK 8B next month
 -- C:
 
      - G:
