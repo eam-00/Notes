@@ -131,7 +131,7 @@ https://www.gmgroup.travel/7-destinations-you-have-to-visit-in-northeast-brazil/
 
 -- 11e: Install Debian 12 GNOME
 -- MBP.00: Remove crud
--- MBP.01: Install Debian
+
 
 -- N:
      - "Already Tomorrow in Hong Kong"
