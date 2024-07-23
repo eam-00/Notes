@@ -9,6 +9,7 @@ Click en "MasterCard"
 MAR:
 ---
 -- G:
+    - Setup CRs de la semana
 
 
 
