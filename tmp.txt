@@ -10,6 +10,7 @@ MAR:
 ---
 -- G:
     - Setup CRs de la semana
+    - Time for meeting Thurs
 
 
 
