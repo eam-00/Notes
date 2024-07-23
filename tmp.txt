@@ -18,7 +18,7 @@ LUN:
 ---
 -- M:
     -> Zapallo
-    -> Lavanderia
+ 
 
 -- FarmaCity: Snickers | Turrones
 
