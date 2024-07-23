@@ -13,6 +13,7 @@ MAR:
     - Time for meeting Thurs
 -- M:
      - Carre ATM
+     <- Card 
 
 
 
