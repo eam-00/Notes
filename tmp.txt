@@ -9,7 +9,7 @@ DOM:
 ---
 -- Get:
 
-       - Pan [?]
+
 
 -- Descongelar pan
 
