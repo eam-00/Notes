@@ -12,7 +12,7 @@ MAR:
     - Setup CRs de la semana
     - Time for meeting Thurs
 -- M:
-
+     - Carre ATM
 
 
 
