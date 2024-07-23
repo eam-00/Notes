@@ -7,7 +7,7 @@ Click en "MasterCard"
 ---
 DOM:
 ---
--- Get:
+
 
 
 
