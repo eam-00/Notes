@@ -12,7 +12,7 @@ MAR:
     - Setup CRs de la semana
 
 -- M:
-     - Carre ATM
+
      <- Card 
 
 
