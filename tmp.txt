@@ -12,6 +12,7 @@ MIE:
          Movistar
          Edenor
 -- M:
+     -> Card
 
 -- G:
     - Setup CRs de la semana
