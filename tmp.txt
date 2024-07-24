@@ -6,7 +6,7 @@ Click en "MasterCard"
 -- G: Reset passwd
 
 ---
-MAR:
+MIE:
 ---
 -- G:
     - Setup CRs de la semana
