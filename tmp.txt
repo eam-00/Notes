@@ -13,6 +13,7 @@ MIE:
          Edenor
 -- M:
      -> Card
+     -> Tupper
 
 -- G:
     - Setup CRs de la semana
