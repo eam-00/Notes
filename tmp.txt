@@ -10,7 +10,7 @@ JUE:
 ---
 -- N:
 
-     - Cif bottle
+
 
 -- C: TS
 -- Print:
