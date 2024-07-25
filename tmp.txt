@@ -9,7 +9,7 @@ Click en "MasterCard"
 JUE:
 ---
 -- N:
-     - HPF
+
      - Cif bottle
 
 -- C: TS
