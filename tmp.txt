@@ -16,6 +16,7 @@ MIE:
      -> Tupper
 
 -- G:
+    - iDRAC NIC
     - Setup CRs de la semana
 
 
