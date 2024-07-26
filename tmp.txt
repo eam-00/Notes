@@ -9,7 +9,7 @@ Click en "MasterCard"
 VIE:
 ---
 -- G:
-     
+     - Set Parent for crap
 
 
 
