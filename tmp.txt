@@ -22,7 +22,7 @@ VIE:
 
 
 -- G:
-    - iDRAC NIC
+
 
 
 
