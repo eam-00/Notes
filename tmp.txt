@@ -14,7 +14,7 @@ VIE:
 
 -- M:
 
-     <- Lavanderia
+
 
 -- Print:
          Movistar
