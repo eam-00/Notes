@@ -18,6 +18,7 @@ LUN:
      - $
      - Mermelada
      - Leche
+     - Queso
 
 -- Print:
          Movistar
