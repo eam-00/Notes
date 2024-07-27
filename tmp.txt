@@ -46,6 +46,7 @@ HPF: 4443-2353
  
 -- Chromebook Pro:
                   - Musicolet
+                  - Lastfm
                   
 
 -- FarmaCity: Snickers | Turrones
