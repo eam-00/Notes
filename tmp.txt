@@ -9,7 +9,7 @@ Click en "MasterCard"
 LUN:
 ---
 -- C:
-        - Check date vacas
+     - Check date vacas
 -- G:
      - Set Parent for crap
 
