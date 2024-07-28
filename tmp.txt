@@ -17,7 +17,7 @@ LUN:
 
 -- N:
      - $
-     - Mermelada
+
      - Leche
      - Queso
 
