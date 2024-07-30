@@ -11,7 +11,7 @@ LUN:
 -- C:
      - Check date vacas
 -- G:
-     - Set Parent for crap
+
 -- M:
      - Lavanderia
      - ABL
