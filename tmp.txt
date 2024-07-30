@@ -10,7 +10,7 @@ LUN:
 ---
 -- C:
      - Check date vacas
--- G:
+
 
 -- M:
      - Lavanderia
