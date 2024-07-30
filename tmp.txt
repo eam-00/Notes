@@ -16,7 +16,7 @@ LUN:
      - Lavanderia
      - ABL
      - Edenor
-     - Movistar
+
 
 
 
