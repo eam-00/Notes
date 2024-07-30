@@ -12,7 +12,7 @@ MAR:
      - Check date vacas
      - TS
 -- G:
-
+     - reboot chromebook.
 
 
 
