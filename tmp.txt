@@ -13,6 +13,7 @@ MIE:
 -- G:
      - DHCP
      - Setup CRs
+     - TSR
 
 
 
