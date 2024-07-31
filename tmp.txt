@@ -12,6 +12,7 @@ MIE:
      - Check date vacas
 -- G:
      - DHCP
+     - Setup CRs
 
 
 
