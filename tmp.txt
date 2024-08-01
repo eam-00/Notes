@@ -12,7 +12,7 @@ MIE:
      - Check date vacas
 -- G:
 
-     - Setup CRs
+
      - TSR
 --M:
     - Carre
