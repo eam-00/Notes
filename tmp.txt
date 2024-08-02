@@ -10,7 +10,7 @@ JUE:
 ---
 -- C:
      - Check date vacas
--- G:
+
 
 -- Limpiar casita
 
