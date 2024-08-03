@@ -479,7 +479,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre:  Bolsitas |  |  |  | | Cif | Leches | Turrones | Pan Bimbo blanco | Detergente copado | 
+- Carre:  Bolsitas |  |  |  | | | Leches | Turrones | Pan Bimbo blanco | Detergente copado | 
 - Vinnie's: Pan
 
 
