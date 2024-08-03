@@ -13,7 +13,7 @@ VIE:
 -- ChK Bcos
 -- M:
 
-     - Tupper
+
 -- Batts:
          - S8
          - S10
