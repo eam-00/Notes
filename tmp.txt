@@ -19,7 +19,7 @@ Click en "MasterCard"
 
 ---
 DOM:
-    - TRRTs
+
 
 
 The Nomads - I'm 5 Years Ahead of My Time
