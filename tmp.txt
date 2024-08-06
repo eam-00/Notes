@@ -16,6 +16,8 @@ MAR:
      <- Frutillas
      <- Hongos
 
+-- G:
+
 - Azucar
 - Alcohol
 
