@@ -12,6 +12,7 @@ MAR:
      - ATM -> Balance
      - Carre
      -> Card
+     -> Tupper
 
 - Azucar
 - Alcohol
