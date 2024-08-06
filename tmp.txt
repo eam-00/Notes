@@ -518,7 +518,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre:  Bolsitas |  |  |  | | | Leches | Turrones | Pan Bimbo blanco | | 
+- Carre:  Bolsitas |  |  |  | | | Leches | Turrones | | | 
 - Vinnie's: Pan
 
 
