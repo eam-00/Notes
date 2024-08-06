@@ -17,6 +17,7 @@ MAR:
      <- Hongos
 
 -- G:
+     - Reboot Chromebook
 
 - Azucar
 - Alcohol
