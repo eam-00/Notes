@@ -13,6 +13,7 @@ MAR:
      - Carre
      -> Card
      -> Tupper
+     <- Frutillas
 
 - Azucar
 - Alcohol
