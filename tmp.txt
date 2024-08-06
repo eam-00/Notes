@@ -11,7 +11,7 @@ MAR:
 -- M:
      - ATM -> Balance
      - Carre
-     - Leave Card
+     -> Card
 
 - Azucar
 - Alcohol
