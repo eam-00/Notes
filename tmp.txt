@@ -9,6 +9,7 @@ Click en "MasterCard"
 MAR:
 
 -- M:
+     - ATM -> Balance
 
 - Azucar
 - Alcohol
