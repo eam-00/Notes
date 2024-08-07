@@ -16,8 +16,7 @@ MIE:
      <- Frutillas
      <- Hongos
 
--- G:
-     - Reboot Chromebook
+
 
 - Azucar
 - Alcohol
