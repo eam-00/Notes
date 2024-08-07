@@ -12,7 +12,7 @@ MIE:
 
      - Carre
      -> Card
-     -> Tupper
+     -> Tuppers
      <- Frutillas
      <- Hongos
 
