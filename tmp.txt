@@ -9,6 +9,7 @@ Click en "MasterCard"
 LUN:
 ---
 -- Cif: Puertas michis
+-- Altama: extra padding
 -- Telecom
 
 
