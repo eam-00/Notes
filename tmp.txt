@@ -16,6 +16,7 @@ LUN:
 DOM:
 ---
 -> Milanesas
+-> Fetas de queso
 -- Updates:
            - S8
            - S10
