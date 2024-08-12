@@ -29,7 +29,6 @@ LUN:
 DOM:
 ---
 
--> Fetas de queso
 
 -- Updates:
            - S8
