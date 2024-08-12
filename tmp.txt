@@ -14,6 +14,7 @@ LUN:
          - Polar:
                  Columbia
                  Quechua [?]
+                 Jean [Fin de semana]
 
 -- Altama: extra padding
 -- Telecom
