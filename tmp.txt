@@ -125,6 +125,7 @@ DOM:
 -- Chromebook Pro:
                   - Musicolet
                   - Lastfm
+                  - Starbucks Rewards
                   
 
 
