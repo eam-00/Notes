@@ -30,7 +30,7 @@ DOM:
 ---
 
 -> Fetas de queso
--> Fetas de Panceta
+
 -- Updates:
            - S8
            - S10
