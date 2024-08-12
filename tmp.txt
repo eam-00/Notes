@@ -11,6 +11,9 @@ LUN:
 -- Cif: Puertas michis
 -- Lavar:
          - Repasador
+         - Polar:
+                 Columbia
+
 -- Altama: extra padding
 -- Telecom
 -- Vinnie's:
