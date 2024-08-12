@@ -23,6 +23,7 @@ LUN:
 -- M:
      - Tuppers
      - Lavanderia
+     - Telecom $
  
 ---
 DOM:
