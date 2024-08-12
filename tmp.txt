@@ -24,6 +24,7 @@ LUN:
      - Tuppers
      - Lavanderia
      -> Telecom $
+     - Frutillas
  
 ---
 DOM:
