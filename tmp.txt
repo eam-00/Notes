@@ -9,7 +9,8 @@ Click en "MasterCard"
 LUN:
 ---
 -- Cif: Puertas michis
--- Lavar repasador
+-- Lavar:
+         - Repasador
 -- Altama: extra padding
 -- Telecom
 -- Vinnie's:
