@@ -11,7 +11,7 @@ MAR:
 -- Cif: Puertas michis
 -- Lavar:
          - Repasador
-         - M-65
+
          - Bolsas compras
 
 
