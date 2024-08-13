@@ -14,7 +14,7 @@ MAR:
          - Polar:
 
 
-                 Jean [Fin de semana]
+
 
 -- Altama: extra padding
 -- Telecom
