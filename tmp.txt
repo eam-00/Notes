@@ -22,7 +22,7 @@ MAR:
             - Panes
 -- M:
      - Tuppers
-     - Lavanderia
+
      -> Telecom $
      - Frutillas
  
