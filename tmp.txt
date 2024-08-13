@@ -13,7 +13,7 @@ MAR:
          - Repasador
          - Polar:
                  Columbia
-                 Quechua [?]
+
                  Jean [Fin de semana]
 
 -- Altama: extra padding
