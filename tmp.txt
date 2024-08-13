@@ -24,7 +24,7 @@ MAR:
      - Tuppers
 
      -> Telecom $
-     - Frutillas
+
  
 ---
 DOM:
