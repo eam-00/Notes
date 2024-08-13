@@ -12,6 +12,7 @@ MAR:
 -- Lavar:
          - Repasador
          - M-65
+         - Bolsas compras
 
 
 
