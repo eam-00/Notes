@@ -19,7 +19,7 @@ MIE:
 -- Altama: extra padding
 -- Telecom
 -- Vinnie's:
-            - Panes
+
 -- M:
 
 
