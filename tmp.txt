@@ -542,7 +542,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
   -----
 - Carre:  Bolsitas | Esponjas | | Yogurts | | | Leches | Turrones | | | 
-- Vinnie's: Pan
+
 
 
 
