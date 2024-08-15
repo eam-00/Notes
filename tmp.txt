@@ -10,7 +10,7 @@ MIE:
 ---
 -- Lavar:
 
-         - Bolsas compras
+
 
 
 
