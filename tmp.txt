@@ -9,6 +9,7 @@ Click en "MasterCard"
 VIE:
 ---
 HP Envy:
+        - Install rsync
 
 CHK Bcos
 
