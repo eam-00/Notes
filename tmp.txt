@@ -150,7 +150,6 @@ CHK Bcos
 
 
 
-
 -- Timbuk2
 -- Mochila Jansport
 -- mbp-01 -> Debian 12
