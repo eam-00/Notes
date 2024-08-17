@@ -28,7 +28,7 @@ Click en "MasterCard"
 
 
 -- Updates:
-           - S8
+
 
 
 
