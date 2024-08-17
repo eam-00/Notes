@@ -29,7 +29,7 @@ Click en "MasterCard"
 
 -- Updates:
            - S8
-           - S10
+
 
 
 
