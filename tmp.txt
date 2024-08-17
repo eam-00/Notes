@@ -10,7 +10,7 @@ VIE:
 ---
 HP Envy:
         - Install rsync
-        - Sync m1330:~/Dropbox/
+
 
 CHK Bcos
 
