@@ -9,6 +9,7 @@ SAB:
 
 El Bocado:
 Jamon Cocido
+Panceta Ahumada
 Queso
 Salchicha
 Pan de Papas
