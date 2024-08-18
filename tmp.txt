@@ -21,7 +21,7 @@ Pan de Papas
 DOM:
 ---
 <- Merengadas
--> Milanesas
+<- Milanesas
 -> J. Liquido
 
 - TRRTs
