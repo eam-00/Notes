@@ -20,7 +20,7 @@ Pan de Papas
 ---
 DOM:
 ---
--> Merengadas
+<- Merengadas
 -> Milanesas
 -> J. Liquido
 
