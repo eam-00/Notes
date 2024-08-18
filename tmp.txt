@@ -22,7 +22,7 @@ DOM:
 ---
 <- Merengadas
 <- Milanesas
--> J. Liquido
+<- J. Liquido
 
 - TRRTs
 
