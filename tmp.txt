@@ -1,4 +1,4 @@
-chttps://secure.bancocolumbia.com.ar/web/10111-Cupon-de-Pago.note.aspx
+Fchttps://secure.bancocolumbia.com.ar/web/10111-Cupon-de-Pago.note.aspx
 https://secure.bancocolumbia.com.ar/web/Cupon-de-pago-10368.note.aspx
 Click en "MasterCard"
 
@@ -550,7 +550,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre:  Bolsitas | | | Yogurts | | | Leches | Turrones | Queso Cremoso | | 
+- Carre:  Bolsitas | | | Yogurts | Cereales | | Leches | Turrones | Queso Cremoso | | 
 
 
 
