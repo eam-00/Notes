@@ -22,7 +22,7 @@ DOM:
 ---
 <- Merengadas
 <- Milanesas
-<- J. Liquido
+
 <- Jamon & Queso fetas
 
 ---
