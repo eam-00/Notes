@@ -19,7 +19,7 @@ Click en "MasterCard"
 DOM:
 ---
 <- Merengadas
-<- Milanesas
+
 
 <- Jamon & Queso fetas
 
