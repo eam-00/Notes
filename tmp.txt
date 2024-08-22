@@ -27,7 +27,6 @@ Click en "MasterCard"
 MIE:
 ---
 --M:
-   - Tuppers
 
 
 - M-65: 11 4472 5491
