@@ -158,7 +158,6 @@ JUE:
 
 
 
-
 -- Timbuk2
 
 -- mbp-01 -> Debian 12
