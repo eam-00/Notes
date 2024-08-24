@@ -14,6 +14,7 @@ VIE:
 SAB:
 ---
 Limpiar casita
+Lavar ropa
  - Tupper
  - $
 
