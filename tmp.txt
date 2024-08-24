@@ -12,7 +12,7 @@ Click en "MasterCard"
 SAB:
 ---
 -- Limpiar casita
-Lavar ropa
+-- Lavar ropa
  - Tupper
  - $
 -- Print: Movistar
