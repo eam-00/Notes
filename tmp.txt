@@ -11,7 +11,7 @@ Click en "MasterCard"
 ---
 SAB:
 ---
-Limpiar casita
+-- Limpiar casita
 Lavar ropa
  - Tupper
  - $
