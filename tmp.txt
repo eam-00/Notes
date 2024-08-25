@@ -23,6 +23,7 @@ SAB:
 
 
 DOM:
+         - Movistar
     -> J. Liquido
     -> Manies
 
