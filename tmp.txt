@@ -28,6 +28,7 @@ DOM:
     -> J. Liquido
     -> Manies
     -> Empanadas
+    -> Pollo Frito
 - Batt:
        - Kindle vieja
 - Limpiar casita
