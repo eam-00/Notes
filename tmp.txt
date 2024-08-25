@@ -23,6 +23,7 @@ SAB:
 
 
 DOM:
+         - EDENOR
          - Movistar
     -> J. Liquido
     -> Manies
