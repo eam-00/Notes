@@ -33,7 +33,7 @@ DOM:
 -- Print:
          - EDENOR
          - Movistar
-    -> J. Liquido
+
     -> Manies
 
     -> Pollo Frito
