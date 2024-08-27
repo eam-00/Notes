@@ -10,7 +10,7 @@ Click en "MasterCard"
 LUN:
 ---
 -- M:
-    -> Tuppers
+
     -> Lavanderia
     <- Lavanderia
 
