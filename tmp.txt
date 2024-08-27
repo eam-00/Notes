@@ -32,7 +32,7 @@ DOM:
 ---
 -- Print:
 
-         - Movistar
+
 
     -> Manies
 
