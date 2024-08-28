@@ -19,7 +19,7 @@ MIE:
 
 
 -- Lavar:
-         - Toallin
+
          - Repasador
 
  
