@@ -15,6 +15,7 @@ MIE:
 -- G:
      - Push CCB app
 
+-- Cena: Palta
 
 
 -- Lavar:
