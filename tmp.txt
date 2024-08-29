@@ -449,7 +449,7 @@ Remove:
 - The End - Ruins
 
 
-https://stackoverflow.com/questions/53203528/errors-grub-efi-amd64-signed-shim-signed
+
 
 Ubuntu 18.04 "grub-install: error: cannot find EFI directory"
 https://serverfault.com/questions/1065357/ubuntu-18-04-grub-install-error-cannot-find-efi-directory
