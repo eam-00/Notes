@@ -9,6 +9,8 @@ Click en "MasterCard"
 ---
 JUE:
 ---
+-- C:
+
 -- Batt: 
         - 11e
 
