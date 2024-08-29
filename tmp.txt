@@ -15,7 +15,7 @@ JUE:
         - 11e
 
 -- G:
-     - Push CCB app
+
 
 
 
