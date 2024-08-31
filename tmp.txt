@@ -23,7 +23,7 @@ SAB:
     - Print:
             FEMEDICA
 
-- Queso rallado
+
 - Demilune:
            1/2 Kg Pan
 
