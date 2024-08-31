@@ -19,7 +19,7 @@ VIE:
 SAB:
 ---
 - Leche
-Queso rallado
+- Queso rallado
 Demilune:
          1/2 Kg Pan
 
