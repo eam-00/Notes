@@ -17,7 +17,7 @@ Click en "MasterCard"
 SAB:
 ---
     -> Leche
-    -> Queso rallado
+
     -> Tupper
     -> EDENOR
 
