@@ -23,7 +23,7 @@ Click en "MasterCard"
 DOM:
 ---
 
-    - Print:
+
 
     -> Guiso
 
