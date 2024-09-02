@@ -24,7 +24,7 @@ DOM:
 ---
 
     - Print:
-            FEMEDICA
+
     -> Guiso
 
 
