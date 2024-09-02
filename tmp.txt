@@ -38,6 +38,7 @@ LUN:
      - PF
      - SUBE
      - Guiso
+     - Lavanderia
 
 
 
