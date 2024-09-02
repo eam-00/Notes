@@ -22,7 +22,7 @@ Click en "MasterCard"
 ---
 DOM:
 ---
-    - Backup lappie
+
     - Print:
             FEMEDICA
     -> Guiso
