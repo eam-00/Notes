@@ -36,7 +36,7 @@ LUN:
      - PF
 
      - Guiso
-     - Lavanderia
+
      - Tuppers
 
 
