@@ -20,7 +20,7 @@ Click en "MasterCard"
 
 
 ---
-DOM:
+
 ---
 
 
