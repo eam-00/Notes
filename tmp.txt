@@ -8,6 +8,7 @@ Click en "MasterCard"
 ---
 JUE:
 ---
+-- Limpiar casita
 -- Guardar cosas
 
 
