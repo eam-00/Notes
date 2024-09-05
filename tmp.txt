@@ -9,6 +9,7 @@ Click en "MasterCard"
 JUE:
 ---
 -- C: TS
+-- G: Reboot Chromebook
 -- Limpiar casita
 -- Guardar cosas
 
