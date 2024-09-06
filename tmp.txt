@@ -11,6 +11,7 @@ JUE:
 -- G: Reboot Chromebook
 -- Limpiar casita
 -- Guardar cosas
+
 ---
 VIE:
 ---
