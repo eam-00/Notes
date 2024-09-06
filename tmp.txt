@@ -15,6 +15,7 @@ VIE:
 ---
 -- ChK Bcos
 -- Guardar cosas
+-- HP Envy: Setup GNOME
 
 
 
