@@ -10,9 +10,7 @@ Click en "MasterCard"
 
 
 
----
 
----
 
 -- Guardar cosas
 
