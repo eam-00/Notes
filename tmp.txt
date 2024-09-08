@@ -15,6 +15,7 @@ LUN:
 DOM:
 ---
 -- N:
+    -> $
     -> Beer
     -> Tuppers
 
