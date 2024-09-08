@@ -565,7 +565,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre:  Bolsitas | Spray | Leches | Turrones | Te en Hebras | Anco en rodajas | 
+- Carre:  Bolsitas | | Leches | Turrones | Te en Hebras | Anco en rodajas | 
 
 
 
