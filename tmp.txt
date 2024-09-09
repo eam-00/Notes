@@ -12,7 +12,7 @@ LUN:
      - PF
      -> Tuppers
      -> Laundry
--- Vallone: 
+-- Vallone: ChK Pago
 -- Pinto: Cab Not Yet
 
 -- N:
