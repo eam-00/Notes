@@ -14,7 +14,7 @@ LUN:
      -> Laundry
 -- Vallone: ChK Pago
 -- Pinto: Cab Not Yet
-
+-- S8 / S10 -> Updates
 
 
 
