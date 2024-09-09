@@ -15,7 +15,7 @@ LUN:
 -- Vallone: ChK Pago
 -- Pinto: Cab Not Yet
 
--- N:
+
     -> $
 
 
