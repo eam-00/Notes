@@ -19,7 +19,7 @@ DOM:
 -- N:
     -> $
     -> Beer
-    -> Tuppers
+
     -> Tumbler
 
 
