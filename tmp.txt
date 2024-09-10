@@ -12,7 +12,7 @@ MAR:
 
      -> Tuppers
 
--- Vallone: ChK Pago
+
 
 -- S8 / S10 -> Updates
 
