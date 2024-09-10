@@ -9,7 +9,7 @@ Click en "MasterCard"
 MAR:
 ---
 -- M:
-     - PF
+
      -> Tuppers
      -> Laundry
 -- Vallone: ChK Pago
