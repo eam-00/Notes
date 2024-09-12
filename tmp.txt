@@ -16,7 +16,7 @@ MIE:
 JUE:
 ---
 -- C:
-     - TS 
+     - TS -> Kenny
 
 
 
