@@ -13,7 +13,6 @@ Click en "MasterCard"
 ---
 VIE:
 ---
-
 -- ChK Bcos
 -- X220 -> Updates
 -- Carre: Piedras Michis
