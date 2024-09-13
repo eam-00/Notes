@@ -17,7 +17,7 @@ VIE:
 -- X220 -> Updates
 -- Carre: Piedras Michis
 -- M:
-     - Tuppers
+     -> Tuppers
      <- Choco
 -- SUBE
 -- G: Reboot Chrome
