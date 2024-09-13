@@ -14,7 +14,7 @@ Click en "MasterCard"
 JUE:
 ---
 -- C:
-     - TS -> Kenny
+
 
 -- M:
      - Tuppers
