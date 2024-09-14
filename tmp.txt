@@ -18,7 +18,7 @@ VIE:
 -- Carre: Piedras Michis
 -- M:
      -> Tuppers
-     -> Laundry
+
      <- Choco
 -- SUBE
 
