@@ -13,7 +13,7 @@ Click en "MasterCard"
 ---
 VIE:
 ---
--- ChK Bcos
+
 
 -- Carre: Piedras Michis
 -- M:
