@@ -10,7 +10,7 @@ Click en "MasterCard"
 ---
 SAB:
 ---
-   -> Hongos
+
    -> Queso [?]
 
 El Bocado:
