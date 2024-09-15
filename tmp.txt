@@ -24,7 +24,7 @@ Salchicha
 DOM:
 ---
     - Test HDMI 11e2
-    -> Milanesa
+    <- Milanesa
     Flow
     TRRTs:
           - After Hours
