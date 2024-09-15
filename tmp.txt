@@ -28,6 +28,7 @@ DOM:
     TRRTs:
           - After Hours
           - Catch 22
+          - We Were Soldiers
 
 ---
 LUN:
