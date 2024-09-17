@@ -24,7 +24,7 @@ Click en "MasterCard"
 DOM:
 ---
     - Test HDMI 11e2
-    - $
+
     <- Milanesa
     Flow
     TRRTs:
