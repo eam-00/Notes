@@ -7,7 +7,7 @@ Click en "MasterCard"
 
 
 ---
-MAR:
+MIE:
 ---
     -- M:
          -> N10
