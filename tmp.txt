@@ -10,7 +10,7 @@ Click en "MasterCard"
 MIE:
 ---
     -- M:
-        <- Mandarinas
+
         <- Manzanas
 - Cenar anco
 - Pinto: Telf 8B
