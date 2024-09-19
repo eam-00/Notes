@@ -11,7 +11,7 @@ MIE:
 ---
     -- M:
 
-        <- Manzanas
+
 - Cenar anco
 - Pinto: Telf 8B
 
