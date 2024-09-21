@@ -10,7 +10,7 @@ Click en "MasterCard"
 VIE:
 ---
 
-- Batts: AA
+
 
 ---
 SAB:
