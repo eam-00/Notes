@@ -10,7 +10,7 @@ Click en "MasterCard"
 
 
 
-   - Print ABL
+
 ---
 DOM:
 ---
