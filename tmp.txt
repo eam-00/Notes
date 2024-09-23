@@ -19,6 +19,7 @@ LUN:
 
 -- M:
     -> Laundry
+    <- Card
 
 
 
