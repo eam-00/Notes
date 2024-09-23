@@ -12,6 +12,7 @@ LUN:
 -- CB: Natal
 -- Batts:
          - X220 Large
+         - Kindles -> Docs
 ---
 DOM:
 ---
