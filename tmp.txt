@@ -11,7 +11,7 @@ LUN:
 ---
 -- CB: Natal
 -- Batts:
-
+         - X220 Large
 ---
 DOM:
 ---
