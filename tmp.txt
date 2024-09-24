@@ -18,7 +18,7 @@ MAR:
 
 -- M:
 
-    <- Card
+    -> Card
 
 
 
