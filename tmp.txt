@@ -11,7 +11,7 @@ MIE:
 ---
 -- Batts:
 
-         - Kindles -> Docs
+
 
 -- Chromebook: check default fonts
 
