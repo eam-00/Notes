@@ -18,7 +18,7 @@ MAR:
 
 -- M:
     -> tuppers
-    -> Card
+
     -> $
     <- Fish
 
