@@ -14,7 +14,7 @@ MAR:
          - Kindles -> Docs
 
 -- Chromebook: check default fonts
--- TRRTs [?]
+
 
 -- M:
     -> tuppers
