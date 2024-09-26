@@ -585,7 +585,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre:  Bolsitas | Agua | Leches | Turrones | Te en Hebras | Mermeladas | |  | Piedras Michis | Yogurts | Vino
+- Carre:  Bolsitas | Agua | Leches | Turrones | Te en Hebras |  | |  | Piedras Michis | Yogurts | Vino
 - Vinnie's: Panes
 
 
