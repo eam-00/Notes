@@ -27,7 +27,7 @@ JUE:
     TRRTs:
           - After Hours
           - Catch 22
-          - We Were Soldiers
+
           - THX 1138
 
 
