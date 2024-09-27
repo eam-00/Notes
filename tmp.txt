@@ -9,7 +9,7 @@ Click en "MasterCard"
 ---
 VIE:
 ---
--- Batts: x201t | 
+-- Batts: x201t | x140e | 
 -- M:
     - Tuppers
 
