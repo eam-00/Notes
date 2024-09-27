@@ -10,6 +10,7 @@ Click en "MasterCard"
 VIE:
 ---
 -- Batts: x201t | x140e | 11e2 | x2202
+-- Backup MicroSD
 -- M:
     - Tuppers
 
