@@ -10,7 +10,7 @@ Click en "MasterCard"
 VIE:
 ---
 -- Batts:  | |  | x2202 | Bike Lights
--- Backup MicroSD
+
 -- M:
     -> Tuppers
     <- Macetas
