@@ -9,7 +9,7 @@ Click en "MasterCard"
 ---
 VIE:
 ---
--- Batts:  | x140e |  | x2202 | Bike Lights
+-- Batts:  | |  | x2202 | Bike Lights
 -- Backup MicroSD
 -- M:
     -> Tuppers
