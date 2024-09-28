@@ -12,7 +12,7 @@ VIE:
 -- Batts:  | |  | x2202 | Bike Lights
 
 -- M:
-    -> Tuppers
+
     <- Macetas
 
 -- ChK Bcos
