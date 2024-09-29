@@ -13,7 +13,7 @@ x201t		::	Music
 ---
 VIE:
 ---
--- Batts:  | |  | x2202 | Bike Lights
+-- Batts:  | | x2202 | Bike Lights
 
 -- M:
 
