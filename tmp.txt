@@ -25,7 +25,7 @@ SAB:
 t410: fuente | batt (?)
 piedritas michis
 Rinonera
-ht -> Window Controls
+
 Ver Natal
 
 ---
