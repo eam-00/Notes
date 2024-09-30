@@ -22,7 +22,7 @@ VIE:
     <- Macetas
 
 ---
-SAB:
+
 ---
 t410: fuente | batt (?)
 piedritas michis
