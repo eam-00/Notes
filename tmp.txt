@@ -5,8 +5,9 @@ Click en "MasterCard"
 -- G: AWS [???]
 -- G: Reset passwd
 
+---
 MP3:
-
+---
 Moto G6		::	MicroSD
 USB SanDisk	::	Almond
 USB KINGSTON	::	Yellow
