@@ -19,7 +19,7 @@ VIE:
 -- Batts: | x2202 | Bike Lights
 
 -- M:
-    <- Macetas
+
 
 
 t410: fuente | batt (?)
