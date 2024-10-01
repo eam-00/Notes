@@ -600,7 +600,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre:  Bolsitas | Agua | Leches | Turrones | Te en Hebras | Block | Jugo Polvo | Mermeladas |  | Yogurts | Vino | 
+- Carre:  Bolsitas | Agua | Leches | Turrones | Te en Hebras | Block | Jugo Polvo | Mermeladas |  | Yogurts |  | 
 
 
 
