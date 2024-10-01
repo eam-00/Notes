@@ -23,7 +23,7 @@ VIE:
 
 
 t410: fuente | batt (?)
-piedritas michis
+
 
 
 
