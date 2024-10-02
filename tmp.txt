@@ -21,7 +21,7 @@ x201t		::	Music
 ---
 MIE:
 ---
--- Barrer 8B
+
 -- Telecom 8B
 -- M: 
       USB
