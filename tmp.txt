@@ -21,6 +21,7 @@ x201t		::	Music
 ---
 MIE:
 ---
+-- Telecom 8B
 -- M: PF
       USB
 
