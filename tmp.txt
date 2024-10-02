@@ -23,7 +23,7 @@ MIE:
 ---
 -- Barrer 8B
 -- Telecom 8B
--- M: PF
+-- M: 
       USB
 
 -- Batts: | x2202 | Bike Lights
