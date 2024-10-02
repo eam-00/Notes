@@ -18,6 +18,7 @@ MAR:
 ---
 -- M:
      - AySA 8B
+     - USB FEMEDICA
 
 ---
 MIE:
