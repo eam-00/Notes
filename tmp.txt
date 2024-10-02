@@ -217,7 +217,6 @@ t410: fuente | batt (?)
 
 
 
-
 -- Timbuk2
 -- mbp-01 -> Debian 12
 -- Perdida canilla
