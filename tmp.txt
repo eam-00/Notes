@@ -24,7 +24,7 @@ JUE:
 ---
 -- M: 
 
-      <- USB
+
 
 -- Batts: | x2202 | Bike Lights
 
