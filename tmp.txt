@@ -19,7 +19,7 @@ VIE:
 ---
     - CHK Bcos
 C:
-
+  - Setup Ctrl Cbio p/ Martes
 
 
 
