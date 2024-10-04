@@ -23,7 +23,7 @@ VIE:
 JUE:
 ---
 -- M: 
-      -> Tupper
+
       <- USB
 
 -- Batts: | x2202 | Bike Lights
