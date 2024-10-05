@@ -31,7 +31,6 @@ VIE:
 ---
 SAB:
 ---
-
 t410: fuente | batt (?)
 
 
