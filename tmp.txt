@@ -40,7 +40,7 @@ La Bolognesa:
              - Salsa bolognesa
 
 El Bocado:
-          - Provoleta
+
 
 ---
 DOM:
