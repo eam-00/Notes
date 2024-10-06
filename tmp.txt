@@ -30,7 +30,7 @@ x201t		::	Music
 SAB:
 ---
 t410: fuente | batt (?)
-N:
+
 
 
 
