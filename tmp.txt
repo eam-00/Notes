@@ -45,6 +45,8 @@ El Bocado:
 ---
 DOM:
 ---
+Get:
+   -> Pechugas
 -- Batt: Despertador
 
 LUN:
