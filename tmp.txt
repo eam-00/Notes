@@ -45,6 +45,7 @@ El Bocado:
 ---
 DOM:
 ---
+- Michis nails
 Get:
    -> Pechugas
 -- Batt: Despertador
