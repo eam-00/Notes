@@ -31,7 +31,7 @@ SAB:
 ---
 t410: fuente | batt (?)
 N:
-  - SCDT -> Keys
+
   - Tuppers
   - Leche
 
