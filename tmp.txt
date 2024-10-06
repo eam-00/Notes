@@ -48,6 +48,7 @@ DOM:
 - Michis nails
 Get:
    -> Pechugas
+   -> Te La Virginia
 -- Batt: Despertador
 
 LUN:
