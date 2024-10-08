@@ -45,7 +45,7 @@ t410: fuente | batt (?)
 Get:
 
    -> Pechugas
-   -> Te La Virginia
+
 
 
 
