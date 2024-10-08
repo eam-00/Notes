@@ -41,9 +41,6 @@ t410: fuente | batt (?)
 
 
 
----
-
----
 - Michis nails
 Get:
    -> Jamon & Queso
