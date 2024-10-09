@@ -14,7 +14,7 @@ USB KINGSTON	::	Yellow
 x201t		::	Music
 
 Batts:
-      - HP Envy
+
       - 11e
       - 11e2
 
