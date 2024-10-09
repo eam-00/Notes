@@ -17,6 +17,7 @@ Batts:
       - HP Envy
       - 11e
       - 11e2
+      - x220 {Batt Large}
 
 
 
