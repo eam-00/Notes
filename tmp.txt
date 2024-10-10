@@ -15,7 +15,6 @@ x201t		::	Music
 
 Batts:
 
-      - 11e
       - 11e2
 
 
