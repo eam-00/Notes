@@ -22,6 +22,7 @@ LUN:
 - C:
     - Load Holiday -> K & J
 - Batt: x201t
+- Sync t420 -> m1330/ t4102
 - ChK Bcos
 
 
