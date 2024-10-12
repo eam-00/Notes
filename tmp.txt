@@ -56,7 +56,7 @@ Muzarella 200 Gr
 
 Verduleria:
 ----------
-2 zapallitos
+  2 zapallitos
 1/2 Kg cebolla
 1 cebolla de verdeo
 1 zanahoria
