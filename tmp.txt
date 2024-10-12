@@ -21,7 +21,7 @@ LUN:
 ---
 - C:
     - Load Holiday -> K & J
-- Batt: x201t | Test enc
+- Batt: x201t
 - ChK Bcos
 
 
