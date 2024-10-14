@@ -26,6 +26,7 @@ LUN:
 - ChK Bcos
 - M:
     - Toallin
+    - Lavanderia
 
 
 
