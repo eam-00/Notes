@@ -26,6 +26,7 @@ MAR:
 - ChK Bcos
 - Lavar:
         - Repasador
+        - Toallin
 
 
 
