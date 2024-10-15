@@ -24,7 +24,7 @@ LUN:
 - Batt: x201t | t4102
 - Sync t420 -> m1330/ t4102 [????]
 - ChK Bcos
-- M:
+
 
 
 
