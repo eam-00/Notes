@@ -20,7 +20,7 @@ x201t		::	Music
 MIE:
 ---
 - C:
-    - Load Holiday -> K & J
+
 - Batt: x201t | t4102
 - Sync t420 -> m1330/ t4102 [????]
 - ChK Bcos
