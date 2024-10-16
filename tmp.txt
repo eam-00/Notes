@@ -24,7 +24,7 @@ MIE:
 - Batt: x201t | t4102
 
 - ChK Bcos
-
+- ChK Telecom 8B
 -- M:
      -> Tupper
      -> Guita Telecom
