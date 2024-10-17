@@ -23,7 +23,7 @@ JUE:
     - TS
     - chrome warn close
 - Batt: x201t | t4102
-
+- ChK TC N
 - ChK Bcos
 
 -- M:
