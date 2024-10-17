@@ -29,7 +29,7 @@ JUE:
 -- M:
      -> Tupper
      -> Guita Telecom
-     <- Pescado
+
 
 
 
