@@ -20,7 +20,6 @@ x201t		::	Music
 JUE:
 ---
 - C:
-
     - chrome warn close
 - Batt: x201t | t4102
 - ChK TC N
