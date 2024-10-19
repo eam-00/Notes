@@ -17,6 +17,7 @@ x201t		::	Music
 
 SAB:
 
+Print Telecom
 
 - Batt: x201t | t4102
 - ChK TC N
