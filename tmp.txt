@@ -23,6 +23,7 @@ ATMs
 M:
   -> Tupper
   -> Lavanderia
+  -> Arreglar balcon
 
 - Batt: x201t | t4102
 - ChK TC N
