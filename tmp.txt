@@ -22,7 +22,7 @@ ATM
 M:
 
 
-  -> Arreglar balcon
+
 
 - Batt: x201t 
 - ChK TC N
