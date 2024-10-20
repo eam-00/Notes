@@ -24,7 +24,7 @@ M:
 
   -> Arreglar balcon
 
-- Batt: x201t | t4102
+- Batt: x201t 
 - ChK TC N
 
 
