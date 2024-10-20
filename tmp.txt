@@ -24,7 +24,7 @@ DOM:
 
 
 
-- Batt: x201t | Bike Lights
+- Batt: x201t | Bike Lights | MBP-00 | 
 - ChK TC N
 
 
