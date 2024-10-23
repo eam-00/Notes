@@ -352,8 +352,9 @@ https://www.gmgroup.travel/7-destinations-you-have-to-visit-in-northeast-brazil/
 
 
 
-
-
+Modern XFWM:
+- https://www.pling.com/p/2090933
+- https://github.com/TerminalHash/Modern
 
 
 -- 11e: Install Debian 12 GNOME
