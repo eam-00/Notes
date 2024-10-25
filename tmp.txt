@@ -19,6 +19,7 @@ VIE:
 -- M:
      - Tupper
      - ChK TV
+     - Llamar internet
 
 -- ChK Bcos
 
