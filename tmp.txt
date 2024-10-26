@@ -27,7 +27,7 @@ SAB:
 
 - Print:
         - EDENOR
-
+        - Movistar
 
 
 - Batt: Bike Lights
