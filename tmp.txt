@@ -19,7 +19,7 @@ VIE:
 
 
      - ChK TV
-     - Llamar internet
+
 
 -- ChK Bcos
 
