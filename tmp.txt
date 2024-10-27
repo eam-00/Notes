@@ -24,7 +24,7 @@ x201t		::	Music
 ---
 DOM:
 ---
-- ATM
+- ATMs
 - Print:
 
 
