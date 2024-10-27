@@ -31,7 +31,7 @@ DOM:
 - Print:
         ABL
 - M:
-
+   -> $
 
 - Batt: Bike Lights
 
