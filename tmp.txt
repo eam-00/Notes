@@ -32,7 +32,7 @@ DOM:
 
 - M:
    -> $
-   <- Food
+
 
 - Batt: Bike Lights
 
