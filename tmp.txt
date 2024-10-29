@@ -31,7 +31,7 @@ DOM:
 
 
 - M:
-   -> $
+
 
 
 - Batt: Bike Lights
