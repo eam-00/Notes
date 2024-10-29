@@ -27,7 +27,7 @@ DOM:
 - Limpiar casita
 
 
-- ATMs
+
 
 
 - M:
