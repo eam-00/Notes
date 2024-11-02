@@ -19,6 +19,8 @@ VIE:
 ---
 -- M:
 18.166,12 Pesos - AysA 8B
+3.886,12 Pesos - MetroGas
+
 57.000
 
 
