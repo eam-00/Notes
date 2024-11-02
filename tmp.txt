@@ -23,7 +23,7 @@ VIE:
 17.255.45 Pesos - Edenor 8B
 17.271,45 Pesos - AySA
 
-57.000
+
 
 
 -- C:
