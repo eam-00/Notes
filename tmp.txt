@@ -19,7 +19,7 @@ VIE:
 ---
 -- M:
 18.166,12 Pesos - AysA 8B
-3.886,12 Pesos - MetroGas
+
 17.255.45 Pesos - Edenor 8B
 17.271,45 Pesos - AySA
 
