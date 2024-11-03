@@ -24,7 +24,7 @@ DOM:
     - $
     - Anteojos
     - SCDT:
-           - Ver fechas
+           - Ver fechas [ent | salida Matias] -> RB
            - Sena
            - 
 
