@@ -21,7 +21,7 @@ x201t		::	Music
 DOM:
 ---
 -- N:
-    - $
+
 
     - SCDT:
            - Ver fechas [ent | salida Matias] -> RB
