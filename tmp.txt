@@ -27,7 +27,7 @@ DOM:
            - Ver fechas [ent | salida Matias] -> RB
            - Sena
            - 
-- Transfer t60p SSD -> Optiplex 755
+
 - Anything Box
 
 ---
