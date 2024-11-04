@@ -42,6 +42,7 @@ LUN:
      - Tuppers
 
 - opt755:
+         - rsync
          - wget
 
 
