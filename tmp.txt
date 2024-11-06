@@ -39,7 +39,7 @@ LUN:
 
 
 - opt755:
-         - rsync
+
          - wget
          - curl
 
