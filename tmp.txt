@@ -29,6 +29,7 @@ JUE:
 -- Expensas casita
 -- M:
      -> Tupper
+     <- USB
 
 
 -- C:
