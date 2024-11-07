@@ -680,7 +680,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre:  Bolsitas | Agua | Leches | Turrones | Queso Cremoso | Block | Jugo Polvo | Yogurts | Cerealitas | | 
+- Carre:  Bolsitas | Agua | Leches | Turrones | Queso Cremoso | Block | Jugo Polvo | Yogurts | Cerealitas | 
 
 
 
