@@ -28,7 +28,7 @@ JUE:
 -- Limpiar casita
 -- Expensas casita
 -- M:
-
+     -> Tupper
 
 
 -- C:
