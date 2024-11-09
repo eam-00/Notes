@@ -37,6 +37,7 @@ fruta
 DOM:
 ---
     x220i:
+          - Setup GNOME extensions
 
 -- C:
      - Objs
