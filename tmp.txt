@@ -36,6 +36,8 @@ fruta
 ---
 DOM:
 ---
+-- Piedritas Michis
+
     x220i:
           - Setup GNOME extensions
           - MBP-01: check RAM
