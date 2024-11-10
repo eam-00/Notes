@@ -18,7 +18,7 @@ x201t		::	Music
 SAB:
 ---
     - La Bolognesa:
-                   - Lasagan BYOTin
+
     - El Bocado:
 Pan de papas
 150 Gr jamon
