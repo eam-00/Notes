@@ -49,6 +49,7 @@ DOM:
 
 LUN:
 -- SCDT:
+        - Ver deposito
 
 -- C:
      - Objs
