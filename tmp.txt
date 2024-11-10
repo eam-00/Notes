@@ -54,7 +54,7 @@ DOM:
 
 
 - opt755:
-         - wget
+
          - curl
 
 
