@@ -40,6 +40,7 @@ DOM:
 -- Piedritas Michis
 -- Carry On
 <- Queso
+<- Tumbler
 
     x220i:
           - Setup GNOME extensions
