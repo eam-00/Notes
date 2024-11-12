@@ -56,7 +56,7 @@ LUN:
      - Objs
      - Cursos
 -- M:
-     - Lavanderia
+
 
 
 
