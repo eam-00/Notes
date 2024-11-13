@@ -43,7 +43,7 @@ DOM:
     x220i:
           - Setup GNOME extensions
 
-          - Batts:
+
 
 ---
 MAR:
