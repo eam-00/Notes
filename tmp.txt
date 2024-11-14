@@ -49,7 +49,7 @@ JUE:
 -- C:
      - TS
      - Cursos
-     - Objs
+
 Connect to staging
 
 
