@@ -41,7 +41,7 @@ x201t		::	Music
           - Setup GNOME extensions
 
 Send status
-
+Connect to staging
 
 ---
 JUE:
