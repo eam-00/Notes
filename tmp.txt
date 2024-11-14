@@ -40,7 +40,7 @@ x201t		::	Music
     x220i:
           - Setup GNOME extensions
 
--- Send emasil status
+-- Send email status
 Connect to staging
 
 ---
