@@ -48,6 +48,7 @@ JUE:
 ---
 -- C:
      - TS
+     - Cursos
 Connect to staging
 
 
