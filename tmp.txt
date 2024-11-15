@@ -47,7 +47,8 @@ x201t		::	Music
 VIE:
 ---
 -- Cocina
--- Haircut
+
+
 -- C:
      - Cursos
 
