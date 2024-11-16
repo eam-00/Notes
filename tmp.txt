@@ -38,7 +38,7 @@ x201t		::	Music
 
 
     x220i:
-          - Setup GNOME extensions
+
 
 
 
