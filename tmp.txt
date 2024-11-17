@@ -28,6 +28,7 @@ El Bocado:
 DOM:
 ---
 -- Nails michis
+-- Freeze Supremas
 <- Pechugas
 
 
