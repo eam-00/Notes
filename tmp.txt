@@ -27,7 +27,7 @@ x201t		::	Music
 ---
 DOM:
 ---
--- Nails michis
+
 -- Freeze Supremas
 <- Pechugas
 <- Feta queso
