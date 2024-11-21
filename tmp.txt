@@ -53,7 +53,7 @@ JUE:
 ---
 
 -- C:
-     - Cursos
+     - Curso
 
 Connect to staging
 
