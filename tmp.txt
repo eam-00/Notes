@@ -58,7 +58,7 @@ VIE:
 Connect to staging
 
 
--- SCDT:
+
 
 -- B 2025:
           - Porto da Barra - Salvador de Bahía
