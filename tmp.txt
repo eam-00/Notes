@@ -52,7 +52,6 @@ VIE:
 ---
 
 -- C:
-
      - Curso
 
 Connect to staging
