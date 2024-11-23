@@ -48,7 +48,7 @@ SAB:
 DOM:
 ---
 -- Get:
-
+       - Peanuts
 -- Batt:
         - Celular despertador
 
