@@ -33,7 +33,7 @@ SAB:
 ---
 - Botellitas
 
-- Pechugas
+
 
 - Choco
 
