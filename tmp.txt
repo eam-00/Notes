@@ -50,6 +50,7 @@ DOM:
 -- Get:
        - Peanuts
        - Pechugas
+       - Potatoes
 -- Batt:
         - Celular despertador
 
