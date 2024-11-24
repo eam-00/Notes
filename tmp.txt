@@ -34,7 +34,7 @@ SAB:
 - Botellitas
 
 - Pechugas
-- Limones
+
 - Choco
 
 -- Print:
