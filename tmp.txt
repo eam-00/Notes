@@ -39,7 +39,7 @@ SAB:
 
 -- Print:
 
-         - Movistar
+
 
 - Anything Box
 
