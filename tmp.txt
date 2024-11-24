@@ -47,6 +47,9 @@ SAB:
 ---
 DOM:
 ---
+-- Print:
+         - Edenor
+         - Movistar
 -- Get:
        - Peanuts
        - Pechugas
