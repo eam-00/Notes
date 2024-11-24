@@ -49,6 +49,7 @@ DOM:
 ---
 -- Get:
        - Peanuts
+       - Pechugas
 -- Batt:
         - Celular despertador
 
