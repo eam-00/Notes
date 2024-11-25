@@ -46,7 +46,7 @@ Lexar Negro :: Sandisk
 DOM:
 ---
 -- Print:
-         - Edenor
+
          - Movistar
 -- Get:
        - Peanuts
