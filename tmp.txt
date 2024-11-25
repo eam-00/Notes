@@ -47,7 +47,7 @@ DOM:
 ---
 -- Print:
 
-         - Movistar
+
 -- Get:
        - Peanuts
        - Pechugas
