@@ -54,7 +54,7 @@ DOM:
        - Potatoes
        - Futurines
 -- Batt:
-        - Celular despertador
+
 
 
 
