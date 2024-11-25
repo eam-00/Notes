@@ -49,7 +49,7 @@ DOM:
 
 
 -- Get:
-       - Peanuts
+
        - Pechugas
        - Potatoes
        - Futurines
