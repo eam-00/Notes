@@ -59,7 +59,7 @@ JUE:
 ---
 -- C:
      - Curso
-     - TS
+
 
 Connect to staging
 -- Batts:
