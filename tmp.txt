@@ -66,7 +66,7 @@ Connect to staging
 
 
 - M:
-    - Tartas
+
 -- B 2025:
           - Porto da Barra - Salvador de Bahía
 ---
