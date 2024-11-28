@@ -63,7 +63,8 @@ JUE:
 
 Connect to staging
 -- Batts:
-         - S10
+
+
 
 - M:
     - Tartas
