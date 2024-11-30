@@ -374,7 +374,7 @@ Xfwaita:
 - https://www.pling.com/p/2031526
 - https://github.com/yusacetin/xfwaita
 
--- 11e: Install Debian 12 GNOME
+
 
 
 -- N:
