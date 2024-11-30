@@ -66,6 +66,7 @@ Connect to staging
 ---
 SAB:
 ---
+-- Turn off m1330
 Take:
      - Pechuga
      - Limon
