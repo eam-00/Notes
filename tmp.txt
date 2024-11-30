@@ -71,6 +71,7 @@ Take:
      - Limon
      - Chocolate
      - Leche [?]
+     - Papers
 -- Sync Dropbox
 -- B 2025:
           - Porto da Barra - Salvador de Bahía
