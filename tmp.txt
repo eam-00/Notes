@@ -81,6 +81,8 @@ Take:
 
 
 11e:
+    - .fonts.conf
+
 
 
 
