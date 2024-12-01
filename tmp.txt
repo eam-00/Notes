@@ -89,7 +89,7 @@ DOM:
     - .fonts.conf
 
 
-
+Check GNOME:
 
 
 
