@@ -70,7 +70,7 @@ SAB:
 Take:
      - Pechuga
      - Limon
-     - Chocolate
+
      - Leche [?]
      - Papers
 -- Sync Dropbox
