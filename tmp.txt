@@ -79,7 +79,7 @@ Take:
 ---
 DOM:
 ---
--- Print FEMEDICAe
+-- Print FEMEDICA
 -- Get:
        - Pechugas
        - Milanesas
