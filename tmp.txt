@@ -86,6 +86,7 @@ DOM:
 
 -- Take:
         - Sabanas
+        - Pechugas
 
 11e:
     - .fonts.conf
