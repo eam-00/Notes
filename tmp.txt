@@ -90,6 +90,7 @@ DOM:
 
 
 Check GNOME:
+             - GNOME Terminal > Profile > Colors > Built-in Schemes  
 
 
 
