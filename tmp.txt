@@ -68,8 +68,7 @@ SAB:
 ---
 
 Take:
-     - Pechuga
-     - Limon
+
 
      - Leche [?]
      - Papers
