@@ -77,7 +77,7 @@ Connect to staging
 ---
 DOM:
 ---
--- Print FEMEDICA
+
 -- Get:
 
 
