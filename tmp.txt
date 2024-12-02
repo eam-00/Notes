@@ -68,7 +68,7 @@ SAB:
 ---
 
 Take:
-     - Sabanas
+
 
 
      - Papers
