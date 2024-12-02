@@ -82,7 +82,7 @@ DOM:
 -- Print FEMEDICA
 -- Get:
        - Pechugas
-       - Milanesas
+
        - Telecom
 
 -- Take:
