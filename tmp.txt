@@ -79,7 +79,7 @@ DOM:
 ---
 -- Print FEMEDICA
 -- Get:
-       - Pechugas
+
 
        - Telecom
 
