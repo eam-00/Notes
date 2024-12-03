@@ -80,7 +80,7 @@ Connect to staging
 
 
 -- Take:
-        - Sabanas
+
 
 
 11e:
