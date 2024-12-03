@@ -81,7 +81,7 @@ Connect to staging
 
 -- Take:
         - Sabanas
-        - Pechugas
+
 
 11e:
     - .fonts.conf
