@@ -77,7 +77,7 @@ Connect to staging
 -- Get:
 
 
-       - Telecom
+
 
 -- Take:
         - Sabanas
