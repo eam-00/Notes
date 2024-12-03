@@ -33,7 +33,7 @@ Lexar Negro :: Sandisk
 MAR:
 
 -- M:
-
+    -> Card
 
 
 
