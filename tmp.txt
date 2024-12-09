@@ -39,7 +39,7 @@ DOM:
 ----
 -- Get:
        - Milanesas
-       - Chocolate Negro
+
        - Fetas queso
 
 Spotify:
