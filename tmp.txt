@@ -67,6 +67,7 @@ MAR:
 -- G:
      - K & J:
              - Temp N
+             - NR
 
 Connect to staging
 
