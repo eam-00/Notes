@@ -62,7 +62,7 @@ LUN:
 ---
 -- M:
      - PF
-     -> Tuppers
+
 -- C:
      - Curso
 
