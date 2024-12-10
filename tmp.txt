@@ -68,6 +68,7 @@ MAR:
      - K & J:
              - Temp N
              - NR
+             - New part
              - K: C lpp
 
 Connect to staging
