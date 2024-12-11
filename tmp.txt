@@ -70,7 +70,7 @@ MAR:
 
              - New part
              - K: C lpp
-             - Part Cong
+
              - OT
 
 Connect to staging
