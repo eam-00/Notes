@@ -69,7 +69,7 @@ MAR:
              - Temp N
 
              - New part
-             - K: C lpp
+
 
              - OT
 
