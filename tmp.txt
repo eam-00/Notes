@@ -65,7 +65,7 @@ MIE:
 -- Pelo
 -- Limpiar
 
--- G:
+
 
 
 
