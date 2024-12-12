@@ -60,7 +60,7 @@ JUE:
 ---
 
 -- C:
-     - TS
+
      - Curso
 -- Pelo
 -- Limpiar
