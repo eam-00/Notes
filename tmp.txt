@@ -70,7 +70,7 @@ VIE:
 
 
 
-             - OT
+
 
 Connect to staging
 
