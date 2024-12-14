@@ -55,6 +55,7 @@ Spotify:
          - ABL
 
 -- M:
+     - Laundry
 
 
 ---
