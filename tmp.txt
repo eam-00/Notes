@@ -54,7 +54,7 @@ Spotify:
 
 
 ---
-VIE:
+
 ---
 -- C:
      - Curso
