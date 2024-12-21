@@ -42,6 +42,7 @@ Papas
 Zanahorias
 Fruta
 
+DOM:
 
    <- GNOME extension debug
 
