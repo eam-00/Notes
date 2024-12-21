@@ -43,6 +43,7 @@ Zanahorias
 Fruta
 
 DOM:
+    <- Rinonera
 
    <- GNOME extension debug
 
