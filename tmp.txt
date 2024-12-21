@@ -34,6 +34,7 @@ La Bolognesa:
 Carbon
 Papas
 Zanahorias
+Fruta
 
 
    <- GNOME extension debug
