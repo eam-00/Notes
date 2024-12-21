@@ -29,6 +29,8 @@ SAB:
    -> Cetizine
 
 La Bolognesa:
+             - Ravioles Ricotta
+
 
    <- GNOME extension debug
 
