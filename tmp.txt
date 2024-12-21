@@ -33,6 +33,7 @@ La Bolognesa:
              - Ravioles Pollo / Verdura
 Carbon
 Papas
+Zanahorias
 
 
    <- GNOME extension debug
