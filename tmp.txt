@@ -50,6 +50,7 @@ DOM:
    <- GNOME extension debug
 
 Batt:
+     - S8
 
 
 
