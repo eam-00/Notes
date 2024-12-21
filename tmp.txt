@@ -27,6 +27,9 @@ SAB:
    -> Mouthwash
    -> Milk
    -> Cetizine
+
+La Bolognesa:
+
    <- GNOME extension debug
 
 
