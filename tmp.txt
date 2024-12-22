@@ -45,6 +45,7 @@ Fruta
 ---
 DOM:
 ---
+    <- Papas
     <- Rinonera
 
    <- GNOME extension debug
