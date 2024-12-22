@@ -46,6 +46,7 @@ Fruta
 DOM:
 ---
     <- Papas
+    <- Fetas Queso
     <- Rinonera
 
    <- GNOME extension debug
