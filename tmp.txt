@@ -40,7 +40,8 @@ El Bocado: 54911 2697 1664
 ---
 DOM:
 ---
-    <- Rinonera
+
+
 
    <- GNOME extension debug
       journalctl -S "2024-12-01" -g extension
