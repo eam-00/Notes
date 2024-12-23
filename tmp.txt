@@ -44,7 +44,6 @@ El Bocado: 54911 2697 1664
 DOM:
 ---
     <- Papas
-    <- Fetas Queso
     <- Rinonera
 
    <- GNOME extension debug
