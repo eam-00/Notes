@@ -82,7 +82,7 @@ JUE:
 ---
 -- SCDT:
         - Handy
--- Ferreteria
+
 -- C:
      - TS
      - Curso
