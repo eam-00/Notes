@@ -82,8 +82,6 @@ Spotify:
 JUE:
 ---
 -- Ferreteria
-
-
 -- C:
      - TS
      - Curso
