@@ -85,7 +85,7 @@ JUE:
 
 
 -- C:
-     - TS
+
      - Curso
 
 
