@@ -667,7 +667,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre:  Bolsitas | Agua | Turrones |  Block | | 
+- Carre: Bolsitas | Agua | Turrones |  Block | | 
 
 
 
