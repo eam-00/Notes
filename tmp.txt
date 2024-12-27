@@ -80,7 +80,7 @@ Spotify:
 ---
 VIE:
 ---
--- ChK Bcos
+
 -- C:
      - Curso
 
