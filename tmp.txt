@@ -27,7 +27,6 @@ Lexar Negro :: Sandisk
 -- Barniz 8B
 -- ATM
 -- BA Bakery
--- AP
 -- S8:
       -> Firefox
       <- Crud
