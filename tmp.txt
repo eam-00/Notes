@@ -28,6 +28,7 @@ Lexar Negro :: Sandisk
 -- ATM
 -- BA Bakery
 -- AP
+-- S8:
 
 
 
