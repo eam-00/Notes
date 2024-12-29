@@ -26,6 +26,7 @@ Lexar Negro :: Sandisk
 DOM:
 ---
 -- Barniz 8B
+-- Limpiar casita
 -- ATM
 -- S8:
 -- S10:
