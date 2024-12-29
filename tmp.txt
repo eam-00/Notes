@@ -27,7 +27,6 @@ Lexar Negro :: Sandisk
 -- Barniz 8B
 -- ATM
 -- S8:
-      <- Crud
 -- S10:
        <- Crud
 
