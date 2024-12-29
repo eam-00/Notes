@@ -29,7 +29,7 @@ DOM:
 -- Limpiar casita
 -- ATM
 -- M:
-
+     -> Laundry
 -- S10:
        <- Crud
 
