@@ -82,7 +82,7 @@ Spotify:
 
 ---
 -- C:
-     - Curso
+
 
 
 
