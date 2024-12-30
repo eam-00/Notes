@@ -29,7 +29,6 @@ DOM:
 -- ATM
 -- M:
      -> Edenor
-     -> Laundry [x2]
 -- S10:
        <- Crud
 
