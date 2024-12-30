@@ -28,7 +28,6 @@ DOM:
 -- Barniz 8B
 -- ATM
 -- M:
-     -> Edenor
 -- S10:
        <- Crud
 
