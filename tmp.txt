@@ -27,7 +27,7 @@ DOM:
 ---
 -- Barniz 8B
 
--- M:
+
 -- S10:
        <- Crud
 
