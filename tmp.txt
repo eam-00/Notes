@@ -26,7 +26,6 @@ MIE:
 ---
 -- Barniz 8B
 -- Limpiar casita
-
 -- S10:
        <- Crud
 
