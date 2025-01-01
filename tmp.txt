@@ -29,7 +29,7 @@ MIE:
 -- S10:
        <- Crud
 -- S8:
-
+      - Reboot
 
 
 
