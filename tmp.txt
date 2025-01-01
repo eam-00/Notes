@@ -28,6 +28,7 @@ MIE:
 -- Limpiar casita
 -- S10:
        <- Crud
+-- S8:
 
 
 
