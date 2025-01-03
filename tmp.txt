@@ -28,9 +28,7 @@ Lexar Negro :: Sandisk
        <- Crud
 -- S8:
       - Reboot
----
 
----
 
 
 
