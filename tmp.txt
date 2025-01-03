@@ -29,7 +29,7 @@ Lexar Negro :: Sandisk
 -- S8:
       - Reboot
 ---
-JUE:
+
 ---
 
 
