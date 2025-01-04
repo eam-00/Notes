@@ -509,7 +509,6 @@ Remove:
 
 
 
-
 Ubuntu 18.04 "grub-install: error: cannot find EFI directory"
 https://serverfault.com/questions/1065357/ubuntu-18-04-grub-install-error-cannot-find-efi-directory
 
