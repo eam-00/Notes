@@ -46,7 +46,7 @@ El Bocado: 54911 2697 1664
 
 
 
-      journalctl -S "2024-12-01" -g extension
+
 
 
 
