@@ -36,6 +36,7 @@ LUN:
 ---
 Vacaciones 10 Marzo 2025
 - Lavar:
+        - Repasador
 
 El Bocado: 54911 2697 1664
 
