@@ -35,9 +35,9 @@ DOM:
 LUN:
 ---
 Vacaciones 10 Marzo 2025
-- Lavar:
-        - Repasador
-        - Toallin
+-- Lavar:
+         - Repasador
+         - Toallin
 -- Batts:
 
 El Bocado: 54911 2697 1664
