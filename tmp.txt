@@ -35,6 +35,7 @@ DOM:
 LUN:
 ---
 Vacaciones 10 Marzo 2025
+- Lavar:
 
 El Bocado: 54911 2697 1664
 
