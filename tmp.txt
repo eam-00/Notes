@@ -34,7 +34,7 @@ LUN:
 ---
 Vacaciones 10 Marzo 2025
 -- Lavar:
-         - Repasador
+
          - Toallin
 -- Batts:
 
