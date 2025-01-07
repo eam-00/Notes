@@ -33,7 +33,7 @@ Lexar Negro :: Sandisk
 LUN:
 ---
 Vacaciones 10 Marzo 2025
--- Lavar:
+
 
 
 -- Batts:
