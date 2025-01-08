@@ -37,7 +37,7 @@ Vacaciones 10 Marzo 2025
 -- M:
 
 --C:
-    - Bosta de objs
+
 
 -- Batts:
 
