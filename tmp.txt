@@ -31,6 +31,7 @@ Lexar Negro :: Sandisk
 ---
 JUE:
 ---
+-- C:
 Vacaciones 10 Marzo 2025
 
 
