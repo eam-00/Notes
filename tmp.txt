@@ -33,7 +33,7 @@ VIE:
 ---
 -- ChK Bcos
 -- C:
-     - update Cbook
+
      - Reboot ctop
 
 
