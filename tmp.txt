@@ -48,7 +48,7 @@ DOM:
 ---
 SCDT:
      -> Keys
-     - Contract
+     -> Contract
 ABL
 
 -- Batts:
