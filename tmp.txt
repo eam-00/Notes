@@ -39,7 +39,7 @@ LUN:
 
 -- M:
      - Pollo
-     - Laundry
+
      - Papeles
 
 ---
