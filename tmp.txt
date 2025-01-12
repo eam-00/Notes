@@ -54,6 +54,7 @@ ABL:
 M:
   -> Pechugas
   -> Carne
+  -> Papas
 
 -- Batts:
 
