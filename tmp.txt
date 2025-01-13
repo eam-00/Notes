@@ -38,7 +38,7 @@ LUN:
 
 
 -- M:
-     - Pollo
+
 
      - Papeles
 
