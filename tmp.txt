@@ -52,7 +52,6 @@ M:
   -> Pechugas
 
 
-  -> Queso
 
 
 -- Batts:
