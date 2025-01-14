@@ -34,7 +34,7 @@ LUN:
 
 -- G:
      - Push One On One: K & J access
-     - MAR: Out 17 hs
+
 
 
 -- M:
