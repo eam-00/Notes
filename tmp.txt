@@ -47,7 +47,7 @@ DOM:
 ---
 SCDT:
 
-     -> Contract
+
 ABL:
     - Print
 M:
