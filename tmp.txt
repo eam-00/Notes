@@ -51,7 +51,7 @@ LUN:
 M:
   -> Pechugas
   -> Carne
-  -> Papas
+
   -> Queso
 
 
