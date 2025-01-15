@@ -33,7 +33,7 @@ MIE:
 ---
 -- SCDT:
 
-        - Contract
+
 -- G:
      - Push One On One: K & J access
 
