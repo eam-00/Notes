@@ -31,7 +31,7 @@ Lexar Negro :: Sandisk
 ---
 JUE:
 ---
-
+-- C:
 
 -- G:
      - Push One On One: K & J access
