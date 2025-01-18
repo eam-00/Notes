@@ -39,7 +39,7 @@ Pepsi [x2]
 
 DOM:
 
-Get Blue Light
+-> Blue Light
 
 
 
