@@ -44,6 +44,7 @@ DOM:
 -> Cold Satchel
 -> Batts:
          - Kindles
+         - ChK S8 / S10
 
 
 LUN:
