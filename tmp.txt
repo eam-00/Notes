@@ -44,7 +44,8 @@ DOM:
 -> Queso Fetas
 
 -> Batts:
-         - Kindles
+
+
          - ChK S8 / S10
 
 
