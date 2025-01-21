@@ -54,7 +54,6 @@ LUN:
 - Carre: 
 -- M:
 
-     - Laundry
 
 
 
