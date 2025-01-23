@@ -56,9 +56,9 @@ JUE:
 
 - Pinto
 
-
+---
 SAB:
-
+---
 - Print Movi
 - Bash history config
 
