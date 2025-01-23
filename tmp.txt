@@ -54,7 +54,7 @@ JUE:
 -- C:
      - TS
 
-- Pinto
+- Setup Pinto
 
 ---
 SAB:
