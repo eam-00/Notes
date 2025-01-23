@@ -60,6 +60,7 @@ JUE:
 SAB:
 
 - Print Movi
+- Bash history config
 
 
 
