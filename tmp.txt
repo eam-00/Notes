@@ -52,7 +52,8 @@ Lexar Negro :: Sandisk
 JUE:
 ---
 -- C:
-     - TS
+
+
 
 - Setup Pinto
 
