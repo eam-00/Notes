@@ -53,6 +53,7 @@ VIE:
 ---
 - M:
     -> Tupper
+    <- Pechugas
 
 - ChK Bcos
 
