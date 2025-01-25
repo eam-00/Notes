@@ -69,7 +69,7 @@ SAB:
 ---
 - Print Movi
 - Print Edenor
-- Bolsa comida michis
+
 - Bash history config
 
 
