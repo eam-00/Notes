@@ -54,7 +54,7 @@ VIE:
 - M:
     -> Tupper
     <- Pechugas
-    <- Limones
+
     <- Papeles
 
 - ChK Bcos
