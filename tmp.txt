@@ -62,7 +62,7 @@ Lexar Negro :: Sandisk
 ---
 DOM:
 ---
-- Print Movi
+
 - Print SCDT
 - Print Edenor
 -> Peanuts
