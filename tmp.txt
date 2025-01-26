@@ -64,7 +64,7 @@ DOM:
 ---
 
 - Print SCDT
-- Limpiar parrilla
+
 
 -> Peanuts
 -> Pechugas
