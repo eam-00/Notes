@@ -64,7 +64,7 @@ SAB:
 ---
 - Print Movi
 - Print Edenor
-- Bash history config
+
 
 
 
