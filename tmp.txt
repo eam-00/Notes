@@ -70,6 +70,7 @@ DOM:
 -> Pechugas
 -> Bifes de Chorizo
 -> Queso en Fetas
+<- Laundry
 
 - ChK Webmails
 - Reco "Heretic"
