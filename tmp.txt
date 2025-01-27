@@ -63,7 +63,7 @@ Lexar Negro :: Sandisk
 DOM:
 ---
 
-- Print SCDT
+
 
 
 -> Peanuts
