@@ -68,7 +68,7 @@ MAR:
 -> Pechugas
 -> Bifes de Chorizo
 -> Queso en Fetas
-<- Laundry
+
 <- Pechugas
 
 
