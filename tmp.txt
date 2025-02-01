@@ -33,7 +33,7 @@ DOM:
 
 
 
-VIE:
+
 M:
  -> Boletas
  <- Laundry
