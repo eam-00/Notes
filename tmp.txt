@@ -29,7 +29,8 @@ Lexar Negro :: Sandisk
 DOM:
 
 
-      - S10
+
+
 
 
 VIE:
