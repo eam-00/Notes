@@ -28,6 +28,8 @@ Lexar Negro :: Sandisk
 
 DOM:
 
+- Batt:
+
 
 VIE:
 M:
