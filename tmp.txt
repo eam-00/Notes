@@ -28,8 +28,7 @@ Lexar Negro :: Sandisk
 ---
 DOM:
 ---
--- Print: 
-         - FEMEDICA
+
 -> Pechugas
 -> Pizza
 
