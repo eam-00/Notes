@@ -30,6 +30,7 @@ JUE:
 -- C:
      - TS
      - Lappie
+-- SCDT key
 
 
 
