@@ -32,6 +32,7 @@ VIE:
 ---
 SAB:
 ---
+- 8B
 Shutdown:
          - Aire Acond
          - t4102
