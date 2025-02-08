@@ -24,7 +24,6 @@ Lexar Negro :: Sandisk
 ---
 VIE:
 ---
-
 -- ChK Bcos
 -- Limpiar casita
 
