@@ -27,6 +27,7 @@ DOM:
 -> Pechugas
 
 <- Laundry
+<- Pechugas
 
 
 
