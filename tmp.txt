@@ -25,6 +25,7 @@ Lexar Negro :: Sandisk
 VIE:
 ---
 - G: update MAC Address
+-- ChK Bcos
 
 
 
