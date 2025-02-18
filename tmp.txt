@@ -26,6 +26,7 @@ MAR:
 -- M:
      -> $
      <- Laundry
+     <- Pasta
 ---
 DOM:
 ---
