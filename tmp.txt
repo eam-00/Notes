@@ -31,6 +31,7 @@ MIE:
         - 11e
 -- Debian Sid -> Dell
 -- Limpiar:
+           - DVDs
 
 ---
 DOM:
