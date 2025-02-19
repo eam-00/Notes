@@ -30,6 +30,7 @@ MIE:
 -- Batt:
         - 11e
 -- Debian Sid -> Dell
+-- Limpiar:
 
 ---
 DOM:
