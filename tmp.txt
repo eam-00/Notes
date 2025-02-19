@@ -27,7 +27,7 @@ MAR:
 -- SCDT
 -- M:
 
-     <- Laundry
+
      <- Pasta
 ---
 DOM:
