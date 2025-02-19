@@ -27,6 +27,7 @@ MIE:
 
 -- M:
      - Tupper
+     - Tijeras
 -- Batt:
         - 11e
 -- Debian Sid -> Dell
