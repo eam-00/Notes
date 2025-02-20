@@ -28,6 +28,7 @@ JUE:
      - TS
 
 -- G:
+     - Reboot Chromebook
 
 -- Batt:
         - mbp-00
