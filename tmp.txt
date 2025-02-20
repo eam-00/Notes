@@ -29,7 +29,7 @@ MIE:
      - Tupper
 
 -- Batt:
-        - 11e
+
 -- Debian Sid -> Dell
 -- Limpiar:
            - DVDs
