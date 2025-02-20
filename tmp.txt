@@ -30,6 +30,7 @@ JUE:
 
 
 -- Batt:
+        - mbp-00
 
 -- Debian Sid -> Dell
 -- Limpiar:
