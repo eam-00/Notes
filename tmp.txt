@@ -37,7 +37,7 @@ VIE:
         - t430
 
 -- Debian Sid -> Dell
--- Limpiar:
+
 
 SAB:
     SCDT:
