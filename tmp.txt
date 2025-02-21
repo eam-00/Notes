@@ -28,6 +28,7 @@ VIE:
 
 --M:
     -> cards
+    -> pechugas
 
 
 
