@@ -35,7 +35,7 @@ VIE:
 
 
 -- Batt:
-        - mbp-00
+
         - t430
 
 -- Debian Sid -> Dell
