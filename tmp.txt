@@ -41,8 +41,7 @@ Lexar Negro :: Sandisk
 ---
 SAB:
 ---
-    SCDT:
-         - Llaves
+
 
 
 ---
