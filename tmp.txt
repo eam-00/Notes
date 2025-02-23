@@ -51,7 +51,7 @@ DOM:
 SCDT:
          - Llaves
 
-
+-- Debian Sid -> Dell m1330
 
 
 
