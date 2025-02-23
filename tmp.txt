@@ -38,9 +38,7 @@ Lexar Negro :: Sandisk
 
 -- Debian Sid -> Dell
 
----
 
----
 
 
 
