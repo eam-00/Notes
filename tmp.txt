@@ -48,7 +48,7 @@ DOM:
 -- Freeze chicken
 -- Lappie:
           - Firefox
-SCDT:
+
 
 
 -- Debian Sid -> Dell m1330
