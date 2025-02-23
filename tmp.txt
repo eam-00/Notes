@@ -49,7 +49,7 @@ DOM:
 -- Lappie:
           - Firefox
 SCDT:
-         - Llaves
+
 
 -- Debian Sid -> Dell m1330
 
