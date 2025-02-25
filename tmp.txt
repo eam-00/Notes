@@ -50,7 +50,7 @@ DOM:
           - Firefox
 
 
--- Debian Sid -> Dell m1330
+
 
 
 
