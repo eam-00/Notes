@@ -26,6 +26,8 @@ Lexar Negro :: Sandisk
 ---
 JUE:
 ---
+Pinto:
+
 - C:
     - TS
 
