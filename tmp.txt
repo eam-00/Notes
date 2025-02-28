@@ -47,6 +47,7 @@ DOM:
           - Firefox
 -- Print
         - Edenor
+        - Moivistar
 
 
 
