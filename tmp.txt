@@ -50,6 +50,7 @@ DOM:
 
 -- Batt:
         - Despertador
+        - g20
 
 
 
