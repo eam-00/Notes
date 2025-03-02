@@ -46,7 +46,7 @@ DOM:
 -- Print:
 
         - Moivistar
-        - FEMEDICA
+
 -> Peanuts
 -> Pizza
 -> Queso en fetas
