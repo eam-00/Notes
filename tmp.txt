@@ -44,7 +44,7 @@ DOM:
           - Pizzicato Five
           - Firefox
 -- Print:
-        - Edenor
+
         - Moivistar
         - FEMEDICA
 -> Peanuts
