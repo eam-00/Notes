@@ -51,7 +51,6 @@ DOM:
 -- Batt:
         - Despertador
         - g20
-
         - S10
 
 
