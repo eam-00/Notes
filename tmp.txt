@@ -51,7 +51,7 @@ DOM:
 
 -> Queso en fetas
 -- Batt:
-        - Despertador
+
         - g20
         - S10
 
