@@ -29,6 +29,8 @@ Lexar Negro :: Sandisk
 MIE:
 - Lavar:
         - Toallin
+        - Repasador
+
 
 
 
