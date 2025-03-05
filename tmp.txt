@@ -32,6 +32,7 @@ MIE:
         - Toallin
         - Repasador
         - Coffe Stain
+        - Shopping bags [?]
 - 4 TB -> Chromebook Pro
 
 
