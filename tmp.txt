@@ -34,6 +34,7 @@ Lexar Negro :: Sandisk
                 - 1950: The Hunters [?]
                 - 1980: Blade Runner | Class
 El Bocado:
+          - Salchicha
 
 ---
 DOM:
