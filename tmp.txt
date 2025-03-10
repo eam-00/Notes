@@ -23,6 +23,7 @@ Lexar Negro :: Sandisk
 
 LUN:
     - COTO:
+           - Salchichas
 
 -> Desodorante
 -> "Time Bandits"
