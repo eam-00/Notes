@@ -26,7 +26,7 @@ LUN:
            - Salchichas
            - Provoleta
            - Pepsi Black
-- Carbon
+
 
 - Cortar pelo
 -> Desodorante
