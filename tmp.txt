@@ -33,6 +33,7 @@ LUN:
 <- Queso Fetas
 
 - Cortar pelo
+- Bluetooth -> Spotify
 -> Desodorante
 -> "Time Bandits"
 -> Alcohol refill
