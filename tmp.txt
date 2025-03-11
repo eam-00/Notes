@@ -28,6 +28,8 @@ LUN:
            - Pepsi Black
 
 
+<- Milanesas
+
 - Cortar pelo
 -> Desodorante
 -> "Time Bandits"
