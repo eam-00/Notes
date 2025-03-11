@@ -29,6 +29,7 @@ LUN:
 
 
 <- Milanesas
+<- Papas
 
 - Cortar pelo
 -> Desodorante
