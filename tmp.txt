@@ -30,6 +30,7 @@ LUN:
 
 <- Milanesas
 <- Papas
+<- Queso Fetas
 
 - Cortar pelo
 -> Desodorante
