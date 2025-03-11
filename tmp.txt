@@ -28,7 +28,7 @@ LUN:
            - Pepsi Black
 - Carbon
 
-
+- Cortar pelo
 -> Desodorante
 -> "Time Bandits"
 
