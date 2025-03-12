@@ -35,7 +35,7 @@ Lexar Negro :: Sandisk
 
 -> Desodorante
 -> "Time Bandits"
--> Alcohol refill
+-> Refill Alcohol
 
 - Lavar:
         - Coffe Stain
