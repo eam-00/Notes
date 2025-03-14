@@ -32,7 +32,7 @@ Lexar Negro :: Sandisk
 TRRTs:
 -----
       - cp "Top Gun" doc -> USB
-      - Subs "Saint Jack" -> USB
+
 
 -> Bluetooth
 -> Desodorante
