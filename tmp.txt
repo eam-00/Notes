@@ -39,6 +39,7 @@ VIE:
 -> Desodorante
 -> "Time Bandits"
 -> Refill Alcohol
+-> Afeitadora
 
 - Lavar:
 
