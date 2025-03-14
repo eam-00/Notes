@@ -41,6 +41,8 @@ VIE:
 -> Refill Alcohol
 -> Afeitadora
 
+- fstrim -> t410
+
 - Lavar:
 
         - Shopping bags [?]
