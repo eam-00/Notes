@@ -28,7 +28,7 @@ Lexar Negro :: Sandisk
 
 
 
-- Limpiar casita
+
 TRRTs:
 -----
       - cp "Top Gun" doc -> USB
