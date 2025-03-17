@@ -33,6 +33,7 @@ Pinto:
 ---
 MAR:
 ---
+--> Pechugas
 -- Gal:
       - Depositar Vallone 8B
 
