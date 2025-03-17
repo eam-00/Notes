@@ -41,7 +41,6 @@ Pinto:
 
 
 - Lavar:
-
         - Shopping bags [?]
 
 - Review TB HDD:
