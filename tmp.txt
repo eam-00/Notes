@@ -24,7 +24,12 @@ Lexar Negro :: Sandisk
 
 
 
+LUN:
 
+SCDT:
+     - Camacho -> Fechas
+Pinto:
+      - 8B
 
 
 
