@@ -29,7 +29,7 @@ LUN:
 SCDT:
      - Camacho -> Fechas
 Pinto:
-      - 8B
+
 ---
 MAR:
 ---
