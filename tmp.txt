@@ -28,7 +28,7 @@ LUN:
 ---
 SCDT:
      - Camacho -> Fechas
-Pinto:
+
 
 ---
 MAR:
