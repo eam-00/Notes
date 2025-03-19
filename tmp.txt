@@ -31,7 +31,7 @@ Lexar Negro :: Sandisk
 ---
 
 
--- GPG -> Files
+
 
 -- Gal:
       - Depositar Vallone 8B
