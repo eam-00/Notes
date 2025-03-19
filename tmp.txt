@@ -34,7 +34,7 @@ MIE:
 
 
 -- Gal:
-      - Depositar Vallone 8B
+
 
 -> Desodorante
 -> "Time Bandits"
