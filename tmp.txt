@@ -32,7 +32,7 @@ MAR:
 
 
 -- GPG -> Files
---> Pechugas
+
 -- Gal:
       - Depositar Vallone 8B
 
