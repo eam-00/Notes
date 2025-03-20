@@ -40,6 +40,7 @@ JUE:
 
 
 -- Batt:
+        - S8
 
 -> Desodorante
 
