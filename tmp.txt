@@ -30,7 +30,7 @@ Lexar Negro :: Sandisk
 JUE:
 ---
 -- Dell 7290:
-
+             - Test HDMI
 
 -- Limpiar casita
 -- Carre
