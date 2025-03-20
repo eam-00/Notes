@@ -32,7 +32,7 @@ JUE:
 
 -- Carre
 --> M:
-      - Ice cream
+
 
 
 
