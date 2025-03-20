@@ -29,6 +29,9 @@ Lexar Negro :: Sandisk
 ---
 JUE:
 ---
+-- Dell 7290:
+
+
 -- Limpiar casita
 -- Carre
 
