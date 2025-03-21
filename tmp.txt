@@ -33,7 +33,7 @@ JUE:
 -- Dell 7290:
 
 
--- Limpiar casita
+
 -- Carre:
          - Edenor
 
