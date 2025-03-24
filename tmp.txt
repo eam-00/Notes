@@ -46,6 +46,7 @@ Lexar Negro :: Sandisk
 
 
 - Lavar:
+        - BDU Tan B
         - Shopping bags [?]
 
 - Review TB HDD:
