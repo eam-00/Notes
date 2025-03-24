@@ -28,7 +28,7 @@ DOM:
 ---
 - Armar ventilador
 
-- Motorola Moto g22 -> charger
+
 
 
 
