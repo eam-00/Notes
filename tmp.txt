@@ -27,7 +27,7 @@ Lexar Negro :: Sandisk
 DOM:
 ---
 - Armar ventilador
---> Pechugas
+
 - Motorola Moto g22 -> charger
 
 
