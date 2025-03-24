@@ -36,7 +36,6 @@ Lexar Negro :: Sandisk
 
 
 
-
 -- Batt:
         - S10
 
