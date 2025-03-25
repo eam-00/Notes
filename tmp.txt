@@ -58,6 +58,7 @@ MAR:
 
 -- Lappie:
           - Firefox
+- Armar ventilador
 
 
 
