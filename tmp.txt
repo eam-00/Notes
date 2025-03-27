@@ -36,6 +36,7 @@ JUE:
      - TS
 -- Batt:
         - S10
+        - Lappies
 
 
 
