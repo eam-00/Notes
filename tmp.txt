@@ -34,6 +34,7 @@ Lexar Negro :: Sandisk
 JUE:
 ---
 -- SCDT:
+        - Alan
 -- Batt:
         - S10
 
