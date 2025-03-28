@@ -32,7 +32,7 @@ JUE:
 ---
 
 
--- Chromebook -> Reboot
+
 -- Batt:
         - S10
         - Lappies
