@@ -32,8 +32,6 @@ JUE:
 ---
 
 
-
-
 -- Chromebook -> Reboot
 -- Batt:
         - S10
