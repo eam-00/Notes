@@ -33,7 +33,7 @@ JUE:
 -- SCDT:
         - Alan
 -- C:
-     - TS
+
 -- Chromebook -> Reboot
 -- Batt:
         - S10
