@@ -32,7 +32,7 @@ JUE:
 ---
 -- SCDT:
         - Alan
--- C:
+
 
 -- Chromebook -> Reboot
 -- Batt:
