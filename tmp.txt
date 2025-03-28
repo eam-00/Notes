@@ -30,7 +30,6 @@ Lexar Negro :: Sandisk
 ---
 VIE:
 ---
-
 -- Batt:
         - S10
         - Lappies
