@@ -28,7 +28,6 @@ Lexar Negro :: Sandisk
 
 
 
-
 -- Batt:
         - S10
         - Lappies
