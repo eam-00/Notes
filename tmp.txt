@@ -39,7 +39,6 @@ LUN:
 
 
 
-
 -- Lappie:
           - Firefox
 - Armar ventilador
