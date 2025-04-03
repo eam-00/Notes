@@ -185,7 +185,6 @@ Batería durabilidad de 10 horas
 
 
 
-
 -- Timbuk2
 -- Perdida canilla
 
