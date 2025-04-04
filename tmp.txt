@@ -75,7 +75,7 @@ Connect to staging
 
 
 
-11e:
+
 
 Check GNOME:
              - GNOME Terminal > Profile > Colors > Built-in Schemes  
