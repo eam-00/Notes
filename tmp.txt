@@ -76,8 +76,6 @@ Connect to staging
 
 
 11e:
-    - .fonts.conf
-
 
 Check GNOME:
              - GNOME Terminal > Profile > Colors > Built-in Schemes  
