@@ -37,7 +37,7 @@ SAB:
 -- Carre
 
 -- ht:
-      - Backup t410 -> ht
+      - Backup t410 -> ht- check Docs
 
 -- Lappie:
           - Firefox
