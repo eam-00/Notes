@@ -28,7 +28,7 @@ Lexar Negro :: Sandisk
 SAB:
 ---
 -- Print:
-         ABL
+         - ABL
 -- Guantes
 -- Tierra
 -- Corderoy
