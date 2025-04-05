@@ -30,7 +30,7 @@ SAB:
 -- Print:
 
 -- M:
-     - Aceite
+
 -- Guantes
 -- Tierra
 -- Corderoy
