@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
 
 
 -- ht:
-      - Backup t410 -> ht- check Docs
+
 
 -- Lappie:
           - Firefox
