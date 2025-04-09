@@ -30,7 +30,7 @@ MIE:
 ---
 -- Pinto C [?]
 -- MBA
--- Guantes
+
 -- Tierra
 -- Corderoy
 
