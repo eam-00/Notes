@@ -42,6 +42,7 @@ MIE:
 
 -- Lappie:
           - Firefox
+          - Backups
 - Armar ventilador
 
 
