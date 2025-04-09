@@ -28,6 +28,7 @@ Lexar Negro :: Sandisk
 ---
 MIE:
 ---
+-- Pinto C [?]
 -- MBA
 -- Guantes
 -- Tierra
