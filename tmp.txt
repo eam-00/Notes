@@ -29,6 +29,7 @@ VIE:
 -- MBA
 -- Guantes
 -- Pan Hamburguesas
+-- Bandana [?]
 -- Corderoy
 -- M-65s -> PUSH
 
