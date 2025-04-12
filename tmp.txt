@@ -49,6 +49,7 @@ SAB:
 - Armar ventilador
 
 DOM:
+-- Guardar agua
 
 Parquetistas:
 ------------
