@@ -53,6 +53,7 @@ DOM:
 ---
 -- Guardar agua
 -- Batts:
+         - S8
 
 
 Parquetistas:
