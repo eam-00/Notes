@@ -27,7 +27,7 @@ Lexar Negro :: Sandisk
 -- M-65s -> PUSH
 
 -- Turno CAT scan
--- Car: SCDT
+-- Caro: SCDT
 -- MDQ
 
 
