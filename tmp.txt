@@ -46,7 +46,7 @@ Lexar Negro :: Sandisk
 DOM:
 ---
 --> Lasagna
--- Guardar agua
+
 -- Batts:
          - S8
 -- TRRTs
