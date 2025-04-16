@@ -27,7 +27,6 @@ MIE:
 -- Bandana [?]
 -- Corderoy
 -- M-65s -> PUSH
-
 -- Turno CAT scan
 -- Caro: SCDT
 -- MDQ
