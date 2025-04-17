@@ -25,7 +25,7 @@ Lexar Negro :: Sandisk
 JUE:
 ---
 -- Bandana [?]
--- Corderoy
+-- Corderoy [?]
 -- M-65s -> PUSH
 -- Turno CAT scan
 -- Caro: SCDT
