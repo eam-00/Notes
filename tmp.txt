@@ -32,7 +32,7 @@ VIE:
 
            - Biblioteca
 -- Batts
--- ChK Bcos
+
 -- Bandana [?]
 
 -- M-65s -> PUSH
