@@ -26,7 +26,7 @@ VIE:
 ---
 -- M:
     - Mullah
-    - Tuppers
+
      <- Albondigas
 -- Limpiar:
 
