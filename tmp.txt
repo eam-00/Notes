@@ -29,7 +29,7 @@ VIE:
     - Tuppers
      <- Albondigas
 -- Limpiar:
-           - Mesada
+
            - Biblioteca
 -- Batts
 -- ChK Bcos
