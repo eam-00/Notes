@@ -27,6 +27,7 @@ DOM:
 -> Pizza
 -> Detritus
 -> Queso en Fetas
+-> Yogurt
 -- Limpiar:
            - Mesada
            - Biblioteca
