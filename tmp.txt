@@ -27,7 +27,7 @@ DOM:
 -> Pizza
 -> Detritus
 -- Limpiar:
-
+           - Mesada
            - Biblioteca
 -- Batts
 
