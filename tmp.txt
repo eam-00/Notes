@@ -28,6 +28,9 @@ DOM:
 -> Detritus
 -> Queso en Fetas
 -> Yogurt
+
+LUN:
+
 -- Limpiar:
            - Mesada
            - Biblioteca
