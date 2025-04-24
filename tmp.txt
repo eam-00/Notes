@@ -23,7 +23,7 @@ Lexar Negro :: Sandisk
 
 
 ---
-MIE:
+JUE:
 ---
 -- M:
     - PF [?]
