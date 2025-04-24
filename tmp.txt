@@ -25,6 +25,8 @@ Lexar Negro :: Sandisk
 ---
 JUE:
 ---
+-- C:
+
 -- M:
     - PF [?]
 -- Limpiar:
