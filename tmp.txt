@@ -32,6 +32,7 @@ VIE:
 -- Limpiar:
            - Mesada
            - Biblioteca
+-- Limpiar casita
 -- Batts
 
 -- Bandana [?]
