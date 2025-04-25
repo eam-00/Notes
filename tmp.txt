@@ -28,7 +28,7 @@ VIE:
 
 
 -- M:
-    - PF [?]
+
 -- ChK Bcos
 -- Limpiar:
            - Mesada
