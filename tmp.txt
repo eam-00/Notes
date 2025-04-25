@@ -29,7 +29,7 @@ VIE:
 
 -- M:
     - PF [?]
--- ChK Bocs
+-- ChK Bcos
 -- Limpiar:
            - Mesada
            - Biblioteca
