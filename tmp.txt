@@ -38,6 +38,7 @@ Verduleria:
 DOM:
 
 -- Print:
+         - Movistar
 
 -- Limpiar:
            - Mesada
