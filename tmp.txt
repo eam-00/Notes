@@ -33,7 +33,7 @@ El Bocado:
 -- Limpiar:
            - Mesada
 
--- Batts
+-- Batts:
         - mbp-00
         - mbp-01
 
