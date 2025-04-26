@@ -32,7 +32,7 @@ VIE:
 -- ChK Bcos
 -- Limpiar:
            - Mesada
-           - Biblioteca
+
 
 -- Batts
 
