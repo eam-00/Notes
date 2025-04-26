@@ -27,6 +27,7 @@ SAB:
 
 El Bocado:
           - Muzzarella
+          - Jamon Cocido
 
 ---
 VIE:
