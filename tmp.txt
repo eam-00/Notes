@@ -26,7 +26,7 @@ SAB:
 ---
 El Bocado:
           - Muzzarella
-          - Jamon Cocido
+          - Jamon Cocido - 150 GR
 
 Verduleria:
            - Tomates
