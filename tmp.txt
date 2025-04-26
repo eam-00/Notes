@@ -30,6 +30,7 @@ El Bocado:
 
 Verduleria:
            - Tomates
+           - Mandarinas
 
 
 -- Limpiar:
