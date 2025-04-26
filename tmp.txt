@@ -28,9 +28,7 @@ El Bocado:
           - Muzzarella
           - Jamon Cocido
 
----
 
----
 
 -- Limpiar:
            - Mesada
