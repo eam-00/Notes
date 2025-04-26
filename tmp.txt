@@ -39,6 +39,7 @@ DOM:
 
 -- Print:
          - Movistar
+         - Edenor
 
 -- Limpiar:
            - Mesada
