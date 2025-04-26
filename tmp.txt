@@ -27,6 +27,7 @@ SAB:
 El Bocado:
           - Muzzarella - 200 GR
           - Jamon Cocido - 150 GR
+          - Queso - 100 GR
 
 Verduleria:
            - Tomates
