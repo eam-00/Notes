@@ -31,7 +31,7 @@ Verduleria:
            - Ciruelas
 
 ---
-DOM:
+
 ---
 
 
