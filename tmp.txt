@@ -41,7 +41,6 @@ Lexar Negro :: Sandisk
 
 -- Batts:
 
-        - mbp-01
 
 
 -- The Black Angels
