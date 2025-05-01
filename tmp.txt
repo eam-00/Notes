@@ -27,7 +27,7 @@ Lexar Negro :: Sandisk
 MIE:
 ---
 -- M:
-     - ChK Bcos
+
 
 -- C:
      - TS
