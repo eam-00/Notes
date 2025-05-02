@@ -90,7 +90,6 @@ Connect to staging
 
 
 
-
 Check GNOME:
              - GNOME Terminal > Profile > Colors > Built-in Schemes  
 
