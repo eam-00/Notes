@@ -25,6 +25,8 @@ Lexar Negro :: Sandisk
 M:
 -
 <- Tierra
+<- Asado
+
 ---
 SAB:
 ---
