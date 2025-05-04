@@ -48,6 +48,7 @@ El Bocado:
 -- Batts:
          - 11e
          - mba-00
+         - dell-7290
 
 
 -- The Black Angels
