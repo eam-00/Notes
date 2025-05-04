@@ -43,7 +43,7 @@ El Bocado:
 DOM:
 
 -> Pechugas
-
+-> Detritus
 
 
 -- Batts:
