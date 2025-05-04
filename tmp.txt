@@ -29,7 +29,7 @@ SAB:
 ---
 -> Helado
 -> Pechugas
--> Papeles
+
 -> Update Dropbox
 
 -- Print:
