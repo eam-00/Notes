@@ -50,6 +50,7 @@ El Bocado:
          - mba-00
          - dell-7290
          - S8
+         - S10
 
 
 -- The Black Angels
