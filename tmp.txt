@@ -49,7 +49,6 @@ Lexar Negro :: Sandisk
 
          - 11e
 
-         - dell-7290
          - S8
 
 
