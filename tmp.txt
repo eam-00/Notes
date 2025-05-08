@@ -25,6 +25,7 @@ Lexar Negro :: Sandisk
 JUE:
 ---
 -- C:
+     - TS
 -- Vallon: ChK
 
 
