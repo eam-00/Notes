@@ -51,6 +51,7 @@ Lexar Negro :: Sandisk
 
 
 -- The Black Angels
+-- 2600
 -- Bandana [?]
 -- M-65s -> PUSH [?]
 -- Caro: SCDT
