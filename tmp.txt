@@ -24,7 +24,8 @@ Lexar Negro :: Sandisk
 ---
 SAB:
 ---
-<- UW Vid
+
+-> UW Vid
 <- PDF
 
 
