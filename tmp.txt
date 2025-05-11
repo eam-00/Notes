@@ -33,7 +33,7 @@ DOM:
 ---
 --> Milanesas
 --> Guiso
--> Zapallo
+--> Zapallo
 -> Detritus
 -> Queso fetas
 -- test GNOME @m1330
