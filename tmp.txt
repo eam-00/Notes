@@ -34,6 +34,7 @@ DOM:
 --> Milanesas
 -> Guiso
 -> Zapallo
+-> Detritus
 -- test GNOME @m1330
 -- TRRTs
 
