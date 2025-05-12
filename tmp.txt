@@ -39,7 +39,7 @@ DOM:
 --> Guiso
 
 --> Detritus
---> Queso fetas
+
 -- test GNOME @m1330
 -- TRRTs
 
