@@ -25,6 +25,7 @@ Lexar Negro :: Sandisk
 LUN:
 
 -- Pinto: Push C [?]
+-- Toallin
 
 
 -> UW Vid
