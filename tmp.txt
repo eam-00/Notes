@@ -24,6 +24,8 @@ Lexar Negro :: Sandisk
 
 LUN:
 
+-- Pinto: Push C [?]
+
 
 -> UW Vid
 -> PDF
