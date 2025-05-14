@@ -25,6 +25,7 @@ Lexar Negro :: Sandisk
 MIE:
 ---
 -- M:
+     -> info V Dom
 
 
 
