@@ -24,6 +24,7 @@ Lexar Negro :: Sandisk
 ---
 JUE:
 ---
+-- C:
 -- M:
      -> info V Dom
      <- Mandarinas
