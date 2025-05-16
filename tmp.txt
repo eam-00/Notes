@@ -28,7 +28,7 @@ JUE:
 
 -- M:
 
-     -> info V Dom
+
      <- Mandarinas
 
 
