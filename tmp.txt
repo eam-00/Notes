@@ -27,7 +27,7 @@ JUE:
 -- C:
 
 -- M:
-     -> Tuppers
+
      -> info V Dom
      <- Mandarinas
 
