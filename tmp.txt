@@ -529,7 +529,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre: Bolsitas | St. Tropez: Brillo y Luz | Turrones | Agua | | | | 
+- Carre: Bolsitas | | Turrones | Agua | | | | 
 
 
 
