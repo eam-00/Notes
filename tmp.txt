@@ -29,7 +29,7 @@ Lexar Negro :: Sandisk
 ---
 DOM:
 ---
--> White KBD
+
 -> Ballantine's
 
 -> Soporte lappie
