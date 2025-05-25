@@ -25,7 +25,7 @@ Lexar Negro :: Sandisk
 DOM:
 ---
 - Print:
-        - Movistar
+
         - Edenor
 -> Lasagna
 -> Chocolate
