@@ -61,7 +61,7 @@ dafont.com/gidole.font
 
 
 
--- Lappie:
+
           - Firefox
 
 - Armar ventilador
