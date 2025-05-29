@@ -29,6 +29,7 @@ JUE:
      - TS
 -- M:
      - Tuppers
+-- Reboot Chromebook
 
 
 
