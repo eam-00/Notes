@@ -34,7 +34,7 @@ VIE:
 
 SAB:
 
-- Afeitadora
+-> Afeitadora
 - Refill Shampoo
 
 
