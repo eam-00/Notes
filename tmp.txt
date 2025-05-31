@@ -46,6 +46,7 @@ Pan
 
 Morrones
 Mandarinas
+Zapallo
 
 Print:
       - FEMEDICA
