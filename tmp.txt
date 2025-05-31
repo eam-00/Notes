@@ -45,6 +45,7 @@ El Bocado:
 Pan
 
 Morrones
+Mandarinas
 
 Print:
       - FEMEDICA
