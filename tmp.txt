@@ -24,6 +24,7 @@ Lexar Negro :: Sandisk
 ---
 MAR:
 ---
+    - Pinto [PUSH]
     - FarmaCity
 
 
