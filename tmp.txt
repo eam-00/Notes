@@ -28,7 +28,7 @@ MAR:
     - FarmaCity
 
 
-LUN:
+
 -- M:
 
      - Boletas
