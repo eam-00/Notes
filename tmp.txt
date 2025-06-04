@@ -49,7 +49,7 @@ Morrones
 Mandarinas
 Zapallo
 
-Print:
+
 
 
 Material-Solarized-LW theme:
