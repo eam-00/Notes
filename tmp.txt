@@ -27,7 +27,7 @@ JUE:
     - Pinto [PUSH]
 
 
-    - Limpiar C
+
 
 
 
