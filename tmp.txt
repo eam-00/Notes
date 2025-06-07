@@ -39,7 +39,7 @@ DOM:
          - S10
 
 LUN:
-
+    - ChK Alq/ Pinto
 
 
 
