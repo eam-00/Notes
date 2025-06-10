@@ -496,7 +496,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre: Bolsitas | Leches | | Azucar | Agua | Mini Chocos Milka | Titas | 
+- Carre: Bolsitas | Leches | Azucar | Agua | Mini Chocos Milka | Titas | 
 
 
 
