@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
 
 
 ---
-Mar:
+MAR:
 ---
     - ChK Alq/ Pinto
 
