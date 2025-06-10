@@ -38,7 +38,7 @@ LUN:
 ---
     - ChK Alq/ Pinto
     - M:
-        - Laundry
+
         - Burn papers
 
 
