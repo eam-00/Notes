@@ -35,6 +35,7 @@ Lexar Negro :: Sandisk
 ---
 MIE:
 ---
+    - C:
     - M:
         - Burn papers
     - Batts:
