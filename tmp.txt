@@ -40,7 +40,7 @@ MIE:
     - M:
         - Burn papers
     - Batts:
-            - x220
+            - x220 [Large]
             - x2202
 
 
