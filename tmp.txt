@@ -68,7 +68,7 @@ dafont.com/gidole.font
 
 
 -- Bandana [?]
--- M-65s -> PUSH [?]
+
 
 
 
