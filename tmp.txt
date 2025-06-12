@@ -39,6 +39,7 @@ JUE:
     - Lavar:
             - Camisa
             - Toallin
+            - Repasador
 
     - Limpiar casita
 
