@@ -36,7 +36,8 @@ Lexar Negro :: Sandisk
 JUE:
 ---
     - Cortar pelo
-    - Lavar cosas
+    - Lavar:
+
     - Limpiar casita
 
     - M:
