@@ -36,7 +36,6 @@ Lexar Negro :: Sandisk
 MIE:
 ---
 
-        - Cisco thing
     - PFs
     - M:
         - Burn papers
