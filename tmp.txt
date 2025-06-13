@@ -41,7 +41,7 @@ JUE:
             - Toallin
             - Repasador
 
-    - Limpiar casita
+
 
     - M:
         - Tuppers
