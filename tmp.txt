@@ -38,7 +38,7 @@ JUE:
     - Cortar pelo
     - Lavar:
             - Camisa
-            - Toallin
+
             - Repasador
 
 
