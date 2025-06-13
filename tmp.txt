@@ -39,8 +39,6 @@ JUE:
     - Lavar:
             - Camisa
 
-            - Repasador
-
 
 
     - M:
