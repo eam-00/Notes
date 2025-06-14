@@ -43,7 +43,7 @@ VIE:
 
     - M:
 
-    - Batts:
+
             - x220 [Large]
             - x2202
             - x201t
