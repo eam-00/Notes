@@ -28,6 +28,7 @@ LUN:
 Repasar banadera
 M:
   - Laundry
+  - Tuppers
 
 
 
