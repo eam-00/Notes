@@ -27,6 +27,7 @@ LUN:
 ---
 Repasar banadera
 M:
+  - Laundry
 
 
 
