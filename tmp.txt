@@ -27,6 +27,7 @@ MAR:
 ---
 - Lechuga
 - M:
+   - <- Bananas
 
 Batt:
      - 11e
