@@ -27,7 +27,7 @@ MAR:
 ---
 - Lechuga
 
-  - Tuppers
+
 Batt:
      - 11e
 
