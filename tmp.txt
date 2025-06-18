@@ -505,7 +505,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre: Bolsitas | Leches | Manteca | Agua | Queso Crema | Merengadas | Alfajores Terrabusi 
+- Carre: Bolsitas | Leches | Manteca | Agua | Queso Crema | | Alfajores Terrabusi 
 
 
 
