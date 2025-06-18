@@ -28,7 +28,7 @@ MAR:
 
 
 - M:
-   - <- Bananas
+
 
 Batt:
      - 11e
