@@ -25,6 +25,7 @@ LUN:
 ---
 - M:
     - Tupper
+    - Lavanderia
 
 - PFs
 - Guano off
