@@ -40,12 +40,7 @@ Batt:
      - S8
 
 
----
-SAB:
----
 
-
-- Ver impresora
 
 
 
