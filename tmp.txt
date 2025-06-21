@@ -42,7 +42,7 @@ SAB:
 ---
 - Imprimir cosas Nati
 - Pan Hamburguesas
-- Impresora
+- Ver impresora
 
 
 
