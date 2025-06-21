@@ -42,7 +42,7 @@ Batt:
 ---
 SAB:
 ---
-- Imprimir cosas Nati
+
 
 - Ver impresora
 
