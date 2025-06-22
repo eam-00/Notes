@@ -42,6 +42,7 @@ LUN:
 
 
 Batt:
+     - S8
      - 11e
 - Guano off
 
