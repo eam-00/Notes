@@ -40,7 +40,7 @@ LUN:
 
 
 
-
+- Ver impresora
 Batt:
      - S8
      - 11e
