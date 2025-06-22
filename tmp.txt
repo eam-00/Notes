@@ -24,7 +24,7 @@ SAB:
 ---
 
 - Milanesas Out Freezer
-- Ver impresora
+
 
 ---
 LUN:
