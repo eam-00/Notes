@@ -38,7 +38,7 @@ LUN:
 
 
 
-<- Milanesas
+
 <- Bizcochuelo
 <- Almendras c/ Chocolate
 <- Jamon
