@@ -39,7 +39,7 @@ LUN:
 
 
 
-<- Bizcochuelo
+
 
 <- Jamon
 
