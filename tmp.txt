@@ -41,7 +41,7 @@ LUN:
 
 
 
-<- Jamon
+
 
 
 Batt:
