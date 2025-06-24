@@ -30,7 +30,7 @@ MAR:
 
 - M:
     - Tuppers
-    - Lavanderia
+
     - Jamon
     - Burn Papers
 
