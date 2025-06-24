@@ -45,8 +45,7 @@ LUN:
 
 
 
-Batt:
-     - S8
+
 
 - Guano off
 
