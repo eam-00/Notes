@@ -31,6 +31,7 @@ JUE:
 
 - Lavar:
         - Toallin
+        - Repasador
 
 - M:
     - Tuppers
