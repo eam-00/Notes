@@ -30,6 +30,7 @@ JUE:
      - 11e
 
 - Lavar:
+        - Toallin
 
 - M:
     - Tuppers
