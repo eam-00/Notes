@@ -35,6 +35,7 @@ VIE:
 
     -> Burn Papers
     -> Manta Polar
+    -> Manta Electrica
 
 - TRRTs:
         - TimeCop
