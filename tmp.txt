@@ -30,7 +30,6 @@ JUE:
      - 11e
 
 - Lavar:
-
         - Repasador
 
 - M:
