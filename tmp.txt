@@ -26,7 +26,7 @@ Lexar Negro :: Sandisk
 VIE:
 ---
 - Limpiar:
-          - Bano
+
 
 - ChK Bcos
 
