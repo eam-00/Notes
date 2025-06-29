@@ -33,6 +33,7 @@ Lexar Negro :: Sandisk
     -> Burn Papers
     -> Manta Polar
     <- Manta
+    <- Lavanderia
 
 
 
