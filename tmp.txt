@@ -41,7 +41,7 @@ Lexar Negro :: Sandisk
     <- Lavanderia
 
 - Batt:
-
+       - HP Envy
 
 
 -> Crema Azul
