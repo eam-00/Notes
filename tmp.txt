@@ -41,7 +41,7 @@ MAR:
 - M:
     -> Burn Papers
 
-    <- Manta
+
     <- Lavanderia
 
 - Batt:
