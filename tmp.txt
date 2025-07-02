@@ -42,7 +42,7 @@ MAR:
     -> Burn Papers
 
 
-    <- Lavanderia
+
 
 - Batt:
        - HP Envy
