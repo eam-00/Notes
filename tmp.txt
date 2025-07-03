@@ -41,7 +41,7 @@ JUE:
 
 
 - M:
-    -> Burn Papers
+
 
 
 
