@@ -23,7 +23,7 @@ Lexar Negro :: Sandisk
 JUE:
 ---
 - Medialuna
-- Hongos
+
 
 -> MetroGas
 -> Aguas
