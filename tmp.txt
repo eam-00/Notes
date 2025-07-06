@@ -48,7 +48,7 @@ LUN:
 ---
 SAB:
 ---
--> Galles
+
 -> Crema Azul
 -> Mochila Azul
 -> Cereales
