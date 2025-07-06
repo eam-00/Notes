@@ -20,6 +20,18 @@ Lexar Negro :: Lexar Negro
 Lexar Negro :: Sandisk
 
 ---
+DOM:
+---
+
+
+-> Mochila Azul
+
+- Update Roku
+- Print:
+        - FEMEDICA
+- Upload Dropbox
+
+---
 LUN:
 ---
 - Expensas
