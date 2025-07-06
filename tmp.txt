@@ -46,7 +46,7 @@ LUN:
 - Batt:
        - HP Envy
 ---
-SAB:
+
 ---
 
 -> Crema Azul
