@@ -38,7 +38,7 @@ LUN:
 - Expensas
 - Batt:
 
-       - X220 [Large]
+
        
 
 
