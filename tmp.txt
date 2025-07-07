@@ -60,7 +60,6 @@ SAB:
 
 
 - Batt:
-       - HP Envy
 ---
 DOM:
 ---
