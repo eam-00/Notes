@@ -23,6 +23,7 @@ MAR:
 
 - Lavar:
         - Toallin
+        - Repasador
 
 
 
