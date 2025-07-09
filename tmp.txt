@@ -24,7 +24,7 @@ MAR:
 ---
 - Lavar:
 
-        - Repasador
+
 - Bizcochuelo
 
 
