@@ -537,7 +537,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre: Bolsitas | Leches | Yogurts | | | | | | 
+- Carre: Bolsitas | Leches | Yogurts | Queso Crema | | | | | 
 
 
 
