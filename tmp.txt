@@ -48,7 +48,7 @@ SAB:
 - Queso
 
 -> Algodon
--> Mochila Azul
+
 -> Tuppers
 -> Chocolate
 -> Whiskey
