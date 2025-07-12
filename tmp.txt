@@ -49,7 +49,7 @@ SAB:
 
 -> Algodon
 
--> Tuppers
+
 -> Chocolate
 -> Whiskey
 -> Jugos
