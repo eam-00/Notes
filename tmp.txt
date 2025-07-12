@@ -64,7 +64,7 @@ DOM:
 -> Manies
 -> Mantequilla Salada
 - TRRTs
-
+- cp "Miami Vice" -> USB
 
 
 
