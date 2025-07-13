@@ -42,7 +42,7 @@ Lexar Negro :: Sandisk
 ---
 SAB:
 ---
-- Pan Hamburguesas
+
 - Papas
 - Jamon Cocido
 - Queso
