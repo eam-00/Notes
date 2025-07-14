@@ -64,6 +64,8 @@ DOM:
 
 LUN:
 - Lavar polar
+- Lavar Levi's
+
 - cp "Miami Vice" -> USB
 
 
