@@ -62,7 +62,7 @@ DOM:
 -> Mantequilla Salada
 -> gnochis
 
-- TRRTs
+
 - cp "Miami Vice" -> USB
 
 
