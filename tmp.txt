@@ -63,7 +63,7 @@ DOM:
 -> gnochis
 
 LUN:
-
+- Lavar polar
 - cp "Miami Vice" -> USB
 
 
