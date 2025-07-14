@@ -62,7 +62,7 @@ DOM:
 -> Manies
 -> Mantequilla Salada
 -> gnochis
-- Depositar Pinto
+
 - TRRTs
 - cp "Miami Vice" -> USB
 
