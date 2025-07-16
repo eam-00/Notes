@@ -64,6 +64,7 @@ JUE:
    -> Tuppers
    -> M. Elec.
    <- Libros
+   <- Tarta
 
 - Lavar polar
 - Lavar Levi's
