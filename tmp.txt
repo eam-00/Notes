@@ -63,6 +63,7 @@ JUE:
 - M:
    -> Tuppers
    -> M. Elec.
+   <- Libros
 
 - Lavar polar
 - Lavar Levi's
