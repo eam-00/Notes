@@ -61,7 +61,7 @@ Lexar Negro :: Sandisk
 JUE:
 ---
 - M:
-   -> Tuppers
+
    -> M. Elec.
    <- Libros
    <- Tarta
