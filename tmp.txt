@@ -64,7 +64,7 @@ JUE:
 
 
    <- Libros
-   <- Tarta
+
 
 - Lavar polar
 - Lavar Levi's
