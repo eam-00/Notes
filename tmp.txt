@@ -62,7 +62,7 @@ JUE:
 ---
 - M:
 
-   -> M. Elec.
+
    <- Libros
    <- Tarta
 
