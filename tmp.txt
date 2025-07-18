@@ -531,7 +531,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre: Bolsitas | Leches | Espuma de afeitar | Ayudin Expert | | | | | 
+- Carre: Bolsitas | Leches |  | Ayudin Expert | | | | | 
 
 
 
