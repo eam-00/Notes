@@ -22,7 +22,7 @@ Lexar Negro :: Sandisk
 VIE:
 ---
 - ChK Bcos
-- Reboot Chromebook
+
 
 
 
