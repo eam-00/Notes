@@ -33,7 +33,7 @@ SAB:
 
 - Papas
 - Mandarinas
-- Bolsa de agua
+
 - Unas michis
 
 ---
