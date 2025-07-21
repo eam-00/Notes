@@ -19,7 +19,7 @@ Lexar Negro :: Lexar Negro
 Lexar Negro :: Sandisk
 
 LUN:
-- 11e: GNOME
+- 11e: Install Manjaro GNOME
 - Batts:
          - x220
          - x2202
