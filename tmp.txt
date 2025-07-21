@@ -28,6 +28,7 @@ LUN:
          - Kindles
 
 - M:
+    - Laundry
 
 
 
