@@ -22,6 +22,7 @@ LUN:
 - 11e: GNOME
 - Batts:
          - x220
+         - x2202
 
 
 
