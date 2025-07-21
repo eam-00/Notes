@@ -25,6 +25,7 @@ LUN:
          - x2202
          - HP Envy
          - t4192
+         - Kindles
 
 
 
