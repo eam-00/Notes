@@ -20,6 +20,7 @@ Lexar Negro :: Sandisk
 
 LUN:
 - 11e: GNOME
+- Batts:
 
 
 
