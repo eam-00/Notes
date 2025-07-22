@@ -20,6 +20,8 @@ Lexar Negro :: Sandisk
 
 MAR:
 
+- C:
+
 
 LUN:
 - 11e: Install Manjaro GNOME
