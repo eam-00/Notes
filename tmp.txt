@@ -24,7 +24,7 @@ MAR:
 - C:
     - TS
 - Lavar:
-        - Toallin
+
         - Repasador
 - Cortar pelo
 
