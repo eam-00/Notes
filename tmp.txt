@@ -31,7 +31,7 @@ MAR:
 LUN:
 - 11e: Install Manjaro GNOME
 - Batts:
-         - x220
+
          - x2202
          - HP Envy
 
