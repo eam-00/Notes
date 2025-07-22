@@ -34,7 +34,7 @@ LUN:
 - Batts:
 
          - x2202
-         - HP Envy
+
 
          - Kindles
 
