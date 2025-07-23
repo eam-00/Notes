@@ -31,7 +31,6 @@ LUN:
 
 - Batts:
 
-         - x2202
 
 
          - Kindles
