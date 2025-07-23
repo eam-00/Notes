@@ -25,7 +25,6 @@ MAR:
     - TS
 - Lavar:
 
-        - Repasador
 - Cortar pelo
 
 
