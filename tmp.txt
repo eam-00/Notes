@@ -20,6 +20,7 @@ Lexar Negro :: Sandisk
 
 
 VIE:
+- Llamar DM
 
 - Movis -> USB:
                - Mystery Train
