@@ -24,7 +24,7 @@ VIE:
 - Llamar DM
 - Llamar Cardio
 - Movis -> USB:
-               - Mystery Train
+               - Mystery Train > Subs
                - Midnight Run
                - Jackie Brown
 
