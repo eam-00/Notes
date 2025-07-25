@@ -27,6 +27,8 @@ Lexar Negro :: Sandisk
 
 
 - Cortar pelo
+M:
+  -> Card
 
 ---
 SAB:
