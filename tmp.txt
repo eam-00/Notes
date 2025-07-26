@@ -28,7 +28,6 @@ LUN:
 
 
 - Cortar pelo
-M:
 
 
 ---
