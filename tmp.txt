@@ -31,7 +31,7 @@ VIE:
 
 - Cortar pelo
 M:
-  -> Card
+
 
 ---
 SAB:
