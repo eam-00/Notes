@@ -33,7 +33,7 @@ SAB:
 ---
 - Inflar bici
 - Print:
-        - Movistar
+
         - Edenor
 -> Tafirol
 -> Almendras c/ Chocolate
