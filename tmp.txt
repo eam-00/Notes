@@ -32,7 +32,7 @@ LUN:
 SAB:
 ---
 - Inflar bici
-- Print:
+
 
 
 -> Tafirol
