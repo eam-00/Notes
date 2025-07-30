@@ -21,7 +21,8 @@ Lexar Negro :: Sandisk
 ---
 MIE:
 ---
-- Llamar lavanderia
+- Llamar:
+         - lavanderia
 - Llamar Cardio
 - Movis -> USB:
                - Mystery Train > Subs
