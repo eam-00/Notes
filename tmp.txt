@@ -22,7 +22,6 @@ Lexar Negro :: Sandisk
 MIE:
 ---
 - Llamar:
-
          - cardio
 - Movis -> USB:
                - Mystery Train > Subs
