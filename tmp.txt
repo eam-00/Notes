@@ -27,6 +27,8 @@ LUN:
 - Movis -> USB:
                - Mystery Train > Subs
 - Limpiar cocina
+- Lavar:
+
 - Picaporte Balcon
 
 
