@@ -28,7 +28,7 @@ LUN:
                - Mystery Train > Subs
 - Limpiar cocina
 - Lavar:
-
+        - Toallin
 - Picaporte Balcon
 
 
