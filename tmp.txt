@@ -26,7 +26,7 @@ LUN:
          - cardio
 - Movis -> USB:
                - Mystery Train > Subs
-
+- Limpiar cocina
 - Chk Bcos
 
 
