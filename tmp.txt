@@ -29,6 +29,7 @@ LUN:
 - Limpiar cocina
 - Lavar:
         - Toallin
+        - Repasador
 - Picaporte Balcon
 
 
