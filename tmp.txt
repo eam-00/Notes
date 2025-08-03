@@ -38,7 +38,7 @@ LUN:
 DOM:
 ---
 - Print:
-        - FEMEDICA
+
 
 -> Refill Jabon
 -> Milanesas
