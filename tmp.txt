@@ -39,7 +39,7 @@ DOM:
 ---
 - Print:
         - FEMEDICA
-        - Expensas
+
 -> Refill Jabon
 -> Milanesas
 -> Bizcochuelo [?]
