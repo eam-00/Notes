@@ -38,7 +38,7 @@ LUN:
 SAB:
 ---
 
-- cp Columbo > USB
+
 - M:
     - N TC
 - Refill Jabon
