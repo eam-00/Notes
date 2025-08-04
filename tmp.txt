@@ -32,6 +32,7 @@ LUN:
 - Picaporte Balcon
 -M:
   -> Laundry
+  -> Boletas
 
 
 ---
