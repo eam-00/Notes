@@ -21,7 +21,6 @@ Lexar Negro :: Sandisk
 ---
 LUN:
 ---
-
 - Llamar:
          - cardio
 - Movis -> USB:
