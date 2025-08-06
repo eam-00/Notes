@@ -28,6 +28,7 @@ MIE:
 - Limpiar cocina
 - ChK:
       - S8
+      - S10
 
 
 - Picaporte Balcon
