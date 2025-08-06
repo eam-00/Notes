@@ -31,7 +31,6 @@ MIE:
       - S10
 
 
-- Picaporte Balcon
 
 
 
