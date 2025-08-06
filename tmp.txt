@@ -32,7 +32,7 @@ MIE:
 - Picaporte Balcon
 -M:
   -> Laundry
-  -> Boletas
+
   -> Tupper
 
 
