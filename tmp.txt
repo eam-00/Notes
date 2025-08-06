@@ -27,7 +27,7 @@ MIE:
                - Mystery Train > Subs
 - Limpiar cocina
 - ChK:
-
+      - S8
 
 
 - Picaporte Balcon
