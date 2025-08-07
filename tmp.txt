@@ -28,7 +28,7 @@ JUE:
 - Limpiar cocina
 - ChK:
       - S8
-      - S10
+
 
 
 
