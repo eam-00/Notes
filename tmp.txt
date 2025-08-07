@@ -539,7 +539,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre: Bolsitas | Leches | Clight Maracuya/ Limonada | Esponjas | |  | | | 
+- Carre: Bolsitas | Leches | Clight Maracuya/ Limonada |  | |  | | | 
 
 
 
