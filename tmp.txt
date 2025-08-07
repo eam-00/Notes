@@ -21,7 +21,7 @@ Lexar Negro :: Sandisk
 ---
 
 ---
-- Llamar:
+
 
 - Movis -> USB:
                - Mystery Train > Subs
