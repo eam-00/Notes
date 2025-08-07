@@ -27,7 +27,7 @@ JUE:
                - Mystery Train > Subs
 - Limpiar cocina
 - ChK:
-      - S8
+
 
 
 
