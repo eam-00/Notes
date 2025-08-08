@@ -26,7 +26,7 @@ VIE:
                - Mystery Train > Subs
 - Limpiar cocina
 -M:
-
+   -> J
 - ChK Bcos
 
 
