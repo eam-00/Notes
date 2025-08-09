@@ -27,7 +27,7 @@ VIE:
 - Limpiar cocina
 -M:
 
-   -> Polenta
+
 - ChK Bcos
 
 ---
