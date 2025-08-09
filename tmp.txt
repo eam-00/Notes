@@ -32,7 +32,8 @@ VIE:
 SAB:
 ---
    El Bocado
-   Verduleria
+   Verduleria:
+              - 1/2 KG Zapallitos
 
 ---
 LUN:
