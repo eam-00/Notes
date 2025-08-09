@@ -34,6 +34,7 @@ SAB:
    El Bocado
    Verduleria:
               - 1/2 KG Zapallitos
+              - 1/2 KG Cebollas
 
 ---
 LUN:
