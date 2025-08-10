@@ -21,7 +21,7 @@ Lexar Negro :: Sandisk
 ---
 VIE:
 ---
-- Batt: Kindle
+
 - Movis -> USB:
                - Mystery Train > Subs
 - Limpiar cocina
