@@ -51,6 +51,7 @@ LUN:
 ---
     - PFs
     - Pinto
+- Limpiar cocina
     - M:
         - Lavanderia
         - Tupper
