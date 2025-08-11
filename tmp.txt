@@ -49,7 +49,7 @@ DOM:
 ---
 LUN:
 ---
-    - PFs
+
     - Pinto
     - Limpiar cocina
     - M:
