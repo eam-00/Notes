@@ -42,7 +42,7 @@ DOM:
 ---
     -> Empanadas
 
-    -> Haedo Pollo Frito
+
     -> Queso en Fetas
 
 
