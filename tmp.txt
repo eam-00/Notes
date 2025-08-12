@@ -41,7 +41,7 @@ SAB:
 DOM:
 ---
     -> Empanadas
-    -> Chow Mien
+
     -> Haedo Pollo Frito
     -> Queso en Fetas
 
