@@ -50,7 +50,7 @@ LUN:
 
     - Limpiar cocina
     - M:
-        - Lavanderia
+
         - Tupper
 
 
