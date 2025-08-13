@@ -46,7 +46,7 @@ DOM:
     - Limpiar cocina
     - M:
 
-        - Tupper
+
 
 
 
