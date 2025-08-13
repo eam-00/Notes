@@ -47,7 +47,7 @@ DOM:
 LUN:
 ---
 
-    - Pinto
+
     - Limpiar cocina
     - M:
         - Lavanderia
