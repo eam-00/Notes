@@ -27,7 +27,7 @@ Lexar Negro :: Sandisk
 VIE:
 ---
     - Compras
-    - Michis Food
+
     - M:
        - Tupper
 - ChK Bcos
