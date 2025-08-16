@@ -51,7 +51,7 @@ DOM:
 LUN:
     - Limpiar cocina
     - M:
-       - Tupper
+       - Tuppers
 
 
 
