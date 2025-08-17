@@ -60,7 +60,7 @@ LUN:
 
 
 - Get movies:
-             -Rushmore
+             - Rushmore
 
 
 
