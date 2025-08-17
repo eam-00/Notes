@@ -47,8 +47,9 @@ DOM:
 
 
 
-
+---
 LUN:
+---
     - Limpiar cocina
     - M:
        - Lavanderia
