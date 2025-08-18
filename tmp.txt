@@ -40,7 +40,7 @@ DOM:
 ---
     - Ordenar comida/ piedras michis
 
-    -> Lasagna
+
     -> Empanadas
 
     -> Jamon en Fetas
