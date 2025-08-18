@@ -39,7 +39,7 @@ Lexar Negro :: Sandisk
 DOM:
 ---
     - Ordenar comida/ piedras michis
-    -> Pepsi
+
     -> Lasagna
     -> Empanadas
     -> Panes
