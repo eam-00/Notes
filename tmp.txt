@@ -39,7 +39,6 @@ Lexar Negro :: Sandisk
 DOM:
 ---
     - Ordenar comida/ piedras michis
-
     -> Empanadas
 
     -> Jamon en Fetas
