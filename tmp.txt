@@ -50,7 +50,7 @@ LUN:
     - Full ChK Webmail
     - Limpiar cocina
     - M:
-       - Lavanderia
+
        - Tuppers
 
 
