@@ -55,6 +55,7 @@ MIE:
 ---
    -> Tupper
    -> CRB
+-> USB Key
 
 ---
 JUE:
