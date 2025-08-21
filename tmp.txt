@@ -52,7 +52,7 @@ MIE:
 ---
 
    -> CRB
--> USB Key
+
 -> Moto G4 Plus
 
 ---
