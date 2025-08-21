@@ -61,7 +61,7 @@ VIE:
 
     - Push MReddit
     - Limpiar cocina
-- Get movies:
+    - Get movies:
              - Rushmore
              - Blackhat
 
