@@ -51,11 +51,6 @@ Lexar Negro :: Sandisk
 
 
 
----
-
----
-
-
 VIE:
 
     - Push MReddit
