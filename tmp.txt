@@ -50,7 +50,7 @@ VIE:
 ---
     - Push MReddit
     - Limpiar cocina
-    - ChK Bcos
+
     - Get movies:
                  - Rushmore
                  - Blackhat
