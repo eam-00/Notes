@@ -52,7 +52,7 @@ VIE:
     - Limpiar cocina
 
     - Get movies:
-                 - Rushmore
+
 
 - Mystery Train > Subs
 
