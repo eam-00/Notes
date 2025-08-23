@@ -51,7 +51,7 @@ VIE:
     - Push MReddit
     - Limpiar cocina
 
-    - Get movies:
+
 
 
 - Mystery Train > Subs
