@@ -70,7 +70,7 @@ LUN:
    - PF
    - M:
        - Cable celular
-
+    - Limpiar cocina
 
 
 
