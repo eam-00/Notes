@@ -24,7 +24,7 @@ MIE:
     - M:
 
         <- Papers
-        <- Laundry
+
 
 
 
