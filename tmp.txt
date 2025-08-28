@@ -65,7 +65,7 @@ MIE:
 
 
 
-       - Cable celular
+
     - Limpiar cocina
 ---
 SAB:
