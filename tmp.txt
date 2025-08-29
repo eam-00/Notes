@@ -118,6 +118,7 @@ Material-Solarized-LW theme:
 pling.com/p/1315063
 
 Clearlooks Phenix
+https://github.com/jpfleury/clearlooks-phenix
 
 XFCE ClassicLooks
 
