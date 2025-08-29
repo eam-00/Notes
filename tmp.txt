@@ -21,11 +21,12 @@ Lexar Negro :: Sandisk
 ---
 VIE:
 ---
+    - G:
     - M:
         <- Papers
         - Cable celular
 
-
+ 
 
 
 
