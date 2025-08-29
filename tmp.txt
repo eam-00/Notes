@@ -23,6 +23,7 @@ VIE:
 ---
     - G:
         - SLO -> J
+        - ChK schedule
     - M:
         <- Papers
         - Cable celular
