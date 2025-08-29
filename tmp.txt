@@ -117,6 +117,10 @@ SAB:
 Material-Solarized-LW theme:
 pling.com/p/1315063
 
+Clearlooks Phenix
+
+XFCE ClassicLooks
+
 kora-grey icons:
 pling.com/p/1256209/
 
