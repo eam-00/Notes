@@ -70,6 +70,7 @@ SAB:
 ---
     - Print:
             - Expensas
+            - FEMEDICA
 
     - Netflix:
               - DEVO
