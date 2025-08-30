@@ -22,7 +22,7 @@ Lexar Negro :: Sandisk
 VIE:
 ---
     - G:
-        - SLO -> J
+
         - ChK schedule -> Wp J
     - M:
         <- Papers
