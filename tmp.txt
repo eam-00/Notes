@@ -22,7 +22,6 @@ Lexar Negro :: Sandisk
 VIE:
 ---
     - G:
-        - ChK schedule -> Wp J
     - M:
         <- Papers
         - Cable celular
