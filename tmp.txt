@@ -73,7 +73,7 @@ DOM:
 ---
     - Print:
             - Expensas
-            - FEMEDICA
+
     -> Pollo
 
     - Netflix:
