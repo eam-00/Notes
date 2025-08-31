@@ -72,7 +72,7 @@ Lexar Negro :: Sandisk
 DOM:
 ---
     - Print:
-            - Expensas
+
 
     -> Pollo
 
