@@ -22,7 +22,7 @@ Lexar Negro :: Sandisk
 
 ---
     - M:
-        -> Aguas
+        -> Boletas: Aguas
         <- Papers
         - Cable celular
 
