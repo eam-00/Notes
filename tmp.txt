@@ -77,7 +77,7 @@ SAB:
 
     -> Teclado blanco
     -> Pollo
-    -> Pan De Hamburguesas
+
     - Netflix:
               - DEVO
     <- The Usual Suspects
