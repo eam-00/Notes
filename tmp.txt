@@ -75,7 +75,7 @@ SAB:
 ---
 
 
-    -> Teclado blanco
+
     -> Pollo
 
     - Netflix:
