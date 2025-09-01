@@ -21,6 +21,7 @@ Lexar Negro :: Sandisk
 ---
 LUN:
 ---
+    - Cortar pelo
     - M:
         -> Boletas:
                     - Aguas
