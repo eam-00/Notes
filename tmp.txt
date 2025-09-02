@@ -27,7 +27,7 @@ LUN:
                     - Aguas
                     - Expensas
                     - FEMEDICA
-        <- Papers
+
         - Cable celular
 
  
