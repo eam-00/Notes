@@ -28,7 +28,7 @@ MIE:
     - M:
         -> Boletas:
 
-                    - Expensas
+
                     - FEMEDICA
         - Cable celular
 
