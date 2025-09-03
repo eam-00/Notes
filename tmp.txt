@@ -27,7 +27,7 @@ MIE:
     - Cortar pelo
     - M:
         -> Boletas:
-                   - Add values -> GH
+
                     - Expensas
                     - FEMEDICA
         - Cable celular
