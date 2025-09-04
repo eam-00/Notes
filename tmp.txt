@@ -21,7 +21,6 @@ Lexar Negro :: Sandisk
 ---
 MIE:
 ---
-
     - Cortar pelo
     - M:
 
