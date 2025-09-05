@@ -30,7 +30,6 @@ VIE:
 
 
 
-
     - cp "The Usual Suspects" -> pendrive
 
 
