@@ -24,7 +24,6 @@ JUE:
     - ChK Bcos
     - Cortar pelo
 
-
         - Cable celular
 
  
