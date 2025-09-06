@@ -79,6 +79,7 @@ SAB:
     - Gnochis
     - Sync USB
 
+    - X140E:
 
     - Netflix:
               - DEVO
