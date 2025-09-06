@@ -23,7 +23,7 @@ VIE:
 ---
 
 
-    - ChK Bcos
+
     - Cortar pelo
 
         - Cable celular
