@@ -80,6 +80,7 @@ SAB:
     - Sync USB
 
     - X140E:
+            - Hora
 
     - Netflix:
               - DEVO
