@@ -92,6 +92,7 @@ SAB:
               - DEVO
 
 DOM:
+    - Cargar Batts
 
 LUN:
     - Cortar pelo
