@@ -88,6 +88,7 @@ SAB:
               - DEVO
 
 LUN:
+    - Cortar pelo
     - Depositas exp
 
 
