@@ -96,6 +96,7 @@ DOM:
     -> Gochis
     -> Milanesas
     -> Alfajor Mar Del Plata
+    -> Pan
     - Cargar Batts
 
 LUN:
