@@ -98,6 +98,7 @@ DOM:
     - Cargar Batts
 
 LUN:
+    - Limpiar cocina
     - Cortar pelo
     - Depositas exp
 
