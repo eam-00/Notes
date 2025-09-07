@@ -97,6 +97,7 @@ DOM:
     -> Milanesas
     -> Alfajor Mar Del Plata
     -> Pan
+    -> Queso en fetas
     - Cargar Batts
 
 LUN:
