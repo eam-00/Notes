@@ -92,7 +92,7 @@ DOM:
 ---
 
     -> T410
-    -> Gochis
+    -> Gnochis
     -> Milanesas
     -> Alfajor Mar Del Plata
     -> Pan
