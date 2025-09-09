@@ -96,7 +96,7 @@ MAR:
     - Pinto
     - Limpiar cocina
     - Cortar pelo
-    - Depositas exp
+    - Depositar exp
 ---
 MIE:
 ---
