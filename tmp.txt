@@ -95,7 +95,7 @@ DOM:
     -> Queso en fetas
     - Cargar Batts
 ---
-LUN:
+
 ---
     - Pinto
     - Limpiar cocina
