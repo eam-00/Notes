@@ -81,9 +81,7 @@ Lexar Negro :: Sandisk
 
     - Netflix:
               - DEVO
----
 
----
 
     -> T410
     -> Gnochis
