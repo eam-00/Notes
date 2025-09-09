@@ -89,7 +89,7 @@ Lexar Negro :: Sandisk
     -> Alfajor Mar Del Plata
     -> Pan
     -> Queso en fetas
-    - Cargar Batts
+
 ---
 MAR:
 ---
