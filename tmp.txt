@@ -70,7 +70,6 @@ Lexar Negro :: Sandisk
 
 
 
-
     - X140E:
             - Hora
             - Theming
