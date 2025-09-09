@@ -70,7 +70,7 @@ Lexar Negro :: Sandisk
 
 
 
-    - Sync USB
+
 
     - X140E:
             - Hora
