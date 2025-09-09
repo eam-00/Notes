@@ -93,6 +93,7 @@ Lexar Negro :: Sandisk
 ---
 MAR:
 ---
+    - Cargar Batts
     - Pinto
     - Limpiar cocina
     - Cortar pelo
