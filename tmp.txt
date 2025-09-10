@@ -95,7 +95,7 @@ MIE:
     - Pinto
     - Limpiar cocina
     - Cortar pelo
-    - Depositar exp
+
 ---
 MIE:
 ---
