@@ -86,7 +86,7 @@ Lexar Negro :: Sandisk
     -> Gnochis
 
     -> Alfajor Mar Del Plata
-    -> Pan
+
     -> Queso en fetas
 
 ---
