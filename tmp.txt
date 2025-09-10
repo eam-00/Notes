@@ -90,7 +90,7 @@ Lexar Negro :: Sandisk
     -> Queso en fetas
 
 ---
-MAR:
+
 ---
     - Cargar Batts
     - Pinto
