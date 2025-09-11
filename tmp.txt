@@ -83,7 +83,6 @@ Lexar Negro :: Sandisk
 
 
     -> T410
-
     -> Queso en fetas
 
 ---
