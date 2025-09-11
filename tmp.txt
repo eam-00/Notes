@@ -91,7 +91,7 @@ Lexar Negro :: Sandisk
 ---
 MIE:
 ---
-    - PFs
+
     - Cargar Batts
     - Pinto
     - Limpiar cocina
