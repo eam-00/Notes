@@ -86,7 +86,7 @@ Lexar Negro :: Sandisk
     -> Queso en fetas
 
 ---
-MIE:
+
 ---
 
     - Cargar Batts
