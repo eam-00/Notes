@@ -96,6 +96,7 @@ VIE:
     - M:
        -> Tuppers
        <- Tortilla
+       <- Pechugas
 
 
 
