@@ -95,6 +95,7 @@ VIE:
     - Limpiar cocina
     - M:
        -> Tuppers
+       <- Tortilla
 
 
 
