@@ -104,6 +104,7 @@ VIE:
 ---
 SAB:
 ---
+    -> Pan
     -> Alcohol
     -> Radio
     - Ordenar piedras
