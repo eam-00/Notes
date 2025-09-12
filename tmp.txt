@@ -86,7 +86,7 @@ Lexar Negro :: Sandisk
 
 
 ---
-JUE:
+
 ---
     - Cargar Batts
     - Pinto
