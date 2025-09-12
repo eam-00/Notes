@@ -93,7 +93,7 @@ VIE:
     - Limpiar cocina
     - Cortar pelo
     - Limpiar cocina
-    -M:
+    - M:
 
 
 
