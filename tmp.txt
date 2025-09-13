@@ -89,7 +89,7 @@ VIE:
 ---
     - Cargar Batts
     - Pinto
-    - Limpiar cocina
+
     - Cortar pelo
     - Limpiar cocina
     - M:
