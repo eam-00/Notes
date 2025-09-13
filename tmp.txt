@@ -94,7 +94,6 @@ VIE:
     - Limpiar cocina
     - M:
        <- Tortilla
-       <- Pechugas
        <- Limones
 
 
