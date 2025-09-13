@@ -93,7 +93,6 @@ VIE:
     - Cortar pelo
     - Limpiar cocina
     - M:
-       -> Tuppers
        <- Tortilla
        <- Pechugas
        <- Limones
