@@ -32,6 +32,14 @@ DOM:
     - Ordenar piedras michis
 
 
+---
+LUN:
+---
+    - Cargar Batts
+    - Pinto
+    - Cortar pelo
+    - Limpiar cocina
+
         - Cable celular
 
  
@@ -93,13 +101,7 @@ DOM:
 
 
 
----
-LUN:
----
-    - Cargar Batts
-    - Pinto
-    - Cortar pelo
-    - Limpiar cocina
+
 
 
 
