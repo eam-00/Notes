@@ -19,7 +19,16 @@ Lexar Negro :: Lexar Negro
 Lexar Negro :: Sandisk
 
 
-
+---
+DOM:
+---
+    <- Pechugas
+    <- Carne
+    <- Papas
+    <- Queso en Fetas
+    -> Alcohol
+    -> Radio
+    - Ordenar piedras michis
 
 
         - Cable celular
@@ -96,16 +105,7 @@ LUN:
 
 
 
----
-DOM:
----
-    <- Pechugas
-    <- Carne
-    <- Papas
-    <- Queso en Fetas
-    -> Alcohol
-    -> Radio
-    - Ordenar piedras michis
+
 
 
 
