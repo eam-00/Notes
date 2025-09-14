@@ -101,6 +101,7 @@ DOM:
 ---
     <- Pechugas
     <- Carne
+    <- Papas
 
     -> Alcohol
     -> Radio
