@@ -100,7 +100,7 @@ VIE:
 DOM:
 ---
 
-    -> Leche
+
     -> Limones
     -> Pechugas
     -> Pan
