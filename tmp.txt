@@ -22,12 +22,13 @@ Lexar Negro :: Sandisk
 ---
 DOM:
 ---
+    <- Radio
     <- Pechugas
     <- Carne
     <- Papas
     <- Queso en Fetas
     -> Alcohol
-    -> Radio
+
     - Ordenar piedras michis
 
 
