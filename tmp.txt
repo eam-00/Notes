@@ -90,7 +90,7 @@ VIE:
     - Pinto
     - Cortar pelo
     - Limpiar cocina
-    - M:
+
 
 
 
