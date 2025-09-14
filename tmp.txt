@@ -100,7 +100,7 @@ VIE:
 DOM:
 ---
     -> Pechugas
-    -> Pan
+
     -> Alcohol
     -> Radio
     - Ordenar piedras michis
