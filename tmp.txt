@@ -99,7 +99,7 @@ VIE:
 ---
 DOM:
 ---
-    -> Pechugas
+    <- Pechugas
 
     -> Alcohol
     -> Radio
