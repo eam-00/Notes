@@ -39,6 +39,11 @@ LUN:
     - Pinto
     - Cortar pelo
     - Limpiar cocina
+    - Spotify:
+              - The Lollipop Shoppe
+              - Dead Moon - In The Graveyard
+
+
 
         - Cable celular
 
