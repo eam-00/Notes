@@ -27,7 +27,7 @@ DOM:
     <- Carne
     <- Papas
     <- Queso en Fetas
-    -> Alcohol
+
 
     - Ordenar piedras michis
 
