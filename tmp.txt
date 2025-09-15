@@ -35,6 +35,7 @@ DOM:
 ---
 LUN:
 ---
+    - Konsole 25.08.0
     - Cargar Batts
     - Pinto
     - Cortar pelo
