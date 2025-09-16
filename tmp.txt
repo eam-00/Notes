@@ -28,7 +28,7 @@ Lexar Negro :: Sandisk
 
 
 ---
-LUN:
+
 ---
     - Konsole 25.08.0
     - Cargar Batts
