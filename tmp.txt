@@ -29,7 +29,7 @@ DOM:
     <- Queso en Fetas
 
 
-    - Ordenar piedras michis
+
 
 
 ---
