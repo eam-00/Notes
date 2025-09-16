@@ -20,7 +20,6 @@ Lexar Negro :: Sandisk
 
 
 
-
     <- Pechugas
     <- Carne
     <- Queso en Fetas
