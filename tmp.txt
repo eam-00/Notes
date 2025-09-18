@@ -31,7 +31,6 @@ JUE:
     - Konsole 25.08.0
     - Cargar Batts
     - Pinto
-
     - Limpiar cocina
     - Spotify:
               - The Lollipop Shoppe
