@@ -32,6 +32,7 @@ VIE:
     - Cargar Batts:
                    - 11e*
                    - S8
+                   - S10
     - Pinto
     - Limpiar cocina
     - Spotify:
