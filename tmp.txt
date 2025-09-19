@@ -29,7 +29,8 @@ Lexar Negro :: Sandisk
 VIE:
 ---
     - Konsole 25.08.0
-    - Cargar Batts
+    - Cargar Batts:
+                   - 11e*
     - Pinto
     - Limpiar cocina
     - Spotify:
