@@ -44,6 +44,7 @@ VIE:
 ---
 SAB:
 ---
+    - cp TRRTs pendrive
     -> Cereales
     -> Leche
     -> Tuppers
