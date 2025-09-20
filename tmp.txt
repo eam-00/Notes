@@ -38,7 +38,7 @@ VIE:
     - Spotify:
               - The Lollipop Shoppe
 
-    - Juan: Keep Alives
+
     - ChK Bcos
 
 ---
