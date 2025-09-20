@@ -52,7 +52,7 @@ SAB:
     -> TC
     - Print:
             - ABL
-    - Update ht
+
         - Cable celular
 ---
 LUN:
