@@ -30,7 +30,7 @@ VIE:
 ---
     - Konsole 25.08.0
     - Cargar Batts:
-                   - 11e*
+
 
                    - S10
     - Pinto
