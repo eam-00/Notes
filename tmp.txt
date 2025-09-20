@@ -37,7 +37,7 @@ VIE:
     - Limpiar cocina
     - Spotify:
               - The Lollipop Shoppe
-              - Dead Moon - In The Graveyard
+
     - Juan: Keep Alives
     - ChK Bcos
 
