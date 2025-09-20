@@ -47,7 +47,6 @@ SAB:
     - cp TRRTs pendrive
     - Subs TRRTs
 
-    -> Leche
 
 
     -> TC
