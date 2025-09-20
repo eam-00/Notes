@@ -48,7 +48,7 @@ SAB:
     - Subs TRRTs
 
     -> Leche
-    -> Tuppers
+
     -> Pan Hamburguesas
     -> TC
     - Print:
