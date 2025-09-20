@@ -46,7 +46,7 @@ SAB:
 ---
     - cp TRRTs pendrive
     - Subs TRRTs
-    -> Cereales
+
     -> Leche
     -> Tuppers
     -> Pan Hamburguesas
