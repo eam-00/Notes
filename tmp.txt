@@ -32,7 +32,7 @@ VIE:
 
 
 
-                   - S10
+
     - Pinto
     - Limpiar cocina
     - Spotify:
