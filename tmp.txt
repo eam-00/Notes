@@ -67,6 +67,7 @@ LUN:
        -> Zapallo
        -> Mandarinas
        -> Laundry
+       -> Boletas
 
 - Mystery Train > Subs
 
