@@ -33,7 +33,7 @@ VIE:
 
 
 
-    - Pinto
+
     - Limpiar cocina
     - Spotify:
               - The Lollipop Shoppe
