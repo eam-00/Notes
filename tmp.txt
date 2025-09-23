@@ -55,7 +55,7 @@ Lexar Negro :: Sandisk
     -> Pan [?]
         - Cable celular
 ---
-LUN:
+
 ---
     - PFs
     - Pinto
