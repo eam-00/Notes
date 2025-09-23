@@ -46,7 +46,7 @@ Lexar Negro :: Sandisk
 
 
     -> Queso en Fetas
-    -> Pan [?]
+
         - Cable celular
 ---
 MAR:
