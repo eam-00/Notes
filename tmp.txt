@@ -27,7 +27,6 @@ Lexar Negro :: Sandisk
 
 
     - Konsole 25.08.0
-
     - Limpiar cocina
     - Spotify:
               - The Lollipop Shoppe
