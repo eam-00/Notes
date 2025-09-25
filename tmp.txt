@@ -51,7 +51,7 @@ JUE:
     - Pinto
 
     - Subs:
-- Mystery Train > Subs
+- Mystery Train
 - Salvador -> Subs
 
 
