@@ -45,7 +45,7 @@ Lexar Negro :: Sandisk
 
         - Cable celular
 ---
-MIE:
+
 ---
     - PFs
     - Pinto
