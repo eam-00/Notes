@@ -52,7 +52,7 @@ JUE:
 
     - Subs:
 - Mystery Train
-- Salvador -> Subs
+- Salvador
 
 
 
