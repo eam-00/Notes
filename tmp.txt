@@ -49,7 +49,6 @@ JUE:
 ---
     - PFs
     - Pinto
-
     - Subs:
            - Mystery Train
            - Salvador
