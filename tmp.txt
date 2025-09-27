@@ -48,7 +48,7 @@ VIE:
            - Mystery Train
            - Salvador
     - Limpiar casita
-    - Chk Bcos
+
 
 ---
 SAB:
