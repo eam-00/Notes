@@ -42,7 +42,7 @@ Lexar Negro :: Sandisk
 ---
 VIE:
 ---
-    - PFs
+
     - Pinto
     - Subs:
            - Mystery Train
