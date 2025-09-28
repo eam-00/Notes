@@ -55,7 +55,7 @@ SAB:
 ---
     - PF [?]
 
-    - Backup lappie
+
     - Print:
             - Movistar
     - The Paper
