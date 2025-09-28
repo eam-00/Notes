@@ -46,7 +46,7 @@ VIE:
     - Pinto
     - Subs:
            - Mystery Train
-           - Salvador
+
     - Limpiar casita
 
 
