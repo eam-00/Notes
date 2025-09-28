@@ -57,7 +57,7 @@ SAB:
 
 
     - Print:
-            - Movistar
+
     - The Paper
 
 
