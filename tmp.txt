@@ -53,8 +53,7 @@ LUN:
 
 
 - x220i:
-
-
+        - Keyboard
 
 
 
