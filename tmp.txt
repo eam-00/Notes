@@ -25,7 +25,7 @@ Lexar Negro :: Sandisk
 
 
 
-    - Konsole 25.08.0
+
 
     - Spotify:
               - The Lollipop Shoppe
