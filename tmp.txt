@@ -52,7 +52,7 @@ LUN:
               - The Lollipop Shoppe
 
 
-
+- x220i:
 
 
 
