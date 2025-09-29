@@ -55,7 +55,7 @@ LUN:
 - x220i:
         - Keyboard
         - Spare parts
-
+- Batts
 
 
 
