@@ -51,6 +51,7 @@ MAR:
               - The Lollipop Shoppe
 
 - M:
+    - Movistar
 - x220i:
         - Keyboard
         - Spare parts
