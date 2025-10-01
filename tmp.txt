@@ -48,7 +48,7 @@ MAR:
 
 
     - Spotify:
-              - The Lollipop Shoppe
+
 
 - M:
     - Movistar
