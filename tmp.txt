@@ -55,6 +55,7 @@ MIE:
     - Edenor
 - x220i:
         - Keyboard
+- x201t:
 
 - Batts
        - 11e*
