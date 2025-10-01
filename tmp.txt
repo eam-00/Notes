@@ -550,7 +550,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre: Bolsitas | Leches | Clight Maracuya/ Limonada | Agua | Te en Hebras | Smack | Choco Galletita | 
+- Carre: Bolsitas | Leches | Clight Maracuya/ Limonada | Agua | Te en Hebras | Smack | | 
 - Vinnie's: Panes
 
 
