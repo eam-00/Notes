@@ -53,6 +53,7 @@ MIE:
 - M:
     - Movistar
     - Edenor
+    <- Laundry
 - x220i:
         - Keyboard
         - Numix
