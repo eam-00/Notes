@@ -55,6 +55,7 @@ MIE:
     - Edenor
 - x220i:
         - Keyboard
+        - Numix
 - x201t:
 
 - Batts
