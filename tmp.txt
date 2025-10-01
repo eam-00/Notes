@@ -55,7 +55,7 @@ MAR:
     - Edenor
 - x220i:
         - Keyboard
-        - Spare parts
+
 - Batts
 
 
