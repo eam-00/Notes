@@ -52,7 +52,7 @@ MIE:
 - M:
 
     - Edenor
-    <- Laundry
+
     -> Ravioles
 - Afeitar
 - x220i:
