@@ -54,7 +54,7 @@ MIE:
     - Edenor
 
     -> Ravioles
-- Afeitar
+
 - x220i:
         - Keyboard
         - Numix
