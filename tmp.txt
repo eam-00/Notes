@@ -49,7 +49,7 @@ JUE:
 
 - M:
     -> Tuppers
-    <- Card
+
 
 
 - x220i:
