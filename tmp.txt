@@ -59,6 +59,7 @@ SAB:
         - Keyboard
         - Numix
 - x201t:
+        - Get themes
         - Debian 13 [?]
 
 - Batts
