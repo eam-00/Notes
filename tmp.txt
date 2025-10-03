@@ -61,6 +61,7 @@ SAB:
 - x201t:
         - Get themes
         - Debian 13 [?]
+- x2202:
 
 - Batts
        - 11e*
