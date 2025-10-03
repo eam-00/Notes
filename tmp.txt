@@ -46,7 +46,7 @@ VIE:
            - Mystery Train
 - Cortar pelo
 - dell-7290
-- Limpiar casita
+
 
 - M:
     _> Card
