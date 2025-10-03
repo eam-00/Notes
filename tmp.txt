@@ -62,7 +62,7 @@ SAB:
         - Get themes
         - Debian 13 [?]
 - x2202:
-        - Get themes
+        - Get icon theme
 
 - Batts
        - 11e*
