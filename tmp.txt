@@ -40,7 +40,7 @@ Lexar Negro :: Sandisk
 
         - Cable celular
 ---
-JUE:
+
 ---
     - Subs:
            - Mystery Train
