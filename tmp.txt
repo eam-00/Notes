@@ -65,7 +65,8 @@ SAB:
 - x2202:
         - Get icon theme
 
-- Batts
+- Batts:
+        - S8
        - 11e*
 
 
