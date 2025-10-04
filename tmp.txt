@@ -56,6 +56,7 @@ VIE:
 SAB:
 ---
 - TRRTs
+- dell-7290
 - x220i:
         - Keyboard
         - Numix
