@@ -60,6 +60,7 @@ DOM:
     -> Tupper
     -> Laudry
     -> Expensas
+    -> $
 
 - dell-7290
 - x220i:
