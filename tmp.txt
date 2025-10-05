@@ -55,6 +55,7 @@ VIE:
 ---
 DOM:
 ---
+- Print Expensas
 - M:
     -> Tupper
     -> Laudry
