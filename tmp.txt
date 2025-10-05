@@ -57,6 +57,7 @@ DOM:
 ---
 - M:
     -> Tupper
+    -> Laudry
 
 - dell-7290
 - x220i:
