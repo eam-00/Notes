@@ -59,7 +59,7 @@ SAB:
 - dell-7290
 - x220i:
         - Keyboard
-        - Numix
+
 - x201t:
         - Get themes
         - Debian 13 [?]
