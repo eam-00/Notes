@@ -55,7 +55,7 @@ VIE:
 ---
 DOM:
 ---
-- TRRTs
+
 - dell-7290
 - x220i:
         - Keyboard
