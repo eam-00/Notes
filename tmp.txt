@@ -64,7 +64,7 @@ DOM:
         - Get themes
         - Debian 13 [?]
 - x2202:
-        - Get icon theme
+
 
 - Batts:
         - S8
