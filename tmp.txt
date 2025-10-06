@@ -57,7 +57,7 @@ DOM:
 ---
 - Print Expensas
 - M:
-    -> Cafe Americano chico
+
     -> Tupper
     -> Laudry
     -> Expensas
