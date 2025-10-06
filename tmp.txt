@@ -47,6 +47,7 @@ LUN:
 - Cortar pelo
 - Expensas
 - C:
+    - TS
 
 
 
