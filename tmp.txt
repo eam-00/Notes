@@ -74,7 +74,7 @@ MAR:
         - S8
         - S10
         - 11e*
-        - KBD Bluetooth
+
 
 - Debian 13:
             - t430
