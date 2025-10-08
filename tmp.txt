@@ -62,7 +62,7 @@ MIE:
 - x220i:
         - Keyboard
 
-- x201t:
+
 
         - Debian 13 [?]
 - x2202:
