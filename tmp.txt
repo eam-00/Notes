@@ -48,6 +48,7 @@ JUE:
 - Limpiar casita
 - Solucion salina
 - M:
+    -> Tupper
     -> $
 
 
