@@ -47,7 +47,6 @@ JUE:
 - Cortar pelo
 - Limpiar casita
 - Solucion salina
-
 - M:
     -> $
 
