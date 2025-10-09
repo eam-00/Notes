@@ -45,7 +45,6 @@ JUE:
     - Subs:
            - Mystery Train
 - Cortar pelo
-
 - Limpiar casita
 
 
