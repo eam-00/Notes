@@ -49,7 +49,7 @@ JUE:
 - Solucion salina
 - M:
 
-    -> $
+
 
 
 - x220i:
