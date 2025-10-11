@@ -43,7 +43,7 @@ VIE:
     - Subs:
            - Mystery Train
 - Cortar pelo
-- Limpiar casita
+
 - ChK Bcos
 - Solucion salina
 - M:
