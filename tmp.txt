@@ -45,6 +45,7 @@ VIE:
            - Mystery Train
 - Cortar pelo
 - Limpiar casita
+- ChK Bcos
 - Solucion salina
 - M:
 
