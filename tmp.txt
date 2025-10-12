@@ -29,7 +29,7 @@ DOM:
 LUN:
 ---
     - PFs
-    - Pinto - Push CA
+    - Pinto - Push CA - SCDT
     - Cortar pelo
 
 
