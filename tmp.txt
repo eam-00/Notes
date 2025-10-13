@@ -23,7 +23,7 @@ DOM:
 ---
     -> Queso en Fetas
     -> Haedo Pollo Frito
-    -> Pepsi
+
 
 ---
 LUN:
