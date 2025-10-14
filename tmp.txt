@@ -33,6 +33,7 @@ MAR:
         -> $
         <- Laundry
     - Batts:
+            - S8
 
 ---
 SAB:
