@@ -30,6 +30,7 @@ MAR:
     - Cortar pelo
     - Tierra
     - M:
+        -> $
 
 
 ---
