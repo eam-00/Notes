@@ -21,7 +21,7 @@ Lexar Negro :: Sandisk
 ---
 DOM:
 ---
-    -> Queso en Fetas
+
     -> Haedo Pollo Frito
 
 
