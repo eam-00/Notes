@@ -28,6 +28,7 @@ MAR:
 ---
     - Pinto - Push CA - SCDT
     - Cortar pelo
+    - Tierra
 
 
 
