@@ -26,7 +26,6 @@ Lexar Negro :: Sandisk
 ---
 LUN:
 ---
-
     - Pinto - Push CA - SCDT
     - Cortar pelo
 
