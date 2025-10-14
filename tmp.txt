@@ -32,6 +32,7 @@ MAR:
     - M:
         -> $
         <- Laundry
+        <- Tierra
     - Batts:
             - S8
             - S10
