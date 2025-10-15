@@ -30,7 +30,7 @@ MAR:
     - Cortar pelo
     - Tierra
     - M:
-        -> $
+
 
         <- Tierra
     - ChK Webmail Full
