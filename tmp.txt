@@ -555,7 +555,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre: Bolsitas | Leches | Clight Maracuya/ Limonada | Agua | Te en Hebras | Ayudin Expert | Deso Amb. | 
+- Carre: Bolsitas | Leches | Clight Maracuya/ Limonada | Agua | Te en Hebras | | Deso Amb. | 
 
 
 
