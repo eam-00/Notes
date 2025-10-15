@@ -30,7 +30,7 @@ MIE:
     - Cortar pelo
     - Tierra
     - M:
-
+        -> $
 
 
     - ChK Webmail Full
