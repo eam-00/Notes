@@ -29,7 +29,7 @@ MIE:
     - Pinto - 
     - Cortar pelo
     - Tierra
-    - M:
+
 
 
 
