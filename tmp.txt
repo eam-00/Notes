@@ -26,7 +26,7 @@ Lexar Negro :: Sandisk
 ---
 MIE:
 ---
-    - Pinto - Push CA - SCDT
+    - Pinto - 
     - Cortar pelo
     - Tierra
     - M:
