@@ -31,8 +31,7 @@ MIE:
 
     - M:
         -> $
-        -> Funda
-        -> Tupper
+
         <- Frutillas
 
 
