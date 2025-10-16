@@ -29,6 +29,7 @@ JUE:
    - Limpiar casita
    - M:
        -> Tupper
+       -> $
 
 
 
