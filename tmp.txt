@@ -30,7 +30,7 @@ MIE:
     - Cortar pelo
 
     - M:
-        -> $
+
 
         <- Frutillas
 
