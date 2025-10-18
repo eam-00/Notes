@@ -29,6 +29,7 @@ Lexar Negro :: Sandisk
    - ChK Bcos
 
    - M:
+       -> Laundry
        -> Tupper
        -> $
 
