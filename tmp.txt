@@ -47,7 +47,7 @@ Lexar Negro :: Sandisk
 
 ---
     -> Cereales
-    -> Boleta TC
+
     -> Tupper
 ---
 DOM:
