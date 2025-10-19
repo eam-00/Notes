@@ -83,7 +83,7 @@ DOM:
 - Batts:
         - S8
         - S10
-        - 11e*
+
 
 - Debian 13:
             - t430
