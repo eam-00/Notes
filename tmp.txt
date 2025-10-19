@@ -48,6 +48,7 @@ Lexar Negro :: Sandisk
 ---
 DOM:
 ---
+    -> Pechugas
     - Batts:
             - 11e
             - 11e3
