@@ -81,8 +81,7 @@ DOM:
 
 
 - Batts:
-        - S8
-        - S10
+
 
 
 - Debian 13:
