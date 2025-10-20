@@ -50,7 +50,7 @@ DOM:
 ---
     -> Jamon [?]
     -> Queso en Fetas
-    -> Pechugas
+
     -> Medialunas [?]
     -> Helados
     - Batts:
