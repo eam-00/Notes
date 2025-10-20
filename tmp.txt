@@ -28,6 +28,7 @@ Lexar Negro :: Sandisk
        -> Laundry
        -> Tupper
        -> $
+       <- Frutillas
 
 
 
