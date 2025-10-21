@@ -46,7 +46,6 @@ Lexar Negro :: Sandisk
 
 
 
-
     - Batts:
             - 11e
             - mba-00
