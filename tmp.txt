@@ -47,7 +47,6 @@ Lexar Negro :: Sandisk
 DOM:
 ---
 
-    -> Queso en Fetas
 
 
     - Batts:
