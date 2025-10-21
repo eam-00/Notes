@@ -46,7 +46,7 @@ Lexar Negro :: Sandisk
 ---
 DOM:
 ---
-    -> Jamon [?]
+
     -> Queso en Fetas
     -> Medialunas [?]
 
