@@ -21,7 +21,6 @@ Lexar Negro :: Sandisk
 ---
 MIE:
 ---
-
     - M:
         -> Tupper
         <- Bananas
