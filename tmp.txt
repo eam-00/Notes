@@ -24,7 +24,7 @@ MIE:
     - M:
         -> Tupper
         <- Bananas
-        <- Te Negro
+
         - Hotmail
 ---
 JUE:
