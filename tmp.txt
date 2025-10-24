@@ -27,7 +27,7 @@ Lexar Negro :: Sandisk
 JUE:
 ----
     - Batts:
-            - 11e*
+
             - Chromebook Pro
 
     - Limpiar casita
