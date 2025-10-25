@@ -65,7 +65,7 @@ DOM:
 
 
 - x220i:
-        - Keyboard
+
 
 
 - x2202:
