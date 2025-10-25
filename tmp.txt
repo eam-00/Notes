@@ -32,7 +32,7 @@ DOM:
     - Limpiar casita
 
 
-    - Tuppers
+    -> Tuppers
 
 
 
