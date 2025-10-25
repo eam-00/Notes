@@ -29,7 +29,6 @@ VIE:
     - Batts:
             - Kindle[s]
             - Chromebook Pro
-
     - Limpiar casita
 
 ---
