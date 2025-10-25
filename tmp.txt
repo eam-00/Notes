@@ -74,6 +74,7 @@ DOM:
 
 
 - Void:
+       - t60p
 
 - Debian 13:
             - t430
