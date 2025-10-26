@@ -50,7 +50,6 @@ DOM:
     - Batts:
             - x220 [Large]
             - x2202
-
             - mba-00
 
    - Turn on:
