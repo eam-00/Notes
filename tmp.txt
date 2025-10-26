@@ -48,6 +48,7 @@ DOM:
 
 
     - Batts:
+            - x220
 
             - mba-00
 
