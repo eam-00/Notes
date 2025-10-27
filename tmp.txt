@@ -30,7 +30,7 @@ DOM:
 
     - Batts:
             - Kindle[s]
-            - Chromebook Pro
+
 
     - Dload Bands Reunited
 
