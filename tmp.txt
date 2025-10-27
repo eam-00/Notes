@@ -35,6 +35,7 @@ DOM:
 LUN:
     - M:
         - Lundry
+        - Boletas
 
 
 
