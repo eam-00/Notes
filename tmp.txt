@@ -27,7 +27,7 @@ Lexar Negro :: Sandisk
 DOM:
 ---
 
-    -> Tumbler
+
     - Batts:
             - Kindle[s]
             - Chromebook Pro
