@@ -27,7 +27,7 @@ Lexar Negro :: Sandisk
 DOM:
 ---
     - Batts:
-            - Kindle[s]
+
 
     - Dload Bands Reunited
 
