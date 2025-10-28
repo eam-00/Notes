@@ -46,7 +46,7 @@ LUN:
     - Batts:
 
             - x2202
-            - mba-00
+
 
    - Turn on:
              - S8
