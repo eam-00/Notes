@@ -30,7 +30,7 @@ Lexar Negro :: Sandisk
     - Dload Bands Reunited
 
 
-LUN:
+
     - M:
 
         - Boletas
