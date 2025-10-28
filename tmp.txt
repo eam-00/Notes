@@ -32,7 +32,7 @@ Lexar Negro :: Sandisk
 
 LUN:
     - M:
-        - Lundry
+        - Laundry
         - Boletas
 
 
