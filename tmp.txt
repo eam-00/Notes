@@ -48,7 +48,7 @@ LUN:
             - x2202
 
 
-   - Turn on:
+   - Updates:
              - S8
              - S10
 
