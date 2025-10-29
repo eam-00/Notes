@@ -81,7 +81,7 @@ MIE:
 - Debian 13:
             - t430
             - mbp-00
-            - x201t
+
 ---
 SAB:
 ---
