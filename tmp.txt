@@ -46,7 +46,7 @@ Lexar Negro :: Sandisk
 
     - Batts:
 
-            - x2202
+
 
 
    - Updates:
