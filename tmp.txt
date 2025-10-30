@@ -39,7 +39,7 @@ Lexar Negro :: Sandisk
 ---
 MIE:
 ---
-    - PF
+
     - Void:
            - T43
            - m1330
