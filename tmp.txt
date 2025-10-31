@@ -20,6 +20,7 @@ Lexar Negro :: Sandisk
 
 VIE:
     - Chk Bcos
+    - Keep Alive J
 
 
     - x220i:
