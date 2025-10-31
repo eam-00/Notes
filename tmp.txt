@@ -25,7 +25,6 @@ VIE:
 
     - Keep Alive J
 
-
     - x220i:
             - change keyboard
 
