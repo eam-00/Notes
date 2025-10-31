@@ -20,7 +20,7 @@ Lexar Negro :: Sandisk
 
 
 JUE:
-    - Limpiar casita
+
     - x220i:
             - change keyboard
 
