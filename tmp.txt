@@ -19,6 +19,7 @@ Lexar Negro :: Lexar Negro
 Lexar Negro :: Sandisk
 
 VIE:
+    - Chk Bcos
 
 
     - x220i:
