@@ -82,7 +82,6 @@ VIE:
 
 
 
-
 - Debian 13:
             - t430
             - mbp-00
