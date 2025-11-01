@@ -99,7 +99,7 @@ LUN:
 
 ---
     -> TRRT
-    -> Tupper
+
     -> Cepillo de Dientes
     - Print:
 
