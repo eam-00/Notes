@@ -95,9 +95,7 @@ LUN:
             - t430
             - mbp-00
 
----
 
----
     -> TRRT
 
     -> Cepillo de Dientes
