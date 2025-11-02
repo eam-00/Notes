@@ -25,7 +25,7 @@ SAB:
     -> Tupper
     -> Cepillo de Dientes
 
-            - Expensas
+
             - FEMEDICA
 ---
 DOM:
