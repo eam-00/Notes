@@ -24,7 +24,7 @@ SAB:
     -> TRRT
     -> Tupper
     -> Cepillo de Dientes
-    - Print:
+
             - Expensas
             - FEMEDICA
 ---
