@@ -35,6 +35,7 @@ DOM:
             - FEMEDICA
    -> Pollo
    -> Papas
+   -> Almendras con chocolate
 
 ---
 LUN:
