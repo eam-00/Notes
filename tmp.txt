@@ -30,7 +30,7 @@ Lexar Negro :: Sandisk
 ---
 DOM:
 ---
-    - Print:
+
             - Expensas
             - FEMEDICA
    -> Pizza
