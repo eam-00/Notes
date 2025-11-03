@@ -101,7 +101,7 @@ LUN:
             - mbp-00
 
 
-    -> TRRT
+
 
     -> Cepillo de Dientes
     - Print:
