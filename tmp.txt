@@ -36,7 +36,7 @@ Lexar Negro :: Sandisk
 LUN:
 ---
     - PFs
-            - Expensas
+
 
 
 
