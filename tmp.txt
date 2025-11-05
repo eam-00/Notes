@@ -23,7 +23,7 @@ Batts:
       - Chromebook Pro
 
 ---
-MAR:
+
 ---
     - Batt:
            - x2202
