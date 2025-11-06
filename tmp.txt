@@ -29,6 +29,7 @@ MIE:
 
 
 JUE:
+    - Limpiar casita
 
 ---
 VIE:
