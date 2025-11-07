@@ -40,7 +40,7 @@ JUE:
 VIE:
 ---
 
--- Zapatos
+
 -- ChK Bcos
 -- $
 -- Lappie
