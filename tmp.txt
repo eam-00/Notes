@@ -31,7 +31,7 @@ JUE:
 
             - Repasador
 
-    - Limpiar casita
+
     - Batts:
             - 11e
 
