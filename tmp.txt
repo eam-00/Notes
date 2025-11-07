@@ -39,7 +39,7 @@ JUE:
 ---
 VIE:
 ---
--- Ropa
+
 -- Zapatos
 -- ChK Bcos
 -- $
