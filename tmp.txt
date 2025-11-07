@@ -42,6 +42,7 @@ VIE:
 -- ChK Bcos
 -- $
 -- Lappie
+-- Leave Card
 
     -> Tupper
     -> Helado
