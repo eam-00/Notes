@@ -45,7 +45,7 @@ VIE:
 -- $
 -- Lappie
 -- Leave Card
--- ChK Chargers
+-- ChK Chargers Out
 
     -> Tupper
     -> Helado
