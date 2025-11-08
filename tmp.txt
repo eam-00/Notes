@@ -28,7 +28,7 @@ Lexar Negro :: Sandisk
 JUE:
     - Lavar:
 
-            - Repasador
+
 
 
     - Batts:
