@@ -44,7 +44,6 @@ Lexar Negro :: Sandisk
 -- Lappie
 -- Leave Card
 
--- Canilla
 
     -> Tupper
     -> Helado
