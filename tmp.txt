@@ -62,7 +62,7 @@ DOM:
     -> Queso En Fetas
     -> Pepsi
 
-    -> Batts:
+    - Batts:
              - G6
              - G20
              - Despertador
