@@ -60,6 +60,7 @@ DOM:
 ---
     -> Batts:
              - G6
+             - G20
     -> Milanesas
     -> Queso En Fetas
     -> Pepsi
