@@ -63,9 +63,6 @@ DOM:
              - G20
              - Despertador
              - Work
-    -> Milanesas
-    -> Queso En Fetas
-    -> Pepsi
 
 ---
 LUN:
