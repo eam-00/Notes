@@ -59,7 +59,7 @@ Fruta
 DOM:
 ---
     -> Batts:
-
+             - G6
     -> Milanesas
     -> Queso En Fetas
     -> Pepsi
