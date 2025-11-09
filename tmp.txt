@@ -37,7 +37,7 @@ Lexar Negro :: Sandisk
 
 
 
--- ChK Bcos
+
 -- $
 -- Lappie
 -- Leave Card
