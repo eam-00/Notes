@@ -70,6 +70,7 @@ Lexar Negro :: Sandisk
 ---
 MAR:
 ---
+    - ChK Bco
     - Pinto
 
 
