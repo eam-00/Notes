@@ -68,7 +68,7 @@ Lexar Negro :: Sandisk
              - Work
 
 ---
-LUN:
+
 ---
     - Pinto
 
