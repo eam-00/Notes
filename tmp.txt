@@ -62,7 +62,7 @@ Lexar Negro :: Sandisk
 
 
     - Batts:
-             - G6
+
              - G20
              - Despertador
              - Work
