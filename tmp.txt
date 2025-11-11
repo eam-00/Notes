@@ -57,7 +57,7 @@ Lexar Negro :: Sandisk
 ---
 DOM:
 ---
-    -> Milanesas
+
     -> Queso En Fetas
 
 
