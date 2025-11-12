@@ -67,7 +67,7 @@ Lexar Negro :: Sandisk
 MIE:
 ---
     - ChK Bco
-    - PFs
+
     - Pinto
 
 SAB:
