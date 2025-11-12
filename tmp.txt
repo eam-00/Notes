@@ -71,6 +71,7 @@ MIE:
     - Pinto
     - M:
         <- Tortilla
+        <- Bannas
 
 SAB:
     -> Boleta TC
