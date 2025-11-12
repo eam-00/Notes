@@ -74,7 +74,7 @@ SAB:
     -> Boleta TC
     -> Tupper
     -> Papeles
-    -> Get Konsole themes
+    -> x220i: Get Konsole themes
 
 
 
