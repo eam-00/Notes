@@ -71,7 +71,7 @@ MIE:
     - Pinto
     - M:
 
-        <- Bananas
+
 
 SAB:
     -> Boleta TC
