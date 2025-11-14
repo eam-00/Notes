@@ -64,7 +64,7 @@ Lexar Negro :: Sandisk
 
 
 ---
-MIE:
+
 ---
     - ChK Bco
 
