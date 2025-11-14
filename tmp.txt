@@ -67,7 +67,8 @@ Lexar Negro :: Sandisk
 VIE:
 ---
     - ChK Bs
-    - Batts
+    - Batts:
+            - G6
 
 
 
