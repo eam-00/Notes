@@ -67,7 +67,7 @@ Lexar Negro :: Sandisk
 JUE:
 ---
     - ChK Bco
-    - Pinto
+
 
 
 
