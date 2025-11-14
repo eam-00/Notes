@@ -70,7 +70,7 @@ MIE:
 
     - Pinto
     - M:
-        <- Tortilla
+
         <- Bananas
 
 SAB:
