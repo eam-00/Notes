@@ -68,7 +68,7 @@ VIE:
 ---
     - ChK Bs
     - Batts:
-            - G6
+
     - cp TRRT Du Jour -> USB
 
 
