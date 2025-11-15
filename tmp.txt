@@ -86,7 +86,7 @@ SAB:
     -> x220i: Get Konsole themes
     - Depo Pinto
 
-
+DOM:
 
 
 
