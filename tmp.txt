@@ -85,6 +85,7 @@ SAB:
     - Depo Pinto
 
 DOM:
+    -> Tarta
     - Batts
     - Descongelar pan
 
