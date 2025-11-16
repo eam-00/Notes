@@ -86,6 +86,7 @@ SAB:
 
 DOM:
     -> Tarta
+    -> Pollo Frito
     - Batts
     - Descongelar pan
 
