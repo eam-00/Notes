@@ -80,7 +80,7 @@ SAB:
 ---
 
     -> Tupper [x2]
-    -> Papeles
+
     -> x220i: Get Konsole themes
 
 
