@@ -83,7 +83,7 @@ LUN:
 SAB:
 ---
 
-    -> Tupper [x2]
+
 
     -> x220i: Get Konsole themes
 
