@@ -27,7 +27,7 @@ LUN:
    - Corte de pelo
    - MercadoLiebre: Parrilla
    - Ferreteria: Parrilla
-
+   - MDQ: Viernes 28 Nov
 
 
 
