@@ -30,8 +30,8 @@ LUN:
    - MDQ: Viernes 28 Nov
    - G: Definir fecha vacaciones
    - M:
-
-
+       - Laundry
+ 
 
 
 
