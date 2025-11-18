@@ -93,7 +93,7 @@ DOM:
     -> Pollo Frito
     -> Fruta
     -> Queso en Fetas
-    - Depo Pinto
+ 
     - Batts
     - Descongelar pan
     - TRRTs
