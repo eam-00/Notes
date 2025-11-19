@@ -24,6 +24,7 @@ Lexar Negro :: Sandisk
 ---
 MIE:
 ---
+   - ChK Webmail full
    - Coto: Parrilla
    - MercadoLiebre: Parrilla
    - Ferreteria: Parrilla
