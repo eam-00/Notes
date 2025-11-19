@@ -189,8 +189,6 @@ MAR:
 
 
 
-
-
 - Guano off
 
 Material-Solarized-LW theme:
