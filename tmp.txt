@@ -33,7 +33,7 @@ MIE:
 
 
 SAB:
-    -> Tupper
+    -> Tupper [x2]
     -> Champagnes en Lata
 
 
