@@ -24,7 +24,7 @@ Lexar Negro :: Sandisk
 ---
 JUE:
 ---
-   - Limpiar casita
+
    - Coto: Parrilla
    - MercadoLiebre: Parrilla
    - Ferreteria: Parrilla
