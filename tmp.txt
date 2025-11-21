@@ -83,7 +83,6 @@ SAB:
 
 
 
-
     -> x220i: Get Konsole themes
 
 
