@@ -20,6 +20,7 @@ Lexar Negro :: Sandisk
 
 
 VIE:
+    - Sync Bookmarks > Firefox
     - ChK B
 
 ---
