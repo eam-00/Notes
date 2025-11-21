@@ -20,6 +20,7 @@ Lexar Negro :: Sandisk
 
 
 VIE:
+    - ChK B
 
 ---
 JUE:
