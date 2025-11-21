@@ -27,7 +27,6 @@ VIE:
 ---
 JUE:
 ---
-
    - Coto: Parrilla
    - MercadoLiebre: Parrilla
    - Ferreteria: Parrilla
