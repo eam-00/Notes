@@ -36,6 +36,7 @@ JUE:
 ---
 SAB:
 ---
+    - Get Legal Eagles subs -> pendrive
     -> Tupper [x2]
     -> Champagnes en Lata
    - Print:
