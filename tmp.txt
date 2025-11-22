@@ -39,6 +39,7 @@ SAB:
    - Print Movistar
    - La Bolognesa
    - El Bocado
+   - Dia
     -> Tupper [x2]
     -> Champagnes en Lata
 
