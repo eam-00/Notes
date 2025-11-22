@@ -30,7 +30,7 @@ JUE:
 ---
    - Coto: Parrilla
    - MercadoLiebre: Parrilla
-   - Ferreteria: Parrilla
+
    - MDQ: Viernes 28 Nov
    - G: Definir fecha vacaciones
 
