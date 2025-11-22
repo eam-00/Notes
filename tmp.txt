@@ -23,7 +23,7 @@ VIE:
 ---
     - Sync Bookmarks > Firefox
     - Setup tiling
-    - ChK B
+
 
 ---
 JUE:
