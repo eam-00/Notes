@@ -37,6 +37,7 @@ JUE:
 SAB:
 ---
    - Print Movistar
+   - La Bolognesa
     -> Tupper [x2]
     -> Champagnes en Lata
 
