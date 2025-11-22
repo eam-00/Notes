@@ -40,6 +40,7 @@ SAB:
     -> Champagnes en Lata
    - Print:
 Movistar
+Edenor
    - La Bolognesa
    - El Bocado
    - Dia
