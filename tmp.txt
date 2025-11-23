@@ -37,7 +37,7 @@ SAB:
    - Print:
            Movistar
            Edenor
-   - La Bolognesa
+
 
    - Dia
 
