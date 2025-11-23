@@ -34,7 +34,7 @@ SAB:
 ---
 
     -> Tupper [x2]
-    -> Champagnes en Lata
+
    - Print:
            Movistar
            Edenor
