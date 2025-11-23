@@ -23,9 +23,7 @@ Lexar Negro :: Sandisk
     - Setup tiling
 
 
----
 
----
    - Coto: Parrilla
    - MercadoLiebre: Parrilla
    - MDQ: Viernes 28 Nov
