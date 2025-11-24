@@ -44,7 +44,7 @@ Lexar Negro :: Sandisk
 ---
 DOM:
 ---
-    -> Guiso
+
 
 
 
