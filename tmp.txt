@@ -84,7 +84,7 @@ Lexar Negro :: Sandisk
 
 
 
-    -> x220i: Get Konsole themes
+ 
 
 
 
