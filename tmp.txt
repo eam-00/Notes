@@ -45,7 +45,7 @@ Lexar Negro :: Sandisk
 DOM:
 ---
     -> Guiso
-    - Descongelar pan
+
 
 
 
