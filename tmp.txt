@@ -30,6 +30,7 @@ Lexar Negro :: Sandisk
 MAR:
 ---
     - M:
+       -> Tar
 
 
 MIE:
