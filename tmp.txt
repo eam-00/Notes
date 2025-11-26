@@ -32,7 +32,7 @@ MAR:
     - M:
        -> Tar
        -> Boletas
-       <- J
+
 
 
 MIE:
