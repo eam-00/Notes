@@ -33,7 +33,7 @@ Lexar Negro :: Sandisk
 
 
 ---
-
+JUE:
 ---
     - C: Check Pablo Resp ABD
     - Batts:
