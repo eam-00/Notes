@@ -38,7 +38,7 @@ JUE:
     - C: Check Pablo Resp ABD
     - Batts:
             - S10
-    - Afeitar
+
 
 
 JUE:
