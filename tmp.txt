@@ -37,7 +37,7 @@ JUE:
     - C: Check Pablo Resp ABD
     - Batts:
 
-            - 11e*
+
 
 ---
 VIE:
