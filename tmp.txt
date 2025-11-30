@@ -38,7 +38,6 @@ Lexar Negro :: Sandisk
 
 
 
-    -> TUppers
     -> Mosca Michis
 
 
