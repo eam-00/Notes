@@ -28,6 +28,7 @@ Lexar Negro :: Sandisk
 
 DOM:
    - Batts:
+           - celus
 
 LUN:
     - C:
