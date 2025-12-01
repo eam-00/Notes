@@ -40,7 +40,7 @@ LUN:
         - Tupper
 
    - Batt:
-
+          - dell-7290
 
 
 
