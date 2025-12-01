@@ -41,6 +41,7 @@ LUN:
 
    - Batt:
           - dell-7290
+          - Chromebook Pro
 
 
 
