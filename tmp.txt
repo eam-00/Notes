@@ -37,7 +37,7 @@ MAR:
     - M:
         -> Laundry
         - Femedica
-        - Tupper
+        <- Tupper
 
    - Batt:
           - dell-7290
