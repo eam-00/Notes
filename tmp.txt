@@ -37,6 +37,7 @@ MAR:
     - M:
         -> Laundry
         <- Tupper
+        <- Pen Drive
 
    - Batt:
           - dell-7290
