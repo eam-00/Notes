@@ -42,7 +42,7 @@ MIE:
 
    - Batt:
 
-          - Chromebook Pro
+
 
    - MarketPlace
 
