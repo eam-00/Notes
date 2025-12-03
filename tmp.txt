@@ -35,7 +35,7 @@ MIE:
     - C:
         - MSFT Auth
     - M:
-        -> Laundry
+
         <- Tupper
         <- Pen Drive
    - t410:
