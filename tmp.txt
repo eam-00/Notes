@@ -39,7 +39,7 @@ MIE:
         <- Tupper
         <- Pen Drive
    - t410:
-          - Updates
+
 
 
 
