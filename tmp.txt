@@ -37,7 +37,7 @@ JUE:
     - M:
 
         <- Tupper
-        <- Pen Drive
+        -> Pen Drive
 
 
 
