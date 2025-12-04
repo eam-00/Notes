@@ -40,7 +40,7 @@ JUE:
         -> Pen Drive
         <- Tupper
 
-
+    - Limpiar casita
 
 
 
