@@ -38,7 +38,7 @@ MIE:
 
         <- Tupper
         <- Pen Drive
-   - t410:
+
 
 
 
