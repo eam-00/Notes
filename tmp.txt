@@ -37,6 +37,7 @@ JUE:
     - M:
         -> Tortilla
         -> Champagne
+        -> Pen Drive
         <- Tupper
         -> Pen Drive
 
