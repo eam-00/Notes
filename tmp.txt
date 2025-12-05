@@ -36,7 +36,7 @@ JUE:
         - MSFT Auth
     - M:
 
-        -> Champagne
+
         -> Pen Drive
         <- Tupper
 
