@@ -28,9 +28,7 @@ Lexar Negro :: Sandisk
 
 
 
----
 
----
 
 VIE:
     - C:
