@@ -41,7 +41,7 @@ VIE:
 
 
 
-    - Limpiar casita
+    - Limpiar cocina
 
 
 
