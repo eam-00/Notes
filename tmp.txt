@@ -49,6 +49,7 @@ JUE:
    - MarketPlace
    - Limpiar t4102
 VIE:
+    - ChK B
 
 SAB:
     -> Tupper
