@@ -49,7 +49,7 @@ VIE:
    - Limpiar t4102
 
 
-    - ChK B
+
 
 SAB:
     -> Tupper
