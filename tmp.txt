@@ -30,7 +30,7 @@ Lexar Negro :: Sandisk
 
 
 ---
-LUN:
+
 ---
     - Pinto
     - C:
