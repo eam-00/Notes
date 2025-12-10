@@ -42,7 +42,7 @@ MIE:
 
     - M:
         - Bananas
-        - ChK Cable
+
 
    - Limpiar t4102
 
