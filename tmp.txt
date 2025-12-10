@@ -31,7 +31,7 @@ Lexar Negro :: Sandisk
 ---
 MIE:
 ---
-
+    - FEMEDICA pago
     - ChK B
     - Pinto
     - C:
