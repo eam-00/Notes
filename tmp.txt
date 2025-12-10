@@ -39,7 +39,7 @@ MIE:
 
     - Limpiar cocina
 
-    - M:
+
 
 
    - Limpiar t4102
