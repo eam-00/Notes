@@ -31,6 +31,7 @@ Lexar Negro :: Sandisk
 ---
 MIE:
 ---
+    - Confirmar Fibertel
     - ChK B
     - Pinto
     - C:
