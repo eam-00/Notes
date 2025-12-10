@@ -40,7 +40,7 @@ MIE:
     - Limpiar cocina
 
     - M:
-        - Bananas
+
 
    - Limpiar t4102
 
