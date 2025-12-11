@@ -39,7 +39,7 @@ JUE:
 
 
     - Limpiar cocina
-
+    - Limpiar casita
 
 
 
