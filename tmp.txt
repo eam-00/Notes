@@ -34,7 +34,7 @@ JUE:
     - FEMEDICA pago
     - ChK B
     - Pinto
-    - C:
+
 
 
 
