@@ -35,7 +35,7 @@ JUE:
     - ChK B
     - Pinto
     - C:
-        - MSFT Auth
+
 
 
     - Limpiar cocina
