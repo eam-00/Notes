@@ -52,6 +52,7 @@ SAB:
     - Latas Champagne
     - Tupper
 
+    - La Bolognesa: Ravioles - Ricota & Pollo y Verdura
     - Papas
     - Morron 2/ 3 mil Pesos Kg
     - 1/2 KG Cebollas
