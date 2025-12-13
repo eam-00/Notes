@@ -33,7 +33,7 @@ VIE:
 ---
 
     - FEMEDICA pago
-    - ChK B
+
 
 
 
