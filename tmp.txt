@@ -34,7 +34,7 @@ VIE:
     - PF
     - FEMEDICA pago
     - ChK B
-    - Pinto
+
 
 
 
