@@ -31,7 +31,7 @@ Lexar Negro :: Sandisk
 ---
 VIE:
 ---
-    - PF
+
     - FEMEDICA pago
     - ChK B
 
