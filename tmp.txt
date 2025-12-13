@@ -29,7 +29,7 @@ Lexar Negro :: Sandisk
 
 
 ---
-VIE:
+
 ---
 
     - FEMEDICA
