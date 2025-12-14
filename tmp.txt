@@ -37,7 +37,6 @@ LUN:
     - Limpiar cocina
 
 
-
    - Limpiar t4102
 
 
