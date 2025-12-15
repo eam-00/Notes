@@ -34,7 +34,7 @@ LUN:
     - FEMEDICA
     - Limpiar cocina
 
-   - Limpiar t4102
+
 
 
 
