@@ -35,6 +35,7 @@ LUN:
     - Limpiar cocina
     - Batts:
             - t4102
+            - mbp-00
 
 
 
