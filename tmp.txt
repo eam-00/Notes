@@ -41,7 +41,7 @@ LUN:
 ---
 SAB:
 ---
-    - Latas Champagne
+
     - Tupper
 
     - La Bolognesa:
