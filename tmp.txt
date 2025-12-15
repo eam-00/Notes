@@ -33,7 +33,7 @@ LUN:
 ---
     - FEMEDICA
     - Limpiar cocina
-    - Batts
+    - Batts:
 
 
 
