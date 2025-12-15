@@ -46,7 +46,7 @@ SAB:
 
     - La Bolognesa:
                    - Ravioles - Ricota & Pollo y Verdura
-                   - Pote Bolognesa
+
                    - Pote Salsa Blanca
     - El Bocado:
     - Papas
