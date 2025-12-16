@@ -407,6 +407,7 @@ gpg -d  --pinentry-mode loopback --passphrase THE.ULTRA.SECURE.PASSPHRASE Dropbo
 
 http://blog.davidron.com/2016/12/i-have-benefit-of-working-in.html
 https://bellard.org/qemacs/
+https://github.com/qemacs/qemacs
 
 https://www.youtube.com/watch?v=DDN8Vn1Sy2s
 https://support.hp.com/au-en/document/c06493966
