@@ -33,7 +33,7 @@ MAR:
 ---
     - Print TC
     - M:
-       - Funda A
+       <- Funda A
 
     - Limpiar cocina
     - Batts:
