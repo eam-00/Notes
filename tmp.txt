@@ -31,7 +31,7 @@ Lexar Negro :: Sandisk
 ---
 MAR:
 ---
-
+    - Print TC
     - Limpiar cocina
     - Batts:
             - t4102
