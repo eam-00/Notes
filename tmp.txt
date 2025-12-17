@@ -31,7 +31,7 @@ Lexar Negro :: Sandisk
 ---
 MAR:
 ---
-    - Print TC
+
     - M:
        <- Funda A
 
