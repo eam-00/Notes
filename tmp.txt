@@ -60,7 +60,7 @@ DOM:
 ---
     -> Medialuna
     -> Almendras con Chocolate
-    -> Pelones
+
     -> Ravioles
     -> Carton de Leche
     -> Queso En Fetas
