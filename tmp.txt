@@ -34,7 +34,6 @@ MIE:
     - Cortar pelo
     - M:
        <- Funda A
-
     - Limpiar cocina
     - Batts:
             - dell-7290
