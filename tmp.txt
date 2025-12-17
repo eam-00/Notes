@@ -37,7 +37,7 @@ MIE:
 
     - Limpiar cocina
     - Batts:
-            - t4102
+
 
 
 
