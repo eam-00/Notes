@@ -38,7 +38,7 @@ MAR:
     - Limpiar cocina
     - Batts:
             - t4102
-            - mbp-00
+
             - t430
 
 
