@@ -62,7 +62,7 @@ DOM:
 
 
     -> Ravioles
-    -> Carton de Leche
+
     -> Queso En Fetas
 
     - Batts:
