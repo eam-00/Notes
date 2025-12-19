@@ -38,7 +38,8 @@ VIE:
 
        <- Tarj Comp
        <- $
-       <- Tupepr
+       <- Tupper
+       <- Papel B
     - ChK B
     - ChK Webmail completo
 
