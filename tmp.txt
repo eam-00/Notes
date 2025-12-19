@@ -35,7 +35,7 @@ VIE:
     - M:
 
 
-       -> Tarj Comp
+       <- Tarj Comp
     - Limpiar cocina
 
 
