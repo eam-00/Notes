@@ -33,7 +33,7 @@ VIE:
 ---
 
     - M:
-       <- Funda A
+
        -> Pastafrola
        -> Tarj Comp
     - Limpiar cocina
