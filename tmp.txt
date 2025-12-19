@@ -31,6 +31,8 @@ Lexar Negro :: Sandisk
 ---
 VIE:
 ---
+    - Limpiar cocina
+
 
     - M:
 
