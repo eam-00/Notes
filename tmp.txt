@@ -34,7 +34,7 @@ VIE:
 
     - M:
 
-       -> Pastafrola
+
        -> Tarj Comp
     - Limpiar cocina
 
