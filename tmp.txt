@@ -39,7 +39,7 @@ VIE:
        <- Tarj Comp
        <- $
        <- Tupper
-       <- Papel B
+
 
 
 
