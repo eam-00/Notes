@@ -40,7 +40,7 @@ VIE:
        <- $
        <- Tupper
        <- Papel B
-    - ChK B
+
 
 
 
