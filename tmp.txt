@@ -53,7 +53,7 @@ LUN:
 ---
 SAB:
 ---
-    -> Tupper
+
     -> Filtros Cafe
     -> Queso Rallado
     -> Desodorante
