@@ -54,7 +54,7 @@ LUN:
 SAB:
 ---
 
-    -> Filtros Cafe
+
     -> Queso Rallado
     -> Desodorante
     -> Refill alcohol
