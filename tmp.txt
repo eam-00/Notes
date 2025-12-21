@@ -1,4 +1,4 @@
-   https://secure.bancocolumbia.com.ar/web/10111-Cupon-de-Pago.note.aspx
+https://secure.bancocolumbia.com.ar/web/10111-Cupon-de-Pago.note.aspx
 https://secure.bancocolumbia.com.ar/web/Cupon-de-pago-10368.note.aspx
 Click en "MasterCard"
 
@@ -736,7 +736,6 @@ REM https://serverfault.com/questions/685835/make-incremental-and-differential-b
 SET source="Type you source path";
 SET dest="Type you destination path";
 robocopy %source% %dest% /S /COPYALL /NP /TEE /R:3 /W:3 /Log:c:\Documents\logs.txt
-
 
 
 
