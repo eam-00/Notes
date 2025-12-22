@@ -68,7 +68,7 @@ SAB:
 ---
 DOM:
 ---
-    -> Manies
+
     -> Tarta
     -> Milanesas
     -> Salsa de Soja
