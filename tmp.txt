@@ -69,7 +69,7 @@ SAB:
 DOM:
 ---
 
-    -> Tarta
+
     -> Milanesas
     -> Salsa de Soja
     -> Medialunas
