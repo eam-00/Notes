@@ -32,7 +32,6 @@ Lexar Negro :: Sandisk
 JUE:
 ---
    - M:
-       - C Agua
    - Limpiar casita
 
 
