@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
 ---
 VIE:
 ---
-    - C B
+
     - Keep Alives
     - Keep Alives J
     - Unplug everything
