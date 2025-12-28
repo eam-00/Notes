@@ -44,7 +44,7 @@ Lexar Negro :: Sandisk
 
 
     -> Queso Rallado
-    -> Refill alcohol
+
 
 DOM:
     <- Pizza
