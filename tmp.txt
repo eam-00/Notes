@@ -45,7 +45,8 @@ Lexar Negro :: Sandisk
     -> Tuppers
     -> Queso Rallado
     -> Refill alcohol
- 
+
+DOM:
 
     - G20:
           - mp3
