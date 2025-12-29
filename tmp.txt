@@ -51,7 +51,7 @@ Lexar Negro :: Sandisk
 ---
 LUN:
 ---
-    - PF
+
 
 
 
