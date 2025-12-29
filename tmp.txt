@@ -45,7 +45,7 @@ Lexar Negro :: Sandisk
 DOM:
 ---
 
-    <- Pechugas
+
 
     - G20:
           - mp3
