@@ -53,6 +53,7 @@ LUN:
 ---
    - M:
        - Laundry
+       - Boletas
 
 
 
