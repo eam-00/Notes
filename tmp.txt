@@ -601,7 +601,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre: Bolsitas | Leches | Agua | PortSalut | | Queso Crema | Jabon Tocador Blanco | Cif 
+- Carre: Bolsitas | Leches | Agua | PortSalut | | | Jabon Tocador Blanco | Cif 
 
 
 
