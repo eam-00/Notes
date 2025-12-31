@@ -48,7 +48,7 @@ Lexar Negro :: Sandisk
           - mp3
 
 ---
-MAR:
+
 ---
    - M:
        - Tupper
