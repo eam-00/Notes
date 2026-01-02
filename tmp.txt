@@ -57,6 +57,7 @@ JUE:
 VIE:
     - PF
     - M:
+        -> T C
     - C B
 ---
 SAB:
