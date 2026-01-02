@@ -65,7 +65,7 @@ SAB:
     -> Tuppers
     -> Malla
     - La Bolognesa:
-                   - gnochis
+                   - 1 KG gnochis
     - El Bocado:
                 - Jamon
                 - Queso
