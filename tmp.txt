@@ -51,7 +51,7 @@ JUE:
    - M:
        - Valija
        - Cables
-       - Cargadores
+
        - $
 
 VIE:
