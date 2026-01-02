@@ -68,6 +68,7 @@ SAB:
                    - 1 KG gnochis
                    - 1 grande bolognesa
                    - 1 chico salsa blanca
+    - 1 KG tomate redondo
 
     - El Bocado:
                 - Jamon
