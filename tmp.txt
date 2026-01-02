@@ -69,7 +69,7 @@ SAB:
                    - 1 grande bolognesa
                    - 1 chico salsa blanca
     - 1 KG tomate redondo
-
+    - Lechuga chiquita
     - El Bocado:
                 - Jamon
                 - Queso
