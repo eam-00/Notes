@@ -66,6 +66,8 @@ SAB:
     -> Malla
     - La Bolognesa:
                    - 1 KG gnochis
+                   - 1 grande bolognesa
+
     - El Bocado:
                 - Jamon
                 - Queso
