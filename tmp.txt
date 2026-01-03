@@ -53,7 +53,7 @@ Lexar Negro :: Sandisk
 VIE:
 
     - M:
-       - Sep $
+
 
         -> T C
     - C B
