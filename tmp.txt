@@ -65,7 +65,7 @@ DOM:
 SAB:
 ---
     -> Tuppers
-    -> Malla
+
     - La Bolognesa:
                    - 1 KG gnochis
                    - 1 grande bolognesa
