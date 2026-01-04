@@ -25,7 +25,9 @@ Lexar Negro :: Sandisk
    - MDQ: Viernes 28 Nov
    - G: Definir fecha vacaciones
 
+---
 DOM:
+---
     <- Pan Hamburguesas
     <- Medialunas
 
