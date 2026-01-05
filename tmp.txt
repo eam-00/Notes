@@ -68,7 +68,7 @@ LUN:
 ---
 SAB:
 ---
-    -> Tuppers
+
 
     - La Bolognesa:
                    - 1 KG gnochis
