@@ -39,6 +39,7 @@ LUN:
     - Expensas
     - Cbio. Sabanas
     - Afeitar
+    -> Boleta Expensas
 
 
 
