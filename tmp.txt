@@ -40,6 +40,7 @@ LUN:
     - Cbio. Sabanas
     - Afeitar
     -> Boleta Expensas
+    -> Entrar silla
 
 
 
