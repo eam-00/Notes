@@ -40,6 +40,7 @@ LUN:
     - Afeitar
     -> Boleta Expensas
     -> Entrar silla
+    -> Tupper
 
 
 
