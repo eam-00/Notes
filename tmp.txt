@@ -37,7 +37,7 @@ MAR:
 ----
     - FEMEDICA
     - Expensas
-    - Afeitar
+
 
     -> Tupper
 
