@@ -39,7 +39,6 @@ MAR:
     - Cbio. Sabanas
     - Afeitar
 
-    -> Entrar silla
     -> Tupper
 
 
