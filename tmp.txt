@@ -38,7 +38,7 @@ MAR:
     - Expensas
     - Cbio. Sabanas
     - Afeitar
-    -> Boleta Expensas
+
     -> Entrar silla
     -> Tupper
 
