@@ -74,7 +74,7 @@ SAB:
 
 
     - 1 KG tomate redondo
-    - Lechuga chiquita
+
     - El Bocado:
                 - Jamon
                 - Queso
