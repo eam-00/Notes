@@ -28,7 +28,7 @@ Lexar Negro :: Sandisk
 ---
 
 ---
-    <- Pan Hamburguesas
+
     <- Medialunas
     <- Gnochis
 
