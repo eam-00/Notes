@@ -33,7 +33,7 @@ DOM:
     <- Gnochis
 
 ---
-LUN:
+
 ----
     - Expensas
     - Cbio. Sabanas
