@@ -605,7 +605,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre: Bolsitas | Leches | Agua | Mermelada | | | Jabon Tocador Blanco | 
+- Carre: Bolsitas | Leches | Agua | Mermelada | Almendras c/ Choco | | Jabon Tocador Blanco | 
 - Vinnie's: Pan Lactal
 
 
