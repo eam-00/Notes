@@ -33,7 +33,7 @@ Lexar Negro :: Sandisk
 MIE:
 ---
     - Laptop Stand
-    - FEMEDICA
+    - FEMEDICA -> Check
     - Expensas
 
 
