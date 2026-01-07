@@ -38,7 +38,7 @@ MIE:
 
 JUE:
     - Batt:
-
+           - mbp-00
     - Limpiar casita
 
 
