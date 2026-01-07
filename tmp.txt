@@ -72,7 +72,6 @@ MIE:
 
 
     - El Bocado:
-                - Jamon
                 - Queso
 
 
