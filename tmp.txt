@@ -33,8 +33,9 @@ Lexar Negro :: Sandisk
     - Laptop Stand
     - FEMEDICA -> Check
 
-
+---
 JUE:
+---
     - Check Expensas OK
     - Batt:
            - mbp-00
