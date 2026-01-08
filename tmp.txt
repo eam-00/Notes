@@ -40,6 +40,7 @@ JUE:
     - Pinto
     - Batt:
            - mbp-00
+    - Logout TTY
     - Limpiar casita
 
 
