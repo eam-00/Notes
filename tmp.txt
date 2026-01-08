@@ -37,6 +37,7 @@ MIE:
 
 
 JUE:
+    - Check Expensas OK
     - Batt:
            - mbp-00
     - Limpiar casita
