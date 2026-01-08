@@ -36,6 +36,7 @@ Lexar Negro :: Sandisk
 ---
 JUE:
 ---
+    - FEMEDICA -> Check
     - Check Expensas OK
     - Pinto
     - Batt:
