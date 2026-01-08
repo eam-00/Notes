@@ -34,7 +34,7 @@ MIE:
 ---
     - Laptop Stand
     - FEMEDICA -> Check
-    - Expensas
+
 
 JUE:
     - Batt:
