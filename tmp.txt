@@ -41,7 +41,6 @@ VIE:
     - Batt:
            - mbp-00
            - 11e*
-    - Logout TTY
 
 
 
