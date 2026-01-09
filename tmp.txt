@@ -40,7 +40,7 @@ VIE:
     - Pinto -> URG
     - Batt:
            - mbp-00
-           -11e*
+           - 11e*
     - Logout TTY
 
 
