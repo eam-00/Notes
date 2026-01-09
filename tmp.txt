@@ -36,7 +36,7 @@ Lexar Negro :: Sandisk
 VIE:
 ---
 
-    - Check Expensas OK
+
     - Pinto
     - Batt:
            - mbp-00
