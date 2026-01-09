@@ -37,7 +37,7 @@ VIE:
 ---
 
 
-    - Pinto
+    - Pinto -> URG
     - Batt:
            - mbp-00
     - Logout TTY
