@@ -37,7 +37,7 @@ SAB:
 ---
 
 
-    - Pinto -> Depositar
+    - Pinto
     - Batt:
            - mbp-00
            - 11e*
