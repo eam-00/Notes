@@ -37,7 +37,7 @@ Lexar Negro :: Sandisk
 ---
 
 
-    - Pinto -> URG
+    - Pinto -> Depositar
     - Batt:
            - mbp-00
            - 11e*
