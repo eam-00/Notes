@@ -33,7 +33,7 @@ Lexar Negro :: Sandisk
 
 
 ---
-SAB:
+
 ---
 
     - M:
