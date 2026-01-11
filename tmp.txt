@@ -41,7 +41,7 @@ Lexar Negro :: Sandisk
 ---
 DOM:
 ---
-    - Toallin & Repasador
+
     - Starbucks
    - Batt:
            - mbp-00
