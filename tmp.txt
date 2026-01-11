@@ -46,7 +46,8 @@ DOM:
 ---
     - Toallin & Repasador
     - Starbucks
-
+   - Batt:
+           - mbp-00
 
 
 
