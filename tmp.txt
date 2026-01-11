@@ -39,7 +39,7 @@ SAB:
     - M:
 
 
-    - Pinto
+
     - Batt:
            - mbp-00
 
