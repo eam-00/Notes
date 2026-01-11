@@ -37,9 +37,6 @@ Lexar Negro :: Sandisk
 
 
 
-    - Batt:
-           - mbp-00
-
 
 ---
 DOM:
