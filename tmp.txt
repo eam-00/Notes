@@ -37,7 +37,7 @@ SAB:
 ---
 
     - M:
-        - Filadelfia
+
         - Yogurt
     - Pinto
     - Batt:
