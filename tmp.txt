@@ -42,6 +42,7 @@ Lexar Negro :: Sandisk
 LUN:
 ---
    - PFs
+   - TS C
    - Laundry
    - Batt:
            - mbp-00
