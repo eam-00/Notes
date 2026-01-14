@@ -44,7 +44,7 @@ SAB:
 
 
 
-   - Laundry
+
    - Batt:
            - mbp-00
 
