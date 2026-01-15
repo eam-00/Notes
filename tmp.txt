@@ -39,6 +39,7 @@ SAB:
 
 
 JUE:
+   - Limpiar casita
    - Batt:
            - mbp-00
 
