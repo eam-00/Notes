@@ -29,7 +29,7 @@ VIE:
     - CB
     - Batts:
             - mbp-00
-            - Ks
+
 
 ---
 SAB:
