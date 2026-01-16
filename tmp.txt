@@ -27,6 +27,7 @@ Lexar Negro :: Sandisk
 VIE:
 ---
     - CB
+    - Batts:
 
 ---
 SAB:
