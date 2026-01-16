@@ -37,6 +37,7 @@ SAB:
     - TC
     - Tuppers
     - Asado de Tira
+    - Bife de Chorizo
     - Pan Fancy Hamburguesas
     - Jamon Cocido
     - Queso
