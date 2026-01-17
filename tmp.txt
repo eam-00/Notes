@@ -39,6 +39,7 @@ SAB:
     - Asado de Tira
     - Bife de Chorizo
     - Pan Fancy Hamburguesas
+    - Pan
     - Jamon Cocido
     - Queso
     - Lechuga
