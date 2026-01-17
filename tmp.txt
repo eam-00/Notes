@@ -36,7 +36,7 @@ SAB:
 ---
     - TC
     - Tuppers
-    - Asado de Tira
+    - Vacio
     - Bife de Chorizo
     - Pan Fancy Hamburguesas
     - Pan
