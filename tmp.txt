@@ -45,6 +45,7 @@ SAB:
     - Lechuga
     - Tomates
     - Yogurt
+    - Guantes Medium
 
 
 
