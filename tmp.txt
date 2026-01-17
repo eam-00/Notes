@@ -54,7 +54,7 @@ DOM:
             - mbp-00
 
 LUN:
-
+    - Corte pelo
 
 
 
