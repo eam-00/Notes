@@ -40,6 +40,7 @@ SAB:
     - Bife de Chorizo
     - Pan Fancy Hamburguesas
     - Pan
+    - Papas
     - Provoleta
     - Jamon Cocido
     - Queso
