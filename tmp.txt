@@ -59,6 +59,7 @@ DOM:
 
 LUN:
     - Corte pelo
+    - Lavar:
 
 
 
