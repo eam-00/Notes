@@ -40,7 +40,7 @@ SAB:
     - Provoleta
     - Jamon Cocido
     - Queso
-    - Lechuga
+
     - Tomates
     - Yogurt
     - Guantes Medium
