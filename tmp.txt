@@ -60,6 +60,7 @@ DOM:
 LUN:
     - Corte pelo
     - Lavar:
+            - Toallin
 
 
 
