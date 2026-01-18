@@ -34,7 +34,6 @@ SAB:
     - Tuppers
 
 
-    - Pan Fancy Hamburguesas
 
     - Papas
     - Provoleta
