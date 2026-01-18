@@ -33,7 +33,7 @@ SAB:
     - TC
     - Tuppers
 
-    - Bife de Chorizo
+
     - Pan Fancy Hamburguesas
     - Pan
     - Papas
