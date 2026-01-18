@@ -46,6 +46,7 @@ SAB:
 
 
 DOM:
+    -> Pechugas
     - De freezar pan
     - TRRTs
     - Batts:
