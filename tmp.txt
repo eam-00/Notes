@@ -61,6 +61,7 @@ LUN:
     - Corte pelo
     - Lavar:
             - Toallin
+            - Repasador
 
 
 
