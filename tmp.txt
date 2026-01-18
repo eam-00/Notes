@@ -50,6 +50,7 @@ DOM:
     - TRRTs
     - Batts:
             - mbp-00
+            - Headphones Bluetooth
 
 LUN:
     - Corte pelo
