@@ -65,7 +65,7 @@ LUN:
     - Oftalmologo:
                   - Receta:
                            - Systane
-                           - Recugle
+                           - Recugel
 
 
 
