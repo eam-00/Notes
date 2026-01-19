@@ -52,7 +52,7 @@ DOM:
     -> Vacio
     -> Papas Hervidas
     - De freezar pan
-    - TRRTs
+
     - Batts:
             - mbp-00
             - Headphones Bluetooth
