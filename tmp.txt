@@ -51,7 +51,7 @@ DOM:
     -> Queso en Fetas
     -> Vacio
     -> Papas Hervidas
-    - De freezar pan
+
 
     - Batts:
             - mbp-00
