@@ -46,7 +46,7 @@ SAB:
 
 
 DOM:
-    -> Pechugas
+
 
     -> Queso en Fetas
     -> Vacio
