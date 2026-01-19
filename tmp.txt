@@ -63,6 +63,7 @@ LUN:
             - Toallin
             - Repasador
     - Oftalmologo:
+                  - Receta:
 
 
 
