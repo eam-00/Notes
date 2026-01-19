@@ -47,7 +47,7 @@ SAB:
 
 DOM:
     -> Pechugas
-    -> Jamon Cocido en Fetas
+
     -> Queso en Fetas
     -> Vacio
     -> Papas Hervidas
