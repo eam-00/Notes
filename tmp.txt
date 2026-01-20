@@ -64,7 +64,7 @@ MAR:
             - t430
     - Corte pelo
     - Lavar:
-            - Toallin
+
 
     - Oftalmologo:
                   - Receta:
