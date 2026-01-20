@@ -51,7 +51,7 @@ DOM:
 
 
     -> Vacio
-    -> Papas Hervidas
+
 
 
     - Batts:
