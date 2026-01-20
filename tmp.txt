@@ -65,7 +65,7 @@ MAR:
     - Corte pelo
     - Lavar:
             - Toallin
-            - Repasador
+
     - Oftalmologo:
                   - Receta:
                            - Systane
