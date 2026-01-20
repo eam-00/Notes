@@ -63,7 +63,7 @@ MAR:
             - dell-7290
             - t430
     - Corte pelo
-    - Lavar:
+
 
 
     - Oftalmologo:
