@@ -58,6 +58,8 @@ DOM:
 
 
 MAR:
+    - Batts:
+            - mbp-00
     - Corte pelo
     - Lavar:
             - Toallin
