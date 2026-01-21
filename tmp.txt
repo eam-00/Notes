@@ -61,7 +61,7 @@ MAR:
     - Batts:
             - mbp-00
             - dell-7290
-            - t430
+
     - Corte pelo
 
 
