@@ -68,7 +68,7 @@ SAB:
 
     - Oftalmologo:
                   - Receta:
-                           - Systane
+
 
     - Fibertel N -> Promocion
     - M:
