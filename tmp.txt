@@ -69,7 +69,7 @@ SAB:
     - Oftalmologo:
                   - Receta:
                            - Systane
-                           - Recugel
+
     - Fibertel N -> Promocion
     - M:
 
