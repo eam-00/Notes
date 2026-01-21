@@ -67,7 +67,7 @@ SAB:
 
 
 
-                  - Receta:
+
 
 
     - Fibertel N -> Promocion
