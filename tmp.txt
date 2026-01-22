@@ -60,7 +60,6 @@ JUE:
 ---
     - Batts:
 
-
             - 11e*
     - Corte pelo
     - Print Movistar
