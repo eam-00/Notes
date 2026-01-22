@@ -61,7 +61,7 @@ MIE:
 ---
     - Batts:
 
-            - dell-7290
+
             - 11e*
     - Corte pelo
 
