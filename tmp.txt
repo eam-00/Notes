@@ -11,7 +11,7 @@ USB KINGSTON    ::	Yellow
 x201t           ::	Music
 
 -----------
-Docs::Linux
+Docs::Linuxee
 -----------
 Lexar Negro :: Lexar Blanco
 Lexar Negro :: Verbatim Negro [Backup]
@@ -59,7 +59,7 @@ JUE:
             - 11e*
     - Corte pelo
     - Print Movistar
-    - Limpiar casita
+
 
 
 
