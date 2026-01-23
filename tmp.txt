@@ -34,7 +34,7 @@ SAB:
     - Tuppers
     - Malla
     - Legal Pad
-    - Papels
+    - Papeles
     - Print Movistar
 
 
