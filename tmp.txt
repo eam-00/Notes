@@ -59,6 +59,7 @@ VIE:
 ---
     - Batts:
             - 11e*
+    - T43:
     - C B
     - Corte pelo
 
