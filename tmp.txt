@@ -61,7 +61,7 @@ VIE:
             - 11e*
     - T43:
           - Configure XFCE
-    - C B
+
     - Corte pelo
 
 
