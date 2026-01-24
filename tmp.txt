@@ -35,7 +35,6 @@ SAB:
     - Legal Pad
     - Papeles
     - Pechugas
-    - Limones
     - Print Movistar
     - Papas
     - zapallitos 2
