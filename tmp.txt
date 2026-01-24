@@ -30,7 +30,6 @@ Lexar Negro :: Sandisk
 SAB:
 ---
     - TC
-    - Tuppers
     - Malla
     - Legal Pad
     - Papeles
