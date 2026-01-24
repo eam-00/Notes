@@ -34,6 +34,7 @@ SAB:
     - Malla
     - Legal Pad
     - Papeles
+    - Pechugas
     - Print Movistar
     - Papas
     - zapallitos 1/2 KG - Zuccini [2]
