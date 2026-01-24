@@ -38,7 +38,8 @@ SAB:
     - Limones
     - Print Movistar
     - Papas
-    - zapallitos 2 - Zuccini [2]
+    - zapallitos 2
+    - Zuccini [1]
     - Pan Fancy
 
 
