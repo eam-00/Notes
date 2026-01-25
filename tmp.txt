@@ -679,4 +679,3 @@ SET source="Type you source path";
 SET dest="Type you destination path";
 robocopy %source% %dest% /S /COPYALL /NP /TEE /R:3 /W:3 /Log:c:\Documents\logs.txt
 
-
