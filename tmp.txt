@@ -11,7 +11,7 @@ USB KINGSTON    ::	Yellow
 x201t           ::	Music
 
 -----------
-Docs::Linuxe
+Docs::Linux
 -----------
 Lexar Negro :: Lexar Blanco
 Lexar Negro :: Verbatim Negro [Backup]
@@ -31,7 +31,7 @@ SAB:
 ---
     - Legal Pad
     - Papeles
-    - Pechugas
+
 
     - Papas
 
