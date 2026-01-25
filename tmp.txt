@@ -42,6 +42,7 @@ SAB:
 DOM:
     - Print:
             - Edenor
+            - Movistar
     -> Papas
     -> Pechugas
     -> Tarta
