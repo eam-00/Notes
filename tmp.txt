@@ -32,7 +32,7 @@ SAB:
     - Legal Pad
     - Papeles
     - Pechugas
-    - Print Movistar
+
     - Papas
     - zapallitos 2
     - Zuccini [1]
