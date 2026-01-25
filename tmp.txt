@@ -40,7 +40,8 @@ SAB:
 
 
 DOM:
-    -> Papas 
+    -> Papas
+    -> Pechugas
 
 
 
