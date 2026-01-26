@@ -69,6 +69,7 @@ LUN:
     - Corte pelo
     - M:
         - Pechugas
+        - Laundry
 
 
 
