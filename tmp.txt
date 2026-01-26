@@ -33,8 +33,6 @@ SAB:
     - Papeles
 
 
-    - Papas
-
     - Zuccini [1]
     - Pan Fancy
 
