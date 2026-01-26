@@ -42,7 +42,7 @@ DOM:
             - Edenor
             - Movistar
     -> Papas
-    -> Pechugas
+
     -> Tarta
     -> Chow Mein
     -> Medialunas
