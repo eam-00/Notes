@@ -67,7 +67,7 @@ LUN:
     - T43:
           - Configure XFCE
     - Corte pelo
-    - M:
+
 
 
 
