@@ -69,7 +69,6 @@ LUN:
     - Corte pelo
     - M:
 
-        - Laundry
 
 
 
