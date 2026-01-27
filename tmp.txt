@@ -68,7 +68,7 @@ LUN:
           - Configure XFCE
     - Corte pelo
     - M:
-        - Pechugas
+
         - Laundry
 
 
