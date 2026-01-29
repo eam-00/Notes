@@ -52,6 +52,7 @@ Lexar Negro :: Sandisk
 ---
 
 ---
+    - Limpiar casita
     - Batts:
             - 11e*
     - T43:
