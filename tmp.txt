@@ -50,7 +50,7 @@ Lexar Negro :: Sandisk
 
 
 ---
-MIE:
+
 ---
     - Batts:
             - 11e*
