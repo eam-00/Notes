@@ -52,6 +52,7 @@ Lexar Negro :: Sandisk
 ---
 JUE:
 ---
+    - C B
     - Limpiar casita
     - Batts:
             - 11e*
