@@ -51,7 +51,7 @@ VIE:
 ---
     - PF [?]
     - C B
-    - Limpiar casita
+
     - Batts:
             - 11e*
     - T43:
