@@ -64,7 +64,6 @@ SAB:
 ---
 
     - N:
-        - G30
         - T Gal
     - Pechugas
     - Papeles
