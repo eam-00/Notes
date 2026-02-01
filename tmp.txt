@@ -30,8 +30,6 @@ DOM:
     -> Pizza
     -> Tupper Naranja
     -> Jamon
-    -> Pasas de Uvas con Chocolate
-    -> Pan Fancy Hamburguesas
 
 
 
@@ -66,7 +64,6 @@ SAB:
 ---
 
     - N:
-        - T Gal
     - Pechugas
     - Papeles
     - Tuppers
