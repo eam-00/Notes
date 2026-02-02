@@ -62,7 +62,7 @@ SAB:
 ---
 
 
-    - Pechugas
+
     - Papeles
     - Tuppers
     - Print FEMEDICA
