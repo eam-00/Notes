@@ -58,7 +58,7 @@ LUN:
     - Corte pelo
 
     - M:
-
+        - Pechugas
 ---
 SAB:
 ---
