@@ -28,7 +28,7 @@ DOM:
 ---
     -> Pechugas
     -> Pizza
-    -> Tupper Naranja
+
     -> Jamon
 
 
