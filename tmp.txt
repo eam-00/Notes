@@ -67,7 +67,7 @@ SAB:
 
     - Papeles
     - Tuppers
-    - Print FEMEDICA
+
     - Jamon Cocido
     - Anana
     - Pan Fancy Hamburguesas
