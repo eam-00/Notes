@@ -68,7 +68,7 @@ SAB:
     - Papeles
     - Tuppers
 
-    - Jamon Cocido
+
     - Anana
     - Pan Fancy Hamburguesas
     - Pan Chorizos
