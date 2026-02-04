@@ -56,7 +56,7 @@ MIE:
 
     - M:
         - Pechugas
-        - Laundry
+
         - FEMEDICA
 
 ---
