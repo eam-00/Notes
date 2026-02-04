@@ -47,6 +47,7 @@ Lexar Negro :: Sandisk
 ---
 MIE:
 ---
+    - Pinto
     - PFs [!!!]
     - Batts:
             - 11e*
