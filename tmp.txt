@@ -55,7 +55,6 @@ MIE:
           - Configure XFCE
     - Corte pelo
 
-    - M:
 
 
 
