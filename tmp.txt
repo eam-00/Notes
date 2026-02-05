@@ -54,6 +54,7 @@ JUE:
     - T43:
           - Configure XFCE
     - Corte pelo
+    - Limpiar casita
 
 
 
