@@ -48,8 +48,9 @@ Lexar Negro :: Sandisk
 JUE:
 ---
     - Pinto
+    - CB
     - PFs [!!!]
-
+    
     - T43:
           - Configure XFCE
     - Corte pelo
