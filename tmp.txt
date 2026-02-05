@@ -55,6 +55,7 @@ JUE:
           - Configure XFCE
     - Corte pelo
     - Limpiar casita
+    - Expensas
 
 
 
