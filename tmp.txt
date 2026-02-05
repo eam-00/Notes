@@ -50,7 +50,7 @@ JUE:
     - Pinto
     - PFs [!!!]
     - Batts:
-            - 11e*
+
     - T43:
           - Configure XFCE
     - Corte pelo
