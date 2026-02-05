@@ -49,7 +49,6 @@ JUE:
 ---
     - Pinto
     - PFs [!!!]
-    - Batts:
 
     - T43:
           - Configure XFCE
