@@ -56,6 +56,7 @@ VIE:
     - Limpiar:
                cocina
                Esquina Modem
+               Biblioteca
     - Expensas ChK
     - M:
         -> FEMEDICA
