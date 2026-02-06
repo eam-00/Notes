@@ -53,7 +53,7 @@ VIE:
     - T43:
           - Configure XFCE
     - Corte pelo
-
+    - Limpiar cocina
     - Expensas
     - M:
         - FEMEDICA
