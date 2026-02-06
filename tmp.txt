@@ -55,6 +55,7 @@ VIE:
     - Corte pelo
     - Limpiar:
                cocina
+               Esquina Modem
     - Expensas ChK
     - M:
         -> FEMEDICA
