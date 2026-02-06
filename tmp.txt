@@ -54,7 +54,7 @@ VIE:
           - Configure XFCE
     - Corte pelo
     - Limpiar cocina
-    - Expensas
+    - Expensas ChK
     - M:
         -> FEMEDICA
         <- Pechugas
