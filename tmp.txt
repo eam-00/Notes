@@ -56,7 +56,8 @@ VIE:
     - Limpiar cocina
     - Expensas
     - M:
-        - FEMEDICA
+        -> FEMEDICA
+        <- Pechugas
 
 
 
