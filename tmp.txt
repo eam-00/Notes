@@ -55,7 +55,7 @@ VIE:
     - Corte pelo
     - Limpiar:
                cocina
-               Esquina Modem
+
                Biblioteca
     - Expensas ChK
     - ChK Webmail
