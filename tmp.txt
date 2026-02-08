@@ -86,7 +86,7 @@ SAB:
     - Provoleta
     - Pan Fancy
     - Anana
-    - Tomates
+
     - Fruta
 
     - Pepsi
