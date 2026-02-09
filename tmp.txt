@@ -58,7 +58,7 @@ LUN:
     - M:
         -> FEMEDICA
         -> Pechugas
-        - Laundry 
+        -> Laundry 
 
 
 
