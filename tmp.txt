@@ -51,7 +51,6 @@ LUN:
     - Corte pelo
     - Limpiar:
                cocina
-
                Biblioteca
 
 
