@@ -57,7 +57,7 @@ LUN:
 
     - M:
 
-        -> Pechugas
+
         -> Laundry 
 
 
