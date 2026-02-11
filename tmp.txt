@@ -81,7 +81,6 @@ SAB:
     - Pan Fancy
     - Anana
 
-    - Fruta
 
     - Pepsi
 
