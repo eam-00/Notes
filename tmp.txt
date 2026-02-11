@@ -42,7 +42,8 @@ Lexar Negro :: Sandisk
 ---
 MIE:
 ---
-    - Pinto
+    - Pinto:
+            - Depo
     - PF
 
     - T43:
