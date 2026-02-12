@@ -45,7 +45,7 @@ MIE:
 
 
 
-    - PF
+
 
     - T43:
           - Configure XFCE
