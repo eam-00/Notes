@@ -43,7 +43,7 @@ JUE:
           - Configure XFCE
 
     - Limpiar:
-               - Casita
+
                cocina
                Biblioteca
 
