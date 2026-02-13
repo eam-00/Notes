@@ -40,7 +40,7 @@ VIE:
 ---
     - CB
     - Batt:
-
+           - S8
     - T43:
           - Configure XFCE
 
