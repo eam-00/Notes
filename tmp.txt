@@ -39,6 +39,7 @@ Lexar Negro :: Sandisk
 ---
 VIE:
 ---
+    - CB
     - T43:
           - Configure XFCE
 
