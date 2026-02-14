@@ -48,7 +48,6 @@ VIE:
           - Configure XFCE
 
     - Limpiar:
-
                cocina
                Biblioteca
 
