@@ -52,7 +52,7 @@ VIE:
                Biblioteca
 
     - M:
-        - Pechugas [?]
+        - Pechugas
         - Limones
         - Champagne
         - Papeles
