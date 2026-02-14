@@ -75,7 +75,7 @@ SAB:
   
     - Panceta
     - Jamon 100 GR
-    - Queso
+    - Queso 100 GR
     - Provoleta
 
 DOM:
