@@ -43,7 +43,7 @@ VIE:
            - S8
            - S10
 
-           - mba-00
+
     - T43:
           - Configure XFCE
 
