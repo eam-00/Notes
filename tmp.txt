@@ -39,7 +39,7 @@ Lexar Negro :: Sandisk
 VIE:
 ---
 
-    - Batt:
+
 
 
 
