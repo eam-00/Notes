@@ -84,6 +84,7 @@ DOM:
     -> Chow Mein
     -> Pechuga
     -> Manies
+    -> Pan
 
     - Batt:
            - mbp-00
