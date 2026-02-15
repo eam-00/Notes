@@ -80,6 +80,8 @@ SAB:
     - Provoleta
 
 DOM:
+    -> Pechugas
+
     - Batt:
            - mbp-00
     - Unfreeze pan
