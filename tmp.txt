@@ -50,7 +50,7 @@ VIE:
                cocina
                Biblioteca
 
-    - M:
+
         - Pechugas
         - Limones
         - Champagne
