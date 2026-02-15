@@ -50,7 +50,6 @@ LUN:
                cocina
                Biblioteca
 
-
         - Pechugas
         - Limones
         - Champagne
