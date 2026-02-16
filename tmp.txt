@@ -67,8 +67,7 @@ SAB:
     - Papeles
     - Tuppers
 
-    - Leche
-    - Jamon
+
     - Pan Fancy Hamburguesas
 
   
