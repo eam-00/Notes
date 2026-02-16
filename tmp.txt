@@ -86,7 +86,7 @@ DOM:
     -> Manies
     -> Pan
     -> Jamon en Fetas
-    -> Queos en Fetas
+
     -> Pan Fancy
 
     - Batt:
