@@ -72,7 +72,7 @@ SAB:
 
   
     - Panceta Ahumada - 100 GR
-    - Jamon Cocido - 100 GR
+
     - Queso - 100 GR
     - Muzarella 1/4
     - Provoleta
