@@ -83,7 +83,7 @@ SAB:
 
 
 
-    -> Pan Fancy
+
 
     - Batt:
            - mbp-00
