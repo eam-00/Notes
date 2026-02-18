@@ -48,7 +48,7 @@ MIE:
                cocina
                Biblioteca
 
-        - Pechugas
+
 
         - Papeles
 
