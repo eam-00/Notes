@@ -51,7 +51,7 @@ MIE:
                Biblioteca
 
         - Pechugas
-        - Limones
+
         - Champagne
         - Papeles
 
