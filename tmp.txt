@@ -42,6 +42,7 @@ JUE:
 
 
     - Limpiar:
+               - casita
                cocina
                Biblioteca
 
