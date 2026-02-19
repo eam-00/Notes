@@ -39,7 +39,7 @@ MIE:
 
 
     - T43:
-          - Configure XFCE
+
 
     - Limpiar:
                cocina
