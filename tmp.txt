@@ -581,7 +581,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre: Bolsitas | Leches | | Cerealitas | | Jabon Tocador Blanco | Agua | Pan Fancy Hamburguesas
+- Carre: Bolsitas | Leches | | Cerealitas | Pickle | Jabon Tocador Blanco | Agua | Pan Fancy Hamburguesas
 - Vinnie's: Pan Lactal
 - Havanna: Dulce De Leche | Alfajores Mar Del Plata
 
