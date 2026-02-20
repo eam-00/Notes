@@ -71,7 +71,7 @@ SAB:
                - Pollo & Verdura
 
     - Tomates
-
+    - Lechuga
     - Pan chorizos [?]
                
 
