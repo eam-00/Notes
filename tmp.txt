@@ -72,6 +72,7 @@ SAB:
 
     - Tomates
     - Lechuga
+    - Fruta
     - Pan chorizos [?]
                
 
