@@ -65,6 +65,7 @@ SAB:
     - Ikea clips
     - Tuppers
     - Queso Rallado
+    - Pan chorizos
 
     - Ravioles:
                - Ricotta
