@@ -68,6 +68,7 @@ SAB:
     - Ravioles:
                - Ricotta
                - Pollo & Verdura
+    - Pan chorizos [?]
                
 
     - Queso Cheddar
