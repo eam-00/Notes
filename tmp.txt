@@ -74,7 +74,7 @@ SAB:
     - Tomates
     - Lechuga
     - Fruta
-    - Pan chorizos [?]
+
                
 
     - Queso Cheddar
