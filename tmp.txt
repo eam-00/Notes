@@ -39,7 +39,7 @@ VIE:
     - cp mp3 -> celu
     - M:
         - Pechugas
-        - Papeles
+
         - Lappie
 
 
