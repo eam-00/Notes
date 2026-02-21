@@ -40,7 +40,6 @@ VIE:
     - M:
         - Pechugas
 
-        - Lappie
 
 
 
