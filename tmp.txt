@@ -45,7 +45,7 @@ VIE:
 
     - Limpiar:
                cocina
-               Biblioteca
+
 
 
 
