@@ -59,7 +59,7 @@ SAB:
 ---
 
 
-    - Tuppers
+
     - Queso Rallado
     - Pan chorizos
 
