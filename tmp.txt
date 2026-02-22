@@ -77,6 +77,7 @@ Lexar Negro :: Sandisk
 DOM:
 ---
     -> Pechugas
+    - x220i: switcharoo batt
     - TRRTs
     - Blem
 
