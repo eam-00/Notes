@@ -60,7 +60,6 @@ SAB:
 
 
 
-    - Queso Rallado
     - Pan chorizos
 
     - La Bolognesa:
