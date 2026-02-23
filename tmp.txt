@@ -42,7 +42,7 @@ LUN:
     - Limpiar:
                cocina
     - M:
-  
+        - Pechugas
 
 
 
