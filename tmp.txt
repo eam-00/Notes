@@ -32,8 +32,6 @@ Lexar Negro :: Sandisk
 ---
 MAR:
 ---
-    - Limpiar:
-               cocina
     - M:
         -> Tupper
         <- Hongos
