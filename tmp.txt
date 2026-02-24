@@ -33,12 +33,6 @@ Lexar Negro :: Sandisk
 MAR:
 ---
     - PF
-
-
-
-
-
-
     - Limpiar:
                cocina
     - M:
