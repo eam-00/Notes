@@ -353,6 +353,9 @@ tar czvpf - ~/Dropbox | gpg -a --symmetric --cipher-algo aes256 -o /tmp/Dropbox.
 tar czvpf - ./Dropbox | gpg -a --batch --passphrase 'THE.ULTRA.SECURE.PASSPHRASE' --symmetric --cipher-algo aes256 -o /tmp/Dropbox.gpg.10-03-2025.tgz
 
 gpg -d Dropbox.gpg.tgz | tar xzvf -
+
+Decrypt:
+-------
 Without /usr/bin/gpg-agent installed:
 gpg -d  --pinentry-mode loopback --passphrase THE.ULTRA.SECURE.PASSPHRASE Dropbox.gpg.tgz | tar xzvf -
 
