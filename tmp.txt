@@ -287,13 +287,7 @@ https://www.gmgroup.travel/7-destinations-you-have-to-visit-in-northeast-brazil/
 
 
 
-Modern XFWM:
-- https://www.pling.com/p/2090933
-- https://github.com/TerminalHash/Modern
 
-Xfwaita:
-- https://www.pling.com/p/2031526
-- https://github.com/yusacetin/xfwaita
 
 
 
