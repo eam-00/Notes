@@ -38,7 +38,7 @@ JUE:
 ---
 SAB:
 ---
-
+   - Pan choris
 
 
 
