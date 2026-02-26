@@ -37,8 +37,8 @@ JUE:
 ---
 SAB:
 ---
-    - Jamon Cocido
-    - Queso de Maquina
+    - Jamon Cocido - 500 Gr
+    - Queso de Maquina - 500 Gr
     - Panceta Ahumada
     - Cheddar
 
