@@ -27,6 +27,10 @@ JUE:
 ---
     - Limpiar casita
     - Batts:
+            - t4102
+            - t430
+            - HP Envy
+            - Dell 7290
 ---
 SAB:
 ---
