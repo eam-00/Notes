@@ -32,6 +32,8 @@ JUE:
             - t430
             - HP Envy
             - Dell 7290
+   - M:
+
 ---
 SAB:
 ---
