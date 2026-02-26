@@ -33,6 +33,7 @@ JUE:
             - HP Envy
             - Dell 7290
    - M:
+       - Tupper
 
 ---
 SAB:
