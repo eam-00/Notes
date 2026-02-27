@@ -41,6 +41,7 @@ VIE:
 
     - Batts:
             - t430
+            - x201t
 
     - Carre:
             - Provoleta
