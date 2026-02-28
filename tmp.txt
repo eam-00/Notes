@@ -29,6 +29,7 @@ SAB:
     - Pechugas
     - Provoleta
     - Limon
+    - Gomitas
 
    - Pan choris
    - Papas [?]
