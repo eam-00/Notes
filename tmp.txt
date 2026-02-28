@@ -32,7 +32,7 @@ VIE:
             - t430
             - x201t
             - 11e2
-            - mbp-0?
+
 
     - Carre:
             - Provoleta
