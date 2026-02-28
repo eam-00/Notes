@@ -22,21 +22,6 @@ Lexar Negro :: Sandisk
    - MDQ: Viernes 28 Nov
    - G: Definir fecha vacaciones
 
-
----
-VIE:
----
-
-
-    - Batts:
-            - t430
-            - x201t
-            - 11e2
-
-
-    - Carre:
-            - Provoleta
-
 ---
 SAB:
 ---
