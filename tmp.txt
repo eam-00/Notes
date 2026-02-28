@@ -22,17 +22,6 @@ Lexar Negro :: Sandisk
    - MDQ: Viernes 28 Nov
    - G: Definir fecha vacaciones
 
----
-JUE:
----
-
-
-    - Batts:
-            - t4102
-            - t430
-            - HP Envy
-            - Dell 7290
-            - Chromebook
 
 ---
 VIE:
