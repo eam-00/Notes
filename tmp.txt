@@ -34,6 +34,7 @@ DOM:
     -> Pechugas
     -> Tartas
     -> t410 [?]
+    -> Sunglasses [?]
     - Batts:
             - switcharoo x220i
             - mbp-0?
