@@ -39,6 +39,7 @@ DOM:
 ---
     - Backup Lappie
     - ChK TRRT BL
+    -> Bife de Chorizo
     - Batts:
             - switcharoo x220i
             - mbp-0?
