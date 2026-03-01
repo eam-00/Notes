@@ -32,6 +32,7 @@ DOM:
     - ChK TRRT BL
     -> Bife de Chorizo
     -> Pechugas
+    -> Tartas
     -> t410 [?]
     - Batts:
             - switcharoo x220i
