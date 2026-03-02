@@ -37,7 +37,6 @@ DOM:
     -> t410 [?]
     -> Sunglasses [?]
     - Batts:
-            - switcharoo x220i
             - mbp-0?
 ---
 LUN:
