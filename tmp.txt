@@ -32,7 +32,7 @@ DOM:
     - ChK TRRT BL
 
 
-    -> Tartas
+
     -> Pancitos
     -> t410 [?]
 
