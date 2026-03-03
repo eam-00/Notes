@@ -30,7 +30,7 @@ DOM:
 ---
     - Backup Lappie
     - ChK TRRT BL
-    -> Bife de Chorizo
+
     -> Pechugas
     -> Tartas
     -> Pancitos
