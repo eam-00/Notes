@@ -35,7 +35,7 @@ Lexar Negro :: Sandisk
 ---
 MIE:
 ---
-    - PF [x2]
+
     - mbp
     - BDU
     - Batts:
