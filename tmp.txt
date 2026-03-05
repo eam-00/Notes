@@ -35,6 +35,7 @@ Lexar Negro :: Sandisk
 ---
 JUE:
 ---
+    - B: FEMEDICA
     - PF
     - mbp
     - BDU
