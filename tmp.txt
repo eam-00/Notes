@@ -36,7 +36,7 @@ Lexar Negro :: Sandisk
 VIE:
 ---
 
-
+    - Limpiar casita
     - mbp
     - BDU
     - Batts:
