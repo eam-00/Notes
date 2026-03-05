@@ -44,6 +44,7 @@ JUE:
     - Expensas
     - M:
         - FEMEDICA
+        - $
 
 
 
