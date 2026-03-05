@@ -41,7 +41,7 @@ JUE:
     - BDU
     - Batts:
             - mbp-0?
-    - Expensas
+    - ChK Expensas
     - M:
         - FEMEDICA
         - $
