@@ -43,7 +43,7 @@ VIE:
             - mbp-0?
     - ChK Expensas
     - M:
-        - FEMEDICA
+
         - $
         - Tupper
 
