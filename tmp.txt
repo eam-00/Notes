@@ -40,7 +40,7 @@ SAB:
 VIE:
 ---
     - Un freeze tarta [?]
-    - Limpiar casita
+
     - mbp
     - BDU
     - Batts:
