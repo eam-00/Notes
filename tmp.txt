@@ -32,7 +32,7 @@ SAB:
     - Lechuga
     - Papas
     - Tupper
-    - Clip
+
     - Backup Lappie
     - ChK TRRT BL
 
