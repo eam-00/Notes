@@ -31,8 +31,6 @@ SAB:
     - Pechugas
     - Lechuga
     - Papas
-
-
     - Backup Lappie
     - ChK TRRT BL
 
