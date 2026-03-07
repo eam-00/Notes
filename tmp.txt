@@ -37,7 +37,8 @@ SAB:
 ---
 DOM:
 ---
-    -> Gnochis
+    -> Gnoccis
+    -> Pechugas
     - TRRTs
 ---
 LUN:
