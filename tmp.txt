@@ -35,6 +35,9 @@ Lexar Negro :: Sandisk
 ---
 DOM:
 ---
+
+    - Backup Lappie
+    - ChK TRRT BL
     -> Gnoccis
     -> Pechugas
     - TRRTs
