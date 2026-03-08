@@ -47,6 +47,8 @@ LUN:
     - mbp
     - BDU
     - Dell Latitude
+    - M:
+
     - Batts:
             - mbp-0?
     - ChK Expensas
