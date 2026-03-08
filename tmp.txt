@@ -52,7 +52,7 @@ LUN:
         - Laundry
     - Batts:
             - mbp-0?
-    - ChK Expensas
+    - ChK pago de Expensas
 
 
 
