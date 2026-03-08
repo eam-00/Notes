@@ -49,6 +49,7 @@ LUN:
     - Dell Latitude
     - M:
         - Pechugas
+        - Laundry
     - Batts:
             - mbp-0?
     - ChK Expensas
