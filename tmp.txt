@@ -38,7 +38,7 @@ DOM:
 
 
     -> Gnoccis
-    -> Pechugas
+
     - TRRTs
 ---
 LUN:
