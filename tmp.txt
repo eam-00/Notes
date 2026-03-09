@@ -187,7 +187,6 @@ Xfwaita:
 Material-Solarized-LW theme:
 pling.com/p/1315063
 
-https://github.com/jpfleury/clearlooks-phenix
 
 
 
