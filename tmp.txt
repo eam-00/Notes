@@ -47,7 +47,6 @@ LUN:
     - Dell Latitude
     - M:
 
-        - Laundry
     - Batts:
             - mbp-0?
     - ChK pago de Expensas
