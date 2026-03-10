@@ -45,8 +45,6 @@ MAR:
     - mbp
     - BDU
     - Dell Latitude
-
-
     - Batts:
             - mbp-0?
     - ChK pago de Expensas
