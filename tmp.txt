@@ -38,6 +38,7 @@ MIE:
     - mbp
     - BDU
     - Dell Latitude
+    - Setup: x201t
     - Batts:
             - mbp-0?
             - 11e
