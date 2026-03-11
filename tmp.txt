@@ -40,6 +40,7 @@ MIE:
     - Dell Latitude
     - Batts:
             - mbp-0?
+            - 11e
 
 
 
