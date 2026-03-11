@@ -43,6 +43,7 @@ MIE:
             - mbp-0?
             - 11e
             - CP
+            - KBD Bluetooth
 
 
 
