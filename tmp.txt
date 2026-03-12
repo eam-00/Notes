@@ -41,7 +41,6 @@ JUE:
     - Batts:
             - t420
 
-            - CP
             - KBD Bluetooth
 
 
