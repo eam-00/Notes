@@ -32,7 +32,6 @@ Lexar Negro :: Sandisk
 ---
 JUE:
 ---
-    - Pinto
 
 
     - mbp
