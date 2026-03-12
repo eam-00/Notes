@@ -39,6 +39,7 @@ JUE:
     - Dell Latitude
     - Setup: x201t
     - Batts:
+            - t420
 
             - CP
             - KBD Bluetooth
