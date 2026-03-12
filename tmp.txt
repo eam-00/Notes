@@ -33,6 +33,7 @@ Lexar Negro :: Sandisk
 JUE:
 ---
     - Pinto
+    - Limpiar casita
     - Reu AR - 16:00 hrs
     - mbp
     - BDU
