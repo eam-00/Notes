@@ -35,6 +35,8 @@ Lexar Negro :: Sandisk
 JUE:
 ---
     - Pinto
+    - Reu AR - 16:00 hrs
+
     - mbp
     - BDU
     - Dell Latitude
