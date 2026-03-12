@@ -40,7 +40,6 @@ JUE:
     - Setup: x201t
     - Batts:
 
-            - 11e
             - CP
             - KBD Bluetooth
 
