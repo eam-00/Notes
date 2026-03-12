@@ -40,7 +40,7 @@ MIE:
     - Dell Latitude
     - Setup: x201t
     - Batts:
-            - mbp-0?
+
             - 11e
             - CP
             - KBD Bluetooth
