@@ -40,6 +40,7 @@ JUE:
     - Setup: x201t
     - Batts:
             - t420
+            - x2202
 
 ---
 VIE:
