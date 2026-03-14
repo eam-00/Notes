@@ -40,7 +40,6 @@ Lexar Negro :: Sandisk
              - t410-2
     - Batts:
 
-            - x2202
 
 ---
 VIE:
