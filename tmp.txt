@@ -32,9 +32,9 @@ Lexar Negro :: Sandisk
 
 
 
-    - mbp
-    - BDU
-    - Dell Latitude
+    - mbp [?]
+    - BDU [?]
+    - Dell Latitude [?]
     - Setup:
              - x201t
 
