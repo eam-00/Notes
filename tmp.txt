@@ -60,7 +60,7 @@ DOM:
 ---
 LUN:
 ---
-    - C: TS
+
     - Oftal
     - PFs [?]
     - Pinto
