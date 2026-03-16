@@ -55,7 +55,7 @@ DOM:
 ---
     -> Pechugas
     Github: .Xresources
-    USB: .Xresources - x220i
+
 
 ---
 LUN:
