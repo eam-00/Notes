@@ -44,8 +44,7 @@ Lexar Negro :: Sandisk
     - Oftal
 
     - Pinto
-    - M:
-        -> Pechugas
+
 
 
 
