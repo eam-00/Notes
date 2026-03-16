@@ -40,9 +40,7 @@ Lexar Negro :: Sandisk
 ---
 MAR:
 ---
-
     - Oftal
-
     - Pinto
 
 
