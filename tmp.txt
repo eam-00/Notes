@@ -62,7 +62,7 @@ LUN:
 ---
 
     - Oftal
-    - PFs [?]
+
     - Pinto
     - M:
         -> Pechugas
