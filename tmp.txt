@@ -37,6 +37,8 @@ Lexar Negro :: Sandisk
     - Dell Latitude [?]
     - Setup:
              - x201t
+    - Install:
+
 ---
 MAR:
 ---
