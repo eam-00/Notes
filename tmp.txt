@@ -159,7 +159,7 @@ Modern XFWM:
 
 Xfwaita:
 - https://www.pling.com/p/2031526
-- https://github.com/yusacetin/xfwaita
+
 
 Material-Solarized-LW theme:
 pling.com/p/1315063
