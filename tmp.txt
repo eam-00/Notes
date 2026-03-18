@@ -35,7 +35,7 @@ Lexar Negro :: Sandisk
     - BDU [?]
     - Dell Latitude [?]
     - Setup:
-             - x201t
+
     - Install:
 
 ---
