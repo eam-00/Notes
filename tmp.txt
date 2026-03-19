@@ -52,7 +52,7 @@ SAB:
 ---
     - Papeles
     - Sync USB:
-               t410-2: NOTES.local.txt
+               t410-2: NOTES.t410-2-Debian_13-XFCE.txt
 
 
 
