@@ -52,7 +52,7 @@ SAB:
 ---
     - Papeles
     - Sync USB:
-
+               t410-2: NOTES.local.txt
 
 
 
