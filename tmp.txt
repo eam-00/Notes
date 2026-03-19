@@ -41,6 +41,7 @@ JUE:
     - Limpiar casita
     - M:
         <- Tortilla
+        <- Ravioles
         - Email para RN
     - Reboot Chromebook
     - Ale asado del Sabado
