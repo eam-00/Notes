@@ -35,8 +35,9 @@ Lexar Negro :: Sandisk
     - Dell Latitude [?]
     - Setup:
 
-
+---
 JUE:
+---
     - Limpiar casita
 
 
