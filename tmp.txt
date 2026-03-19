@@ -52,7 +52,7 @@ SAB:
 ---
     - Papeles
     - Sync USB:
-               t410-2: NOTES.t410-2-Debian_13-XFCE.txt
+               t410-2: NOTES.t410-2-Debian-13_XFCE.txt
                        Get hardware info
 
 
