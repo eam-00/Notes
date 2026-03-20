@@ -39,12 +39,7 @@ Lexar Negro :: Sandisk
 VIE:
 ---
     - M:
-        <- Tortilla
-        <- Ravioles
-        <- Pizza
-        - Email para RN
-    - Reboot Chromebook
-    - Ale asado del Sabado
+
 
 ---
 SAB:
