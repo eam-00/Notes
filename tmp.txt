@@ -38,6 +38,7 @@ Lexar Negro :: Sandisk
 ---
 VIE:
 ---
+    - CB
     - M:
         -> Tuppers
         -> Baston
