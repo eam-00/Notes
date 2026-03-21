@@ -61,6 +61,7 @@ LUN:
         - TS
     - ABL
     - X140e: install
+    - 11e2: SSD
 
 
 
