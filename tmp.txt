@@ -62,7 +62,7 @@ LUN:
     - ABL
     - X140e: install
     - 11e2: SSD
-
+    - x220: Test updates
 
 
 
