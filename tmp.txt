@@ -47,7 +47,7 @@ SAB:
     - Papeles [?]
 
 
-    - ATM Gal
+
 
     - Sync USB:
 
