@@ -46,7 +46,7 @@ SAB:
 ---
     - Papeles [?]
 
-    - Gomitas
+
     - Tupepr
     - ATM Gal
 
