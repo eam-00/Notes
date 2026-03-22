@@ -51,7 +51,7 @@ SAB:
     - ATM Gal
 
     - Sync USB:
-               t410-2: NOTES.t410-2-Debian-13_XFCE.txt
+
                        Get hardware info
 
 ---
