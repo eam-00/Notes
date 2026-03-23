@@ -53,7 +53,8 @@ Lexar Negro :: Sandisk
 LUN:
 ---
 
-    M: 
+    M:
+      - Laundry
 
     - ABL
     - X140e: install
