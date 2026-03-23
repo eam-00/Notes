@@ -55,6 +55,7 @@ LUN:
 
     M:
       - Laundry
+      - Tortillas
 
     - ABL
     - X140e: install
