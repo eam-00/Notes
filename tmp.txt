@@ -57,6 +57,7 @@ MAR:
 MIE:
     - Lavar:
             - Toallin
+            - Repasador
 
 
 
