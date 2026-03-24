@@ -54,7 +54,7 @@ LUN:
 ---
 
     M:
-      - Laundry
+
       - Tortillas
 
     - ABL
