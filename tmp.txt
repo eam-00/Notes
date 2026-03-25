@@ -52,8 +52,7 @@ MIE:
 ---
     - Pic:
           - Setup right now
-
-
+          - Orange Tshirt
     - Lavar:
             - Toallin
             - Repasador
