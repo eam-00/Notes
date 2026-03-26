@@ -63,7 +63,7 @@ JUE:
     - Limpiar casita
     - M:
         - Tortilla
-        - 
+        - Tupper / Clip
 ---
 VIE:
 ---
