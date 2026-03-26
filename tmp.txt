@@ -52,7 +52,6 @@ MIE:
 ---
     - Pic:
 
-          - Orange Tshirt
     - Lavar:
             - Toallin
             - Repasador
