@@ -58,7 +58,7 @@ MIE:
 
 
 JUE:
-
+    - Limpiar casita
 
 
 
