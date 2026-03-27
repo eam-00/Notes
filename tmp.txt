@@ -64,6 +64,7 @@ Lexar Negro :: Sandisk
 VIE:
 ---
     - Lavar ropa
+    - Backups HDD Ext
     - PF
     - Pay stuff [?]
     - CB
