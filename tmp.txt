@@ -63,6 +63,7 @@ Lexar Negro :: Sandisk
 ---
 VIE:
 ---
+    - Lavar ropa
     - PF
     - Pay stuff [?]
     - CB
