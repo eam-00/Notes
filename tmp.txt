@@ -60,10 +60,6 @@ Lexar Negro :: Sandisk
 
 
 
-
-    - M:
-
-        - Tupper / Clip
 ---
 VIE:
 ---
