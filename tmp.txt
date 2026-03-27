@@ -70,7 +70,7 @@ VIE:
     - CB
                
 SAB:
-
+    - Check backup script -> ht [cp pendrive]
 
 
 
