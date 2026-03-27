@@ -60,7 +60,7 @@ JUE:
 
     - Print:
             - Edenor
-    - Limpiar casita
+
     - M:
         - Tortilla
         - Tupper / Clip
