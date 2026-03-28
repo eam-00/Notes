@@ -61,7 +61,7 @@ Lexar Negro :: Sandisk
 ---
 VIE:
 ---
-    - Backups HDD Ext
+
     - PF
     - Pay stuff [?]
     - CB
