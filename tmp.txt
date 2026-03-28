@@ -62,7 +62,7 @@ Lexar Negro :: Sandisk
 VIE:
 ---
 
-    - PF
+
 
     - CB
                
