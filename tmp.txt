@@ -341,6 +341,16 @@ gpg -d  --pinentry-mode loopback --passphrase THE.ULTRA.SECURE.PASSPHRASE Dropbo
     -- Pictures
     -- Videos
 
+29 March 2026:
+-------------
+    -- Documents
+    -- Downloads
+    -- Music
+    -- Pictures
+    -- Videos
+
+
+
 http://blog.davidron.com/2016/12/i-have-benefit-of-working-in.html
 https://bellard.org/qemacs/
 https://github.com/qemacs/qemacs
