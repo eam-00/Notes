@@ -63,6 +63,7 @@ DOM:
     -> Pan
     -> Pepsi
     -> Queso en Fetas
+    -> Choco Lindt
 
 LUN:
     - PF
