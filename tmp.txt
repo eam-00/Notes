@@ -341,13 +341,13 @@ gpg -d  --pinentry-mode loopback --passphrase THE.ULTRA.SECURE.PASSPHRASE Dropbo
     -- Pictures
     -- Videos
 
-29 March 2026:
+29 March 2026: (with Windows 11)
 -------------
-    -- Documents
-    -- Downloads
-    -- Music
-    -- Pictures
-    -- Videos
+    -- Documents - 25.5 GB
+    -- Downloads - 2.48 GB
+    -- Music     - 22.7 GB
+    -- Pictures  - 5.16 GB
+    -- Videos    - 2.79 GB
 
 
 
