@@ -62,6 +62,7 @@ DOM:
     -> Canelones
     -> Pan
     -> Pepsi
+    -> Queso en Fetas
 
 LUN:
     - PF
