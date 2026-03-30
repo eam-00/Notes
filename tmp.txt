@@ -61,7 +61,7 @@ DOM:
 ---
 
     -> Pan
-    -> Pepsi
+
 
     -> Choco Lindt
 
