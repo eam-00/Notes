@@ -62,7 +62,7 @@ DOM:
     -> Canelones
     -> Pan
     -> Pepsi
-    -> Queso en Fetas
+
     -> Choco Lindt
 
 LUN:
