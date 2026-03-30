@@ -49,7 +49,7 @@ Lexar Negro :: Sandisk
     - 11e2: SSD
 
 ---               
-SAB:
+
 ---
 
 
