@@ -31,8 +31,10 @@ Lexar Negro :: Sandisk
     - Dell Latitude [?]
 
 
-- ChK ABL
-
+    - ChK ABL
+    - PF
+    - C:
+         - TS
 
 
 
@@ -62,9 +64,7 @@ Lexar Negro :: Sandisk
 
 
 
-    - PF
-    - C:
-         - TS
+
 
 
 
