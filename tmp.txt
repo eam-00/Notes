@@ -34,7 +34,6 @@ Lexar Negro :: Sandisk
 MAR:
 ---
     - M:
-        <- Laundry
         -> Tort. Fea
     - ChK ABL
     - PF
