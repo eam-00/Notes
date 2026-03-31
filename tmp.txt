@@ -34,7 +34,6 @@ Lexar Negro :: Sandisk
 MAR:
 ---
     - M:
-        -> Tort. Fea
     - ChK ABL
     - PF
     - C:
