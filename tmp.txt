@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
 MIE:
 ---
 
-    - ChK ABL
+    - Print ABL
     - PF
     - C:
          - TS
