@@ -42,6 +42,9 @@ MAR:
          - TS
 
 
+MIE:
+
+Artemis: 19.24 hrs AR 
 
 
 
