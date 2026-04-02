@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
 JUE:
 ---
 
-    - Limpiuar casita
+    - Limpiar casita
     - PF
     - C:
 
