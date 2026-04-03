@@ -51,6 +51,7 @@ Pan
 Pan Hamburguesas
 Tomates
 Papas
+Fruta
 Yogurt
 Aceitunas
 Provoleta
