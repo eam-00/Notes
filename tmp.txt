@@ -46,6 +46,7 @@ SAB:
     - Papeles
     - Gomitas
     - Tupper
+    - Pechugas
 
 Pan
 Pan Hamburguesas
