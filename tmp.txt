@@ -35,6 +35,7 @@ VIE:
 ---
     - Batts:
             - S8
+            - S10
 
     - PF
     - ChK Bcos
