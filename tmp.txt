@@ -56,6 +56,8 @@ Yogurt
 Aceitunas
 Provoleta
 
+- Sync Pendrive Metal -> ht
+
 ---
 LUN:
 ---
