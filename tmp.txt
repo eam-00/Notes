@@ -59,7 +59,7 @@ Provoleta
 - Sync Pendrive Metal -> ht
 
 DOM:
-
+    - TRRTs
 
 ---
 LUN:
