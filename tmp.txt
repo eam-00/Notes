@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
 VIE:
 ---
     - Batts:
-            - S8
+
 
 
     - PF
