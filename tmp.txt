@@ -47,7 +47,7 @@ SAB:
     - Pechugas
 
 Pan
-Pan Hamburguesas
+
 Tomates
 Papas
 Limones
