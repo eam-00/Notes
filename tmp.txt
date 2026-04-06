@@ -36,7 +36,6 @@ LUN:
     - PFs
     - Pinto
     - M:
-        - Resonancia
     - Batts
 
 
