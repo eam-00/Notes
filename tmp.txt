@@ -39,6 +39,7 @@ LUN:
     - Batts
     - M:
         - ABL
+        - Laundry
 
 
     - 11e2: SSD
