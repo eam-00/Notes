@@ -56,7 +56,7 @@ Yogurt
 
 
 
-- Sync Pendrive Metal -> ht
+
 
 ---
 DOM:
