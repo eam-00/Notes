@@ -59,7 +59,7 @@ Lexar Negro :: Sandisk
 ---
 DOM:
 ---
-    -> Pizza
+
     - TRRTs
 
 ---
