@@ -38,7 +38,7 @@ MIE:
     - Batts:
             - mbp-00
     - M:
-        - Ext HDD
+        <- Ext HDD
 
 
 
