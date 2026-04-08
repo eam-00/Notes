@@ -37,6 +37,7 @@ MIE:
     - M:
     - Batts:
             - mbp-00
+            - t430
     - M:
         <- Ext HDD
         <- Tangerine
