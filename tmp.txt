@@ -39,7 +39,7 @@ MIE:
 
             - t430
     - M:
-        -> Tupper
+
         <- Ext HDD
         <- Tangerine
 
