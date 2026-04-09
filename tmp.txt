@@ -33,6 +33,7 @@ Lexar Negro :: Sandisk
 ---
 JUE:
 ---
+    - PF
     - Pinto
     - M:
     - Batts:
