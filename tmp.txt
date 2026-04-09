@@ -35,7 +35,6 @@ JUE:
 ---
     - PF
     - Pinto
-    - M:
     - Batts:
             - t430
             - 11e
