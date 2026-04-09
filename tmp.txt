@@ -40,7 +40,7 @@ JUE:
     - M:
 
         <- Ext HDD
-        <- Tangerine
+
 
     - Test OS:
               - m1330
