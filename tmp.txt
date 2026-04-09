@@ -36,7 +36,6 @@ JUE:
     - Pinto
     - M:
     - Batts:
-
             - t430
     - M:
 
