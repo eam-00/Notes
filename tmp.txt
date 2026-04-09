@@ -38,10 +38,6 @@ JUE:
     - Batts:
             - t430
     - M:
-
-
-
-
     - Test OS:
               - m1330
 
