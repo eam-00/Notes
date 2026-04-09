@@ -38,6 +38,7 @@ JUE:
     - M:
     - Batts:
             - t430
+            - 11e
     - M:
         -> HDD Ext
     - Test OS:
