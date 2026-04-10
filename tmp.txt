@@ -43,7 +43,7 @@ VIE:
     - M:
         <- Pechugas
     - Pendrive:
-
+               - cp movies
 
     - Test OS:
               - m1330
