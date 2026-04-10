@@ -33,6 +33,7 @@ Lexar Negro :: Sandisk
 ---
 VIE:
 ---
+    - ChK Bcos
     - PF
     - Pinto
     - Batts:
