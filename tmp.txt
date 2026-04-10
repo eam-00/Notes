@@ -40,7 +40,7 @@ JUE:
             - 11e
             - 11e3
     - M:
-        -> HDD Ext
+
     - Test OS:
               - m1330
 
