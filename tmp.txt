@@ -37,7 +37,7 @@ VIE:
     - PF
     - Pinto
     - Batts:
-            - t430
+
             - 11e
             - 11e3
     - M:
