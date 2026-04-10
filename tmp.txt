@@ -38,8 +38,7 @@ VIE:
     - Pinto
     - Batts:
 
-            - 11e
-            - 11e3
+
     - M:
         <- Pechugas
     - Pendrive:
