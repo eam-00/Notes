@@ -42,6 +42,9 @@ VIE:
             - 11e3
     - M:
         <- Pechugas
+    - Pendrive:
+
+
     - Test OS:
               - m1330
 
