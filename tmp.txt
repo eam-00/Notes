@@ -37,7 +37,7 @@ VIE:
     - PF
     - Pinto
     - Batts:
-
+            - KN [Sync]
 
     - M:
         <- Pechugas
