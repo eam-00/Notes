@@ -36,7 +36,7 @@ VIE:
     - ChK Bcos
     - Lavar:
 
-    - PF
+
     - Pinto
     - Batts:
             - KN [Sync]
