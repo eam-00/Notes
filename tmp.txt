@@ -41,7 +41,7 @@ Lexar Negro :: Sandisk
     - M:
         <- Pechugas
     - Pendrive:
-               - cp movies
+
 
     - Test OS:
               - m1330
