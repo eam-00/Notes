@@ -37,7 +37,7 @@ VIE:
     - Lavar:
 
 
-    - Pinto
+
     - Batts:
             - KN [Sync]
 
