@@ -54,6 +54,8 @@ VIE:
 
 SAB:
     - Fiambre
+    - 150 GR Jamon
+
     - Provoleta
     - Mandarinas
     - Pan choris
