@@ -590,7 +590,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre: Bolsitas | Leches | Broches de Madera | Platos Medianos | | | Pan Fancy Hamburguesas
+- Carre: Bolsitas | Leches | Broches de Madera | | | | Pan Fancy Hamburguesas
 - Havanna: Dulce De Leche | Alfajores Mar Del Plata
 
 
