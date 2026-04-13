@@ -35,7 +35,7 @@ LUN:
 ---
 DOM:
 ---
-    -> Pechugas
+
     -> Guiso
     -> Milanesas
     -> Jamon
