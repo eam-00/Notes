@@ -32,7 +32,7 @@ LUN:
     - PFs
     - M:
         - Chicken
-        - Laundry
+        <- Laundry
    
 
 ---
