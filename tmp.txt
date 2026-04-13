@@ -29,7 +29,6 @@ Lexar Negro :: Sandisk
 ---
 LUN:
 ---
-    - PFs
     - M:
         - Chicken
         <- Laundry
