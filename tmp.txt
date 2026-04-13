@@ -58,7 +58,7 @@ DOM:
 SAB:
     - Fiambre
 
-    - 150 GR Queso
+
     - Provoleta
 
     - Mandarinas
