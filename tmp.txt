@@ -38,7 +38,7 @@ LUN:
 DOM:
 ---
 
-    -> Guiso
+
 
     -> Jamon
 
