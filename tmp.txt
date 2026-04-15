@@ -60,7 +60,7 @@ MIE:
     - Test OS:
               - m1330
 
-    - 11e2: SSD
+
 
 
 
