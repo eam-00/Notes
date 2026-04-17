@@ -33,6 +33,7 @@ VIE:
    - Backup HDD Ext Doble USB
    - M:
        <- Pechugas
+       -> HDD Ext
 
    
 
