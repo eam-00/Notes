@@ -32,7 +32,7 @@ VIE:
    - CB
    - Backup HDD Ext Doble USB
    - M:
-
+      <- Pechugas
 
    
 
