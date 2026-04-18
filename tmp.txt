@@ -30,7 +30,7 @@ Lexar Negro :: Sandisk
 VIE:
 ---
 
-   - Backup HDD Ext Doble USB
+
 
        <- Pechugas
        <- Limones [?]
