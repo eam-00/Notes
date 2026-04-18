@@ -33,7 +33,7 @@ VIE:
 
 
        <- Pechugas
-       <- Limones [?]
+
        -> HDD Ext
 
    
