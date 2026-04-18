@@ -34,7 +34,7 @@ VIE:
 
        <- Pechugas
 
-       -> HDD Ext
+
 
    
 
