@@ -28,6 +28,7 @@ Lexar Negro :: Sandisk
 
 DOM:
     -> Pechugas
+    -> Milanesas
 
 ---
 SAB:
