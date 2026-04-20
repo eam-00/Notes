@@ -568,7 +568,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 - Llamar Cavagna
 
   -----
-- Carre: Bolsitas | Leches | | | | | Pan Fancy Hamburguesas
+- Carre: Bolsitas | Leches | | | | | 
 - Havanna: Dulce De Leche | Alfajores Mar Del Plata
 
 
