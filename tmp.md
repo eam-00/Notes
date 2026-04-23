@@ -30,14 +30,14 @@ Lexar Negro :: Sandisk
 
 
 **JUE:**
-- Mail RM
-- Pechugas
-- Flow
-- Palo Alto (Music from the Motion Picture)
-- Whale
-
-  - Desodorante
-
+```
+    - Mail RM
+    - Desodorante
+    - Pechugas
+    - Flow
+    - Palo Alto (Music from the Motion Picture)
+    - Whale
+```
 
 **SAB:**
 ```
