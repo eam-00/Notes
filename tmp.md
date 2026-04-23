@@ -1,23 +1,24 @@
-
 https://secure.bancocolumbia.com.ar/web/10111-Cupon-de-Pago.note.aspx
 https://secure.bancocolumbia.com.ar/web/Cupon-de-pago-10368.note.aspx
 Click en "MasterCard"
 
----
-MP3:
----
+
+**MP3:**
+```
 Moto G6	        ::	MicroSD
 USB SanDisk     ::	Almonde
 USB KINGSTON    ::	Yellow
 x201t           ::	Music
+```
 
------------
-Docs::Linux
------------
+
+**Docs::Linux**
+```
 Lexar Negro :: Lexar Blanco
 Lexar Negro :: Verbatim Negro [Backup]
 Lexar Negro :: Lexar Negro
 Lexar Negro :: Sandisk
+```
 
 
    - MDQ: Viernes 28 Nov
@@ -27,9 +28,8 @@ Lexar Negro :: Sandisk
     - BDU [?]
     - Dell Latitude [?]
 
----
-JUE:
----
+
+**JUE:**
 - Pechugas
 - Flow
 - Palo Alto (Music from the Motion Picture)
@@ -38,9 +38,7 @@ JUE:
   - Desodorante
 
 
----
-SAB:
----
+**SAB:**
     - Leche
     - Pinza p/ Nati
     - Alcohol refill
