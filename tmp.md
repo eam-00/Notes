@@ -286,7 +286,7 @@ Gold Fame Citrus - Claire Vaye Watkins
 The Past is Red - Catherynne Valente
 Bannerless by Carrie Vaughn
 A Psalm for the Wild Built				Becky Chambers
-Seveneves - Neal Stephenson
+
 Riddley Walker - Russell Hoban
 ```
 
