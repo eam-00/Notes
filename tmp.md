@@ -325,7 +325,7 @@ gpg -d  --pinentry-mode loopback --passphrase THE.ULTRA.SECURE.PASSPHRASE Dropbo
 09  April 2023:
 --------------
     -- D:\filehistory\natalia\lacompudenati\data\c\users\natalia
-    -- C:\ - Used: 129 GB
+    -- C:\ -- 129 GB
     -- Desktop
     -- Documents
     -- Downloads
