@@ -321,8 +321,11 @@ gpg -d  --pinentry-mode loopback --passphrase THE.ULTRA.SECURE.PASSPHRASE Dropbo
 
  - Remove "Usuario"
  - Weekly Backup
- - 09 - April - 2023: C:\ - Used: 129 GB
- - D:\filehistory\natalia\lacompudenati\data\c\users\natalia
+
+09  April 2023:
+--------------
+    -- D:\filehistory\natalia\lacompudenati\data\c\users\natalia
+    -- C:\ - Used: 129 GB
     -- Desktop
     -- Documents
     -- Downloads
