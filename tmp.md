@@ -266,6 +266,7 @@ https://www.anothermag.com/search?q=taiwan
 
 https://yts.mx/movies/the-world-2004
 
+```
 Nuclear War: A Scenario - Annie Jacobsen
 The Pentagon's Brain: An Uncensored History of DARPA, America's Top-Secret Military Research Agency - Annie Jacobsen
 Operation Paperclip: The Secret Intelligence Program that Brought Nazi Scientists to America - 	Annie Jacobsen
@@ -286,7 +287,7 @@ Bannerless by Carrie Vaughn
 A Psalm for the Wild Built				Becky Chambers
 Seveneves - Neal Stephenson
 Riddley Walker - Russell Hoban
-
+```
 
 
 - Renovacion licencia de conducir
