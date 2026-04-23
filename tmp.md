@@ -278,7 +278,7 @@ Conquerer Worms						Brian Keene
 Down To A Sunless Sea					David Graham
 
 Wool							Hugh Howey
-The Girl With All the Gifts
+
 A Boy and His Dog at the End of the World		Charlie Fletcher
 
 The Broken Earth trilogy				N.K Jemisin
