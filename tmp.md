@@ -34,6 +34,7 @@ Lexar Negro :: Sandisk
     - Mail RM
     - CB
     - Desodorante
+    - Guantes
 
     - OpenBSD -> x60
     - Palo Alto (Music from the Motion Picture)
