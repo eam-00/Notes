@@ -34,7 +34,6 @@ Lexar Negro :: Sandisk
     - Mail RM
     - Desodorante
 
-    - Flow
     - OpenBSD -> x60
     - Palo Alto (Music from the Motion Picture)
     - Whale
