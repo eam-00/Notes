@@ -44,6 +44,9 @@ Lexar Negro :: Sandisk
     - Leche
     - Pinza p/ Nati
     - Alcohol refill
+
+    -> Limones
+
     - Print: Movistar
     <- Batt t60p
 ```
