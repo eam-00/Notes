@@ -48,7 +48,7 @@ Lexar Negro :: Sandisk
 
     -> Limones
     -> 2 KGs de Papas
-    -> Jamon Cocido
+    -> Jamon Cocido - 1/2 KG
 
     - Print: Movistar
     <- Batt t60p
