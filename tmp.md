@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
     - Mail RM
     - CB
     - Desodorante
-    - Guantes
+    - Guantes - Medium
 
     <- Pechugas
     <- Papeles
