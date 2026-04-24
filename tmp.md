@@ -51,6 +51,7 @@ Lexar Negro :: Sandisk
     -> 2 KGs de Papas
     -> Jamon Cocido - 1/2 KG
     -> Queso De Maquina - 1/2 KG
+    -> Provoleta
 
     - Print: Movistar
     <- Batt t60p
