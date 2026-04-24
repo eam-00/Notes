@@ -36,6 +36,8 @@ Lexar Negro :: Sandisk
     - Desodorante
     - Guantes
 
+    <- Pechugas
+
     - OpenBSD -> x60
     - Palo Alto (Music from the Motion Picture)
     - Whale
