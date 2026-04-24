@@ -46,6 +46,7 @@ Lexar Negro :: Sandisk
     - Alcohol refill
 
     -> Limones
+    -> 2 KGs de Papas
 
     - Print: Movistar
     <- Batt t60p
