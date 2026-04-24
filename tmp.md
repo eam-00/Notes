@@ -37,6 +37,7 @@ Lexar Negro :: Sandisk
     - Guantes
 
     <- Pechugas
+    <- Papeles
 
     - OpenBSD -> x60
     - Palo Alto (Music from the Motion Picture)
