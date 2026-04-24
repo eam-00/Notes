@@ -32,6 +32,7 @@ Lexar Negro :: Sandisk
 **VIE:**
 ```
     - Mail RM
+    - CB
     - Desodorante
 
     - OpenBSD -> x60
