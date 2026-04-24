@@ -33,7 +33,7 @@ Lexar Negro :: Sandisk
 ```
     - Mail RM
     - Desodorante
-    - Pechugas
+
     - Flow
     - OpenBSD -> x60
     - Palo Alto (Music from the Motion Picture)
