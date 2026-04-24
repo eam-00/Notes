@@ -29,7 +29,7 @@ Lexar Negro :: Sandisk
     - Dell Latitude [?]
 
 
-**JUE:**
+**VIE:**
 ```
     - Mail RM
     - Desodorante
