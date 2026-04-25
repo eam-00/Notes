@@ -49,7 +49,7 @@ Lexar Negro :: Sandisk
     -> Provoleta
     -> Pan Choris
 
-    - Print: Movistar
+    - Print: Movistar | Edenor
     <- Batt t60p
 ```
 
