@@ -33,7 +33,7 @@ Lexar Negro :: Sandisk
 ```
 
     - CB
-    - Desodorante
+
     - Guantes - Medium
 
     <- Pechugas
