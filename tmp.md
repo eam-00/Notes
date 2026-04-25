@@ -286,7 +286,7 @@ Wool							Hugh Howey
 A Boy and His Dog at the End of the World		Charlie Fletcher
 
 The Broken Earth trilogy				N.K Jemisin
-Gold Fame Citrus - Claire Vaye Watkins
+
 The Past is Red - Catherynne Valente
 Bannerless by Carrie Vaughn
 A Psalm for the Wild Built				Becky Chambers
