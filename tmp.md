@@ -36,7 +36,6 @@ Lexar Negro :: Sandisk
 
 
 
-    <- Pechugas
     <- Papeles
 
     - OpenBSD -> x60
