@@ -144,15 +144,15 @@ Xfwaita:
 
 
 Material-Solarized-LW theme:
-- pling.com/p/1315063
+- https://pling.com/p/1315063
 
 
 
 kora-grey icons:
-- pling.com/p/1256209/
+- https://pling.com/p/1256209/
 
 Gidole truetype font:
-- dafont.com/gidole.font
+- https://dafont.com/gidole.font
 
 
 
