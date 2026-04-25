@@ -31,7 +31,7 @@ Lexar Negro :: Sandisk
 
 **VIE:**
 ```
-    - Mail RM
+
     - CB
     - Desodorante
     - Guantes - Medium
