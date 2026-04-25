@@ -31,7 +31,6 @@ Lexar Negro :: Sandisk
 
 **VIE:**
 ```
-60
     - Palo Alto (Music from the Motion Picture)
     - Whale
 ```
