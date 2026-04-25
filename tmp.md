@@ -31,14 +31,7 @@ Lexar Negro :: Sandisk
 
 **VIE:**
 ```
-
-
-
-
-
-    <- Papeles
-
-    - OpenBSD -> x60
+60
     - Palo Alto (Music from the Motion Picture)
     - Whale
 ```
