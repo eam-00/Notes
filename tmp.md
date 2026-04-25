@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
 
     - CB
 
-    - Guantes - Medium
+
 
     <- Pechugas
     <- Papeles
