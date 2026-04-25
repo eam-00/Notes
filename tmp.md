@@ -572,8 +572,10 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
   X250 - i3 - 4 GB - SSD 50GB - 78 mil - 03 Junio 2022
 - Llamar Cavagna
 
-  -----
-- Carre: Bolsitas | Leches | Jugos Clight | | | | 
+
+Carre:
+-----
+Bolsitas | Leches | Jugos Clight | | | | 
 - Havanna: Dulce De Leche | Alfajores Mar Del Plata
 
 
