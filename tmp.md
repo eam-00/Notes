@@ -30,7 +30,8 @@ Lexar Negro :: Sandisk
 
 **DOM:**
 ```
-
+    - Print: Movistar | Edenor
+    <- Batt t60p
 ```
 
 **VIE:**
