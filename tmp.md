@@ -42,7 +42,7 @@ Lexar Negro :: Sandisk
     - Alcohol refill
 
 
-    -> 2 KGs de Papas
+
     -> Jamon Cocido - 1/2 KG
 
     -> Provoleta
