@@ -41,7 +41,7 @@ Lexar Negro :: Sandisk
     - Pinza p/ Nati
     - Alcohol refill
 
-    -> Limones
+
     -> 2 KGs de Papas
     -> Jamon Cocido - 1/2 KG
     -> Queso De Maquina - 1/2 KG
