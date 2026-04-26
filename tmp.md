@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
     <- Asado
     <- Pan
     <- Tarta
-
+    <- Medialunas
     <- Batt t60p
 ```
 
