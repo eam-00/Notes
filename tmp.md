@@ -30,6 +30,7 @@ Lexar Negro :: Sandisk
 
 **DOM:**
 ```
+    <- Pechugas
     - Print: Movistar | Edenor
     <- Batt t60p
 ```
