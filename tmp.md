@@ -51,8 +51,7 @@ Lexar Negro :: Sandisk
 
 
 
-    - Print: Movistar | Edenor
-    <- Batt t60p
+
 ```
 
  
