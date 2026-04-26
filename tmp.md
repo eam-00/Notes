@@ -36,7 +36,6 @@ Lexar Negro :: Sandisk
     <- Pan
     <- Tarta
     <- Medialunas
-    <- Batt t60p
 ```
 
 **LUN:**
