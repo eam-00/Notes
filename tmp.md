@@ -46,7 +46,7 @@ Lexar Negro :: Sandisk
     -> Jamon Cocido - 1/2 KG
     -> Queso De Maquina - 1/2 KG
     -> Provoleta
-    -> Pan Choris
+
 
     - Print: Movistar | Edenor
     <- Batt t60p
