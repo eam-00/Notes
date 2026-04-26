@@ -45,7 +45,7 @@ Lexar Negro :: Sandisk
 
 **VIE:**
 ```
-    - Whale
+
 ```
 
 **SAB:**
@@ -427,6 +427,7 @@ Arreglo persiana: Juan - 15 6803 8442
 -------
 Spotify:
 -------
+- Whale
 - Terminal Love
 - Hospital Boogie - The liminanas
 - Anything Box
