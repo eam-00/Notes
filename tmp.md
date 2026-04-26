@@ -32,6 +32,7 @@ Lexar Negro :: Sandisk
 ```
     <- Pechugas
     <- Asado
+    <- Pan
     - Print: Movistar | Edenor
     <- Batt t60p
 ```
