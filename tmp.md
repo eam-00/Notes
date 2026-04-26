@@ -45,7 +45,7 @@ Lexar Negro :: Sandisk
 
 
 
-    -> Provoleta
+
 
 
     - Print: Movistar | Edenor
