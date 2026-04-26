@@ -274,25 +274,17 @@ https://www.anothermag.com/search?q=taiwan
 https://yts.mx/movies/the-world-2004
 
 ```
-Nuclear War: A Scenario - Annie Jacobsen
-The Pentagon's Brain: An Uncensored History of DARPA, America's Top-Secret Military Research Agency - Annie Jacobsen
-Operation Paperclip: The Secret Intelligence Program that Brought Nazi Scientists to America - 	Annie Jacobsen
+Annie Jacobsen:
+Nuclear War: A Scenario
+The Pentagon's Brain: An Uncensored History of DARPA, America's Top-Secret Military Research Agency
+Operation Paperclip: The Secret Intelligence Program that Brought Nazi Scientists to America
 
 Conquerer Worms						Brian Keene
-
-
 Down To A Sunless Sea					David Graham
-
-Wool							Hugh Howey
-
 A Boy and His Dog at the End of the World		Charlie Fletcher
-
-The Broken Earth trilogy				N.K Jemisin
-
 The Past is Red - Catherynne Valente
 Bannerless by Carrie Vaughn
 A Psalm for the Wild Built				Becky Chambers
-
 Riddley Walker - Russell Hoban
 ```
 
