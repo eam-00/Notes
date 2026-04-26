@@ -43,7 +43,7 @@ Lexar Negro :: Sandisk
 
 
 
-    -> Jamon Cocido - 1/2 KG
+
 
     -> Provoleta
 
