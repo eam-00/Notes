@@ -40,7 +40,7 @@ Lexar Negro :: Sandisk
 
 **LUN:**
 ```
-- PF
+
 - Lavar bolsa de compras negra
 - Antix -> T43
 - M:
