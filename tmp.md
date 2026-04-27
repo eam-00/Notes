@@ -257,16 +257,16 @@ https://www.gmgroup.travel/7-destinations-you-have-to-visit-in-northeast-brazil/
 
 
 
-Osaka, Japan (Photo : Masahiro Miyagi) [4971 x 3314] - Comments
+Osaka, Japan (Photo : Masahiro Miyagi) [4971 x 3314]  
 https://www.reddit.com/r/wallpapers/comments/142zkbz/osaka_japan_photo_masahiro_miyagi_4971_x_3314/
 
-Lotus Lake, Kaohsiung, Taiwan with Basho poem
+Lotus Lake, Kaohsiung, Taiwan with Basho poem  
 https://www.reddit.com/r/wallpapers/comments/v3xsz/lotus_lake_kaohsiung_taiwan_with_basho_poem/
 
-Streets of Taiwan [2048 x 1365]
+Streets of Taiwan [2048 x 1365]  
 https://www.reddit.com/r/wallpapers/comments/if1ocs/streets_of_taiwan_2048_x_1365/
 
-Reflection & Sunrise of Golden Lion Lake Scenic Area - Landscape of Kaohsiung City, TAIWAN
+Reflection & Sunrise of Golden Lion Lake Scenic Area - Landscape of Kaohsiung City, TAIWAN  
 https://www.reddit.com/r/wallpapers/comments/btzxfe/reflection_sunrise_of_golden_lion_lake_scenic/
 
 https://www.anothermag.com/search?q=taiwan
@@ -303,19 +303,21 @@ https://www.infobae.com/economia/2024/04/04/los-alquileres-siguen-altos-en-caba-
 
 -- Dload: Electroma [Youtube]
 -- Test: Micro Emacs 
- 
+```
 tar czvpf - ~/Local | gpg -a --symmetric --cipher-algo aes256 -o /tmp/Local.gpg.tgz
 tar czvpf - ~/Dropbox | gpg -a --symmetric --cipher-algo aes256 -o /tmp/Dropbox.gpg.tgz
-
 
 tar czvpf - ./Dropbox | gpg -a --batch --passphrase 'THE.ULTRA.SECURE.PASSPHRASE' --symmetric --cipher-algo aes256 -o /tmp/Dropbox.gpg.10-03-2025.tgz
 
 gpg -d Dropbox.gpg.tgz | tar xzvf -
+```
 
 Decrypt:
 -------
 Without /usr/bin/gpg-agent installed:
+```
 gpg -d  --pinentry-mode loopback --passphrase THE.ULTRA.SECURE.PASSPHRASE Dropbox.gpg.tgz | tar xzvf -
+```
 
  - Remove "Usuario"
  - Weekly Backup
