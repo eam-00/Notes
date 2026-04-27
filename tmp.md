@@ -44,10 +44,7 @@ Lexar Negro :: Sandisk
 - Lavar bolsa de compras negra
 ```
 
-**VIE:**
-```
 
-```
 
 **SAB:**
 ```
