@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
     <- Asado
     <- Papas
     <- Pan
-    <- Tarta
+
     <- Medialunas
 ```
 
