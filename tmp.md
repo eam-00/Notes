@@ -41,6 +41,7 @@ Lexar Negro :: Sandisk
 **LUN:**
 ```
 - PF
+- Lavar bolsa de compras negra
 ```
 
 **VIE:**
