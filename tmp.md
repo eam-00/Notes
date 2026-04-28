@@ -29,14 +29,7 @@ Lexar Negro :: Sandisk
     - Dell Latitude [?]
 
 **DOM:**
-```
 
-
-
-
-
-
-```
 
 **LUN:**
 ```
