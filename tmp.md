@@ -41,7 +41,7 @@ Lexar Negro :: Sandisk
 **LUN:**
 ```
 
-- Lavar bolsa de compras negra
+
 - Antix -> T43
 - M:
    - Laundry
