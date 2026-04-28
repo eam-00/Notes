@@ -54,7 +54,7 @@ Lexar Negro :: Sandisk
 ```
     - Leche
     - Pinza p/ Nati
-    - Alcohol refill
+
 ```
 
  
