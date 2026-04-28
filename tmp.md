@@ -35,7 +35,7 @@ Lexar Negro :: Sandisk
     <- Papas
     <- Pan
 
-    <- Medialunas
+
 ```
 
 **LUN:**
