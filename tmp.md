@@ -270,12 +270,20 @@ Nuclear War: A Scenario
 The Pentagon's Brain: An Uncensored History of DARPA, America's Top-Secret Military Research Agency
 Operation Paperclip: The Secret Intelligence Program that Brought Nazi Scientists to America
 
-Conquerer Worms						Brian Keene
-Down To A Sunless Sea					David Graham
+Brian Keene
+Conquerer Worms						
+
+David Graham
+Down To A Sunless Sea					
+
 A Boy and His Dog at the End of the World		Charlie Fletcher
+
 The Past is Red - Catherynne Valente
+
 Bannerless by Carrie Vaughn
+
 A Psalm for the Wild Built				Becky Chambers
+
 Riddley Walker - Russell Hoban
 ```
 
