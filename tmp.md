@@ -35,10 +35,7 @@ Lexar Negro :: Sandisk
 ```
 
 
-- Antix -> T43
-- M:
-   - Laundry
-   - Tupper
+
 ```
 
 
