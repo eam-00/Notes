@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
 **MIE:**
 ```
 
-- PF
+
 
 - M:
     -> HDD Ext
