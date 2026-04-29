@@ -33,7 +33,7 @@ Lexar Negro :: Sandisk
 
 **MIE:**
 ```
-
+- Pilas AA
 
 
 - M:
