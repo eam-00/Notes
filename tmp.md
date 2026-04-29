@@ -566,7 +566,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 Carre:
 -----
-Bolsitas | Leches | Jugos Clight | | | | 
+Bolsitas | Leches | | | | | 
 - Havanna: Dulce De Leche | Alfajores Mar Del Plata
 
 
