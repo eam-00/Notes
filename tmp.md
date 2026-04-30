@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
 **JUE:**
 ```
 - Limpiar casita
-- Pagar cosas
+
 - M:
     -> HDD Ext
 - Backup TB Ext HDD
