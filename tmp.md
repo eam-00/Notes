@@ -45,7 +45,7 @@ Lexar Negro :: Sandisk
 
 **SAB:**
 ```
-    - Pinza p/ Nati
+    - Pinza
 
 ```
 
