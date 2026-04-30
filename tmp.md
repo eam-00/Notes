@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
 **JUE:**
 ```
 - CB
-
+- Limpiar casita
 
 - M:
     -> HDD Ext
