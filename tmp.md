@@ -56,8 +56,8 @@ Lexar Negro :: Sandisk
 
 
 
-    - Test OS:
-              - m1330
+    - Update Debian:
+                    - m1330
 
 
 
