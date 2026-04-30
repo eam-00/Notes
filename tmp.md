@@ -33,7 +33,6 @@ Lexar Negro :: Sandisk
 
 **JUE:**
 ```
-- CB
 - Limpiar casita
 - Pagar cosas
 - M:
