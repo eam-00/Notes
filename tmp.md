@@ -38,6 +38,7 @@ Lexar Negro :: Sandisk
 - Backup TB Ext HDD
 - t43:
       - Linux
+- RAM
 ```
 
 
