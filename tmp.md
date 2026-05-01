@@ -37,7 +37,7 @@ Lexar Negro :: Sandisk
     -> HDD Ext
 - Backup TB Ext HDD
 - t43:
-
+      - Linux
 ```
 
 
