@@ -39,6 +39,8 @@ Lexar Negro :: Sandisk
 - Charge AAA
 - t43:
       - Linux
+- m1330:
+
 - RAM
 ```
 
