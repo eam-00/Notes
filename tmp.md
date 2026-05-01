@@ -33,8 +33,6 @@ Lexar Negro :: Sandisk
 
 **VIE:**
 ```
-
-
 - M:
     -> HDD Ext
 - Backup TB Ext HDD
