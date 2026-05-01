@@ -40,7 +40,7 @@ Lexar Negro :: Sandisk
 - t43:
       - Linux
 - m1330:
-
+        - Update Debian
 - RAM
 ```
 
