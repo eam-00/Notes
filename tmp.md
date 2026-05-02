@@ -7,7 +7,6 @@ Click en "MasterCard"
 ```
 USB SanDisk     ::	Almond
 USB KINGSTON    ::	Yellow
-x201t           ::	Music
 ```
 
 
