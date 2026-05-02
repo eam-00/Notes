@@ -34,7 +34,6 @@ Lexar Negro :: Sandisk
 - M:
     -> HDD Ext
 
-- Charge AAA
 - t43:
       - Linux
 - m1330:
