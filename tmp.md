@@ -35,7 +35,7 @@ Lexar Negro :: Sandisk
 ```
 - M:
     -> HDD Ext
-- Backup TB Ext HDD
+
 - Charge AAA
 - t43:
       - Linux
