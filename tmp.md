@@ -6,7 +6,7 @@ Click en "MasterCard"
 **MP3:**
 ```
 Moto G6	        ::	MicroSD
-USB SanDisk     ::	Almonde
+USB SanDisk     ::	Almond
 USB KINGSTON    ::	Yellow
 x201t           ::	Music
 ```
