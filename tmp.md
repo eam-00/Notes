@@ -429,6 +429,14 @@ Spotify:
 - Islands in the stream
 - Give My Regards To Broad Street
 
+**Album Covers**:
+------------
+```
+The Motels	Shock
+Bob Dylan	Shot Of Love
+Bob Dylan	Under The Red Sky
+```	
+
 Replace:
 -------
 - Advance Base - Dolores & Kimberly
