@@ -32,6 +32,7 @@ Lexar Negro :: Sandisk
 **DOM:**
 ```
 - M:
+    <- Laundry
     -> HDD Ext
 
 - t43:
