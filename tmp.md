@@ -33,7 +33,7 @@ Lexar Negro :: Sandisk
 
 **LUN:**
 ```
-- PF
+
 - Limpiar cocina
 - M:
     -> Tuppers
