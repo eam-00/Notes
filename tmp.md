@@ -36,7 +36,6 @@ Lexar Negro :: Sandisk
 - PF
 - Limpiar cocina
 - M:
-    -> Laundry
     -> Tuppers
 
 
