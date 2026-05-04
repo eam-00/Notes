@@ -33,8 +33,6 @@ Lexar Negro :: Sandisk
 ```
 - M:
     <- Laundry
-    <- Clip
-
 
 
 - t43:
