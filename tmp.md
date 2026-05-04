@@ -35,7 +35,7 @@ Lexar Negro :: Sandisk
     <- Laundry
     <- Clip
     -> HDD Ext
-    - Print Exp -> USB
+
 
 - t43:
       - Linux
