@@ -32,7 +32,7 @@ Lexar Negro :: Sandisk
 **LUN:**
 ```
 - M:
-    <- Laundry
+    -> Laundry
 
 
 - t43:
