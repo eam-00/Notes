@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
 - M:
     <- Laundry
     <- Clip
-    -> HDD Ext
+
 
 
 - t43:
