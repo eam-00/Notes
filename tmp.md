@@ -42,7 +42,7 @@ Lexar Negro :: Sandisk
 - t43:
       - Debian 12 -> Debian 13
 - m1330:
-        - Update Debian
+
 - Reboot Thinkpad C
 
 
