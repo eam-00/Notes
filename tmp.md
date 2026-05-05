@@ -43,7 +43,7 @@ Lexar Negro :: Sandisk
       - Debian 12 -> Debian 13
 - m1330:
 
-- Reboot Thinkpad C
+
 
 
 ```
