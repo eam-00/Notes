@@ -36,7 +36,7 @@ Lexar Negro :: Sandisk
 
 
 - M:
-    -> Tuppers
+
 
 
 - t43:
