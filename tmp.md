@@ -25,7 +25,7 @@ Lexar Negro :: Sandisk
     - mbp [?]
     - BDU [?]
     - Dell Latitude [?]
-    - RAM
+
     - M-65
 
 
