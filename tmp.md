@@ -34,6 +34,7 @@ Lexar Negro :: Sandisk
 **MIE:**
 ```
 - PF Gal
+- ChK Vallone
 - RAM
 
 
