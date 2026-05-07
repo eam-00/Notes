@@ -34,6 +34,7 @@ Lexar Negro :: Sandisk
 ```
 - PF
 - Motorola Moto G20 -> Batt [?]
+- Pinto
 - Batts
 - Limpiar casita
 
