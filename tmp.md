@@ -40,6 +40,7 @@ Lexar Negro :: Sandisk
 
 
 - t43:
+- x60: 
       - Debian 12 -> Debian 13
 
 
