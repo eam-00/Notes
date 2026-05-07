@@ -562,7 +562,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 Carre:
 -----
-Bolsitas | Leches | Yogurt | Enjuague Bucal Listerine | | | 
+Bolsitas | Leches | | Enjuague Bucal Listerine | | | 
 - Havanna: Dulce De Leche | Alfajores Mar Del Plata
 
 
