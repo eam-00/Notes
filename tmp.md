@@ -269,7 +269,7 @@ The Past is Red - Catherynne Valente
 
 Bannerless by Carrie Vaughn
 
-A Psalm for the Wild Built				Becky Chambers
+
 
 Riddley Walker - Russell Hoban
 ```
