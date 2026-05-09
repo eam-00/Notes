@@ -30,7 +30,7 @@ Lexar Negro :: Sandisk
 
 
 
-**VIE:**
+**SAB:**
 ```
 - Motorola Moto G20 -> Batt [?]
 - Pinto
