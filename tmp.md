@@ -35,6 +35,7 @@ Lexar Negro :: Sandisk
 - Motorola Moto G20 -> Batt [?]
 
 - Batts
+- OpenBSD:
 
 - x60:
 - t60p:
