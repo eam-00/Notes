@@ -33,7 +33,7 @@ Lexar Negro :: Sandisk
 **SAB:**
 ```
 - Motorola Moto G20 -> Batt [?]
-- Pinto
+
 - Batts
 
 - x60:
