@@ -48,6 +48,7 @@ Lexar Negro :: Sandisk
 **LUN:**
 ```
 - PFs
+- Pinto
 ```
 
 **SAB:**
