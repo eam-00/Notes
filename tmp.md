@@ -41,8 +41,6 @@ Lexar Negro :: Sandisk
 
 - t420:
        - Debian 12 -> Debian 13
-
-
 ```
 
 
