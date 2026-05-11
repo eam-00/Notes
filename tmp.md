@@ -42,7 +42,7 @@ Lexar Negro :: Sandisk
 - t60p:
       - Install Debian 12 -> Debian 13
 
-- t43:
+
 
 
 ```
