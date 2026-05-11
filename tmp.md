@@ -44,7 +44,7 @@ Lexar Negro :: Sandisk
 
 - t43:
       - firmware off
-      - fd0 off
+
 ```
 
 **LUN:**
