@@ -30,7 +30,7 @@ Lexar Negro :: Sandisk
 
 
 
-
+**LUN:**
 ```
 - Motorola Moto G20 -> Batt [?]
 
@@ -47,7 +47,7 @@ Lexar Negro :: Sandisk
 
 ```
 
-**LUN:**
+
 ```
 - PFs
 - Pinto
