@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
 ```
 - Motorola Moto G20 -> Batt [?]
 
-- Batts
+
 - OpenBSD:
           - WiFi
           - CWM
