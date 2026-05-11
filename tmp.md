@@ -43,7 +43,7 @@ Lexar Negro :: Sandisk
       - Install Debian 12 -> Debian 13
 
 - t43:
-      - firmware off
+
 
 ```
 
