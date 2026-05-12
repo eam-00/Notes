@@ -250,7 +250,7 @@ https://yts.mx/movies/the-world-2004
 Annie Jacobsen:
 Nuclear War: A Scenario
 The Pentagon's Brain: An Uncensored History of DARPA, America's Top-Secret Military Research Agency
-Operation Paperclip: The Secret Intelligence Program that Brought Nazi Scientists to America
+
 
 Brian Keene
 Conquerer Worms						
