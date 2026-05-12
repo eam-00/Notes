@@ -48,6 +48,7 @@ Lexar Negro :: Sandisk
 ```
 **MIE:**
 ```
+- PF[s] 
 - Cbio Sabanas
 - Limpiar casita
 - Lavar:
