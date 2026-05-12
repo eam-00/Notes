@@ -50,7 +50,8 @@ Lexar Negro :: Sandisk
 ```
 **MIE:**
 ```
-
+- Lavar:
+        -
 ```
 
 **SAB:**
