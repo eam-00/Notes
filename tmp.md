@@ -36,7 +36,7 @@ Lexar Negro :: Sandisk
 
 
 - OpenBSD:
-          - WiFi
+
 
 - x60:
 - t60p:
