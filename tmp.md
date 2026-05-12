@@ -50,6 +50,7 @@ Lexar Negro :: Sandisk
 ```
 **MIE:**
 ```
+- Cbio Sabanas
 - Limpiar casita
 - Lavar:
         - Toallin
