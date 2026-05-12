@@ -248,7 +248,7 @@ https://yts.mx/movies/the-world-2004
 
 ```
 Annie Jacobsen:
-Nuclear War: A Scenario
+
 The Pentagon's Brain: An Uncensored History of DARPA, America's Top-Secret Military Research Agency
 
 
