@@ -50,6 +50,7 @@ Lexar Negro :: Sandisk
 ```
 **MIE:**
 ```
+- Limpiar casita
 - Lavar:
         - Toallin
         - Repasador
