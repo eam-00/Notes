@@ -52,6 +52,8 @@ Lexar Negro :: Sandisk
 ```
 - Lavar:
         - Toallin
+        - Repasador
+
 ```
 
 **SAB:**
