@@ -56,6 +56,11 @@ Lexar Negro :: Sandisk
         - Repasador
         - Funda
         - Remera[s]
+
+- x60:
+- t60p:
+      - Install Debian 12 -> Debian 13
+
 ```
 
 **SAB:**
