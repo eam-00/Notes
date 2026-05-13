@@ -31,15 +31,7 @@ Lexar Negro :: Sandisk
 
 
 **MAR:**
-```
 
-- Pinto
-- Motorola Moto G20 -> Batt [?]
-
-
-
-
-```
 **MIE:**
 ```
 - Print TC
