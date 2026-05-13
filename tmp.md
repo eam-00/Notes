@@ -56,7 +56,6 @@ Lexar Negro :: Sandisk
         - Repasador
         - Funda
         - Remera[s]
-
 ```
 
 **SAB:**
