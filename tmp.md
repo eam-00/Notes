@@ -59,6 +59,7 @@ Lexar Negro :: Sandisk
     - Pinza
     - Tuppers
     - Boletas
+    - Jean Jacket 
     - TB HDD [?]
 ```
 
