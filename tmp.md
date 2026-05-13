@@ -37,7 +37,7 @@ Lexar Negro :: Sandisk
 - Print TC
 - Pinto
 - PF[s] 
-- Cbio Sabanas
+
 - Limpiar casita
 - Lavar:
         - Toallin
