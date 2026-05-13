@@ -47,6 +47,7 @@ Lexar Negro :: Sandisk
 
 - Batts:
         - t430
+        - mbp-00
 - x60:
 - t60p:
       - Install Debian 12 -> Debian 13
