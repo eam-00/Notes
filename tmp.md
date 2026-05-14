@@ -38,7 +38,7 @@ Lexar Negro :: Sandisk
 
 - PF[s] 
 
-- Limpiar casita
+
 - Lavar:
         - Toallin
         - Repasador
