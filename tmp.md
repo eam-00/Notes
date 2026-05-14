@@ -41,7 +41,7 @@ Lexar Negro :: Sandisk
 
 - Lavar:
         - Toallin
-        - Repasador
+
         - Funda
         - Remera[s]
 
