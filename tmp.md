@@ -43,7 +43,7 @@ Lexar Negro :: Sandisk
         - Toallin
 
         - Funda
-        - Remera[s]
+
 
 - Batts:
         - t430
