@@ -35,7 +35,7 @@ Lexar Negro :: Sandisk
 **JUE:**
 ```
 - Print TC
-- Pinto
+
 - PF[s] 
 
 - Limpiar casita
