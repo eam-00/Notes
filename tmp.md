@@ -32,7 +32,7 @@ Lexar Negro :: Sandisk
 
 
 
-**MIE:**
+**JUE:**
 ```
 - Print TC
 - Pinto
