@@ -54,7 +54,9 @@ Lexar Negro :: Sandisk
 **SAB:**
 ```
     - Pollo - Trozado en 4
-    - Fiambre
+    - Fiambre:
+              - 100 GR
+              - 100 GR
     - Pan
 
     - Pinza
