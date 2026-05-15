@@ -34,8 +34,6 @@ Lexar Negro :: Sandisk
 
 **VIE:**
 ```
-
-- PF[s] 
 - CB
 
 
