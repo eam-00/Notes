@@ -32,7 +32,7 @@ Lexar Negro :: Sandisk
 
 
 
-**JUE:**
+**VIE:**
 ```
 - Print TC
 - PF[s] 
