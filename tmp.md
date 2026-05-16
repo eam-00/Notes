@@ -41,11 +41,6 @@ Lexar Negro :: Sandisk
       - Install Debian 12 -> Debian 13
 
 ```
-**LUN:**
-```
-- Oftalmologo
-- Motorola Moto G20 -> Batt
-```
 
 **SAB:**
 ```
@@ -60,6 +55,11 @@ Lexar Negro :: Sandisk
     - Boletas
     - Jean Jacket 
     - TB HDD [?]
+```
+**LUN:**
+```
+- Oftalmologo
+- Motorola Moto G20 -> Batt
 ```
 
  
