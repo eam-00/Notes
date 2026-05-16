@@ -32,11 +32,6 @@ Lexar Negro :: Sandisk
 
 
 
-**VIE:**
-```
-- x60:
-      - Install Debian 12 -> Debian 13
-```
 
 **SAB:**
 ```
