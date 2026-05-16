@@ -62,6 +62,8 @@ Lexar Negro :: Sandisk
 ```
 - Oftalmologo
 - Motorola Moto G20 -> Batt
+- x60:
+      - Install Debian 12 -> Debian 13
 ```
 
  
