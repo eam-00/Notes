@@ -34,11 +34,6 @@ Lexar Negro :: Sandisk
 
 **VIE:**
 ```
-
-
-
-
-
 - Reboot m1330
 - Batts:
         - 11e2
