@@ -41,6 +41,7 @@ Lexar Negro :: Sandisk
 
 **SAB:**
 ```
+    - Reboot m1330
     - Pollo - Trozado en 4
     - Fiambre:
               - 100 GR
