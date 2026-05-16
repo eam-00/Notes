@@ -34,7 +34,6 @@ Lexar Negro :: Sandisk
 
 **VIE:**
 ```
-- Reboot m1330
 - x60:
       - Install Debian 12 -> Debian 13
 ```
