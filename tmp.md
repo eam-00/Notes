@@ -37,7 +37,7 @@ Lexar Negro :: Sandisk
 ```
 
 
-    - Fiambre:
+
 
 
     - Pan
