@@ -36,7 +36,7 @@ Lexar Negro :: Sandisk
 **SAB:**
 ```
 
-    - Pollo - Trozado en 4
+
     - Fiambre:
 
 
