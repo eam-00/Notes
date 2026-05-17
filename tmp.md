@@ -38,7 +38,7 @@ Lexar Negro :: Sandisk
 
     - Pollo - Trozado en 4
     - Fiambre:
-              - 100 GR
+
               - 100 GR
     - Pan
 
