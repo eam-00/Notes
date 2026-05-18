@@ -60,6 +60,7 @@ Lexar Negro :: Sandisk
 ```
 **MAR:**
 ```
+- Motorola Moto G20
 ```
  
 
