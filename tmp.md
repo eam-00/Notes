@@ -37,7 +37,6 @@ Lexar Negro :: Sandisk
 ```
 
 
-
     - Pinza
     - Tuppers
     - Boletas
