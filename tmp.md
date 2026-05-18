@@ -46,7 +46,7 @@ Lexar Negro :: Sandisk
     - Tuppers
     - Boletas
     - Jean Jacket 
-    - TB HDD [?]
+
 ```
 **DOM:**
 ```
