@@ -54,7 +54,7 @@ Lexar Negro :: Sandisk
 
 **LUN:**
 ```
-- Oftalmologo
+
 - Motorola Moto G20 -> Batt
 
 - x60:
