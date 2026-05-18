@@ -45,7 +45,8 @@ Lexar Negro :: Sandisk
 ```
 **DOM:**
 ```
--> Guiso
+
+
 -> Pan
 
 ```
