@@ -550,7 +550,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 Carre:
 -----
-Bolsitas | | Te En Hebras | Enjuague Bucal Listerine | Mant. de Mani | Manies | 
+Bolsitas | | Te En Hebras | | Mant. de Mani | Manies | 
 - Havanna: Dulce De Leche | Alfajores Mar Del Plata
 
 
