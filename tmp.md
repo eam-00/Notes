@@ -40,7 +40,7 @@ Lexar Negro :: Sandisk
 
 
 
-    - Pan
+
 
     - Pinza
     - Tuppers
