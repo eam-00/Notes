@@ -47,7 +47,8 @@ Lexar Negro :: Sandisk
 ```
 
 
--> Pan
+
+
 
 ```
 
