@@ -47,7 +47,7 @@ Lexar Negro :: Sandisk
 ```
 -> Guiso
 -> Pan
-- Un-freeze tortilla
+
 ```
 
 **LUN:**
