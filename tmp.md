@@ -43,20 +43,7 @@ Lexar Negro :: Sandisk
     - Jean Jacket 
 
 ```
-**DOM:**
-```
 
-
-
-
-```
-
-
-```
-
-
-
-```
 **MAR:**
 ```
 - Motorola Moto G20
