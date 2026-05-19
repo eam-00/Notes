@@ -41,6 +41,7 @@ Lexar Negro :: Sandisk
  **MIE:**
 ```
 - PF
+- Limpiar casita
 ```
 
 
