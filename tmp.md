@@ -27,23 +27,6 @@ Lexar Negro :: Sandisk
     - Dell Latitude [?]
     - M-65
 
-
-
-
-
-
-
-**SAB:**
-```
-
-
-    - Pinza
-    - Tuppers
-    - Boletas
-    - Jean Jacket 
-
-```
-
 **MAR:**
 ```
 - Motorola Moto G20
