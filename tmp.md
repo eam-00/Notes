@@ -35,7 +35,7 @@ Lexar Negro :: Sandisk
 - M:
     -> Tuppers
 
-    <- Fundas
+
 
 ```
  **MIE:**
