@@ -40,7 +40,8 @@ Lexar Negro :: Sandisk
  **MIE:**
 ```
 
-
+- x60:
+      - Install Debian 12 -> Debian 13
 - t420:
        - test ssh -X
 
