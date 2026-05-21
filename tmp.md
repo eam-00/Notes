@@ -27,7 +27,6 @@ Lexar Negro :: Sandisk
     - Dell Latitude [?]
     - M-65
 
-**MAR:**
 
  **MIE:**
 ```
