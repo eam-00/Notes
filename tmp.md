@@ -28,7 +28,7 @@ Lexar Negro :: Sandisk
     - M-65
 
 
- **MIE:**
+
 ```
 
 - x60:
