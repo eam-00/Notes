@@ -28,15 +28,7 @@ Lexar Negro :: Sandisk
     - M-65
 
 **MAR:**
-```
 
-
-
-
-
-
-
-```
  **MIE:**
 ```
 
