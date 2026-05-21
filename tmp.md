@@ -523,7 +523,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 Carre:
 -----
-Bolsitas | | Te En Hebras | | Mant. de Mani | Manies | 
+Bolsitas | | Te En Hebras | | Mant. de Mani | | 
 - Havanna: Dulce De Leche | Alfajores Mar Del Plata
 
 
