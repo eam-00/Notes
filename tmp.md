@@ -40,7 +40,7 @@ Lexar Negro :: Sandisk
 ```
  **MIE:**
 ```
-- PF
+
 - Limpiar casita
 - t420:
        - test ssh -X
