@@ -30,9 +30,6 @@ Lexar Negro :: Sandisk
 **VIE:**
 ```
 
-- M:
-
-
 
 
 
