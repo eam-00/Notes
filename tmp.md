@@ -50,6 +50,7 @@ Lexar Negro :: Sandisk
 **DOM:**
 ```
 - TRRTs
+- De-freeze pan
 - TB HDD:
          - Jacobs Ladder [subs | delete] 
 ```
