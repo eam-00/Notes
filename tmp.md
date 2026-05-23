@@ -52,7 +52,9 @@ Lexar Negro :: Sandisk
 - TRRTs
 - De-freeze pan
 - TB HDD:
-         - Jacobs Ladder [subs | delete] 
+         - Jacobs Ladder [subs | delete]
+- x140e:
+        - Maxxed
 ```
 **LUN:**
 ``` 
