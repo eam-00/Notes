@@ -44,7 +44,7 @@ Lexar Negro :: Sandisk
 - Gnoccis de Papa: 1 KG
 - Papas
 - Yogurt
-- Mozarella
+
 
  ```
 **DOM:**
