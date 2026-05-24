@@ -41,7 +41,7 @@ Lexar Negro :: Sandisk
 - Print:
         - Movistar
 
-- Gnoccis de Papa: 1 KG
+
 - Papas
 - Yogurt
 
