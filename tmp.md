@@ -30,18 +30,7 @@ Lexar Negro :: Sandisk
 
 
 
-**SAB:**
- ```
 
-
-
-
-
-
-
-
-
- ```
 **DOM:**
 ```
 -> Gnoccis
