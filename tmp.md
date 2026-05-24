@@ -37,7 +37,7 @@ Lexar Negro :: Sandisk
 
 **SAB:**
  ```
-- Tuppers
+
 - Print:
         - Movistar
 
