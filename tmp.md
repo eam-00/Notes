@@ -43,6 +43,7 @@ Lexar Negro :: Sandisk
          - Jacobs Ladder [subs | delete]
 - x140e:
         - Maxxed
+- t410
 - Almohadones
 ```
 **LUN:**
