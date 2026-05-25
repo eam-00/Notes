@@ -40,7 +40,7 @@ Lexar Negro :: Sandisk
 - TRRTs
 
 - TB HDD:
-         - Jacobs Ladder [subs | delete]
+
 - x140e:
         - Maxxed
 - t410
