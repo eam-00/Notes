@@ -50,6 +50,7 @@ Lexar Negro :: Sandisk
 ``` 
 M:
   -> C
+  <- USB Ext HDD 
 
 ```
 
