@@ -35,7 +35,7 @@ Lexar Negro :: Sandisk
 ```
 -> Gnoccis
 -> Milanesas
--> Pan {?}
+
 
 - TRRTs
 - De-freeze pan
