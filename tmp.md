@@ -46,7 +46,6 @@ Lexar Negro :: Sandisk
 ```
 **LUN:**
 ``` 
-M:
 
 
 
