@@ -35,7 +35,7 @@ Lexar Negro :: Sandisk
 ```
 - PF
 
-- TRRTs
+
 
 - TB HDD:
          -> M
