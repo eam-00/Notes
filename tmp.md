@@ -38,7 +38,7 @@ Lexar Negro :: Sandisk
 
 - M:
     - TB HDD:
-         -> M
+
 
 - mbp-01:
          - Debian 13 XFCE
