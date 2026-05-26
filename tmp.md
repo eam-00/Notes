@@ -41,7 +41,7 @@ Lexar Negro :: Sandisk
          -> M
 
 - mbp-01:
-         
+         - Debian 13 XFCE
 - x140e:
         - Maxxed
 - t410
