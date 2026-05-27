@@ -37,7 +37,7 @@ Lexar Negro :: Sandisk
 
 
 - M:
-    - TB HDD
+
 
 
 - mbp-01:
