@@ -49,7 +49,10 @@ Lexar Negro :: Sandisk
 
 ```
 
-
+SAB:
+    -> Torx
+    -> Tuppers
+    <- USB Almond
 
 
 
