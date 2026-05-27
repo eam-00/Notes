@@ -37,7 +37,7 @@ Lexar Negro :: Sandisk
 - Cbio S
 - Limpiar casita
 
-- M:
+
 
 
 
