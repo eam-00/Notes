@@ -37,6 +37,7 @@ Lexar Negro :: Sandisk
 - Cbio S
 - Limpiar casita
 - 11e2:
+       - WiFi
        - gtkrc
        - firefox
 
