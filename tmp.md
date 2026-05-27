@@ -34,6 +34,7 @@ Lexar Negro :: Sandisk
 **MIE:**
 ```
 - PF
+- Cbio S
 - Limpiar casita
 
 - M:
