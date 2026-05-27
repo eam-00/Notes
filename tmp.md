@@ -38,6 +38,7 @@ Lexar Negro :: Sandisk
 - Limpiar casita
 - 11e2:
        - gtkrc
+       - firefox
 
 
 
