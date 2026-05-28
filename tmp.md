@@ -35,7 +35,7 @@ Lexar Negro :: Sandisk
 ```
 - PF
 - m1330:
-
+        - Reboot
 
 - 11e2:
 
