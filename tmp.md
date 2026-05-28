@@ -38,7 +38,7 @@ Lexar Negro :: Sandisk
 
 - 11e2:
 
-       - gtkrc
+
        - firefox
 
 
