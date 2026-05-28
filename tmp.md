@@ -37,7 +37,7 @@ Lexar Negro :: Sandisk
 
 
 - 11e2:
-       - WiFi
+
        - gtkrc
        - firefox
 
