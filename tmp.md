@@ -33,7 +33,6 @@ Lexar Negro :: Sandisk
 
 **JUE:**
 ```
-- PF
 - m1330:
         - Reboot
 
