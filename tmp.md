@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
 **MIE:**
 ```
 
-- Cbio S
+
 - Limpiar casita
 - 11e2:
        - WiFi
