@@ -57,6 +57,7 @@ Lexar Negro :: Sandisk
 ```
     -> Torx
     -> Tuppers
+    - Lamparita cocina
     <- USB Almond
 ```
 
