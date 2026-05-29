@@ -63,7 +63,7 @@ Lexar Negro :: Sandisk
     <- USB Almond
    - Print:
            - Expensas
-           -
+           - Receta
            - 
 ```
 
