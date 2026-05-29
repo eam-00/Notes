@@ -51,6 +51,7 @@ Lexar Negro :: Sandisk
 **VIE:**
 ```
 - CB
+- Pickles
 ```
 
 **SAB:**
