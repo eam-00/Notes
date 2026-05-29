@@ -30,8 +30,7 @@ Lexar Negro :: Sandisk
 
 **JUE:**
 ```
-- m1330:
-        - Reboot
+
 
 - 11e2:
 
