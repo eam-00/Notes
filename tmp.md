@@ -52,6 +52,8 @@ Lexar Negro :: Sandisk
 - CB
 - Pickles
 - Pan Fancy Hambuguesas
+- m1330:
+        - Reboot
 ```
 
 **SAB:**
