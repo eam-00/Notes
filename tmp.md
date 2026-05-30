@@ -33,7 +33,7 @@ Lexar Negro :: Sandisk
 
 
 - 11e2:
-
+       - Debian 12 LXQT
 
 
 
