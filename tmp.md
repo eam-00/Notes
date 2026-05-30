@@ -43,15 +43,7 @@ Lexar Negro :: Sandisk
 
 ```
 **VIE:**
-```
 
-- Pickles
-- Pan Fancy Hambuguesas
-
-
-
-
-```
 
 **SAB:**
 ```
