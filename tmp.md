@@ -50,7 +50,7 @@ Lexar Negro :: Sandisk
 ```
 **VIE:**
 ```
-- CB
+
 - Pickles
 - Pan Fancy Hambuguesas
 - m1330:
