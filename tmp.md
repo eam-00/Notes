@@ -35,12 +35,6 @@ Lexar Negro :: Sandisk
        - XFCE
 - 11e2:
        - Debian 12 LXQT
-
-
-
-
-
-
 - mbp-01:
          - Debian 13 XFCE
 
