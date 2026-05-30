@@ -50,7 +50,7 @@ Lexar Negro :: Sandisk
 - m1330:
         - Reboot
 - Batt:
-       - G6
+
 ```
 
 **SAB:**
