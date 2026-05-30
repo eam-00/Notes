@@ -49,7 +49,7 @@ Lexar Negro :: Sandisk
 - Pan Fancy Hambuguesas
 - m1330:
         - Reboot
-- Batt:
+
 
 ```
 
