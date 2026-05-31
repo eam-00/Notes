@@ -48,7 +48,7 @@ Lexar Negro :: Sandisk
 **SAB:**
 ```
     -> Torx
-    -> Tuppers
+
     - Lamparita cocina
     - Backup USB B&W
 
