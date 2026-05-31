@@ -53,7 +53,7 @@ Lexar Negro :: Sandisk
 
    - Print:
            - Expensas
-           - Receta
+
            - FEMEDICA
 ```
 **DOM:**
