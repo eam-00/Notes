@@ -51,7 +51,7 @@ Lexar Negro :: Sandisk
     -> Tuppers
     - Lamparita cocina
     - Backup USB B&W
-    <- USB Almond
+
    - Print:
            - Expensas
            - Receta
