@@ -48,7 +48,6 @@ Lexar Negro :: Sandisk
 **SAB:**
 ```
 
-    - Backup USB B&W
 
 
 
