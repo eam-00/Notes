@@ -48,7 +48,7 @@ Lexar Negro :: Sandisk
 **SAB:**
 ```
 
-    - Lamparita cocina
+
     - Backup USB B&W
 
    - Print:
