@@ -54,7 +54,7 @@ Lexar Negro :: Sandisk
    - Print:
 
 
-           - FEMEDICA
+
 ```
 **DOM:**
 
