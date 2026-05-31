@@ -63,7 +63,7 @@ Lexar Negro :: Sandisk
 -> Chow Mein
 -> Mandarinas
 - ChK rsync:
-
+            - 
 - TRRTs
 ```
 
