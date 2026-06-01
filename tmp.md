@@ -50,7 +50,7 @@ Lexar Negro :: Sandisk
 -> Pan
 -> Pan Fancy Hamburguesa
 -> Chow Mein
--> Mandarinas
+
 - ChK rsync:
             - 
 - TRRTs
