@@ -46,7 +46,7 @@ Lexar Negro :: Sandisk
 **DOM:**
 
 ``` 
--> Pizza
+
 -> Pan
 -> Pan Fancy Hamburguesa
 -> Chow Mein
