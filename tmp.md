@@ -43,6 +43,7 @@ Lexar Negro :: Sandisk
 **MAR:**
 ```
 - Batts:
+        - mba-00
 
 M:
   - USB -> Exp
