@@ -44,6 +44,7 @@ Lexar Negro :: Sandisk
 ```
 - Batts:
         - mba-00
+        - dell-7290
 
 M:
   - USB -> Exp
