@@ -44,6 +44,8 @@ Lexar Negro :: Sandisk
 ```
 M:
   - USB -> Exp
+  - Tuppers
+  - Chow Mein
 ```
 
 
