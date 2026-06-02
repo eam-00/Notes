@@ -42,7 +42,8 @@ Lexar Negro :: Sandisk
 ```
 **MAR:**
 ```
-- Batts;
+- Batts:
+
 M:
   - USB -> Exp
   - Tuppers
