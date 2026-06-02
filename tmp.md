@@ -46,7 +46,7 @@ Lexar Negro :: Sandisk
 ``` 
 
 -> Pan
--> Pan Fancy Hamburguesa
+
 
 
 - ChK rsync:
