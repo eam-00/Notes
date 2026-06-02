@@ -30,7 +30,6 @@ Lexar Negro :: Sandisk
 
 
 ```
-
 - t420:
        - XFCE
 - 11e2:
