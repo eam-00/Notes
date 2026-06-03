@@ -43,7 +43,7 @@ Lexar Negro :: Sandisk
 **MAR:**
 ```
 - Batts:
-        - mba-00
+
         - dell-7290
 
 M:
