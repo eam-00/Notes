@@ -42,6 +42,7 @@ Lexar Negro :: Sandisk
 ```
 **MIE:**
 ```
+- RE HB
 - Limpiar C
 
 
