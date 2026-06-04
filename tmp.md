@@ -45,7 +45,7 @@ Lexar Negro :: Sandisk
 
 - Backup USB -> Dell
 - Pendrive:
-           - Pelis WE
+
 
 
 
