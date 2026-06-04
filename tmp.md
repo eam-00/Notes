@@ -42,6 +42,7 @@ Lexar Negro :: Sandisk
 ```
 **JUE:**
 ```
+- FEMEDICA
 Pendrive:
          - Pelis WE
 
