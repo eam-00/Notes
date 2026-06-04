@@ -32,7 +32,7 @@ Lexar Negro :: Sandisk
 ```
 - t420:
        - XFCE
-- 11e2:
+
 
 - mbp-01:
          - Debian 13 XFCE
