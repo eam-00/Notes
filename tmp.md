@@ -42,7 +42,8 @@ Lexar Negro :: Sandisk
 ```
 **JUE:**
 ```
-
+Pendrive:
+         - 
 
 
 
