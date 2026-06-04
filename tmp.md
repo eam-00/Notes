@@ -42,7 +42,7 @@ Lexar Negro :: Sandisk
 ```
 **JUE:**
 ```
-- FEMEDICA
+
 - Backup USB -> Dell
 - Pendrive:
            - Pelis WE
