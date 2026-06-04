@@ -43,7 +43,7 @@ Lexar Negro :: Sandisk
 **MIE:**
 ```
 - RE HB
-- PF
+
 
 
 
