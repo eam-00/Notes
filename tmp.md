@@ -43,7 +43,7 @@ Lexar Negro :: Sandisk
 **JUE:**
 ```
 Pendrive:
-         - 
+         - Pelis WE
 
 
 
