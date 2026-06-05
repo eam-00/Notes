@@ -45,6 +45,7 @@ Lexar Negro :: Sandisk
 - CB
 - PF
 - mbp-01:
+         - WiFi
 
 
 
