@@ -44,6 +44,7 @@ Lexar Negro :: Sandisk
 ```
 - CB
 - PF
+- Sync USB Almond
 - mbp-01:
          - WiFi
 
