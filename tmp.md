@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
        - XFCE
 
 
-- mbp-01:
+
 
 
 
