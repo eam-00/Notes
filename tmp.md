@@ -43,7 +43,7 @@ Lexar Negro :: Sandisk
 **VIE:**
 ```
 
-- PF
+
 - Sync USB Almond
 - mbp-01:
          - WiFi
