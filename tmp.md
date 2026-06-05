@@ -40,7 +40,7 @@ Lexar Negro :: Sandisk
 
 - t410
 ```
-**JUE:**
+**:**
 ```
 
 - Backup USB -> Dell
