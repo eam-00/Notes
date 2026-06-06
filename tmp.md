@@ -36,6 +36,7 @@ Lexar Negro :: Sandisk
 
 - 11e2:
        - Brightness
+       - KBD combo launcher
 
 
 
