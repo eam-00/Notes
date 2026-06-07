@@ -46,7 +46,7 @@ Lexar Negro :: Sandisk
 ```
 
 - Miel
-- Johnnie Walker
+
 - Choco
 
 ```
