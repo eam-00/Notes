@@ -44,13 +44,7 @@ Lexar Negro :: Sandisk
 ```
 
 
-```
 
-
-
-
-
-```
 **DOM:**
 ```
 - Almendras c/ Choco
