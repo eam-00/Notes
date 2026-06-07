@@ -47,7 +47,7 @@ Lexar Negro :: Sandisk
 
 - Miel
 
-- Choco
+
 
 ```
 **DOM:**
