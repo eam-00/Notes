@@ -50,6 +50,7 @@ Lexar Negro :: Sandisk
 - Almendras c/ Choco
 - Milanesas
 - Pollo Al Verdeo
+- Pan
 - Sync mp3 USB Almond
 - TRRTs
 ```
