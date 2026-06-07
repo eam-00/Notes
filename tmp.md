@@ -44,7 +44,7 @@ Lexar Negro :: Sandisk
 ```
 **SAB:**
 ```
-- Sync USB Almond
+
 - Miel
 - Johnnie Walker
 - Choco
