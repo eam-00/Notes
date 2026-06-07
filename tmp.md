@@ -53,6 +53,7 @@ Lexar Negro :: Sandisk
 **DOM:**
 ```
 - Almendras c/ Choco
+- Sync mp3 USB Almond
 - TRRTs
 
 ```
