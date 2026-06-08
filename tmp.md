@@ -49,7 +49,7 @@ Lexar Negro :: Sandisk
 ```
 
 - Milanesas
-- Pollo Al Verdeo
+
 - Pan
 - Sync mp3 USB Almond
 - TRRTs
