@@ -50,7 +50,7 @@ Lexar Negro :: Sandisk
 
 - Milanesas
 
-- Pan
+
 - Sync mp3 USB Almond
 - TRRTs
 ```
