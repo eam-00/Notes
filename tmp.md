@@ -47,7 +47,7 @@ Lexar Negro :: Sandisk
 
 **DOM:**
 ```
-- Almendras c/ Choco
+
 - Milanesas
 - Pollo Al Verdeo
 - Pan
