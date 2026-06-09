@@ -60,8 +60,7 @@ Lexar Negro :: Sandisk
 - C:
     - TS
 - TRRTs:
-        - cp Do Jour
-```
+        - cp Do Jour```
 
 
 
