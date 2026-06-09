@@ -42,7 +42,7 @@ Lexar Negro :: Sandisk
 
 - t410
 ```
-**:**
+**MAR:**
 ```
 - Sync mp3 USB Almond
 - PF [?]
