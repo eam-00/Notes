@@ -42,18 +42,6 @@ Lexar Negro :: Sandisk
 
 - t410
 ```
-
-
-
-
-```
-
-
-
-
-
-```
-
 **:**
 ```
 - Sync mp3 USB Almond
