@@ -58,7 +58,7 @@ Lexar Negro :: Sandisk
 ```
 - PFs
 - C:
-    - TS
+
 - TRRTs:
 ```
 
