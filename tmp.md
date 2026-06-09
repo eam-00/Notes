@@ -54,7 +54,7 @@ Lexar Negro :: Sandisk
 
 ```
 
-**LUN:**
+**:**
 ```
 - PF [?]
 - C:
