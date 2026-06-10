@@ -46,6 +46,7 @@ Lexar Negro :: Sandisk
 
 ```
 - CB
+- LC
 - Sync mp3 USB Almond
 
 
