@@ -45,6 +45,7 @@ Lexar Negro :: Sandisk
 **MAR:**
 ```
 - Sync mp3 USB Almond
+- CB
 
 
 ```
