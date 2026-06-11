@@ -56,6 +56,7 @@ Lexar Negro :: Sandisk
 ```
 **JUE:**
 ```
+- 15:30 - Cardio
 
 ```
 
