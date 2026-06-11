@@ -59,6 +59,14 @@ Lexar Negro :: Sandisk
 ```
 - Derma
 - 15:30 - Cardio
+- CB
+- ATM
+- Pinto [?]
+
+
+
+- Sync mp3 USB Almond
+
 
 ```
 
