@@ -47,7 +47,7 @@ Lexar Negro :: Sandisk
 - CB
 - ATM
 - Pinto [?]
-- Lavanderia
+
 - FarmaCity
 - LC
 - Sync mp3 USB Almond
