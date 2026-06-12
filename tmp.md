@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
        - XFCE
 
 - 11e2:
-       - KBD combo launcher
+       - Switch disk -> XFCE
 - mbp-01:
          - Setup KBD
 
