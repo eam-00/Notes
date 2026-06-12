@@ -42,14 +42,6 @@ Lexar Negro :: Sandisk
 ```
 
 
-```
-
-
-
-
-
-
-```
 **JUE:**
 ```
 - Derma
