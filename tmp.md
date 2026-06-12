@@ -35,8 +35,6 @@ Lexar Negro :: Sandisk
 
 - 11e2:
        - KBD combo launcher
-
-
 - mbp-01:
          - Setup KBD
 
