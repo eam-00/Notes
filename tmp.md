@@ -56,7 +56,7 @@ Lexar Negro :: Sandisk
 **JUE:**
 ```
 - Derma
-- 15:30 - Cardio
+
 - CB
 - ATM
 - Pinto [?]
