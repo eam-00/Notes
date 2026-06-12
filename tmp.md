@@ -52,6 +52,9 @@ Lexar Negro :: Sandisk
 
 
 - Sync mp3 USB Almond
+Dell XPS Studio:
+                - Update
+                - Backups
 ```
 
 
