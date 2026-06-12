@@ -36,7 +36,7 @@ Lexar Negro :: Sandisk
 - 11e2:
        - KBD combo launcher
 - mbp-00:
-         - Upgrade Debian 13
+
 - mbp-01:
          - Setup KBD
 
