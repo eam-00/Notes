@@ -41,7 +41,7 @@ Lexar Negro :: Sandisk
 - t410
 ```
 
-**JUE:**
+**:**
 ```
 
 - CB
