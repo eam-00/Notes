@@ -44,7 +44,6 @@ Lexar Negro :: Sandisk
 **JUE:**
 ```
 
-
 - CB
 - ATM
 - Pinto [?]
