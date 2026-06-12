@@ -36,7 +36,7 @@ Lexar Negro :: Sandisk
 - 11e2:
        - Switch disk -> XFCE
 - mbp-01:
-         - Setup KBD
+
 
 - t410
 ```
