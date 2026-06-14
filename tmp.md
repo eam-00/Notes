@@ -45,6 +45,7 @@ Lexar Negro :: Sandisk
 ```
 - Batt:
        - dell-7290
+       - nba-00
 
 
 
