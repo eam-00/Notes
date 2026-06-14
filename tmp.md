@@ -44,7 +44,7 @@ Lexar Negro :: Sandisk
 **LUN:**
 ```
 - Batt:
-
+       - dell-7290
 
 
 
