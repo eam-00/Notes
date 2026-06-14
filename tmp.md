@@ -37,7 +37,7 @@ Lexar Negro :: Sandisk
        - Switch disk -> XFCE
 
 
-- t410
+
 ```
 
 **LUN:**
