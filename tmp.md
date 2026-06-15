@@ -113,7 +113,7 @@ Lexar Negro :: Sandisk
 - https://www.pling.com/p/2031526
 
 
-Material-Solarized-LW theme:
+**Material-Solarized-LW theme**:
 - https://pling.com/p/1315063
 
 
