@@ -43,6 +43,7 @@ Lexar Negro :: Sandisk
 **LUN:**
 ```
 -> Empanadas
+-> Guiso
 
 - Batt:
        - dell-7290
