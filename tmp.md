@@ -47,6 +47,7 @@ Lexar Negro :: Sandisk
 -> Pizza
 -> Jamon
 -> Queso
+-> Medialunas
 - Batt:
        - dell-7290
        - mba-00
