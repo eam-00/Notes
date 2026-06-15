@@ -36,7 +36,6 @@ Lexar Negro :: Sandisk
 - 11e2:
        - Switch disk -> XFCE
 
-
 ```
 
 **LUN:**
