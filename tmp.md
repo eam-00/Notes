@@ -553,7 +553,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 Carre:
 -----
-Bolsitas | Te En Hebras | Cif en Gel |  | | 
+Bolsitas | Te En Hebras | Cif en Gel | T. Oidos | | 
 - Havanna: Dulce De Leche | Alfajores Mar Del Plata
 
 
