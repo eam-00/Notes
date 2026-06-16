@@ -42,7 +42,7 @@ Lexar Negro :: Sandisk
 ```
 
 -> Guiso
--> Pizza
+
 -> Jamon
 -> Queso
 -> Medialunas
