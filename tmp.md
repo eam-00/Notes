@@ -44,7 +44,7 @@ Lexar Negro :: Sandisk
 -> Guiso
 
 -> Jamon
--> Queso
+
 
 - Batt:
        - dell-7290
