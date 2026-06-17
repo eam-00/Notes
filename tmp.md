@@ -33,7 +33,7 @@ Lexar Negro :: Sandisk
 - t420:
        - Install XFCE
 - Optiplex:
-           -
+           - OpenBSD
      
 
 
