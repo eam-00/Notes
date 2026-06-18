@@ -34,7 +34,7 @@ Lexar Negro :: Sandisk
        - Install XFCE
 - Optiplex:
            - Install OpenBSD
-     
+- t43:
 
 ```
 
