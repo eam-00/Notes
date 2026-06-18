@@ -61,7 +61,7 @@ Lexar Negro :: Sandisk
 ```
 
 - M:
-    - Tuppers
+
     - Laundry
 
 ```
