@@ -62,7 +62,6 @@ Lexar Negro :: Sandisk
 
 - M:
 
-    - Laundry
 
 ```
 
