@@ -65,7 +65,10 @@ Lexar Negro :: Sandisk
 ```
 **SAB:**
 ```
+- Tuppers
+- TC
 
+- Pan
 ```
 
 
