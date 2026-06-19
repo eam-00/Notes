@@ -58,7 +58,7 @@ Lexar Negro :: Sandisk
 ```
 **VIE:**
 ```
-- D
+
 - CB
 - Clean fridge
 
