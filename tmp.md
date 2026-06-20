@@ -35,7 +35,7 @@ Lexar Negro :: Sandisk
 - Optiplex:
            - Install OpenBSD
 - t43:
-
+- Sync mp3 USB Almond
 ```
 
 
