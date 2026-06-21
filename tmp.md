@@ -52,6 +52,7 @@ Lexar Negro :: Sandisk
 ```
 **LUN:**
 ```
+-> Manies
 - TRRTs:
         - Delete
 
