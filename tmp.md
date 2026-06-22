@@ -42,13 +42,6 @@ Lexar Negro :: Sandisk
 
 
 
-```
-
-
-
-
-
-```
 **LUN:**
 ```
 -> Manies
