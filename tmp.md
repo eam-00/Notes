@@ -47,7 +47,7 @@ Lexar Negro :: Sandisk
 
 
 - Print:
-        - Rossi
+
 ```
 **LUN:**
 ```
