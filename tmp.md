@@ -55,6 +55,7 @@ Lexar Negro :: Sandisk
 -> Milanesas
 - TRRTs:
         - Delete
+- Lavar ropa
 
 ```
 
