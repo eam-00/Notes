@@ -49,7 +49,6 @@ Lexar Negro :: Sandisk
 - TRRTs:
         - Delete
 - Lavar ropa
-
 ```
 
 
