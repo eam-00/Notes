@@ -47,7 +47,7 @@ Lexar Negro :: Sandisk
 -> Milanesas
 - TRRTs:
 
-- Lavar ropa
+
 ```
 
 
