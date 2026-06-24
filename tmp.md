@@ -46,12 +46,6 @@ Lexar Negro :: Sandisk
 
 
 
-```
-**MAR:**
-```
-- Cbio Sab
-- LC
-```
 
 
 
