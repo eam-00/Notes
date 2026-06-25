@@ -40,7 +40,8 @@ Lexar Negro :: Sandisk
 
 **MAR:**
 ```
-
+- Movistar:
+           - Prepago
 
 ```
 
