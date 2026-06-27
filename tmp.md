@@ -46,7 +46,7 @@ Lexar Negro :: Sandisk
 - ABL
 - Ofic: Movistar
 
-- Cereales
+
 - Tuppers
 
 - 1 KG Gnoccis
