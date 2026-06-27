@@ -45,6 +45,7 @@ Lexar Negro :: Sandisk
 ```
 - ABL
 - Ofic: Movistar
+- ALE
 - Cereales
 - Tuppers
 ```
