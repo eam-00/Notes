@@ -32,7 +32,7 @@ Lexar Negro :: Sandisk
 ```
 - t420:
        - Install XFCE
-- Optiplex:
+- Optiplex 755:
            - Install OpenBSD
 
 - Sync mp3 USB Almond
