@@ -105,7 +105,7 @@ Lexar Negro :: Sandisk
 
 
 
-kora-grey icons:
+**kora-grey icons**:
 - https://pling.com/p/1256209/
 
 Gidole truetype font:
