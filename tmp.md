@@ -55,6 +55,7 @@ Lexar Negro :: Sandisk
 - 100 GR Cheddar
 - 1/4 KG Jamon Cocido La Octava
 - 200 GR Queso de Maquina La Paulina
+- 200 GR Mozarella
 ```
 
 
