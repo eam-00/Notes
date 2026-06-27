@@ -53,6 +53,7 @@ Lexar Negro :: Sandisk
 - Queso rallado
 
 - 100 GR Cheddar
+- 1/4 KG Jamon Cocido La Octava
 ```
 
 
