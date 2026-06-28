@@ -26,7 +26,6 @@ Lexar Negro :: Sandisk
     - BDU [?]
     - Dell Latitude [?]
     - M-65
-
 ```
 - t420:
        - Install XFCE
