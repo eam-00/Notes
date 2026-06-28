@@ -99,8 +99,7 @@ Lexar Negro :: Sandisk
 
 **Material-Solarized-LW theme**:
 - https://pling.com/p/1315063
-
-
+   
 **kora-grey icons**:
 - https://pling.com/p/1256209/
 
