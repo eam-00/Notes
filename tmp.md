@@ -28,7 +28,6 @@ Lexar Negro :: Sandisk
     - M-65
 
 
-
 ```
 - t420:
        - Install XFCE
