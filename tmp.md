@@ -44,7 +44,7 @@ Lexar Negro :: Sandisk
 - Ofic: Movistar
 
 
-- Tuppers
+
 
 - 1 KG Gnoccis
 - Queso rallado
