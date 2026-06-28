@@ -37,7 +37,6 @@ Lexar Negro :: Sandisk
 
 
 
-
 **SAB:**
 ```
 - Aceitunas negras
