@@ -101,7 +101,6 @@ Lexar Negro :: Sandisk
 - https://pling.com/p/1315063
 
 
-
 **kora-grey icons**:
 - https://pling.com/p/1256209/
 
