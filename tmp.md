@@ -41,7 +41,7 @@ Lexar Negro :: Sandisk
 **SAB:**
 ```
 
-- Ofic: Movistar
+
 
 
 
