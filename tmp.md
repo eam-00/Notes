@@ -38,6 +38,8 @@ Lexar Negro :: Sandisk
 
 **LUN:**
 ```
+-> Milanesas
+
 - Oftalmologo
 ```
 
