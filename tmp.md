@@ -52,7 +52,6 @@ Lexar Negro :: Sandisk
 
 
 
-- 100 GR Cheddar
 
 ```
 
