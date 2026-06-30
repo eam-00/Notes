@@ -40,7 +40,7 @@ Lexar Negro :: Sandisk
 ```
 
 - PF
-- Guardar maderas
+
 -> Milanesas
 -> Tarta
 -> Gnoccis
