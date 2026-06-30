@@ -38,7 +38,7 @@ Lexar Negro :: Sandisk
 
 **LUN:**
 ```
-- Oftalmologo
+
 - PF
 - Guardar maderas
 -> Milanesas
