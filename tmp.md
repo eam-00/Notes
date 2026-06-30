@@ -506,7 +506,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 Carre:
 -----
 Bolsitas | Te En Hebras | Cif en Gel | | | 
-- Havanna:  | Alfajores Mar Del Plata
+- Havanna:  | 
 
 
 
