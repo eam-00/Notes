@@ -46,7 +46,7 @@ Lexar Negro :: Sandisk
          - USB -> Mouse
          - Admin Account
          - Reboot
-
+         - Reboot: Firmware Password: Restart the MacBook while holding down the Command + R keys to enter macOS Recovery Mode. If it asks for a PIN or password before loading, walk away.
 ```
 
 
