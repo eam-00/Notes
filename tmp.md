@@ -43,6 +43,7 @@ Lexar Negro :: Sandisk
          - KBD
          - Charger
          - USB -> Mouse
+         - Admin Account
 
 ```
 
