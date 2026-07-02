@@ -41,6 +41,7 @@ Lexar Negro :: Sandisk
          - iCloud 
          - WiFi
          - KBD
+         - profiles status -type enrollment DEP or MDM states "Yes," cancel the purchase
          - Charger
          - USB -> Mouse
          - Admin Account
