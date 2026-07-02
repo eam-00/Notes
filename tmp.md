@@ -42,6 +42,7 @@ Lexar Negro :: Sandisk
          - WiFi
          - KBD
          - Charger
+         - USB -> Mouse
 
 ```
 
