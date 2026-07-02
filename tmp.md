@@ -44,6 +44,7 @@ Lexar Negro :: Sandisk
          - Charger
          - USB -> Mouse
          - Admin Account
+         - Reboot
 
 ```
 
