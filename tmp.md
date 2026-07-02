@@ -47,6 +47,7 @@ Lexar Negro :: Sandisk
          - Admin Account
          - Reboot
          - Reboot: Firmware Password: Restart the MacBook while holding down the Command + R keys to enter macOS Recovery Mode. If it asks for a PIN or password before loading, walk away.
+         - Boot from USB: Turn off your MacBook Air, plug in the USB drive, and turn it back on while holding down the Option (or Alt) key.
 ```
 
 
