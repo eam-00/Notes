@@ -24,7 +24,7 @@ Lexar Negro :: Sandisk
 
     - mbp [?]
     - BDU [?]
-    - Dell Latitude [?]
+
     - M-65
 ```
 - t420:
