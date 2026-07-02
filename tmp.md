@@ -39,6 +39,7 @@ Lexar Negro :: Sandisk
 
 - mba-01:
          - WiFi
+         - KBD
 
 ```
 
