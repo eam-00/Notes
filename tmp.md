@@ -67,6 +67,7 @@ Lexar Negro :: Sandisk
 
     - Papas
     - 1/2 KGs limones
+    - 1/2 KGs cebollas
 ```
 
 
