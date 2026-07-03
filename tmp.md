@@ -52,7 +52,6 @@ Lexar Negro :: Sandisk
 **VIE:**
 ```
     - K: -> Cradle
-    - Telecom
     - Bags
 
 
