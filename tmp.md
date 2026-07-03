@@ -51,6 +51,7 @@ Lexar Negro :: Sandisk
 
 **VIE:**
 ```
+    - Telecom
     - PF
     - CB
     - Drain
