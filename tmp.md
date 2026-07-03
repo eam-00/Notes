@@ -55,7 +55,7 @@ Lexar Negro :: Sandisk
     - Telecom
     - Bags
 
-    - CB
+
     - Drain
 ```
 
