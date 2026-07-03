@@ -54,7 +54,7 @@ Lexar Negro :: Sandisk
     - K: -> Cradle
     - Telecom
     - Bags
-    - PF
+
     - CB
     - Drain
 ```
