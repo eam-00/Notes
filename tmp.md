@@ -35,7 +35,6 @@ Lexar Negro :: Sandisk
 ```
 
 ```
-
 - mba-01:
          - iCloud 
          - WiFi
