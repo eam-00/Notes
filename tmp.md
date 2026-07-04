@@ -49,14 +49,7 @@ Lexar Negro :: Sandisk
 ```
 
 **VIE:**
-```
 
-
-
-
-
-
-```
 
 **SAB:**
 ``
