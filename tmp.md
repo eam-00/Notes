@@ -48,7 +48,7 @@ Lexar Negro :: Sandisk
          - Boot from USB: Turn off your MacBook Air, plug in the USB drive, and turn it back on while holding down the Option (or Alt) key.
 ```
 
-**VIE:**
+
 
 
 **SAB:**
