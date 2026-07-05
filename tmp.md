@@ -59,7 +59,7 @@ Lexar Negro :: Sandisk
 
 
     - 1/2 KGs limones
-    - 1/2 KGs cebollas
+
     - 1/2 KGs morrones
 ```
 
