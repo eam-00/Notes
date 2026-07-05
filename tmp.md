@@ -58,7 +58,7 @@ Lexar Negro :: Sandisk
     - Leche
 
 
-    - 1/2 KGs limones
+
 
 
 ```
