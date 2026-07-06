@@ -51,7 +51,7 @@ Lexar Negro :: Sandisk
 
 **SAB:**
 ```
-    - Tupper
+
     - Alcohol refill
 
 
