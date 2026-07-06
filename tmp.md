@@ -58,7 +58,6 @@ Lexar Negro :: Sandisk
       - Test TV Sony
       - Alcohol refill
       - Chow Mein
-
 ```
 
 
