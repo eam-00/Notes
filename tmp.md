@@ -57,7 +57,7 @@ Lexar Negro :: Sandisk
       - -> ATM Card
       - Test TV Sony
       - Alcohol refill
-      - Chow Mein
+      - -> Chow Mein
 ```
 
 
