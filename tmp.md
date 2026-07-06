@@ -516,7 +516,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 Carre:
 -----
-Bolsitas | Galles Avena | Cif en Gel | Salsa Agridulce | | 
+Bolsitas | Galles Avena | Cif en Gel | Salsa Agridulce | Coquitas | 
 - Havanna:  | 
 
 
