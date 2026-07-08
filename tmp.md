@@ -52,11 +52,6 @@ Lexar Negro :: Sandisk
 
 
 
-```
-
-
-
-```
 
 
 
