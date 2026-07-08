@@ -52,7 +52,7 @@ Lexar Negro :: Sandisk
 
 
 
-**LUN:**
+
 ```
 
       - Test TV Sony
