@@ -16,7 +16,7 @@ Click en "MasterCard"
 
 **MP3:**
 ```
-USB SanDisk     ::	Almonde
+USB SanDisk     ::	Almond
 USB KINGSTON    ::	Yellow
 ```
 
