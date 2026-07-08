@@ -143,7 +143,7 @@ https://simpledesktops.com/browse/desktops/2012/sep/04/gradient/
 Install:
 - Musicolet
                   - Lastfm
-                  - Starbucks Rewards
+- Starbucks Rewards
                   
 
 
