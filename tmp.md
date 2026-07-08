@@ -97,7 +97,6 @@ Lexar Negro :: Sandisk
 
 
 
-
 Parquetistas:
 ------------
 Aguero - Elvio - 15 6518 3509 - 16 mil x M2
