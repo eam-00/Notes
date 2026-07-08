@@ -139,7 +139,8 @@ https://simpledesktops.com/browse/desktops/2012/sep/04/gradient/
 
 
 
--- Chromebook Pro:
+**Chromebook Pro:**
+Install:
                   - Musicolet
                   - Lastfm
                   - Starbucks Rewards
