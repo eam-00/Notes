@@ -7,7 +7,7 @@
 - Flow/ Fibertel: ver que tengo realmente
 - Delete old bags
 - Flow/ Fibertel: testear linea fija
-- Expensas
+
 
   
 https://secure.bancocolumbia.com.ar/web/10111-Cupon-de-Pago.note.aspx  
