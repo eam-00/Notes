@@ -2,7 +2,7 @@
 - Dropbox
 - FEMEDICA
 
-- LC
+
 - Movistar paso a pre-pago [??]
 - Flow/ Fibertel: ver que tengo realmente
 - Delete old bags
