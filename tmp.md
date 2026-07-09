@@ -15,6 +15,7 @@
 - Roku -> Flow
 - m1330: updates
 - TRRTs -> Ext USB HDD
+- Ext USB HDD -> Dell XPS Studio
 ```
 
   
