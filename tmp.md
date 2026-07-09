@@ -9,6 +9,7 @@
 - Flow/ Fibertel: testear linea fija
 
 **JUE:**
+- sync x220i -> mba-01
 
   
 https://secure.bancocolumbia.com.ar/web/10111-Cupon-de-Pago.note.aspx  
