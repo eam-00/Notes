@@ -17,6 +17,8 @@
 - TRRTs -> Ext USB HDD
 - Ext USB HDD -> Dell XPS Studio
 - Batts
+- mba-10:
+
 ```
 
   
