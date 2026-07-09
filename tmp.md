@@ -18,6 +18,7 @@
 - Ext USB HDD -> Dell XPS Studio
 - Batts
 - mba-10:
+         - Test audio Jack
 
 ```
 
