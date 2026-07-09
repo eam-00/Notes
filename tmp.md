@@ -8,6 +8,7 @@
 - Delete old bags
 - Flow/ Fibertel: testear linea fija
 
+**JUE:**
 
   
 https://secure.bancocolumbia.com.ar/web/10111-Cupon-de-Pago.note.aspx  
