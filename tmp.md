@@ -4,7 +4,7 @@
 - Delete old bags
 - Flow/ Fibertel: testear linea fija
 
-**JUE:**
+**:**
 ```
 - sync x220i -> mba-01
 
