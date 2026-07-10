@@ -15,7 +15,6 @@
 - Batts
 - mba-10:
          - Test audio Jack
-
 ```
 
   
