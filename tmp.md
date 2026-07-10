@@ -12,6 +12,7 @@
 - m1330: updates
 
 - Ext USB HDD -> Dell XPS Studio
+- TRRTs -> Ext USB HDD -> Pendrive
 - Batts
 - mba-10:
          - Test audio Jack
