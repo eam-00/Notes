@@ -7,7 +7,7 @@
 **JUE:**
 ```
 - sync x220i -> mba-01
-- Dropbox
+
 - Roku -> Flow
 - m1330: updates
 - TRRTs -> Ext USB HDD
