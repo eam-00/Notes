@@ -9,7 +9,7 @@
 - sync x220i -> mba-01
 
 - Roku -> Flow
-- m1330: updates
+
 
 - Ext USB HDD -> Dell XPS Studio
 - TRRTs -> Ext USB HDD -> Pendrive
