@@ -11,7 +11,7 @@
 - Roku -> Flow
 
 
-- Ext USB HDD -> Dell XPS Studio
+
 - TRRTs -> Ext USB HDD -> Pendrive
 
 
