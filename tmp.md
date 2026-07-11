@@ -96,7 +96,6 @@ Lexar Negro :: Sandisk
 **Plata-Colors**:
 - https://www.xfce-look.org/p/1342612
 
-
 **Modern XFWM**:
 - https://www.pling.com/p/2090933
 
