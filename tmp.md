@@ -12,7 +12,6 @@
 
 
 
-- TRRTs -> Ext USB HDD -> Pendrive
 
 
 
