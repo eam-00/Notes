@@ -15,7 +15,7 @@
 - TRRTs -> Ext USB HDD -> Pendrive
 
 - mba-10:
-         - Test audio Jack
+
 ```
 
   
