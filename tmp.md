@@ -274,6 +274,7 @@ Without `/usr/bin/gpg-agent` installed:
 ```
 gpg -d  --pinentry-mode loopback --passphrase THE.ULTRA.SECURE.PASSPHRASE Dropbox.gpg.tgz | tar xzvf -
 ```
+________
 
  - Remove "Usuario"
  - Weekly Backup
