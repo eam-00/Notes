@@ -267,7 +267,7 @@ gpg -d Dropbox.gpg.tgz | tar xzvf -
 
 Decrypt:
 -------
-Without /usr/bin/gpg-agent installed:
+Without `/usr/bin/gpg-agent` installed:
 ```
 gpg -d  --pinentry-mode loopback --passphrase THE.ULTRA.SECURE.PASSPHRASE Dropbox.gpg.tgz | tar xzvf -
 ```
