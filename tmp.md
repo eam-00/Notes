@@ -19,6 +19,7 @@
 -> Milanesas
 -> Regla de madera
 -> Aceite
+-> Teclado Blanco
 ``` 
 
   
