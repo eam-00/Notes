@@ -259,6 +259,9 @@ https://www.infobae.com/economia/2024/04/04/los-alquileres-siguen-altos-en-caba-
 
 ________
 
+Encrypt:
+-------
+
 ```
 tar czvpf - ~/Local | gpg -a --symmetric --cipher-algo aes256 -o /tmp/Local.gpg.tgz
 tar czvpf - ~/Dropbox | gpg -a --symmetric --cipher-algo aes256 -o /tmp/Dropbox.gpg.tgz
