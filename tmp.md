@@ -5,7 +5,7 @@
 
 ```
 - sync x220i -> mba-01
-- Roku -> Flow
+
 
 
 
