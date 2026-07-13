@@ -4,7 +4,7 @@
 - Flow/ Fibertel: testear linea fija
 
 ```
-- sync x220i -> mba-01
+
 
 
 
