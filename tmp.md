@@ -21,6 +21,7 @@
 -> Aceite
 -> Teclado Blanco
 -> TC
+-> Gas
 ``` 
 
   
