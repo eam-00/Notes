@@ -20,6 +20,7 @@
 -> Regla de madera
 -> Aceite
 -> Teclado Blanco
+-> TC
 ``` 
 
   
