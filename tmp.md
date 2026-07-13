@@ -3,7 +3,6 @@
 - Flow/ Fibertel: ver que tengo realmente
 - Flow/ Fibertel: testear linea fija
 
-**VIE:**
 ```
 - sync x220i -> mba-01
 - Roku -> Flow
