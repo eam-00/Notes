@@ -6,7 +6,7 @@
 
 **LUN:**
 ```
--> Lechuga
+
 -> Pizza
 -> Milanesas
 -> Regla de madera
