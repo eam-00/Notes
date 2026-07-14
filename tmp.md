@@ -8,7 +8,7 @@
 ```
 
 -> Pizza
--> Milanesas
+
 -> Regla de madera
 
 -> Teclado Blanco
