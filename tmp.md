@@ -11,7 +11,7 @@
 
 -> Regla de madera
 
--> Teclado Blanco
+
 -> TC
 
 - Roku -> Flow
