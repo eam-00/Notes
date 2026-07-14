@@ -8,7 +8,7 @@
 
 -> Pizza
 
--> Regla de madera
+
 
 
 -> TC
