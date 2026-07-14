@@ -13,7 +13,7 @@
 
 -> TC
 
-- Roku -> Flow
+
 - sync x220i -> mba-01
 ``` 
 
