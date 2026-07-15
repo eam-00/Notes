@@ -1,4 +1,4 @@
-**MIE:**
+
 - Movistar paso a pre-pago [??]
 - Flow/ Fibertel: ver que tengo realmente
 - Flow/ Fibertel: testear linea fija
