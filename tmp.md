@@ -43,8 +43,6 @@ Lexar Negro :: Sandisk
     - BDU [?]
     - M-65
 ```
-- t420:
-       - Install XFCE
 - Optiplex 755:
            - Install OpenBSD
 
