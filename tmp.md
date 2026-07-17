@@ -5,6 +5,7 @@
 
 **VIE:**
 ```
+- CB
 - t420:
        - Debian 13 - MATE [?]
 - Batts
