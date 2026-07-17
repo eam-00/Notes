@@ -3,7 +3,7 @@
 - Flow/ Fibertel: ver que tengo realmente
 - Flow/ Fibertel: testear linea fija
 
-
+**VIE:**
 ```
 - t420:
        - Debian 13 - MATE [?]
