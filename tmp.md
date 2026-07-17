@@ -105,11 +105,11 @@ Lexar Negro :: Sandisk
 
 
 
-Parquetistas:
-------------
+**Parquetistas:**
+```
 Aguero - Elvio - 15 6518 3509 - 16 mil x M2
 Arenales - Jose - 15 4447 9261 - 20 mil x M2
-
+```
 
 
 El Bocado: 54911 2697 1664
