@@ -47,8 +47,6 @@ Lexar Negro :: Sandisk
 ```
 - Optiplex 755:
            - Install OpenBSD
-
-- Sync mp3 USB Almond
 ```
 
 ```
