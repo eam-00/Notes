@@ -385,7 +385,6 @@ Arreglo persiana: Juan - 15 6803 8442
 - Give My Regards To Broad Street
 
 **Album Covers**:
-------------
 ```
 The Motels	Shock
 Bob Dylan	Shot Of Love
