@@ -5,7 +5,7 @@
 
 **VIE:**
 ```
-_ Farmacia
+
 - Backup TRRTs -> USB
 - CB
 - t420:
