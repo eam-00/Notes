@@ -526,8 +526,7 @@ Bolsitas | | Cif en Gel | | Coquitas |
 
 
 
-
-- Cell: Auto brightness | Auto Switch to Data | Auto Volume
+- **Cell:** Auto brightness | Auto Switch to Data | Auto Volume
 
 
 
