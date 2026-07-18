@@ -9,7 +9,6 @@
 - t420:
        - Debian 13 - MATE [?]
 
-
 ``` 
 **SAB:**
 - Helado
