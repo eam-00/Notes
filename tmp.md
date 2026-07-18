@@ -193,7 +193,6 @@ https://www.gmgroup.travel/7-destinations-you-have-to-visit-in-northeast-brazil/
 
 
 
-
 Osaka, Japan (Photo : Masahiro Miyagi) [4971 x 3314]  
 https://www.reddit.com/r/wallpapers/comments/142zkbz/osaka_japan_photo_masahiro_miyagi_4971_x_3314/
 
