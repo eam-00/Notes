@@ -15,7 +15,7 @@
 **SAB:**
 - Helado
 
-- Papas
+
 - Lechuga
 
 
