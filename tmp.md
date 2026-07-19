@@ -14,7 +14,7 @@
 ``` 
 **SAB:**
 - Helado
-- Boletas pagas
+
 - Papas
 - Lechuga
 - Cheddar
