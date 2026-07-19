@@ -8,6 +8,7 @@
 -> Pulled Chicken
 -> Filadelfia
 -> Manteca
+- TRRTs
 - t420:
        - Debian 13 - MATE [?]
 ``` 
