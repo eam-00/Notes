@@ -5,6 +5,7 @@
 
 
 ```
+-> Pulled Chicken
 - t420:
        - Debian 13 - MATE [?]
 ``` 
