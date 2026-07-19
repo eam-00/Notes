@@ -7,6 +7,7 @@
 ```
 -> Pulled Chicken
 -> Filadelfia
+-> Manteca
 - t420:
        - Debian 13 - MATE [?]
 ``` 
