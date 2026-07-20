@@ -9,6 +9,7 @@
 -> Filadelfia
 -> Manteca
 -> Queso de Maquina en fetas
+-> Medialuna
 - TRRTs
 - t420:
        - Debian 13 - MATE [?]
