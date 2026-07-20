@@ -513,7 +513,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 Carre:
 -----
-Bolsitas | BBQ | Cif en Gel | | Coquitas | 
+Bolsitas | BBQ | Cif en Gel | Agua | Coquitas | 
 - Havanna:  | 
 
 
