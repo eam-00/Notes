@@ -8,7 +8,7 @@
 -> Pulled Chicken
 -> Filadelfia
 -> Manteca
--> Queso de Maquina
+-> Queso de Maquina en fetas
 - TRRTs
 - t420:
        - Debian 13 - MATE [?]
