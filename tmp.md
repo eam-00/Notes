@@ -5,7 +5,7 @@
 
 **MAR:**
 - ATM
-- 
+- Laundry
 
 
 **LUN:**
