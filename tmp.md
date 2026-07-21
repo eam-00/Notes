@@ -14,7 +14,7 @@
 -> Pulled Chicken
 -> Filadelfia
 -> Manteca
--> Queso de Maquina en fetas
+
 -> Medialuna
 
 - t420:
