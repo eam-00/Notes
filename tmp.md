@@ -9,7 +9,7 @@
 - Laundry
 
 
-- ATM
+
 - Laundry
 
 
