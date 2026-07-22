@@ -4,6 +4,7 @@
 - Flow/ Fibertel: testear linea fija
 
 **MIE:**
+- LC
 
 **MAR:**
 - ATM
