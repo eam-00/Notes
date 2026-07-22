@@ -8,6 +8,7 @@
 - LC
 - Laundry
 - Backups, backups, backups
+- t430: chrome
 
 
 
