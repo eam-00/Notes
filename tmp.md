@@ -6,6 +6,7 @@
 **MIE:**
 - CS
 - LC
+- Laundry
 
 **MAR:**
 - ATM
