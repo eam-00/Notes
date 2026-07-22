@@ -8,7 +8,7 @@
 - LC
 - Laundry
 
-**MAR:**
+
 - ATM
 - Laundry
 
