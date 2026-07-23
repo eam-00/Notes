@@ -7,7 +7,8 @@
 - CS
 - LC
 - Laundry
-- Backups, backups, backups
+
+
 - t430: chrome
 - Check mp3 pendrives: Almond | Kingston Yellow
 
