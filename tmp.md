@@ -9,7 +9,7 @@
 
 
 
-- t430: chrome
+
 - Check mp3 pendrives: Almond | Kingston Yellow
 
 
