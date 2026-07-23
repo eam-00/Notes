@@ -6,7 +6,7 @@
 **MIE:**
 - CS
 - LC
-- Laundry
+
 
 
 - t430: chrome
