@@ -8,7 +8,6 @@
 
 
 
-
 - Check mp3 pendrives: Almond | Kingston Yellow
 
 
