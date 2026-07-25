@@ -7,7 +7,8 @@
 - Print:
         - Edenor
         - Movistar
-- Mr. Bife -> Bolsas
+- Mr. Bife:
+           -> Bolsas
 ```
 
 **LUN:**
