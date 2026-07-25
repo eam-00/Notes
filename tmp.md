@@ -6,6 +6,7 @@
 ```
 - Print:
         - Edenor
+        - Movistar
 ```
 
 **LUN:**
