@@ -25,6 +25,7 @@
 **SAB:**
 ```
 -> WiFi USB
+-> Ethernet cable
 ```
 
 ```
