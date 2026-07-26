@@ -20,6 +20,8 @@
 -> Chow Mein
 -> Pan Hamburguesas
 -> Queso De Maquina
+
+- x220i:
 ```
 
 **SAB:**
