@@ -9,7 +9,6 @@
 
 - Mr. Bife:
 
-           -> Bolsas
 ```
 
 **LUN:**
