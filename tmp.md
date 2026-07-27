@@ -23,6 +23,7 @@
 -> Chow Mein
 -> Pan Hamburguesas
 -> Queso De Maquina
+-> Haedo Pollo Frito
 
 - x220i:
         - ML
