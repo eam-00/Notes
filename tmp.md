@@ -24,6 +24,7 @@
 - x220i:
         - ML
         - Backups
+- Stripes
 ```
 
 **SAB:**
