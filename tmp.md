@@ -8,7 +8,7 @@
 
 
 - Mr. Bife:
-           -> Cera
+
            -> Bolsas
 ```
 
