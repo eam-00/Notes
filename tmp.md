@@ -32,6 +32,7 @@
 ```
 -> WiFi USB
 -> Ethernet cable
+-> Shampoo
 ```
 
 ```
