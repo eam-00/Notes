@@ -6,8 +6,7 @@
 ```
 - PF
 - Mr. Bife:
-           -> Cera
-           -> Bolsas
+
 -> mbp-01
 -> Teclado
 -> Chow Mein
