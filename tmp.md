@@ -11,7 +11,7 @@
 
 -> Chow Mein
 
--> Queso De Maquina
+
 -> Haedo Pollo Frito
 
 - x220i:
