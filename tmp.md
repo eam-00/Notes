@@ -12,7 +12,7 @@
 -> Chow Mein
 
 
--> Haedo Pollo Frito
+
 
 - x220i:
         - ML
