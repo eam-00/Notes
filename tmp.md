@@ -10,7 +10,7 @@
 -> mbp-01
 -> Teclado
 -> Chow Mein
--> Pan Hamburguesas
+
 -> Queso De Maquina
 -> Haedo Pollo Frito
 
