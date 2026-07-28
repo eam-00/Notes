@@ -8,7 +8,7 @@
 
 
 -> mbp-01
--> Teclado
+
 -> Chow Mein
 
 -> Queso De Maquina
