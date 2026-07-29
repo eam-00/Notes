@@ -16,7 +16,7 @@
 
 - x220i:
         - ML
-        - Backups
+
 - TRRTs
 - Stripes
 - The Signal
