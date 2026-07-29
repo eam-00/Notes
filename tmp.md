@@ -15,7 +15,7 @@
 
 
 - x220i:
-        - ML
+
 
 - TRRTs
 - Stripes
