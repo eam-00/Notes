@@ -15,7 +15,6 @@
 
 
 
-
 - Stripes
 - The Signal
 - All Quiet On The Western Front
