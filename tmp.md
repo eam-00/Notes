@@ -29,6 +29,7 @@
 -> Shampoo
 -> Leche
 -> Boletas
+-> Desodorante
 ```
 
 ```
