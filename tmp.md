@@ -13,14 +13,6 @@
 
 
 
-```
-
-```
-
-
-
-
-
 
 - Stripes
 - The Signal
