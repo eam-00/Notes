@@ -29,6 +29,7 @@
 -> Desodorante
 
 - 1/2 KG Cebolla
+- Papas
 
 - Yogurt
 - Panceta (1 centimetro y medio de grosor)
