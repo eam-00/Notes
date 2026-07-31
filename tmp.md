@@ -38,7 +38,7 @@
 -> Desodorante
 
 - Yogurt
-- Panceta
+- Panceta 1 CM grosor
 - Un chorizo colorado
 
 ```
