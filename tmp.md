@@ -40,6 +40,7 @@
 - Yogurt
 - Panceta (1 centimetro y medio de grosor)
 - Un chorizo colorado
+- 1/4 J
 
 - Pan
 
