@@ -40,6 +40,7 @@
 
 - Yogurt
 - Panceta
+- Un chorizo colorado
 
 ```
 
