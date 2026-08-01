@@ -24,6 +24,7 @@
 -> Leche
 -> Boletas
 -> Desodorante
+-> Leche
 
 - 1/2 KG Cebolla
 - Papas
