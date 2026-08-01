@@ -1,6 +1,6 @@
 
 - Flow/ Fibertel: testear linea fija
-- Check mp3 pendrives: Almond | Kingston Yellow
+
 
 
 
