@@ -13,7 +13,7 @@
 
 - Stripes
 
-- All Quiet On The Western Front
+
 ```
 
 **SAB:**
