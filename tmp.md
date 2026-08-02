@@ -11,7 +11,7 @@
 -> WiFi USB
 -> Ethernet cable
 
--> Leche
+
 
 
 -> Leche
