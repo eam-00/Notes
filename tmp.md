@@ -15,8 +15,6 @@
 
 
 
-
-
 - 1/2 KG Cebolla
 - Papas
 
