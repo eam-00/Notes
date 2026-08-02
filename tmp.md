@@ -12,7 +12,7 @@
 -> Ethernet cable
 
 -> Leche
--> Boletas
+
 
 -> Leche
 -> Cerveza
