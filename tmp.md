@@ -16,7 +16,7 @@
 
 
 
-- Papas
+
 
 
 - Panceta (1 centimetro y medio de grosor)
