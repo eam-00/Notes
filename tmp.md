@@ -527,7 +527,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 Carre:
 -----
-Bolsitas | Choco | Cif en Gel | Cereales | Leche | Espinaca Congelada | 
+Bolsitas |  | Cif en Gel | Cereales | Leche | Espinaca Congelada | 
 - Havanna:  | 
 
 
