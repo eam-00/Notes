@@ -19,7 +19,7 @@
 
 
 
-- Panceta (1 centimetro y medio de grosor)
+
 
 - 1/4 J
 
