@@ -31,7 +31,7 @@
 ```
 -> Guiso
 -> Carne
--> Jamon/ Queso en fetas
+
 
 ```
 ```
