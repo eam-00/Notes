@@ -17,7 +17,7 @@
 -> Esponja de metal vieja
 
 El Bocado:
-
+          - 1/2 KG Muzarella
 
 
 
