@@ -6,7 +6,7 @@
 **MIE:**
 ```
 
-- LC
+
 
 - Laundry
 - The Big C
