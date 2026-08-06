@@ -12,7 +12,7 @@
 ```
 
 - Expensas
-- - CB
+- CB
 
 
 **SAB:**
