@@ -9,7 +9,7 @@
 
 
 - Laundry
-- The Big C
+
 ```
 
 
