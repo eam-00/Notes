@@ -20,6 +20,7 @@
 
 El Bocado:
           - 1/2 KG Muzarella
+          - 1/4 J
 
 
 
