@@ -6,7 +6,7 @@
 **JUE:**
 ```
 - FEMEDICA
-- MetroGas
+
 - Laundry
 
 - Batts
