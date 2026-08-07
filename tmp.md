@@ -5,7 +5,7 @@
 
 **JUE:**
 ```
-- FEMEDICA
+
 
 - Laundry
 
