@@ -11,6 +11,7 @@
 - PF
 - Plantillas
 - CB
+- x201t: setup bar
 - TRRTs -> USB
 
 
