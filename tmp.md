@@ -9,7 +9,7 @@
 **VIE:**
 - PF
 - Expensas
-- Plpantillas
+- Plantillas
 - CB
 - TRRTs -> USB
 
