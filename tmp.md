@@ -9,7 +9,7 @@
 
 
 
-- Batts
+
 - TRRTs -> USB
 
 ```
