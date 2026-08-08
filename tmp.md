@@ -12,7 +12,7 @@
 
 
 
-- Limpiar B
+
 - TRRTs -> USB
 
 
