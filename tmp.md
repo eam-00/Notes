@@ -24,6 +24,7 @@
 -> Cerveza
 -> Titas
 -> Rodesias
+-> Pan de Hambuguesas
 
 El Bocado:
           - 1/2 KG Muzarella
