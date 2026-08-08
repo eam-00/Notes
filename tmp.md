@@ -22,6 +22,7 @@
 -> Leche
 -> Tupper
 -> Cerveza
+-> Titas
 
 El Bocado:
           - 1/2 KG Muzarella
