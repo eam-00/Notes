@@ -10,7 +10,7 @@
 
 - PF
 - Plantillas
-- CB
+
 - x201t: setup bar
 - Limpiar B
 - TRRTs -> USB
