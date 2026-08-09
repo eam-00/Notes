@@ -17,7 +17,7 @@
 **SAB:**
 ```
 -> Esponja de metal vieja
--> Leche
+
 -> Tupper
 
 
