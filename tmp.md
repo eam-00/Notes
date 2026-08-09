@@ -31,7 +31,7 @@ El Bocado:
           - 1/4 Q
 
 - Vino
-- Yogurt
+
 
 
 
