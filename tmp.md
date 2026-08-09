@@ -19,7 +19,7 @@
 -> Esponja de metal vieja
 -> Leche
 -> Tupper
--> Cerveza
+
 -> Titas
 -> Rodesias
 -> Pan de Hambuguesas
