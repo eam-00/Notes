@@ -5,7 +5,7 @@
 **MAR:**
 ```
 - Check Havanna French
-Pinto -> $
+- Pinto -> $
 - M:
     Tuppers
     Laundry
