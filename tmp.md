@@ -532,7 +532,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 Carre:
 -----
-Bolsitas | Pan de Hamburguesas con Papas | Cif en Gel | P. Higienico | P. Cocina | Espinaca Congelada | Fritolin | 
+Bolsitas | Pan de Hamburguesas con Papas | Cif en Gel | P. Higienico | P. Cocina | Espinaca Congelada | Fritolin | Espopnja Metal
 - Havanna:  | 
 
 
