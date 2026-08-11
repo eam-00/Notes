@@ -2,7 +2,7 @@
 - Flow/ Fibertel: testear linea fija
 
 
-MAR:
+**MAR:**
 ```
 Check Havanna French
 Pinto -> $
