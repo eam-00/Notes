@@ -11,7 +11,7 @@
 ```
 
 
-- Pinto -> $
+
 - M:
 
     Laundry
