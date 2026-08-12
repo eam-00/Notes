@@ -10,7 +10,7 @@
 **MAR:**
 ```
 
-- Check Havanna French
+
 - Pinto -> $
 - M:
 
