@@ -13,7 +13,7 @@
 - Check Havanna French
 - Pinto -> $
 - M:
-    Tuppers
+
     Laundry
 
 ```
