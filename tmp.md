@@ -5,6 +5,7 @@
 ```
 - PF
 - LC
+- Laundry
 ```
 
 
