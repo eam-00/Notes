@@ -1,7 +1,7 @@
 
 - Flow/ Fibertel: testear linea fija
 
-**MIE:**
+
 ```
 - PF
 
