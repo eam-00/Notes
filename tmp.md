@@ -4,7 +4,7 @@
 **MIE:**
 ```
 - PF
-- LC
+
 - Laundry
 ```
 
