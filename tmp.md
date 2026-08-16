@@ -20,7 +20,7 @@
 
 **SAB:**
 ```
--> TC
+
 -> Esponja de metal vieja
 -> Fritolin
 -> Yellow Legal Pads
