@@ -24,7 +24,7 @@
 -> Esponja de metal vieja
 
 -> Yellow Legal Pads
--> Coquitas
+
 -> Cerveza
 
 -> Leche
