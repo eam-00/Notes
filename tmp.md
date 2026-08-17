@@ -5,6 +5,7 @@
 ```
 -> Chow Mein
 -> Queso en Fetas
+-> Panqueques
 -> Separadores
 - Guano off
 - Unfreeze bread
