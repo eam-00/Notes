@@ -527,7 +527,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 Carre:
 -----
-Bolsitas | | Cif en Gel | | P. Cocina | | Fritolin | Espopnja Metal
+Bolsitas | | Cif en Gel | | | | Fritolin | Espopnja Metal
 - Havanna:  | 
 
 
