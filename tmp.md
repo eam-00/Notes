@@ -4,7 +4,7 @@
 **LUN:**
 ```
 
--> Queso en Fetas
+
 -> Panqueques
 -> Separadores
 - Guano off
