@@ -3,7 +3,7 @@
 
 **LUN:**
 ```
--> Chow Mein
+
 -> Queso en Fetas
 -> Panqueques
 -> Separadores
