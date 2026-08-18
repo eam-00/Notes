@@ -5,7 +5,7 @@
 ```
 
 
--> Panqueques
+
 -> Separadores
 - Guano off
 
