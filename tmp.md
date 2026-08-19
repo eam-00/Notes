@@ -19,7 +19,6 @@
 ```
 
 - Batts
-- LC
 - Boot mbp-01
 
 
