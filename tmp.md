@@ -19,7 +19,7 @@
 ```
 
 - Batts
--> Panqueques
+
 -> Separadores
 ```
 **SAB:**
