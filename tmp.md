@@ -3,8 +3,7 @@
 
 **JUE:**
 ```
-- Batts:
-       
+- Batts    
 - Boot mbp-01
 
 ```
