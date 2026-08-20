@@ -6,6 +6,7 @@
 - M
 - L
 - RP
+- A
 
 - Batts    
 - Boot mbp-01
