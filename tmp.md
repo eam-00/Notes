@@ -8,7 +8,6 @@ VIE:
 - Compras
 
 
-**JUE:**
 ```
 
 
