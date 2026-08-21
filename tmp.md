@@ -4,6 +4,7 @@
 VIE:
 - CB
 - Cerveza
+- Palta
 - Compras
 
 
