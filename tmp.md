@@ -8,12 +8,7 @@ VIE:
 - Compras
 
 
-```
 
-
-
-
-```
 **SAB:**
 ```
 -> Sneakers
