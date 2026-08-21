@@ -3,6 +3,7 @@
 
 VIE:
 - CB
+- Cerveza
 - Compras
 
 
