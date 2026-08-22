@@ -510,7 +510,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 Carre:
 -----
-Bolsitas | Agua | Cif en Gel | Pan Hambuguesas | | | | Espopnja Metal
+Bolsitas | | Cif en Gel | Pan Hambuguesas | | | | Espopnja Metal
 - Havanna:  | 
 
 
