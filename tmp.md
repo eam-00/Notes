@@ -10,7 +10,7 @@
 -> Tuppers
 -> Chocolinas
 -> Cepillo de Dientes
--> Leche
+
 -> Marcadores Resaltadores
 
 ```
