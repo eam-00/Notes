@@ -9,7 +9,7 @@
 -> Sneakers
 
 
--> Cepillo de Dientes
+
 
 -> Marcadores Resaltadores
 
