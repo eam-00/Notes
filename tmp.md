@@ -20,6 +20,7 @@
 -> Chocotorta
 -> Gnoccis
 -> Mandarinas
+-> Tomates
 - Batts:
          - S8
          - S10
