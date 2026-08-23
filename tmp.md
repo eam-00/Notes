@@ -61,7 +61,7 @@ Lexar Negro :: Sandisk
 - Optiplex 755:
                - Install OpenBSD
 - x201t:
-
+        - Test 16 GB RAM
 ```
 
 ```
