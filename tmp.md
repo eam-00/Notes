@@ -7,7 +7,7 @@
 **SAB:**
 ```
 -> Sneakers
--> Tuppers
+
 -> Chocolinas
 -> Cepillo de Dientes
 
