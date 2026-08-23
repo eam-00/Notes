@@ -60,6 +60,8 @@ Lexar Negro :: Sandisk
 ```
 - Optiplex 755:
                - Install OpenBSD
+- x201t:
+
 ```
 
 ```
