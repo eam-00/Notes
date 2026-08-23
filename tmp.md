@@ -8,7 +8,7 @@
 ```
 -> Sneakers
 
--> Chocolinas
+
 -> Cepillo de Dientes
 
 -> Marcadores Resaltadores
