@@ -12,7 +12,7 @@
 -> Cepillo de Dientes
 -> Leche
 -> Marcadores Resaltadores
--> Cerveza Heineken
+
 ```
 
 **LUN:**
