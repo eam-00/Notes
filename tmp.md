@@ -5,7 +5,7 @@
 **LUN:**
 ```
 
-- Tapar Mr. Bife [?]
+
 
 -> Chocotorta
 -> Gnoccis
