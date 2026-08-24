@@ -8,6 +8,7 @@
 -> Gnoccis
 -> Mandarinas
 -> Tomates
+-> Lechuga
 - Batts:
          - S8
          - S10
