@@ -4,7 +4,7 @@
 
 **LUN:**
 ```
-- Guardar maderas
+
 - Tapar Mr. Bife [?]
 
 -> Chocotorta
