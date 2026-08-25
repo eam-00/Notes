@@ -2,7 +2,6 @@
 - Flow/ Fibertel: testear linea fija
 
 
-**LUN:**
 ```
 
 
