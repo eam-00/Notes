@@ -6,7 +6,7 @@
 ```
 -> Chocotorta
 
--> Mandarinas
+
 -> Tomates
 -> Lechuga
 
