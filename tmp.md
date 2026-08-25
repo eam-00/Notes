@@ -5,7 +5,7 @@
 **LUN:**
 ```
 -> Chocotorta
--> Gnoccis
+
 -> Mandarinas
 -> Tomates
 -> Lechuga
