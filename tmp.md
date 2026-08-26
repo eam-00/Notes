@@ -2,20 +2,8 @@
 - Flow/ Fibertel: testear linea fija
 
 
-```
 
-
-
-
-
-
-
-
-
-
-```
-
-MAR:
+**MAR:**
 ```
 - Batts
 
