@@ -6,7 +6,7 @@
 
 ```
 - M:
-    - Beer
+    <- Beer
     - Radios
     - Diarios
 - CB
