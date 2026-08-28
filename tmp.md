@@ -25,6 +25,7 @@ El Bocado:
 
 Verduleria:
            - Papas
+           - Lechuga
 ```
 
 
