@@ -5,7 +5,7 @@
 
 ```
 - M:
-    <- Beer
+
     -> Radios
     - Diarios: setup payment
 - CB
