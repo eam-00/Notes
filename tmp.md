@@ -7,7 +7,7 @@
 - M:
 
     -> Radios
-    - Diarios: setup payment
+
 - CB
 ```
 
