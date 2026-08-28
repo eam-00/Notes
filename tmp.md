@@ -8,6 +8,7 @@
 - M:
     - Beer
     - Radios
+    - Diarios
 - CB
 
 
