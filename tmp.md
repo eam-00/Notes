@@ -19,6 +19,7 @@
 -> Queso Crema
            -> Papas
 -> Leche
+-> Cerveza
 
 El Bocado:
             - Oferta Suprema de Pollo
