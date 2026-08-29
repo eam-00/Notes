@@ -17,7 +17,7 @@
 -> Tuppers
 -> Lechuga
 -> Queso Crema
-           -> Papas
+-> Papas
 -> Leche
 -> Cerveza
 
