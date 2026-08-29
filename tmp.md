@@ -15,7 +15,7 @@
 **SAB**:
 ```
 -> Tuppers
-           -> Lechuga
+-> Lechuga
 -> Queso Crema
            -> Papas
 -> Leche
