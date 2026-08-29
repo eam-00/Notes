@@ -18,6 +18,7 @@
            -> Lechuga
 -> Queso Crema
            -> Papas
+-> Leche
 
 El Bocado:
             - Oferta Suprema de Pollo
