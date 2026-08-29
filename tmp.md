@@ -25,7 +25,6 @@ El Bocado:
 **LUN:**
 
 ```
-
 - Batt:
        - Kindle
 ```
