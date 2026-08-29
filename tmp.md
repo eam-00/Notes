@@ -16,6 +16,7 @@
 ```
 -> Tuppers
 -> Queso Crema
+           -> Papas
 
 El Bocado:
             - Oferta Suprema de Pollo
@@ -23,7 +24,7 @@ El Bocado:
             - 1/4 J
 
 
-           - Papas
+
            - Lechuga
 ```
 
