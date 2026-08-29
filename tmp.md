@@ -25,7 +25,7 @@ El Bocado:
 
 
 
-           - Lechuga
+           -> Lechuga
 ```
 
 
