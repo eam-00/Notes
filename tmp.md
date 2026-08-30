@@ -8,7 +8,7 @@
 ```
 -> Tuppers
 -> Lechuga
--> Queso Crema
+
 -> Papas
 -> Leche
 -> Cerveza
