@@ -18,7 +18,7 @@ El Bocado:
             - 1/4 Q
             - 1/4 J
 ```
-DOM:
+**DOM:**
 ```
 - Backup Lappie
 ```
