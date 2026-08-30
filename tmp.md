@@ -10,7 +10,6 @@
 
 
 -> Papas
--> Leche
 -> Cerveza
 
 El Bocado:
