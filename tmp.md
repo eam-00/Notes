@@ -17,7 +17,6 @@ El Bocado:
             - Oferta Suprema de Pollo
             - 1/4 Q
             - 1/4 J
-
 ```
 **LUN:**
 
