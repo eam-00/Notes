@@ -21,6 +21,7 @@ El Bocado:
 **LUN:**
 
 ```
+-> Pechugas de pollo
 -> Pizza
 - TRRTs
 - Batt:
