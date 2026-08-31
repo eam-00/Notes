@@ -13,6 +13,7 @@
 
 ```
 - Comida Michis [?]
+- ATM
 - Guardar maderas
 - PF
 -> Pechugas de pollo
