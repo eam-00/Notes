@@ -12,6 +12,7 @@
 **LUN:**
 
 ```
+- Comida Michis [?]
 - Guardar maderas
 - PF
 -> Pechugas de pollo
