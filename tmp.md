@@ -11,7 +11,7 @@
 ```
 
 - ATM
-- Guardar maderas
+
 - PF
 -> Pechugas de pollo
 -> Pizza
