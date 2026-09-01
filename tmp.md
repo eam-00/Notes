@@ -24,7 +24,7 @@
 ```
 - Batt:
        - Kindle
-- Print Exp
+
 ```
 **SAB:**
 ```
