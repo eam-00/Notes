@@ -13,7 +13,6 @@
 - ATM
 
 
--> Pechugas de pollo
 -> Pizza
 -> Lechuga
 -> Queso En Fetas
