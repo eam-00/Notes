@@ -9,7 +9,7 @@
 **LUN:**
 
 ```
-- Comida Michis [?]
+
 - ATM
 - Guardar maderas
 - PF
