@@ -516,7 +516,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 Carre:
 -----
-Bolsitas | | Cif en Gel | Leche | Choco | | | 
+Bolsitas | | Cif en Gel | Leche | Choco | Mani Honey Roasted | | 
 - Havanna:  | 
 
 
