@@ -26,7 +26,7 @@
        - Kindle
 
 ```
-SAB:
+**SAB:**
 ```
 - PowerBank
 
