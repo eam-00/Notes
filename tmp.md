@@ -14,7 +14,7 @@
 
 
 -> Pizza
--> Lechuga
+
 -> Queso En Fetas
 
 
