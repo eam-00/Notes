@@ -5,7 +5,6 @@
 
 ```
 - M:
-    -> Fundas
     -> Laundry
 - Batt:
        - Kindle
