@@ -3,7 +3,6 @@
 
 
 
-
 ```
 - Batt:
        - Kindle
