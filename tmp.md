@@ -21,7 +21,7 @@
 
 La Bolognesa:
               - 1 Pollo Verdura
-          - 1 Caja Ricotta
+              - 1 Caja Ricotta
 
 - PowerBank
 
