@@ -20,6 +20,7 @@
 -> Cheddar
 
 El Bocado:
+          - 1 Caja Ricotta
 
 - PowerBank
 
