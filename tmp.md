@@ -5,7 +5,6 @@
 
 ```
 - M:
-    -> Laundry
 - Batt:
        - Kindle
 
