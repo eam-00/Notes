@@ -19,7 +19,7 @@
 ```
 -> Cheddar
 
-El Bocado:
+La Bolognesa:
           - 1 Pollo Verdura
           - 1 Caja Ricotta
 
