@@ -51,7 +51,7 @@ Lexar Negro :: Sandisk
     - BDU [?]
     - M-65
 ```
-- Optiplex 755:
+
 
 - x201t:
         - Test 16 GB RAM
