@@ -5,7 +5,7 @@
 
 ```
 - Batt:
-       - Kindle
+
 ```
 
 **VIE:**
