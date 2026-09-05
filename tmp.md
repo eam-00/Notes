@@ -52,7 +52,6 @@ Lexar Negro :: Sandisk
     - M-65
 ```
 
-
 - x201t:
         - Test 16 GB RAM
 ```
