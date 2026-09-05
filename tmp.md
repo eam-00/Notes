@@ -26,6 +26,7 @@
 -> Cheddar
 -> Leches
 -> Pepsis
+-> Cervezas
 
 La Bolognesa:
               - 1 Pollo Verdura
