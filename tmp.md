@@ -9,7 +9,7 @@
 
 -> Leches
 -> Pepsis
--> Cervezas
+
 -> Tupper
 
 La Bolognesa:
