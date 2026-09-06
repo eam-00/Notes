@@ -13,7 +13,7 @@
 -> Tupper
 
 La Bolognesa:
-              - 1 Pollo Verdura
+
 
 El Bocado:
           - 1/4 J
