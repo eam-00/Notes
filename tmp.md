@@ -12,7 +12,7 @@
 
 -> Tupper
 
-La Bolognesa:
+
 
 
 El Bocado:
