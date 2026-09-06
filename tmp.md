@@ -6,7 +6,7 @@
 **SAB:**
 ```
 
--> Cheddar
+
 -> Leches
 -> Pepsis
 -> Cervezas
