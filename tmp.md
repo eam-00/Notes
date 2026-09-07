@@ -4,6 +4,13 @@
 
 LUN:
 
+    - Guardar maderas
+    - Santi
+    -> Chow Mein
+    - Updates:
+              S8 / S10
+    - Batts:
+              S8 / S10
 
 
 https://secure.bancocolumbia.com.ar/web/10111-Cupon-de-Pago.note.aspx  
