@@ -4,25 +4,6 @@
 
 
 
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
 
 https://secure.bancocolumbia.com.ar/web/10111-Cupon-de-Pago.note.aspx  
 https://secure.bancocolumbia.com.ar/web/Cupon-de-pago-10368.note.aspx  
