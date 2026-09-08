@@ -7,7 +7,6 @@
     - Guardar maderas
     - Santi
 
-    -> Queso En Fetas
     - Updates:
               S8 / S10
     - Batts:
