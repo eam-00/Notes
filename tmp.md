@@ -4,7 +4,6 @@
 
 **LUN:**
 
-    - Guardar maderas
     - Santi
 
     - Updates:
