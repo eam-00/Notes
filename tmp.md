@@ -6,8 +6,7 @@
 
     - Santi
 
-    - Updates:
-              S8 / S10
+
     - Batts:
               S8 / S10
 
