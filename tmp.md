@@ -5,7 +5,7 @@
 
 MIE:
 ```
-opti-755 -> HDD -> t410-2
+opti-755 -> HDD -> t410-2 -> OpenBSD
 ```
 
 
