@@ -5,7 +5,7 @@
 
 MIE:
 ```
-opti-755 -> HDD
+opti-755 -> HDD -> t410-2
 ```
 
 
