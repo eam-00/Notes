@@ -14,7 +14,6 @@ opti-755 -> HDD -> t410-2 -> OpenBSD
 - Salchichas
 - Honey Roasted
 - Jabones Liquidos
-
 ```
 
 https://secure.bancocolumbia.com.ar/web/10111-Cupon-de-Pago.note.aspx  
