@@ -6,7 +6,7 @@
 
 **JUE:**
 ```
-- Lavar ropa
+
 - Farmacia
 - Laundry
 - Carrefour
