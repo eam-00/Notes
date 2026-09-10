@@ -9,6 +9,7 @@ opti-755 -> HDD -> t410-2 -> OpenBSD
 **JUE:**
 ```
 - Farmacia
+- Laundry
 ```
 
 
