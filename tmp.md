@@ -1,7 +1,6 @@
 
 - Flow/ Fibertel: testear linea fija
 
-
 **MIE:**
 ```
 opti-755 -> HDD -> t410-2 -> OpenBSD
