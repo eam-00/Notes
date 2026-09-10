@@ -26,7 +26,7 @@
 - Jabones Liquidos
 ```
 
-LUN:
+**LUN:**
 ```
 - Print TC
 
