@@ -25,7 +25,6 @@ USB SanDisk     ::	Almond
 USB KINGSTON    ::	Yellow
 ```
 
-
 **Docs::Linux**
 ```
 Lexar Negro :: Lexar Blanco
