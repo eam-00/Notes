@@ -8,7 +8,7 @@
 ```
 
 - Farmacia
-- Laundry
+
 - Carrefour
 ```
 
