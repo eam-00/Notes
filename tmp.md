@@ -7,7 +7,7 @@
 **JUE:**
 ```
 
-- Farmacia
+
 
 - Carrefour
 ```
