@@ -29,6 +29,7 @@
 - Honey Roasted
 - Jabones Liquidos
 - Leche
+- 2 Cervezas Heineken
 ```
 
 **LUN:**
