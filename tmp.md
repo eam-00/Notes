@@ -12,7 +12,7 @@
    - PF
    - M:
        - Dia Del Maestro
-       - Telefono
+
        -> Beer
    - Test FPT -> Debian
 ```
