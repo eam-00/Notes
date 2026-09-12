@@ -28,6 +28,7 @@
 - Salchichas
 - Honey Roasted
 - Jabones Liquidos
+- Leche
 ```
 
 **LUN:**
