@@ -39,6 +39,8 @@
 - Print:
          - TC
          - Gas
+Batts:
+
 - x220i:
          - x220 [Small]
 
