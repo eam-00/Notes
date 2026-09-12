@@ -26,6 +26,7 @@
 - Miel
 - Salchichas
 - Hamburguesas
+- Lechuga
 - Honey Roasted
 - Jabones Liquidos
 - Leche
