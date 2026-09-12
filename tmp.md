@@ -29,6 +29,7 @@
 - Lechuga
 - Honey Roasted
 - Jabones Liquidos
+- Papas
 - Leche
 - 2 Cervezas Heineken
 ```
