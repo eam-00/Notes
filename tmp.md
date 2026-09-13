@@ -24,6 +24,7 @@
 **LUN:**
 ```
 -> Milanesitas
+-> Lechuga
 - Print:
          - TC
          - Gas
