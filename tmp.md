@@ -11,9 +11,6 @@
 
 **SAB:**
 ```
-- Coquitas
-- Leche
-- Miel
 
 - Hamburguesas
 - Lechuga
