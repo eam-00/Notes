@@ -14,7 +14,7 @@
 
 - Hamburguesas
 - Lechuga
-- Honey Roasted
+
 - Jabones Liquidos
 - Papas
 - Leche
