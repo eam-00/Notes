@@ -18,7 +18,7 @@
 - Jabones Liquidos
 - Papas
 - Leche
-- 2 Cervezas Heineken
+
 ```
 
 **LUN:**
