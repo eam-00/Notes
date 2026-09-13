@@ -16,7 +16,7 @@
 - Lechuga
 
 
-- Papas
+
 - Leche
 
 ```
