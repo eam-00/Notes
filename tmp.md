@@ -15,7 +15,7 @@
 - Hamburguesas
 - Lechuga
 
-- Jabones Liquidos
+
 - Papas
 - Leche
 
