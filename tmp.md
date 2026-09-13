@@ -23,6 +23,7 @@
 
 **LUN:**
 ```
+-> Bolsas de compras
 -> Milanesitas
 -> Lechuga
 -> Guantes de Goma
