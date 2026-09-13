@@ -26,6 +26,7 @@
 
 **LUN:**
 ```
+-> Milanesitas
 - Print:
          - TC
          - Gas
