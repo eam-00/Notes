@@ -14,7 +14,7 @@
 - Coquitas
 - Leche
 - Miel
-- Salchichas
+
 - Hamburguesas
 - Lechuga
 - Honey Roasted
