@@ -14,6 +14,7 @@
 
 **LUN:**
 ```
+- Guardar maderas
 -> Queso en Fetas
 -> Bolsas de compras
 -> Milanesitas
