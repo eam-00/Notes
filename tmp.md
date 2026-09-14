@@ -26,6 +26,7 @@ Batts:
 
 - x220i:
          - x220 [Small]
+Updates:
 - S8
 - S10
 
