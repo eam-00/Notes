@@ -21,7 +21,7 @@
 -> Lechuga
 -> Guantes de Goma
 
-- Print:
+
 
 
 Batts:
