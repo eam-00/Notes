@@ -22,7 +22,7 @@
 -> Guantes de Goma
 
 - Print:
-         - TC
+
          - Gas
 Batts:
 
