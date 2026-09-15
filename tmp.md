@@ -26,7 +26,7 @@
 
 Batts:
 
-- x220i:
+
 
 Updates:
 - S8
