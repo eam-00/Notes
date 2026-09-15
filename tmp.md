@@ -23,7 +23,7 @@
 
 - Print:
 
-         - Gas
+
 Batts:
 
 - x220i:
