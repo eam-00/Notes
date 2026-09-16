@@ -26,7 +26,7 @@
 
 -> Queso en Fetas
 
--> Milanesitas
+
 -> Lechuga
 -> Guantes de Goma
 
