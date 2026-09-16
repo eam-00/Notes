@@ -31,7 +31,7 @@ JUE:
 
 
 -> Lechuga
--> Guantes de Goma
+
 
 
 
