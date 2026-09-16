@@ -25,7 +25,7 @@
 ```
 
 -> Queso en Fetas
--> Bolsas de compras
+
 -> Milanesitas
 -> Lechuga
 -> Guantes de Goma
