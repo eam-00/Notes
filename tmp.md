@@ -27,7 +27,6 @@ JUE:
 **LUN:**
 ```
 
--> Queso en Fetas
 
 
 -> Lechuga
