@@ -9,6 +9,7 @@
 ```
 - PF
 - CB
+- Laundry
 ```
 
 SAB:
