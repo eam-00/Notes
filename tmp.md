@@ -18,7 +18,7 @@
 
 **SAB:**
 ```
--> Boleta TC
+-> Boletas
 -> Leche
 ```
 
