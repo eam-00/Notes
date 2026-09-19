@@ -23,6 +23,7 @@
 -> Pan Hambuguesas
 
 - El Bocado:
+            1/4 KG J
 
 - Demilune:
            - Pan
