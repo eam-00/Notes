@@ -12,7 +12,6 @@
 -> 1 Heineken
 
 -> Leche
--> Manies Honey Roasted
 -> Titas
 -> Queso Rallado
 -> Muzarella
