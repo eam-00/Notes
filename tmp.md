@@ -28,6 +28,7 @@
 
 **LUN:**
 ```
+- Papas
 -> Boletas para pagar
 -> Bolsas de compras
 -> Guiso
