@@ -23,7 +23,7 @@
             - 1/4 Q
 
 - Demilune:
-           - Pan
+
 ```
 
 **LUN:**
