@@ -10,7 +10,7 @@
 -> Tupper
 -> Boletas
 -> 1 Heineken
--> 1 Champagne en Lata
+
 -> Leche
 -> Manies Honey Roasted
 -> Titas
