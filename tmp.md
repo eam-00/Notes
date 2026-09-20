@@ -27,7 +27,7 @@
            - Pan
 ```
 
-LUN:
+**LUN:**
 ```
 -> Bolsas de compras
 -> Guiso
