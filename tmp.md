@@ -34,6 +34,7 @@
 -> Boletas para pagar
 -> Bolsas de compras
 -> Guiso
+-> Panqueques
 - Test: t410
 - Batts:
         - S10
