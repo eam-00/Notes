@@ -17,6 +17,7 @@
 -> Bolsas de compras
 -> Guiso
 -> Panqueques
+-> Papas al horno
 - Test: t410
 - Batts:
         - S10
