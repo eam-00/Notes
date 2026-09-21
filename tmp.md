@@ -20,6 +20,7 @@
 - Test: t410
 - Batts:
         - S10
+        - Kindle Vieja
 
 ```
 
