@@ -13,8 +13,10 @@
 - Papas
 - Mapple
 
--> Boletas para pagar
 -> Bolsas de compras
+-> Ropa lavada
+-> Boletas para pagar
+
 -> Guiso
 -> Panqueques
 -> Papas al horno
