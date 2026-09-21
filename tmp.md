@@ -21,6 +21,7 @@
 - Batts:
         - S10
         - Kindle Vieja
+                      - sideload mobi
 
 ```
 
