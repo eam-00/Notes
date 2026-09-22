@@ -14,7 +14,7 @@ MAR:
 **LUN:**
 ```
 - Papas
-- Mapple
+
 
 -> Bolsas de compras
 -> Ropa lavada
