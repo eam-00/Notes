@@ -29,7 +29,7 @@ MAR:
 
 
         - Kindle Vieja
-                      - sideload mobi
+
 
 ```
 
