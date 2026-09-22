@@ -13,7 +13,7 @@ MAR:
 
 **LUN:**
 ```
-- Papas
+
 
 
 -> Bolsas de compras
