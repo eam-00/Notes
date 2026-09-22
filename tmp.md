@@ -27,7 +27,7 @@ MAR:
 -> Queso En Fetas
 - Test: t410
 
-        - S10
+
         - Kindle Vieja
                       - sideload mobi
 
