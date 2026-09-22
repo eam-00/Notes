@@ -28,7 +28,6 @@ MAR:
 
 
 
-        - Kindle Vieja
 
 
 ```
