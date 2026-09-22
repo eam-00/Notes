@@ -21,7 +21,7 @@ MAR:
 -> Boletas para pagar
 
 -> Guiso
--> Empanadas
+
 -> Panqueques
 -> Papas al horno
 
