@@ -17,7 +17,7 @@ MAR:
 
 
 -> Bolsas de compras
--> Ropa lavada
+
 -> Boletas para pagar
 
 -> Guiso
