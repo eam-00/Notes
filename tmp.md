@@ -18,7 +18,7 @@ MAR:
 
 -> Bolsas de compras
 
--> Boletas para pagar
+
 
 -> Guiso
 
