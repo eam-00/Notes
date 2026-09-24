@@ -7,6 +7,7 @@
 - RP
 - Carre
 - Lavanderia
+- Pilas AA
 - Batts:
 
 
