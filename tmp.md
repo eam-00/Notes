@@ -6,6 +6,7 @@
 - ATM
 - RP
 - Carre
+- Lavanderia
 - Batts:
 
 
