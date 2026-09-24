@@ -4,6 +4,7 @@
 **JUE:**
 ```
 - ATM
+- M
 - RP
 - Carre
 - Lavanderia
