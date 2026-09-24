@@ -5,9 +5,10 @@
 ```
 - ATM
 - M
+- Lavanderia
 - RP
 - Carre
-- Lavanderia
+
 - Pilas AA
 - Batts:
 
