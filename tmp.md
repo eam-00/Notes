@@ -5,7 +5,6 @@
 ```
 - ATM
 - M
-- Lavanderia
 - Carre
 - RP
 
