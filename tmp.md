@@ -7,7 +7,7 @@ VIE:
 - Pilas AA
 ```
 
-**JUE:**
+
 ```
 - ATM
 - M
