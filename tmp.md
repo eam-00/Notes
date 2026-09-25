@@ -18,7 +18,8 @@
 
 - Batts:
         - mbp-00
-        -G20
+        - G20
+        - g22
 - TRRTs:
         - cp -> USB
 
