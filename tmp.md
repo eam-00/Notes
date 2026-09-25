@@ -19,8 +19,8 @@
 - Batts:
         - mbp-00
 - TRRTs:
-        - USB
-        - Backups USB
+        - cp -> USB
+
 
 ```
 
