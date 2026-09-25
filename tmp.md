@@ -14,7 +14,7 @@ VIE:
 - RP
 
 
-- Pilas AA
+
 - Batts:
 
 
