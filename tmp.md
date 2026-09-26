@@ -3,7 +3,6 @@
 
 **VIE:**
 ```
-
 - Pilas AA
 
 
@@ -29,7 +28,6 @@
     -> Tuppers
     -> Leche
     -> Cereales
-
 ```
 LUN:
 ```
