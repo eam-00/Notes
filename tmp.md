@@ -20,6 +20,7 @@ LUN:
     - Celular despertador
 - TRRT
     - Ver MicroSD Motorola Moto g22
+    - Unfreeze tarta
 - Batts:
         - mbp-00
 ```
