@@ -12,6 +12,7 @@ LUN:
     - Yogurt descremado vainilla
     - Papas
     -> Camara bicicleta
+    -> Bolsas de compras
 
 - TRRT
 - Batts:
