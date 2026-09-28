@@ -15,7 +15,7 @@ LUN:
     -> Bolsas de compras
     -> Pizza
     -> Milanesas
-    -> Imprimir boletas servicios
+
 
     - Celular despertador
 - TRRT
