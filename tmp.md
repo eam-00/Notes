@@ -17,6 +17,7 @@ LUN:
     -> Milanesas
     -> Imprimir boletas servicios
 
+    - Celular despertador
 - TRRT
     - Ver MicroSD Motorola Moto g22
 - Batts:
