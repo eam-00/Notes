@@ -11,6 +11,7 @@ LUN:
     - Comida michis
     - Yogurt descremado vainilla
     - Papas
+    -> Imprimir boletas servicios
     -> Camara bicicleta
     -> Bolsas de compras
     -> Pizza
