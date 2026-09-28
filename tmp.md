@@ -10,6 +10,7 @@ LUN:
     - PFs
     - Comida michis
     - Yogurt descremado vainilla
+    - Papas
 
 - TRRT
 - Batts:
