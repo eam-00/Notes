@@ -11,6 +11,7 @@ LUN:
     - Comida michis
     - Yogurt descremado vainilla
     - Papas
+    -> Camara bicicleta
 
 - TRRT
 - Batts:
