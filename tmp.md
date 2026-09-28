@@ -16,6 +16,7 @@ LUN:
     -> Bolsas de compras
     -> Pizza
     -> Milanesas
+-> Omelette
 
 
     - Celular despertador
