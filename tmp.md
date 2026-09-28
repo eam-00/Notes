@@ -2,22 +2,7 @@
 - Flow/ Fibertel: testear linea fija
 
 
-```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
 
 **SAB:**
 ```
