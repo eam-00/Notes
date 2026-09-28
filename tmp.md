@@ -7,7 +7,7 @@
 **SAB:**
 ```
     -> Boletas
-    -> 2 Latas Champagne
+
     -> Tuppers
     -> Leche
     -> Cereales
