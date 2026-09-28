@@ -18,6 +18,7 @@ LUN:
     -> Imprimir boletas servicios
 
 - TRRT
+    - Ver MicroSD Motorola Moto g22
 - Batts:
         - mbp-00
 ```
