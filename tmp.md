@@ -13,8 +13,6 @@ LUN:
 ```
 
 
-    - Papas
-    -> Imprimir boletas servicios
     -> Camara bicicleta
     -> Bolsas de compras
     -> Pizza
