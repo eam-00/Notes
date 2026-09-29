@@ -25,7 +25,7 @@ LUN:
     - Ver MicroSD Motorola Moto g22
     - Unfreeze tarta
 - Batts:
-        - mbp-00
+
 ```
 
 SAB:
