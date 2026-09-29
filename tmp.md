@@ -12,7 +12,6 @@ MAR:
 LUN:
 ```
 
-    - Comida michis
 
     - Papas
     -> Imprimir boletas servicios
