@@ -24,7 +24,7 @@ LUN:
 - TRRT
     - Ver MicroSD Motorola Moto g22
     - Unfreeze tarta
-- Batts:
+
 
 ```
 
