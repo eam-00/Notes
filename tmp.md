@@ -15,7 +15,7 @@ LUN:
 
     -> Camara bicicleta
     -> Bolsas de compras
-    -> Pizza
+
 
 
 
