@@ -28,6 +28,7 @@
 -> Boleta paga
 -> Cheddar
 -> Coquitas
+-> Chocolinas
 ```
 
 
