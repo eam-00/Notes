@@ -3,7 +3,7 @@
 
 **JUE**:
 ```
-- Unfreeze tarta
+- Unfreeze tarta [?]
 - ATM
 -> Telefono
 <- Canelones
