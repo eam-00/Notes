@@ -7,6 +7,7 @@
 - ATM
 -> Telefono
 <- Canelones
+- CB
 ```
 
 
