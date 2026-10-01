@@ -6,7 +6,7 @@
 - Unfreeze tarta
 - ATM
 -> Telefono
-<- Canelon
+<- Canelones
 ```
 
 
