@@ -22,7 +22,6 @@
 
 
 
-
     - Ver MicroSD Motorola Moto g22
 
 
