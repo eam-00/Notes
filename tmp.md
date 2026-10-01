@@ -5,7 +5,7 @@
 ```
 - Unfreeze tarta
 - ATM
--> Telefon
+-> Telefono
 <- Canelon
 ```
 
