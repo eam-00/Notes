@@ -18,7 +18,6 @@
     -> Bolsas de compras
 
 
-
     - Ver MicroSD Motorola Moto g22
 
 
