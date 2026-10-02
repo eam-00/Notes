@@ -5,7 +5,7 @@
 ```
 - Unfreeze tarta [?]
 - ATM
--> Telefono
+
 <- Canelones
 - CB
 ```
