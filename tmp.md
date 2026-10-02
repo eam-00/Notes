@@ -6,7 +6,7 @@
 - Unfreeze tarta [?]
 - ATM
 
-<- Canelones
+
 - CB
 ```
 
