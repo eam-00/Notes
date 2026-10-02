@@ -21,7 +21,6 @@
 
     - Ver MicroSD Motorola Moto g22
 
-
 ```
 
 **SAB:**
