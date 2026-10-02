@@ -32,6 +32,7 @@
 -> Cerveza
 -> Champagne
 -> Pan Lactal
+-> Yogurts
 ```
 
 
