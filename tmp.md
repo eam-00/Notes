@@ -30,6 +30,7 @@
 -> Coquitas
 -> Chocolinas
 -> Pan Para Hamburguesas
+-> Cerveza
 ```
 
 
