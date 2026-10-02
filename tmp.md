@@ -30,6 +30,7 @@
 -> Chocolinas
 -> Pan Para Hamburguesas
 -> Cerveza
+-> Champagne
 ```
 
 
