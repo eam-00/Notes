@@ -3,7 +3,7 @@
 
 **VIE**:
 ```
-- Unfreeze tarta [?]
+
 - ATM
 - Cervezas
 
