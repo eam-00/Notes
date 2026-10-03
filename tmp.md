@@ -33,6 +33,7 @@
 t410-2:
 ```
 - genmon
+- screenshot
 ```
 
 
