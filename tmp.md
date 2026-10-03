@@ -6,15 +6,7 @@
 
 
 
-```
-    - PF[s]
-    -> Camara bicicleta
-    -> Bolsas de compras
 
-- Unfreeze tarta [?]
-    - Ver MicroSD Motorola Moto g22
-
-```
 
 **SAB:**
 ```
