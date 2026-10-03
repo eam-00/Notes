@@ -7,6 +7,7 @@
 
 
 ```
+    - PF[s]
     -> Camara bicicleta
     -> Bolsas de compras
 
