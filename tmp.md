@@ -13,7 +13,7 @@
 -> Boleta paga
 
 -> Coquitas
--> Chocolinas
+
 -> Pan Para Hamburguesas
 -> Cerveza
 -> Champagne
