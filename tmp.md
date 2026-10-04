@@ -11,7 +11,7 @@
 **SAB:**
 ```
 -> Boleta paga
--> Cheddar
+
 -> Coquitas
 -> Chocolinas
 -> Pan Para Hamburguesas
