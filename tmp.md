@@ -18,7 +18,7 @@
 -> Cerveza
 -> Champagne
 -> Pan Lactal
--> Yogurts
+
 -> Leche
 -> Tuppers
 ```
