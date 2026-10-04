@@ -17,7 +17,7 @@
 -> Pan Para Hamburguesas
 
 -> Champagne
--> Pan Lactal
+
 
 -> Leche
 -> Tuppers
