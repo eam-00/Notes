@@ -34,6 +34,7 @@
 - Ordenar maderas
     -> Camara bicicleta
     -> Bolsas de compras
+    -> Chocotorta
 
 - Unfreeze tarta [?]
     - Ver MicroSD Motorola Moto g22
