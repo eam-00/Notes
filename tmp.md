@@ -15,7 +15,7 @@
 -> Coquitas
 
 -> Pan Para Hamburguesas
--> Cerveza
+
 -> Champagne
 -> Pan Lactal
 
