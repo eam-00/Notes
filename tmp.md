@@ -22,7 +22,7 @@
 -> Leche
 -> Tuppers
 ```
-DOM:
+**DOM**:
 ```
 - Print MetroGas
 - Backup lappie
