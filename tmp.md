@@ -15,7 +15,7 @@
 
 **LUN**:
 ```
-    - PF[s]
+
     - Print MetroGas
     - Ordenar maderas
     -> Camara bicicleta
