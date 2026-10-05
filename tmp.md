@@ -22,6 +22,7 @@
     -> Bolsas de compras
     -> Chocotorta
     -> Pechugas
+    -> Fiambre
 
     - Unfreeze tarta
     - Arreglar anteojos
