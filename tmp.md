@@ -24,6 +24,7 @@
     -> Pechugas
 
     - Unfreeze tarta
+    - Arreglar anteojos
     - MicroSD Motorola Moto g22
 
 ```
