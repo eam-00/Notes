@@ -27,6 +27,10 @@
     - Ver MicroSD Motorola Moto g22
 
 ```
+**x201t**:
+```
+
+```
 
 **t410-2**:
 ```
