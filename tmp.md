@@ -16,8 +16,8 @@
 **LUN**:
 ```
     - PF[s]
-- Print MetroGas
-- Ordenar maderas
+    - Print MetroGas
+    - Ordenar maderas
     -> Camara bicicleta
     -> Bolsas de compras
     -> Chocotorta
