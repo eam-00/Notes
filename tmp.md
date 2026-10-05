@@ -24,7 +24,7 @@
     -> Pechugas
 
 - Unfreeze tarta [?]
-    - Ver MicroSD Motorola Moto g22
+    - MicroSD Motorola Moto g22
 
 ```
 **x201t**:
