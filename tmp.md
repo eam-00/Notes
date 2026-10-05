@@ -521,7 +521,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 Carre:
 -----
-Bolsitas | | Cif en Gel | Leche | Pickles | Cheddar | Coquitas | Miel | 
+Bolsitas | | Cif en Gel | Leche | Pickles |  | Coquitas | Miel | 
 - Havanna:  | 
 
 
