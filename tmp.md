@@ -35,6 +35,7 @@
     -> Camara bicicleta
     -> Bolsas de compras
     -> Chocotorta
+    -> Pechugas
 
 - Unfreeze tarta [?]
     - Ver MicroSD Motorola Moto g22
