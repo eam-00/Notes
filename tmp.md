@@ -21,7 +21,7 @@
     -> Camara bicicleta
     -> Bolsas de compras
     -> Chocotorta
-    -> Pechugas    -> Fiambre
+
 
 
     - Arreglar anteojos
