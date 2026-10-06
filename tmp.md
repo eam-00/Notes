@@ -17,7 +17,7 @@
 ```
 
     - Print MetroGas
-    - Ordenar maderas
+
     -> Camara bicicleta
     -> Bolsas de compras
     -> Chocotorta
