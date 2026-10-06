@@ -20,7 +20,7 @@
 
     -> Camara bicicleta
     -> Bolsas de compras
-    -> Chocotorta
+
 
 
 
