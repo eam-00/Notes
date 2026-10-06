@@ -21,8 +21,7 @@
     -> Camara bicicleta
     -> Bolsas de compras
     -> Chocotorta
-    -> Pechugas
-    -> Fiambre
+    -> Pechugas    -> Fiambre
 
     - Unfreeze tarta
     - Arreglar anteojos
