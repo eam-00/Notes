@@ -16,7 +16,7 @@
 
 ```
 
-    - Print MetroGas
+
 
     -> Camara bicicleta
     -> Bolsas de compras
