@@ -23,7 +23,7 @@
     -> Chocotorta
     -> Pechugas    -> Fiambre
 
-    - Unfreeze tarta
+
     - Arreglar anteojos
     - MicroSD Motorola Moto g22
 
