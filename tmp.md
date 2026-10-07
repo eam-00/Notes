@@ -15,8 +15,7 @@
 
 
 
-    - Arreglar anteojos
-    - MicroSD Motorola Moto g22
+
 
 ```
 **x201t**:
