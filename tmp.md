@@ -18,7 +18,6 @@
     -> Bolsas de compras
 
 
-
 ```
 **x201t**:
 ```
