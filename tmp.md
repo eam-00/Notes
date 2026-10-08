@@ -4,6 +4,7 @@
 ```
     - ATM
     - Laundry
+    - mbp-01 -> batt
     - ChK Webmail
     - MicroSD Motorola Moto g22
 ```
