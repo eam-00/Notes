@@ -16,8 +16,6 @@
 ```
     -> Camara bicicleta
     -> Bolsas de compras
-
-
 ```
 **x201t**:
 ```
