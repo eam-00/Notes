@@ -5,6 +5,7 @@
     - ATM
     - Laundry
     - mbp-01 -> batt
+    - mbp-00 -> m-65
     - ChK Webmail
     - MicroSD Motorola Moto g22
 ```
