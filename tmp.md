@@ -26,7 +26,7 @@
 ```
 Install OpenBSD XFCE:
                      - genmon
-- screenshot
+                     - screenshot
 ```
 
 
