@@ -7,6 +7,8 @@
     - MicroSD Motorola Moto g22
 ```
 
+VIE:
+
 **SAB**:
 ```
 -> Pickles
