@@ -2,7 +2,7 @@
 - Flow/ Fibertel: testear linea fija
 
 ```
-    - Arreglar anteojos
+
     - MicroSD Motorola Moto g22
 ```
 
