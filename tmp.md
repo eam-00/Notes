@@ -24,6 +24,7 @@
 
 **t410-2**:
 ```
+Install OpenBSD XFCE:
 - genmon
 - screenshot
 ```
