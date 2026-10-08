@@ -3,6 +3,7 @@
 
 ```
     - ATM
+    - Laundry
     - ChK Webmail
     - MicroSD Motorola Moto g22
 ```
