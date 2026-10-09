@@ -2,7 +2,7 @@
 - Flow/ Fibertel: testear linea fija
 
 ```
-    - ATM
+
 
     - mbp-01 -> batt
     - mbp-00 -> m-65
