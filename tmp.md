@@ -7,7 +7,7 @@
     - MicroSD Motorola Moto g22
 ```
 
-**VIE**:
+
 ```
 
 
