@@ -10,7 +10,7 @@
 **VIE**:
 ```
 - M:
-    - Medidas
+
     -> Tuppers
     <- Beers
 - CB
