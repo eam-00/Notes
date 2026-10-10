@@ -24,7 +24,7 @@
 -> Rumba
 -> Cera Para Madera
 -> Heineken
--> Chamgpne en lata
+-> Champagne en lata
 ```
 
 ```
