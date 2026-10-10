@@ -3,7 +3,7 @@
 
 ```
     - mbp-01 -> batt
-    - mbp-00 -> m-65
+
     - MicroSD Motorola Moto g22
 ```
 
