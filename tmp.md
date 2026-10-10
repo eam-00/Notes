@@ -12,7 +12,7 @@
 - M:
 
     -> Tuppers
-    <- Beers
+
 - CB
 - Get IP
 ```
