@@ -2,7 +2,7 @@
 - Flow/ Fibertel: testear linea fija
 
 ```
-    - mbp-01 -> batt
+    - mbp-01: Remove batt -> test KBD
     - MicroSD Motorola Moto g22
 ```
 
