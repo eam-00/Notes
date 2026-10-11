@@ -12,6 +12,7 @@ Semana Par:
 t430
 mbp-00
 t410-2
+x220 [Large]
 
 Semana Impar:
 ------------
