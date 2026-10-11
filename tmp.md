@@ -28,6 +28,7 @@
     -> Bolsas de compras
     - x220i:
             - Get dos Bco
+            - Get m-65
 ```
 **x201t**:
 ```
