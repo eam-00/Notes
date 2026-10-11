@@ -24,7 +24,7 @@
 -> Rumba
 -> Cera Para Madera
 
--> Champagne en lata
+
 ```
 
 ```
