@@ -27,6 +27,7 @@
     -> Camara bicicleta
     -> Bolsas de compras
     - x220i:
+            - Get dos Bco
 ```
 **x201t**:
 ```
