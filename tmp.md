@@ -22,7 +22,7 @@
     -> Bolsas de compras
     -> HPF
     - x220i:
-            - Get dos Bco
+            - Get doc Bco
             - Get m-65
 ```
 **x201t**:
