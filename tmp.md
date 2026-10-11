@@ -24,6 +24,7 @@
     - x220i:
             - Get doc Bco
             - Get m-65 Picture
+   - Batts
 ```
 **x201t**:
 ```
