@@ -22,7 +22,7 @@
     -> Bolsas de compras
     -> HPF
     - x220i:
-            - Get doc Bco
+            - Get docs Bco
             - Get m-65 Picture
    - Batts
 ```
