@@ -18,6 +18,7 @@ Semana Impar:
 11e
 11e3
 HP Envy
+dell-7290
 
 ```
 
