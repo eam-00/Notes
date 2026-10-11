@@ -6,6 +6,18 @@
     - MicroSD Motorola Moto g22
 ```
 
+Semana Par:
+----------
+
+t430
+mbp-00
+t410-2
+
+Semana Impar:
+------------
+11e
+11e3
+
 
 
 
