@@ -26,6 +26,7 @@
 ```
     -> Camara bicicleta
     -> Bolsas de compras
+    - x220i:
 ```
 **x201t**:
 ```
