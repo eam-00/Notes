@@ -15,7 +15,6 @@
 
 -> Cera Para Madera
 
-
 ```
 
 ```
