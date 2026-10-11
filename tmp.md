@@ -13,6 +13,7 @@ t430
 mbp-00
 t410-2
 x220 [Large]
+x2202
 
 Semana Impar:
 ------------
