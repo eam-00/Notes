@@ -23,7 +23,7 @@
     -> HPF
     - x220i:
             - Get doc Bco
-            - Get m-65
+            - Get m-65 Picture
 ```
 **x201t**:
 ```
