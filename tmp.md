@@ -17,6 +17,7 @@ x2202
 
 Semana Impar:
 ------------
+mba-00
 11e
 11e3
 HP Envy
