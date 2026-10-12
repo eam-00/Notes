@@ -30,7 +30,6 @@ dell-7290
 **SAB**:
 ```
 
-
 -> Cera Para Madera
 
 ```
