@@ -34,6 +34,7 @@ dell-7290
     -> Bolsas de compras
     -> HPF
     -> Papas
+    -> Pepsi
     -> Queso en Fetas
     - x220i:
             - Get docs Bco
