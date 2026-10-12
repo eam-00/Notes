@@ -33,6 +33,7 @@ dell-7290
     -> Camara bicicleta
     -> Bolsas de compras
     -> HPF
+    -> Papas
     - x220i:
             - Get docs Bco
             - Get m-65 Picture
