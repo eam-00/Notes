@@ -535,7 +535,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 Carre:
 -----
-Bolsitas | | Cif en Gel | Leche |  |  |  |  | 
+Bolsitas | | Cif en Gel | Leche | Bon O Bon Ferrero Rocher |  |  |  | 
 - Havanna:  | 
 
 
