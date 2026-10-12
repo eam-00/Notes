@@ -34,6 +34,7 @@ dell-7290
     -> Bolsas de compras
     -> HPF
     -> Papas
+    -> Queso en Fetas
     - x220i:
             - Get docs Bco
             - Get m-65 Picture
