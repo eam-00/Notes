@@ -31,6 +31,7 @@ dell-7290
 ```
 -> Cera Para Madera
 -> Torx
+-> Boleta Gas De La Costa
 ```
 
 ```
