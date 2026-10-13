@@ -36,7 +36,7 @@ dell-7290
 
 
 
-    -> Queso en Fetas
+
     - x220i:
             - Get docs Bco
             - Get m-65 Picture
