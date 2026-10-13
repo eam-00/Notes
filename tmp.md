@@ -112,7 +112,6 @@ Lexar Negro :: Sandisk
 
 
 
-
 **Plata-Colors**:
 - https://www.xfce-look.org/p/1342612
 
