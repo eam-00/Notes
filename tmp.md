@@ -34,7 +34,7 @@ dell-7290
     -> Camara bicicleta
     -> Bolsas de compras
 
-    -> Papas
+
     -> Pepsi
     -> Queso en Fetas
     - x220i:
