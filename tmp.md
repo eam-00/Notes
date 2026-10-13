@@ -43,7 +43,7 @@ dell-7290
     - x220i:
             - Get docs Bco
             - Get m-65 Picture
-   - Batts
+
 
 ```
 **x201t**:
