@@ -6,6 +6,9 @@
     - MicroSD Motorola Moto g22
 ```
 
+JUE:
+
+
 **Semana Par**:
 
 
