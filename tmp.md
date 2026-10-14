@@ -17,8 +17,8 @@ x220 [Large]
 x2202
 ```
 
-Semana Impar:
-------------
+**Semana Impar**:
+
 ```
 mba-00
 11e
