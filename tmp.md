@@ -6,7 +6,7 @@
     - MicroSD Motorola Moto g22
 ```
 
-JUE:
+**JUE**:
 ```
 - PF[s]
 
