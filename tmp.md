@@ -44,7 +44,6 @@ dell-7290
             - Get docs Bco
             - Get m-65 Picture
 
-
 ```
 **x201t**:
 ```
