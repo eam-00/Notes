@@ -33,6 +33,7 @@ dell-7290
 ```
 -> Cera Para Madera
 -> Torx
+-> Tuppers
 -> Boleta Gas De La Costa
 -> Boleta TC
 ```
