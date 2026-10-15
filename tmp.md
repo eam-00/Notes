@@ -18,6 +18,7 @@ mbp-00
 t410-2
 x220 [Large]
 x2202
+x220 [Small] -> x220i
 ```
 
 **Semana Impar**:
