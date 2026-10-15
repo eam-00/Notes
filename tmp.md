@@ -28,7 +28,7 @@ mba-00
 11e3
 HP Envy
 dell-7290
-
+x220i [Batt]
 ```
 **SAB**:
 ```
