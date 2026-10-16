@@ -50,7 +50,7 @@ x220i [Batt]
 
 **t410-2**:
 ```
-Install OpenBSD XFCE:
+
 
 
 ```
