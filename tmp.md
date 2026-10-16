@@ -45,6 +45,7 @@ La Bolgonesa:
              - Gnoccis
 
 El Bocado:
+          - Pollo
 
 - Carbon
 
