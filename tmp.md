@@ -40,7 +40,7 @@ x220i [Batt]
     -> Bolsas de compras
 
     - x220i:
-            - Get docs Bco
+ 
 
 ```
 **x201t**:
