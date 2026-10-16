@@ -40,7 +40,6 @@ x220i [Batt]
     -> Camara bicicleta
     -> Bolsas de compras
 
-
     - x220i:
             - Get docs Bco
             - Get m-65 Picture
