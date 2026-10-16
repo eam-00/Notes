@@ -52,7 +52,7 @@ x220i [Batt]
 ```
 Install OpenBSD XFCE:
 
-                     - screenshot
+
 ```
 
 
