@@ -42,7 +42,7 @@ x220i [Batt]
 
     - x220i:
             - Get docs Bco
-            - Get m-65 Picture
+
 ```
 **x201t**:
 ```
