@@ -41,7 +41,6 @@ x220i [Batt]
     -> Bolsas de compras
 
 
-
     - x220i:
             - Get docs Bco
             - Get m-65 Picture
