@@ -42,6 +42,7 @@ x220i [Batt]
 -> Boleta TC
 
 La Bolgonesa:
+             - Gnoccis
 
 El Bocado:
 
