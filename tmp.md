@@ -44,6 +44,7 @@ La Bolgonesa:
 
 El Bocado:
           - Pollo
+          - Chorizo
 
 - Carbon
 
