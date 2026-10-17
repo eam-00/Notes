@@ -68,7 +68,7 @@ El Bocado:
 - Test: Debian 13
 ```
 
-**t410-2**:
+
 ```
 
 
