@@ -40,7 +40,7 @@ x220i [Batt]
 
 La Bolgonesa:
              - Gnoccis
-             - Queso Rallado [?]
+
 
 El Bocado:
           - Pollo
