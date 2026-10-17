@@ -32,7 +32,7 @@ x220i [Batt]
 - Batts
 - M:
 
-    <- Limones
+
 
 ```
 
