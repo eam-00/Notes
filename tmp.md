@@ -29,7 +29,7 @@ x220i [Batt]
 **VIE**:
 ```
 - CB
-- Batts
+
 
 
 
