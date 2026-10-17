@@ -31,7 +31,7 @@ x220i [Batt]
 - CB
 - Batts
 - M:
-    -> Tupper
+
     <- Limones
 
 ```
