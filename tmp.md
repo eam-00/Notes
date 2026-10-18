@@ -42,7 +42,7 @@ x220i [Batt]
 
 
 
-El Bocado:
+
           - Pollo
 
 
