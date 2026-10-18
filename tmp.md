@@ -32,7 +32,7 @@ x220i [Batt]
 **SAB**:
 ```
 -> Cera Para Madera
--> Torx
+
 -> Tuppers
 -> Leche
 -> Boleta Gas De La Costa
