@@ -46,7 +46,7 @@ x220i [Batt]
 
 
 
-- Carbon
+
 
 ```
 
