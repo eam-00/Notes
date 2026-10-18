@@ -33,7 +33,7 @@ x220i [Batt]
 ```
 -> Cera Para Madera
 
--> Tuppers
+
 
 -> Boleta Gas De La Costa
 -> Boleta TC
