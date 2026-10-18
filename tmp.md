@@ -44,7 +44,7 @@ x220i [Batt]
 
 El Bocado:
           - Pollo
-          - Chorizo
+
 
 - Carbon
 
