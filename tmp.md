@@ -43,7 +43,7 @@ x220i [Batt]
 
 
 
-          - Pollo
+
 
 
 - Carbon
