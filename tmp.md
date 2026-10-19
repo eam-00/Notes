@@ -13,7 +13,7 @@ ATM
 
 M:
   - Tupper
-  - Estudios [?]
+
 
 ```
 
