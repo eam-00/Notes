@@ -31,7 +31,7 @@ x220i [Batt]
     -> Brotes de Soja
     -> Gnoccis
     - Backups [Complete]
-    - Wallpapers -> USG Generico
+
 ```
 
 **SAB**:
