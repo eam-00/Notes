@@ -30,7 +30,7 @@ x220i [Batt]
 ```
 
 
-    - Backups [Complete]
+
 
 ```
 
