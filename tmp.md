@@ -28,7 +28,7 @@ x220i [Batt]
 
 **DOM**:
 ```
-    -> Brotes de Soja
+
 
     - Backups [Complete]
 
