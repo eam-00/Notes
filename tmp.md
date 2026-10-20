@@ -49,7 +49,6 @@ x220i [Batt]
 ```
     -> Camara bicicleta
     -> Bolsas de compras
-
 ```
 **x201t**:
 ```
