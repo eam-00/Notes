@@ -27,7 +27,6 @@ dell-7290
 x220i [Batt]
 ```
 
-
 **SAB**:
 ```
 -> Cera Para Madera
