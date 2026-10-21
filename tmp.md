@@ -11,6 +11,7 @@ MIE:
 ```
 - Upgrade OpenBSD:
                   - x201t
+                  - t420
 
 ```
 
