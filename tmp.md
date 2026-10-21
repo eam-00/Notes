@@ -28,7 +28,6 @@ x220i [Batt]
 ```
 
 
-
 **SAB**:
 ```
 -> Cera Para Madera
