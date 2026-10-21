@@ -11,7 +11,6 @@ MIE:
 - SUBE
 - ATMs
 - Tupper
-- Carre
 - Upgrade OpenBSD:
                   - x201t
                   - t420
