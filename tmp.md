@@ -9,7 +9,7 @@
 **MIE**:
 ```
 
-- ATMs
+
 - Tupper
 - Upgrade OpenBSD:
                   - x201t
