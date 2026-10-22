@@ -9,8 +9,8 @@
 **JUE**:
 ```
 
-M:
-  - Tuppers
+- M:
+    - Tuppers
 - Upgrade OpenBSD:
                   - x201t
                   - t420
