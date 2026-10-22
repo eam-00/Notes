@@ -10,7 +10,7 @@
 ```
 - Batts:
         - K
-
+        - S8 & S10
 - Pilas AA [?]
 - M:
     - Tuppers
