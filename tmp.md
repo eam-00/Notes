@@ -9,6 +9,7 @@
 **JUE**:
 ```
 - Batts:
+        - K
 
 - Pilas AA [?]
 - M:
