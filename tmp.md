@@ -14,7 +14,7 @@
 - Upgrade OpenBSD:
                   - x201t
                   - t420
-                  - t43
+
                   - x60
                   - t6op
 
