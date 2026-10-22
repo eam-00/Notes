@@ -8,7 +8,7 @@
 
 **JUE**:
 ```
-
+- Pilas AA [?]
 - M:
     - Tuppers
 - Upgrade OpenBSD:
