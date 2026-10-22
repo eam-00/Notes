@@ -8,7 +8,7 @@
 
 **MIE**:
 ```
-- SUBE
+
 - ATMs
 - Tupper
 - Upgrade OpenBSD:
