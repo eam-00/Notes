@@ -11,7 +11,7 @@
 - Batts:
         - K
         - S8 & S10
-- Pilas AA [?]
+
 
 - y410p:
         - Music
