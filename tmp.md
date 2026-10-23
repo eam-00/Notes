@@ -19,7 +19,7 @@
 
 
 - Upgrade OpenBSD:
-                  - x201t
+
 
                   - x60
                   - t6op
