@@ -59,6 +59,7 @@ x220i [Batt]
 -> Coquitas
 -> Cerveza
 -> Champagne
+-> Gomitas Sandia
 
 - La Bolognesa:
 
