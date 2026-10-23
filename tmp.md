@@ -17,6 +17,7 @@
 - y410p:
         - Music
         - Batt
+        - Rice
 
 
 - Upgrade OpenBSD:
