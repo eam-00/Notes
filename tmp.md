@@ -17,6 +17,7 @@
 
 - y410p:
         - Music
+        - Downloads
         - Batt
         - Rice
 
