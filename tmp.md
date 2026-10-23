@@ -15,7 +15,7 @@
 
 - y410p:
         - Music
-- M:
+
 
 - Upgrade OpenBSD:
                   - x201t
