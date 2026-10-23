@@ -58,6 +58,7 @@ x220i [Batt]
 -> Salsa Agridulce
 -> Coquitas
 -> Cerveza
+-> Champagne
 
 - La Bolognesa:
 
