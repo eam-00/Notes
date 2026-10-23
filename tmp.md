@@ -57,6 +57,7 @@ x220i [Batt]
 -> Tuppers
 -> Salsa Agridulce
 -> Coquitas
+-> Cerveza
 
 - La Bolognesa:
 
