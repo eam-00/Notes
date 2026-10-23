@@ -52,7 +52,7 @@ x220i [Batt]
 -> Salsa Agridulce
 
 - El Bocado:
-
+            - 200 GR Aceitunas Negras con Carozo
 
 
 
