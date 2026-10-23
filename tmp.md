@@ -53,7 +53,7 @@ x220i [Batt]
 
 - El Bocado:
             - 200 GR Aceitunas Negras con Carozo
-
+            - 1/4 J
 
 
 
