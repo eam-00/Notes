@@ -12,6 +12,7 @@
         - K
         - S8 & S10
         - N
+        - Headphones
 
 
 - y410p:
