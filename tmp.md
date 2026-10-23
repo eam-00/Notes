@@ -16,7 +16,7 @@
 - y410p:
         - Music
 - M:
-    - Tuppers
+
 - Upgrade OpenBSD:
                   - x201t
                   - t420
