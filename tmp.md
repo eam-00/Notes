@@ -15,6 +15,7 @@
 
 - y410p:
         - Music
+        - Batt
 
 
 - Upgrade OpenBSD:
