@@ -26,7 +26,7 @@
                   - x60
                   - t6op
 
-- CB
+
 ```
 
 **Semana Par**:
