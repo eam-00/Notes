@@ -58,6 +58,7 @@ x220i [Batt]
 -> Rumbas
 
 - La Bolognesa:
+               - 1 Caja Ravioles Ricotta
 
 - El Bocado:
             - 200 GR Aceitunas Negras con Carozo
