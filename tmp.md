@@ -59,7 +59,7 @@ x220i [Batt]
 
 - La Bolognesa:
 
-               - 1 Caja Ravioles Verdura & Pollo
+
 
 - El Bocado:
             - 200 GR Aceitunas Negras con Carozo
