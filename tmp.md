@@ -49,7 +49,7 @@ x220i [Batt]
 **SAB**:
 ```
 -> Cera Para Madera
--> Tuppers
+
 -> Salsa Agridulce
 -> Coquitas
 -> Cerveza
