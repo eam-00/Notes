@@ -50,7 +50,7 @@ x220i [Batt]
 -> Salsa Agridulce
 -> Coquitas
 -> Cerveza
--> Champagne
+
 -> Gomitas Sandia
 -> Rumbas
 
