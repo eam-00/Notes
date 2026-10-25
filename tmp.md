@@ -57,7 +57,7 @@ x220i [Batt]
 -> Gomitas Sandia
 -> Rumbas
 
-- La Bolognesa:
+
 
 
 
