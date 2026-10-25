@@ -58,7 +58,7 @@ x220i [Batt]
 -> Rumbas
 
 - La Bolognesa:
-               - 1 Caja Ravioles Ricotta
+
                - 1 Caja Ravioles Verdura & Pollo
 
 - El Bocado:
