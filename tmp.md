@@ -51,7 +51,7 @@ x220i [Batt]
 -> Coquitas
 -> Cerveza
 
--> Gomitas Sandia
+
 
 
 
