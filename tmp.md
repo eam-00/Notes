@@ -52,7 +52,7 @@ x220i [Batt]
 -> Cerveza
 
 -> Gomitas Sandia
--> Rumbas
+
 
 
 
