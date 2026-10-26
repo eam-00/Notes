@@ -5,7 +5,7 @@
     - MicroSD Motorola Moto g22
 ```
 ```
-    - PFs
+
     - Guardar maderas
     -> Queso en Fetas
     -> Milanesas
