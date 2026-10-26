@@ -56,7 +56,7 @@ x220i [Batt]
 - El Bocado:
 
             - 1/4 Q
-            - 1/4 Muzarella
+
 
 
 
