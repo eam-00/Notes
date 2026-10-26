@@ -8,7 +8,6 @@
 
 
 ```
-
 - y410p:
         - Batt
         - Rice
@@ -47,10 +46,7 @@ x220i [Batt]
 
 ```
 
-```
-    -> Camara bicicleta
-    -> Bolsas de compras
-```
+
 **x201t**:
 ```
 - Test: Debian 13
