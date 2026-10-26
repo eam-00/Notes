@@ -46,8 +46,6 @@ x220i [Batt]
 
 -> Salsa Agridulce
 
--> Cerveza
-
 
 
 
