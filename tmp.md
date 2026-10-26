@@ -12,6 +12,7 @@
 - y410p:
         - Batt
         - Rice
+        - Genmon
 
 - Upgrade OpenBSD:
                   - x60
