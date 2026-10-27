@@ -8,7 +8,7 @@
 
     - Guardar maderas
    
-    -> Milanesas
+   
     -> Camara bicicleta
     -> Bolsas de compras
     - TRRTs
