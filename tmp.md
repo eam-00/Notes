@@ -22,7 +22,7 @@
 - y410p:
 
         - Rice
-        - Genmon
+
 
 - Upgrade OpenBSD:
                   - x60
