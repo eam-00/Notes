@@ -54,6 +54,7 @@ x220i [Batt]
 ```
 -> Cera Para Madera
 -> Boleta Edenor
+-> Boleta Naturgy
 
 ```
 
