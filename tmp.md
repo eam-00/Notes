@@ -538,7 +538,7 @@ sudo apt remove firefox-esr* libreoffice-l0n-* libreoffice-help
 
 Carre:
 -----
-Bolsitas | | Cif en Gel | Leches | Galletitas Saladas |  |  |  | 
+Bolsitas | | Cif en Gel | Leches | Galletitas Saladas | Pilas AA Rec  |  |  | 
 
 
 
