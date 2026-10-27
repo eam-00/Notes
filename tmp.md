@@ -8,7 +8,7 @@
 
     - Guardar maderas
     - Camara bicicleta
-    -> Bolsas de compras
+    - Bolsas de compras
 
 
     - Formones
