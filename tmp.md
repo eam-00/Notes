@@ -12,7 +12,7 @@
     -> Camara bicicleta
     -> Bolsas de compras
 
-    - Bifocales
+
     - Formones
     - Rinonera
 ```
