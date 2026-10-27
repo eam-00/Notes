@@ -7,9 +7,7 @@
 ```
 
     - Guardar maderas
-   
-   
-    -> Camara bicicleta
+    - Camara bicicleta
     -> Bolsas de compras
 
 
