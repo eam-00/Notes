@@ -20,7 +20,7 @@
 
 ```
 - y410p:
-        - Batt
+
         - Rice
         - Genmon
 
