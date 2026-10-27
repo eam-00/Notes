@@ -7,7 +7,7 @@
 ```
 
     - Guardar maderas
-    -> Queso en Fetas
+   
     -> Milanesas
     -> Camara bicicleta
     -> Bolsas de compras
