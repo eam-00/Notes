@@ -53,7 +53,7 @@ x220i [Batt]
 
 ```
 -> Cera Para Madera
--> Salsa Agridulce
+
 
 ```
 
