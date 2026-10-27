@@ -19,7 +19,7 @@
 ```
 - y410p:
 
-        - Rice
+
 
 
 - Upgrade OpenBSD:
