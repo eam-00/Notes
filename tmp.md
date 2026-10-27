@@ -54,6 +54,7 @@ x220i [Batt]
 -> Boleta Edenor
 -> Boleta Naturgy
 -> 1 Aceite de Girasol Aerosol
+-> Galletitas Rumba
 ```
 
 
