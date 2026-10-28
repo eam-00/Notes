@@ -8,11 +8,8 @@
     - Guardar maderas
     - Camara bicicleta
     - Bolsas de compras
-
-
-
 ```
-MIE:
+**MIE**:
 ```
     - Formones
     - Rinonera
