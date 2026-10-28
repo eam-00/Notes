@@ -10,8 +10,7 @@
     - Bolsas de compras
 
 
-    - Formones
-    - Rinonera
+
 ```
 MIE:
 ```
