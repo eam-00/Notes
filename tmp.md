@@ -17,7 +17,6 @@
 
 ```
 
-
 - Upgrade OpenBSD:
                   - x60
                   - t6op
