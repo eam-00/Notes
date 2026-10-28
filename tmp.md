@@ -14,7 +14,8 @@
 ```
 MIE:
 ```
-
+    - Formones
+    - Rinonera
 ```
 ```
 - Upgrade OpenBSD:
