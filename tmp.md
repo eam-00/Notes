@@ -12,6 +12,7 @@
 **MIE**:
 ```
     - MIA address
+    - Wodden dryer
     - Formones
     - Rinonera
 ```
