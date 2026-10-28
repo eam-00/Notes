@@ -5,7 +5,6 @@
     - MicroSD Motorola Moto g22
 ```
 ```
-
     - Guardar maderas
     - Camara bicicleta
     - Bolsas de compras
