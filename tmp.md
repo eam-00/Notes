@@ -10,7 +10,7 @@
     - Bolsas de compras
 ```
 
-JUE:
+**JUE**:
 ```
     - MIA address
     - Wodden dryer
