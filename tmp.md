@@ -22,7 +22,7 @@
 ```
 - Upgrade OpenBSD:
                   - x60
-                  - t6op
+
 ```
 
 **Semana Par**:
