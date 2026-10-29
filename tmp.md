@@ -9,7 +9,7 @@
     - Camara bicicleta
     - Bolsas de compras
 ```
-**MIE**:
+
 ```
     - MIA address
     - Wodden dryer
