@@ -10,7 +10,7 @@
     - Bolsas de compras
 ```
 
-VIE:
+**VIE:**
 ```
     - CB
     - MIA address
