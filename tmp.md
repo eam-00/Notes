@@ -18,7 +18,7 @@
     - Rinonera
 
     - M:
-        - Tuppers
+
 ```
 ```
 - Upgrade OpenBSD:
