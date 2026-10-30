@@ -58,6 +58,8 @@ x220i [Batt]
 -> Galletitas Rumba
 -> Manies BBQ
 
+- ChK termostato heladera
+
 El Bocado:
           - Muzarella
 ```
