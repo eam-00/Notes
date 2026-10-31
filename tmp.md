@@ -26,6 +26,8 @@
 -> 2 Limones
 -> 2 Yogurts Bebible La Serenisima Descremados
 
+Ale:
+    - MIA address
 - ChK termostato heladera
 
 El Bocado:
@@ -35,7 +37,7 @@ El Bocado:
 **VIE:**
 ```
 
-    - MIA address
+
     - Wodden dryer
     - Formones
     - Rinonera
