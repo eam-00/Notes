@@ -61,6 +61,7 @@ x220i [Batt]
 -> Chorizos Carrefour
 -> 1 Provoleta
 -> Pechugas
+-> 2 Limones
 
 - ChK termostato heladera
 
