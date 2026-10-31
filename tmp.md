@@ -62,6 +62,7 @@ x220i [Batt]
 -> 1 Provoleta
 -> Pechugas
 -> 2 Limones
+-> 2 Yogurts Bebible La Serenisima Descremados
 
 - ChK termostato heladera
 
