@@ -56,6 +56,7 @@ x220i [Batt]
 -> 1 Aceite de Girasol Aerosol
 -> Galletitas Rumba
 -> Manies BBQ
+-> 4 Titas
 
 - ChK termostato heladera
 
