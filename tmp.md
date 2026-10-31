@@ -58,6 +58,7 @@ x220i [Batt]
 -> Manies BBQ
 -> 4 Titas
 -> 2 Latas Cerveza Heinekan
+-> Chorizos Carrefour
 
 - ChK termostato heladera
 
