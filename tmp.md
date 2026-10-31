@@ -59,6 +59,7 @@ x220i [Batt]
 -> 4 Titas
 -> 2 Latas Cerveza Heinekan
 -> Chorizos Carrefour
+-> 1 Provoleta
 
 - ChK termostato heladera
 
