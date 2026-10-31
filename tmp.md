@@ -12,7 +12,7 @@
 
 **VIE:**
 ```
-    - CB
+
     - MIA address
     - Wodden dryer
     - Formones
