@@ -46,27 +46,7 @@ dell-7290
 x220i [Batt]
 ```
 
-**SAB:**
-```
--> Cera Para Madera
--> Boleta Edenor
--> Boleta Naturgy
--> 1 Aceite de Girasol Aerosol
--> Galletitas Rumba
--> Manies BBQ
--> 4 Titas
--> 2 Latas Cerveza Heinekan
--> Chorizos Carrefour
--> 1 Provoleta
--> Pechugas
--> 2 Limones
--> 2 Yogurts Bebible La Serenisima Descremados
 
-- ChK termostato heladera
-
-El Bocado:
-          - Muzarella
-```
 
 
 **x201t**:
