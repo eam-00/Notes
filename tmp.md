@@ -37,6 +37,7 @@ El Bocado:
 LUN:
 ```
     - PF
+    - Pinto:
 
     - Wodden dryer
     - Formones
