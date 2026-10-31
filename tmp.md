@@ -57,6 +57,7 @@ x220i [Batt]
 -> Galletitas Rumba
 -> Manies BBQ
 -> 4 Titas
+-> 2 Latas Cerveza Heinekan
 
 - ChK termostato heladera
 
