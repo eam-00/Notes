@@ -34,7 +34,7 @@ El Bocado:
           - Muzarella
 ```
 
-LUN:
+**LUN**:
 ```
     - PF
     - Pinto:
