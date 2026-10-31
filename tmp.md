@@ -19,8 +19,7 @@
     - Rinonera
 
     - M:
-        -> Pechugas
-        -> Alcohol
+
 
 ```
 ```
