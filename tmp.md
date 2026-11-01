@@ -20,7 +20,7 @@
 -> Manies BBQ
 -> 4 Titas
 -> 2 Latas Cerveza Heinekan
--> Chorizos Carrefour
+
 -> 1 Provoleta
 -> Pechugas
 -> 2 Limones
