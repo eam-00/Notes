@@ -40,6 +40,7 @@ El Bocado:
     - Pinto:
             - Exp 8B
 
+-> Pizza
 -> Pechugas
 -> Papas a la parrilla
 
