@@ -41,6 +41,8 @@ El Bocado:
             - Exp 8B
 
 -> Pechugas
+-> Papas a la parrilla
+
     - Wodden dryer
     - Formones
     - Rinonera
