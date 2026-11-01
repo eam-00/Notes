@@ -15,7 +15,7 @@
 -> Cera Para Madera
 
 
--> 1 Aceite de Girasol Aerosol
+
 -> Galletitas Rumba
 -> Manies BBQ
 -> 4 Titas
