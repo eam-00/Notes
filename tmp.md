@@ -31,7 +31,7 @@ Ale:
 - ChK termostato heladera
 
 El Bocado:
-          - Muzarella
+
 ```
 
 **LUN**:
