@@ -21,7 +21,7 @@
 -> 4 Titas
 -> 2 Latas Cerveza Heinekan
 
--> 1 Provoleta
+
 -> Pechugas
 -> 2 Limones
 -> 2 Yogurts Bebible La Serenisima Descremados
