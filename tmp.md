@@ -14,7 +14,7 @@
 ```
 -> Cera Para Madera
 
--> Boleta Naturgy
+
 -> 1 Aceite de Girasol Aerosol
 -> Galletitas Rumba
 -> Manies BBQ
