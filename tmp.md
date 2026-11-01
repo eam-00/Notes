@@ -40,6 +40,7 @@ El Bocado:
     - Pinto:
             - Exp 8B
 
+-> Pechugas
     - Wodden dryer
     - Formones
     - Rinonera
