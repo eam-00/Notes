@@ -22,7 +22,7 @@
 -> 2 Latas Cerveza Heinekan
 
 
--> Pechugas
+
 -> 2 Limones
 -> 2 Yogurts Bebible La Serenisima Descremados
 
