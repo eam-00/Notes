@@ -44,6 +44,7 @@ El Bocado:
 -> Pechugas
 -> Papas a la parrilla
 
+    - Update Manjaro
     - cp XFWM themes -> USB Generico
     - Wodden dryer
     - Formones
