@@ -19,7 +19,7 @@
 -> Galletitas Rumba
 
 -> 4 Titas
--> 2 Latas Cerveza Heinekan
+
 
 
 
