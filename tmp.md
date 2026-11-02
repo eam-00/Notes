@@ -30,7 +30,7 @@
 
 - ChK termostato heladera
 
-El Bocado:
+
 
 ```
 
