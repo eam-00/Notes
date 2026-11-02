@@ -47,6 +47,7 @@ El Bocado:
     - Update Manjaro
     - cp XFWM themes -> USB Generico
     - Wodden dryer
+    - Timuk2: Fosforescente
     - Formones
     - Rinonera
 
