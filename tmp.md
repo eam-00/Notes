@@ -26,7 +26,7 @@
 
 
 
-Ale:
+
 
 - ChK termostato heladera
 
