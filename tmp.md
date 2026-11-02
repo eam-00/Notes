@@ -24,7 +24,7 @@
 
 
 -> 2 Limones
--> 2 Yogurts Bebible La Serenisima Descremados
+
 
 Ale:
 
