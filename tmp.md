@@ -27,7 +27,7 @@
 -> 2 Yogurts Bebible La Serenisima Descremados
 
 Ale:
-    - MIA address
+
 - ChK termostato heladera
 
 El Bocado:
@@ -47,7 +47,7 @@ El Bocado:
     - Update Manjaro
     - cp XFWM themes -> USB Generico
 
-    - Timuk2: Fosforescente
+    - Timbuk2: Fosforescente
     - Formones
     - Rinonera
 
