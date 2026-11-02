@@ -43,6 +43,7 @@ El Bocado:
 -> Pizza
 -> Pechugas
 -> Papas a la parrilla
+-> Panqueques
 
     - Update Manjaro
     - cp XFWM themes -> USB Generico
