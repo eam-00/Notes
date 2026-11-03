@@ -39,9 +39,7 @@
     - MetroGas
 
 
--> Pizza
--> Pechugas
--> Papas a la parrilla
+
 -> Panqueques
 -> Canelones
 
