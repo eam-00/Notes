@@ -85,7 +85,6 @@ x220i [Batt]
 
 
 
-
 **x201t**:
 ```
 - Test: Debian 13
