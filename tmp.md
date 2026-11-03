@@ -19,15 +19,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 - ChK termostato heladera
 
 
