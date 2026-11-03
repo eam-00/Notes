@@ -15,10 +15,6 @@
 -> Cera Para Madera
 
 
-
-
-
-
 - ChK termostato heladera
 
 
