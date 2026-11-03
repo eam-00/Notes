@@ -43,7 +43,7 @@ M:
 -> Panqueques
 -> Canelones
 
-    - TRRT
+
     - Update Manjaro
     - cp XFWM themes -> USB Generico
     - WF: MIA address
