@@ -41,6 +41,7 @@
 
 
 M:
+-> Pechugas
 -> Panqueques
 -> Canelones
 
