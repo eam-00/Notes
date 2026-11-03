@@ -56,10 +56,7 @@
 
 
 ```
-**MAR**:
-```
-- PF
-```
+
 
 ```
 - Upgrade OpenBSD:
