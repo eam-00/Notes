@@ -36,8 +36,7 @@
 MAR:
 ```
     - PF
-    - Pinto:
-            - Exp 8B
+
 
 -> Pizza
 -> Pechugas
