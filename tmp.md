@@ -45,7 +45,7 @@ M:
 
 
     - Update Manjaro
-    - cp XFWM themes -> USB Generico
+
     - WF: MIA address
     - Timbuk2: Fosforescente
     - Formones
