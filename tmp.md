@@ -29,7 +29,7 @@
 
 M:
 -> Pechugas
--> Panqueques
+
 -> Canelones
 
 
