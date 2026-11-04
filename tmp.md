@@ -16,6 +16,7 @@
 -> Jabones Liquidos
 -> Leches
 -> Queso Rallado
+-> Gomitas Mogul
 
 - ChK termostato heladera
 
