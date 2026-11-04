@@ -33,7 +33,7 @@ M:
 -> Canelones
 
 
-    - Update Manjaro
+
 
     - WF: MIA address
     - Timbuk2: Fosforescente
