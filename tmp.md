@@ -15,6 +15,7 @@
 -> Cera Para Madera
 -> Jabones Liquidos
 -> Leches
+-> Queso Rallado
 
 - ChK termostato heladera
 
