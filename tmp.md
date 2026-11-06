@@ -37,6 +37,7 @@
 **SAB:**
 ```
 -> Cera Para Madera
+-> Cheddar
 -> Jabones Liquidos
 -> Leches
 -> Queso Rallado
