@@ -9,7 +9,7 @@
     - Camara bicicleta
     - Bolsas de compras
 ```
-VIE:
+**VIE**:
 ```
 
  
@@ -23,8 +23,9 @@ VIE:
 
 
 - CB
-- MetroGas
     - WF: MIA address
+- MetroGas
+
     - Timbuk2: Fosforescente
     - Formones
     - Rinonera
