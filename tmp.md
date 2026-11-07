@@ -24,7 +24,7 @@
 
 
 - CB
-    - WF: MIA address
+
 
 
     - Timbuk2: Fosforescente
