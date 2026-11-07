@@ -47,7 +47,7 @@
 -> 1 Lata Champagne Mum
 
 - ChK termostato heladera
-
+- ATM Gal -> PIN
 
 ```
 
