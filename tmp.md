@@ -37,7 +37,7 @@ Buscar:
 
 
 - ChK termostato heladera
-- ATM Gal -> PIN
+
 
 ```
 
