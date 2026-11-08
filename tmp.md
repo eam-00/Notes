@@ -9,9 +9,13 @@
     - Guardar maderas
     - Camara bicicleta
     - Bolsas de compras
-```
 
-```
+   - OpenBSD:
+             Updates
+             Upgrade OpenBSD 8.0 -> X60
+   - mba-00:
+            Install Debian 13
+
 Buscar:
        - Timbuk2: Fosforescente
        - Formones
