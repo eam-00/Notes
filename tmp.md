@@ -35,7 +35,7 @@
 -> Queso Rallado
 -> Gomitas Mogul
 -> Titas
--> 1 Heineken
+
 
 
 - ChK termostato heladera
