@@ -47,10 +47,7 @@ LUN;
 
 
 
-```
-- Upgrade OpenBSD:
-                  - x60
-```
+
 
 **Semana Par**:
 ```
