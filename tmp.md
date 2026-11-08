@@ -4,6 +4,7 @@
     - mbp-01: Remove batt -> test KBD
     - MicroSD Motorola Moto g22
 ```
+LUN;
 ```
     - Guardar maderas
     - Camara bicicleta
