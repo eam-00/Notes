@@ -12,17 +12,10 @@
 ```
 
 ```
-
- 
-
-
-
-
-
-
-    - Timbuk2: Fosforescente
-    - Formones
-    - Rinonera
+Buscar:
+       - Timbuk2: Fosforescente
+       - Formones
+       - Rinonera
 ```
 
 
