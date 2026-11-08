@@ -27,7 +27,7 @@
 
 
 
-**SAB:**
+
 ```
 -> Cera Para Madera
 
