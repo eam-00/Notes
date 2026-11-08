@@ -41,7 +41,7 @@
 -> Gomitas Mogul
 -> Titas
 -> 1 Heineken
--> 1 Lata Champagne Mum
+
 
 - ChK termostato heladera
 - ATM Gal -> PIN
