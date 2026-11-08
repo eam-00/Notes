@@ -6,9 +6,10 @@
 ```
 **LUN**:
 ```
-    - Guardar maderas
-    - Camara bicicleta
-    - Bolsas de compras
+    -> Guardar maderas
+    -> Camara bicicleta
+    -> Bolsas de compras
+    -> Tubos de goma
 
    - OpenBSD:
              Updates
