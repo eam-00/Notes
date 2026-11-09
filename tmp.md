@@ -13,6 +13,7 @@
     -> Chow Mein
     -> Queso De Maquina
     -> Brotes De Soja
+    -> Lechuga
 
    - OpenBSD:
              Updates
