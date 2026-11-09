@@ -33,8 +33,6 @@ Buscar:
 -> Envase Johnson para shampoo
 
 
-
-
 - ChK termostato heladera
 ```
 
