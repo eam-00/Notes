@@ -10,7 +10,7 @@
     -> Camara bicicleta
     -> Bolsas de compras
    
-    -> Chow Mein
+
     -> Queso De Maquina
     -> Brotes De Soja
     -> Lechuga
