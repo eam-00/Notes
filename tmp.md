@@ -13,7 +13,6 @@
 
 
 
-
    - OpenBSD:
              Updates
              x60: Upgrade OpenBSD 8.0
