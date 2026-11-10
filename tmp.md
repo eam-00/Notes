@@ -14,7 +14,7 @@
     -> Queso De Maquina
     -> Brotes De Soja
     -> Lechuga
-    -> Figacitas De Manteca
+
 
    - OpenBSD:
              Updates
