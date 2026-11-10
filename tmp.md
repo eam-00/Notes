@@ -28,7 +28,6 @@ Buscar:
 
 - ChK termostato heladera
 ```
-
 **Semana Par**:
 ```
 t430
