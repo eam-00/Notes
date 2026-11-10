@@ -34,7 +34,6 @@ Buscar:
 
 
 
-
 **Semana Par**:
 ```
 t430
