@@ -13,7 +13,7 @@
 
     -> Queso De Maquina
     -> Brotes De Soja
-    -> Lechuga
+
 
 
    - OpenBSD:
