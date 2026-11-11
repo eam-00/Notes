@@ -27,6 +27,12 @@ Buscar:
 
 - ChK termostato heladera
 ```
+**LUN**:
+```
+    -> Guardar maderas
+    -> Camara bicicleta
+    -> Bolsas de compras
+```
 **Semana Par**:
 ```
 t430
