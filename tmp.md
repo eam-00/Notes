@@ -12,7 +12,6 @@
 ```
 MIE:
 ```
-   
    - OpenBSD:
              Updates
 
