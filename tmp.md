@@ -12,7 +12,7 @@
    
    - OpenBSD:
              Updates
-             x60: Upgrade OpenBSD 8.0
+
    - mba-00:
             Install Debian 13
 
