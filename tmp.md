@@ -24,6 +24,7 @@ Buscar:
 -> Cera Para Madera
 -> Broches de madera para ropa
 -> Envase Johnson para shampoo
+-> Ibuprofeno
 
 - ChK termostato heladera
 ```
