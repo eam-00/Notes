@@ -7,7 +7,7 @@
 
 **JUE**:
 ```
-- PF
+
 - Batts
    - OpenBSD:
              Updates
