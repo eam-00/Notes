@@ -26,6 +26,8 @@ Buscar:
 -> Envase Johnson para shampoo
 -> Ibuprofeno
 
+La Bolognesa:
+
 - ChK termostato heladera
 ```
 **LUN**:
