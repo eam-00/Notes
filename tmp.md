@@ -5,7 +5,7 @@
     - MicroSD Motorola Moto g22
 ```
 
-
+JUE:
 ```
 
    - OpenBSD:
