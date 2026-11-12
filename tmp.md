@@ -7,7 +7,7 @@
 
 
 ```
-- Bcos
+
    - OpenBSD:
              Updates
 
