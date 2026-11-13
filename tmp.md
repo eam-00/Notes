@@ -8,7 +8,6 @@
 
 ```
 
-
    - OpenBSD:
              Updates
 
