@@ -36,6 +36,7 @@ La Bolognesa:
              - Ravioles
 
 El Bocado:
+          1/4 J
 
 
 - ChK termostato heladera
