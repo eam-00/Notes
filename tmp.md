@@ -32,6 +32,7 @@ La Bolognesa:
              - Gnoccis
              - Ravioles
                         - 1 Caja Ricotta
+                        - 1 Caja Verdura/ Pollo
 
 El Bocado:
           1/4 J
