@@ -31,6 +31,7 @@ Buscar:
 La Bolognesa:
              - Gnoccis
              - Ravioles
+                        - 1 Caja Ricotta
 
 El Bocado:
           1/4 J
