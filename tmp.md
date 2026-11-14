@@ -43,6 +43,7 @@ El Bocado:
 ```
     -> Guardar maderas
     -> Camara bicicleta
+    -> Manies
     -> Bolsas de compras
 ```
 **Semana Par**:
