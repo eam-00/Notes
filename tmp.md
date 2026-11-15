@@ -51,6 +51,7 @@ El Bocado:
     -> Camara bicicleta
  -> Manies
     -> Bolsas de compras
+-> Pechugas
 ```
 **Semana Par**:
 ```
