@@ -22,7 +22,7 @@ Buscar:
 **SAB**:
 ```
 -> Cera Para Madera
--> Pechugas
+
 -> Limon
 -> Boleta TC
 -> 2 Latas de Champagne
