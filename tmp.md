@@ -34,7 +34,7 @@ Buscar:
 
 La Bolognesa:
              - 1 KG Gnoccis
-             - Ravioles
+
 
                         - 1 Caja Verdura/ Pollo
 
