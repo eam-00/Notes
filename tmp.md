@@ -11,6 +11,7 @@
    - OpenBSD:
              Updates
                     - t60p
+                    - t43
 
    - mba-00:
             Install Debian 13
