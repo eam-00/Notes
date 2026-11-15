@@ -10,6 +10,7 @@
 ```
    - OpenBSD:
              Updates
+                    - t60p
 
    - mba-00:
             Install Debian 13
