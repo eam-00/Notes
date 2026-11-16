@@ -33,7 +33,7 @@ Buscar:
 
 
 La Bolognesa:
-             - 1 KG Gnoccis
+
 
 
 
