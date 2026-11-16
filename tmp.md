@@ -54,6 +54,7 @@ El Bocado:
 -> Manies Salados
 -> Pechugas
 -> Empanadas De Verdura
+-> Gnoccis
 ```
 **Semana Par**:
 ```
