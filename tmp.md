@@ -40,7 +40,7 @@ La Bolognesa:
 
 El Bocado:
 
-          1/4 Q
+
 
 
 - ChK termostato heladera
