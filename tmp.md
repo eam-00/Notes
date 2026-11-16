@@ -36,7 +36,7 @@ La Bolognesa:
              - 1 KG Gnoccis
 
 
-                        - 1 Caja Verdura/ Pollo
+
 
 El Bocado:
 
