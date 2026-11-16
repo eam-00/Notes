@@ -49,7 +49,7 @@ El Bocado:
 ```
     -> Guardar maderas
     -> Camara bicicleta
-    -> Manies Salados
+
     -> Bolsas de compras
 -> Pechugas
 -> Empanadas
