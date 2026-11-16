@@ -49,11 +49,11 @@ El Bocado:
 ```
     -> Guardar maderas
     -> Camara bicicleta
-
     -> Bolsas de compras
+
 -> Manies Salados
 -> Pechugas
--> Empanadas
+-> Empanadas De Verdura
 ```
 **Semana Par**:
 ```
