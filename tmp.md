@@ -51,6 +51,7 @@ El Bocado:
     -> Camara bicicleta
 
     -> Bolsas de compras
+-> Manies Salados
 -> Pechugas
 -> Empanadas
 ```
