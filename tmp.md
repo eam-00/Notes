@@ -48,7 +48,6 @@ Buscar:
 
 
 
-
 - ChK termostato heladera
 ```
 **LUN**:
