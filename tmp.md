@@ -54,7 +54,7 @@ Buscar:
 -> Manies Salados
 -> Pechugas
 -> Empanadas De Verdura
--> Gnoccis
+
 ```
 **Semana Par**:
 ```
