@@ -50,7 +50,7 @@ Buscar:
     -> Camara bicicleta
     -> Bolsas de compras
 
--> Carne/ Papas
+
 -> Manies Salados
 -> Pechugas
 -> Empanadas De Verdura
