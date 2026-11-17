@@ -22,7 +22,7 @@ Buscar:
 ```
 **MAR**:
 ```
-- PF
+
 - M:
     - Pechugas
 ```
@@ -32,7 +32,7 @@ Buscar:
 -> Cera Para Madera
 -> Leches
 -> Filtros Para Cafe
-
+- Update /etc/apt/sources.list
 
 
 
