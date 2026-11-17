@@ -53,7 +53,7 @@ Buscar:
 
 
 -> Pechugas
--> Empanadas De Verdura
+
 
 ```
 **Semana Par**:
