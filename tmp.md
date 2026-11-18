@@ -24,7 +24,7 @@ Buscar:
 ```
 
 - M:
-    - Pechugas
+
 ```
 
 **SAB**:
