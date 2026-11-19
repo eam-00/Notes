@@ -25,7 +25,7 @@ Buscar:
 - LC
 - M:
 
-    -> Tupper
+
 ```
 
 **SAB**:
