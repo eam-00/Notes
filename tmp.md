@@ -24,7 +24,7 @@ Buscar:
 ```
 - LC
 - M:
-    -> Sobre
+
     -> Tupper
 ```
 
