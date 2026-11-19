@@ -20,7 +20,7 @@ Buscar:
        - Formones
        - Rinonera
 ```
-**MIE**:
+
 ```
 
 - M:
