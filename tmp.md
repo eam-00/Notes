@@ -20,7 +20,7 @@ Buscar:
        - Formones
        - Rinonera
 ```
-JUE:
+**JUE**:
 ```
 - LC
 - M:
