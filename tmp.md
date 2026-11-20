@@ -27,7 +27,7 @@ Buscar:
     - Test PH
 
     - Laundry
-    - ATM
+
 ```
 
 **SAB**:
