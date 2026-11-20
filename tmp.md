@@ -43,6 +43,7 @@ Buscar:
 -> Leches
 -> Filtros Para Cafe
 -> Pan Para Hamburguesas
+-> 2 Latas de Champagne
 - Update /etc/apt/sources.list
 - Print Edenor
 
