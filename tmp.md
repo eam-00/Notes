@@ -23,7 +23,7 @@ Buscar:
 **VIE**:
 ```
 - CB
-- Luz Bano
+
 ```
 
 
