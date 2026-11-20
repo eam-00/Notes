@@ -22,7 +22,7 @@ Buscar:
 ```
 **JUE**:
 ```
-- LC
+
 - M:
     - Test PH
     - Updates
