@@ -13,7 +13,7 @@
 
 
    - mba-00:
-            Install Debian 13
+
 
 Buscar:
        - Timbuk2: Fosforescente
