@@ -45,6 +45,7 @@ El Bocado:
 
 Verduleria Avda. Rivadavia:
                            - Lechuga
+                           - Tomates
 
 
 
