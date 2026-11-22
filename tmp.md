@@ -44,7 +44,7 @@ El Bocado:
           - Pan Flauta p/ Choris
 
 Verduleria Avda. Rivadavia:
-                           - Lechuga
+
                            - Tomates
 
 
