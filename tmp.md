@@ -35,7 +35,7 @@ Buscar:
 -> 2 Latas de Champagne
 -> Pechugas
 -> 1 Limon
-- Update /etc/apt/sources.list
+
 - Print Edenor
 
 El Bocado:
