@@ -45,7 +45,7 @@ Buscar:
 
 Verduleria Avda. Rivadavia:
 
-                           - Tomates
+
 
 
 
