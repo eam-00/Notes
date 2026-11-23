@@ -28,6 +28,7 @@ Buscar:
     -> Bolsas de compras
 
 - Print Edenor
+- Print Boletas Nati
 
 
 
