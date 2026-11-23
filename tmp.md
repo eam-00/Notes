@@ -62,7 +62,6 @@ Buscar:
 
 
 
-
 - ChK termostato heladera
 ```
 
