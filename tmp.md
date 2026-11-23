@@ -55,19 +55,7 @@ Buscar:
 
 - ChK termostato heladera
 ```
-**LUN**:
-```
-    -> Guardar maderas
-    -> Camara bicicleta
-    -> Bolsas de compras
 
-- Print Edenor
-
-
-
-
-
-```
 **Semana Par**:
 ```
 t430
