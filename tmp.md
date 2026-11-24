@@ -25,7 +25,7 @@ Buscar:
     -> Camara bicicleta
     -> Bolsas de compras
 
-- Print Edenor
+
 - Print Boletas Nati
 
 -> Pechugas
