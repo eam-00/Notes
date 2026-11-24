@@ -4,7 +4,6 @@
     - mbp-01: Remove batt -> test KBD
     - MicroSD Motorola Moto g22
 ```
-
 ```
    - OpenBSD:
              Updates
