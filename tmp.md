@@ -31,7 +31,7 @@ Buscar:
 
 
 -> Queso En Fetas
--> 1 Pan Flautita
+
 -> Lo que sobro del Cafe en un termito de Nati.
 
 ```
