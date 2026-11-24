@@ -36,9 +36,9 @@ Buscar:
 **MAR**:
 
 ```
-M:
-  - Pechugas
-PagoFacil
+ - M:
+     - Pechugas
+ - PagoFacil
 ```
 
 
