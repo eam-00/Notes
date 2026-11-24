@@ -26,7 +26,7 @@ Buscar:
     -> Bolsas de compras
 
 
-- Print Boletas Nati
+
 
 -> Pechugas
 -> Milanesas
