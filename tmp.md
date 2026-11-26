@@ -16,7 +16,7 @@ Buscar:
        - Formones
 
 ```
-**MIE**:
+
 ```
 - PFs
 - LC
