@@ -21,6 +21,7 @@ Buscar:
     - OpenBSD:
               - t60p
               - t410-2
+   - 11e2
 ```
 
 **VIE**:
