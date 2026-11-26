@@ -17,9 +17,9 @@ Buscar:
 - Laundry
 - M:
     - Tierra [?]
-   - OpenBSD:
-             Updates
-                    - t60p
+    - OpenBSD:
+              Updates
+                     - t60p
 ```
 
 **VIE**:
