@@ -18,6 +18,7 @@ Buscar:
 ```
 **JUE**:
 ```
+- LR
 - Laundry
 - M:
     - Tierra [?]
