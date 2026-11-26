@@ -5,9 +5,7 @@
     - MicroSD Motorola Moto g22
 ```
 ```
-   - OpenBSD:
-             Updates
-                    - t60p
+
 
 
 
@@ -22,6 +20,9 @@ Buscar:
 - Laundry
 - M:
     - Tierra [?]
+   - OpenBSD:
+             Updates
+                    - t60p
 ```
 
 **VIE**:
