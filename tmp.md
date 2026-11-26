@@ -16,7 +16,7 @@ Buscar:
        - Formones
 
 ```
-JUE:
+**JUE**:
 ```
 
 ```
