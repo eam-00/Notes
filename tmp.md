@@ -20,7 +20,7 @@ Buscar:
 - Updates:
     - OpenBSD:
               - t60p
-                     - t410-2
+              - t410-2
 ```
 
 **VIE**:
