@@ -17,8 +17,9 @@ Buscar:
 - Laundry
 - M:
     - Tierra [?]
+- Updates:
     - OpenBSD:
-              Updates
+
                      - t60p
                      - t410-2
 ```
