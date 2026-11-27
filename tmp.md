@@ -20,7 +20,7 @@ Buscar:
 - Updates:
     - OpenBSD:
               - t410-2
-   - 11e2
+
 ```
 
 **VIE**:
