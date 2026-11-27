@@ -19,7 +19,7 @@ Buscar:
     - Tierra [?]
 - Updates:
     - OpenBSD:
-              - t60p
+
               - t410-2
    - 11e2
 ```
