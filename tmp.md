@@ -21,6 +21,7 @@
     - OpenBSD:
               - t410-2
               - t43
+              - x60
 - Armar compost
 - Cierre Timbuk2
 - Buscar:
