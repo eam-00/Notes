@@ -58,7 +58,8 @@
 -> Clamp
 -> Lijas
 -> Boleta Edea [x2]
--> Boleta 
+-> Boleta Edenor
+-> Boleta Naturgy
 -> Cereales
 -> Pan Para Hamburguesas
 -> Galletitas Rumba
