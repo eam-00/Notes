@@ -20,6 +20,7 @@
 - Updates:
     - OpenBSD:
               - t410-2
+              - t43
 - Armar compost
 - Cierre Timbuk2
 - Buscar:
