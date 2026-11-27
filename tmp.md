@@ -14,7 +14,7 @@ Buscar:
 **JUE**:
 ```
 
-- Laundry
+
 - M:
     - Tierra [?]
 - Updates:
