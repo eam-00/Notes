@@ -20,10 +20,12 @@
 - Updates:
     - OpenBSD:
               - t410-2
+- Armar compost
 - Cierre Timbuk2
 - Buscar:
          - Timbuk2: Fosforescente
          - Formones
+
 - CB
 
 ```
