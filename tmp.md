@@ -16,15 +16,16 @@ Buscar:
 
 - M:
     - Tierra [?]
-- Updates:
-    - OpenBSD:
-              - t410-2
+
 
 ```
 
 **VIE**:
 ```
 
+- Updates:
+    - OpenBSD:
+              - t410-2
 - Cierre Timbuk2
 - CB
 
