@@ -21,7 +21,7 @@
          - Timbuk2: Fosforescente
          - Formones
 
-- CB
+
 
 ```
 **LUN**:
