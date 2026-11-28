@@ -13,7 +13,6 @@
 
 - Updates:
     - OpenBSD:
-              - t410-2
               - t43
               - x60
 - Armar compost
