@@ -31,6 +31,7 @@
     -> Camara bicicleta
     -> Bolsas de compras
 
+- Check Batt S8 & S10
 
 
 
