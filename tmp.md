@@ -31,7 +31,7 @@
     -> Bolsas de compras
 
 - Check Batt S8 & S10
-
+- Un-freeze pan
 
 
 
