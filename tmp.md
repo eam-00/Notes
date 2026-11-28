@@ -73,7 +73,6 @@ El Bocado:
 
 
 
-
 - ChK termostato heladera
 ```
 
