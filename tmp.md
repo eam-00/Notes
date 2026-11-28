@@ -62,6 +62,7 @@
 El Bocado:
           - 1/4 Jamon Cocido
           - 1/4 Queso De Maquina
+          - Pan Choris
 
 
 
